@@ -1,149 +1,255 @@
-# E0 — Find the Starting State Before Planning the Path
+# E0 — Find the Binding Transition, Not a Life Stage
 
 ## What this chapter is for
 
-Do not begin with a lifetime financial plan. Begin by locating the constraint that currently prevents the next durable step.
+Do not begin with a lifetime financial plan or a label such as student, employee, founder, or wealthy owner.
 
-The complete path is:
+Begin by asking:
+
+> Which transition is currently unsupported, and what is the smallest set of constraints that prevents it?
+
+The six-case review showed that people rarely occupy one clean stage. A person may have strong capability but weak market exchange, stable income but weak refusal power, legal ownership but poor governability, or high net worth but little usable time.
+
+## The revised practical map
+
+Economic autonomy is assembled through three engines rather than one mandatory ladder.
+
+### Engine A — work and exchange
 
 ```text
-foundation
+reliable functioning
 → exchangeable capability
 → credible proof
-→ independent market exchange
-→ quality-preserving surplus
-→ productive ownership
-→ owner-independent system
-→ diversified productive claims
-→ economic autonomy
+→ trusted exchange
+→ recurring quality-preserving surplus
 ```
 
-The stages are not ages. A 30-year-old may still lack exchangeable proof; a student may already earn independently; a high-revenue founder may still own a job that stops when they stop.
+This engine increases the value a person can create and capture through work.
 
-## What the path is trying to produce
+### Engine B — ownership and operation
 
-The final objective is not the largest account balance. It is the joint improvement of:
+```text
+repeated useful result
+→ reusable owned production
+→ repeatable delivery
+→ governed operation
+→ residual claims beyond current labour
+```
 
-1. **present life quality** — health, sleep, relationships, usable time, and a life worth living now;
-2. **durable economic power** — capabilities, assets, systems, and claims that continue across time;
-3. **economic autonomy** — the ability to refuse, wait, move, retrain, experiment, recover, and choose work.
+This engine is conditional. It matters when repeated production can be owned and maintained at positive net value.
 
-Income, saving, credentials, ownership, and investment return matter only when they improve one of these outcomes without creating a larger failure elsewhere.
+### Engine C — capital and optionality
 
-## The six practical states
+```text
+continuity
+→ reversible options
+→ controlled productive claims
+→ independent diversified claims
+→ protection
+→ deliberate life use
+```
 
-| State | What is usually true | Main question |
-|---|---|---|
-| S0 — foundation | learning and daily functioning are still fragile | can the person learn, work, and recover reliably? |
-| S1 — capability formation | some skill exists, but no strong external proof | can the skill solve a real problem? |
-| S2 — market entry | proof exists, but paid demand is weak or irregular | can another party trust and pay for the result? |
-| S3 — labour-dominant income | income exists but stops with current labour | can captured value and surplus rise without damaging life? |
-| S4 — productive ownership | some output persists beyond current labour | can it become repeatable, controlled, and less owner-dependent? |
-| S5 — capital and system | owned claims materially support life | can concentration, complexity, and permanent loss be controlled? |
+This engine can begin at any point. It does not need to wait until a business or large portfolio exists.
 
-High autonomy is not a separate asset class. It is reached when essential life and chosen projects no longer require accepting ordinary market conditions.
+## The four rails that apply everywhere
 
-## A 20-minute starting-state test
+Every engine remains constrained by four rails:
 
-Answer with evidence from the last twelve months, not intention.
+1. **life quality and functioning** — health, sleep, relationships, usable time, and a life worth living now;
+2. **continuity and recoverability** — ordinary failure must not destroy essential life or the ability to continue;
+3. **external relations and obligations** — family, care, institutions, employers, clients, platforms, law, and access conditions shape what is feasible;
+4. **control and maintenance** — information, rights, dependencies, support burden, and exit determine whether apparent value is usable.
 
-1. Can I sustain sleep, health, attention, and basic obligations well enough to learn and deliver?
-2. Can I independently produce one result that another person can inspect?
-3. Has anyone outside my family or school trusted that result?
-4. Has anyone paid me, hired me, or assigned real responsibility because of it?
-5. Does my income leave a recurring surplus without damaging health or future capability?
-6. Does any useful asset, product, audience, process, or claim continue after I stop working today?
-7. Can that asset operate for a period without my constant intervention?
-8. Are my life, work, business, and investments exposed to the same failure?
+These are not late-stage concerns. They can become the binding constraint at any point.
 
-The first important “no” usually identifies the current stage.
+## What the map is trying to produce
+
+The final objective remains the joint improvement of:
+
+1. **present life quality**;
+2. **durable economic power**;
+3. **economic autonomy** — the ability to refuse, wait, move, retrain, experiment, recover, simplify, and choose work or non-work.
+
+No person is required to complete every engine.
+
+A portable specialist with low commitments, strong continuity capital, and independent diversified claims may reach meaningful autonomy without building a company.
+
+An owner-operator may rationally continue direct work when it is valuable, chosen, and compatible with life.
+
+A wealthy owner may need simplification and deliberate use rather than more accumulation.
+
+## Replace stage labels with a state map
+
+Use the following dimensions instead of assigning one total stage.
+
+| Dimension | Practical question |
+|---|---|
+| functioning | can the person learn, work, decide, and recover reliably? |
+| capability | can the person independently produce a useful result? |
+| proof | can an unfamiliar external party inspect and understand the result? |
+| exchange | has trust, responsibility, use, or payment repeated? |
+| surplus | does captured value repeatedly exceed a quality-preserving life and capability cost? |
+| ownership | does any useful asset or claim persist beyond current labour under controlled rights? |
+| governability | can the normal operation continue with understandable information, authority, maintenance, and exit? |
+| capital | do resources provide continuity, options, independent claims, protection, or deliberate life value? |
+| external structure | which people, institutions, obligations, and dependencies alter the feasible action set? |
+| autonomy | what can the person refuse, delay, change, or stop without unacceptable harm? |
+
+A strong dimension does not compensate automatically for a weak one. Large income may coexist with weak control. Large output may coexist with weak retained capability. Legal ownership may coexist with poor exit or information.
+
+## Starting-state test
+
+Answer with recent observable evidence, not identity or intention.
+
+1. Is ordinary functioning reliable enough for the proposed action?
+2. What useful result can be produced independently?
+3. What can an unfamiliar external party inspect?
+4. Which exchange has repeated under a real constraint?
+5. Does recurring surplus exist without chronic depletion?
+6. What useful production or claim persists beyond current labour?
+7. Can it be understood, maintained, transferred, or operated without continuous rescue?
+8. Which resources are immediately usable under disruption?
+9. Which obligations, relationships, institutions, or providers constrain action?
+10. What meaningful action can currently be refused, delayed, or changed?
+
+The first unsupported transition usually identifies the main problem.
+
+## When there is no single bottleneck
+
+Some cases contain coupled constraints.
+
+Examples:
+
+- unstable work access and insufficient continuity capital reinforce each other;
+- weak external proof and weak technical foundations block the same exchange;
+- founder dependence and capital concentration make each other harder to reduce;
+- care obligations and schedule instability prevent both learning and job transition.
+
+Do not force false precision. Name the **smallest binding set** that must change together.
+
+Then still choose one bounded intervention that can reveal which constraint is dominant.
+
+```text
+smallest binding set
+→ one evidence-producing intervention
+→ observe which constraint moves
+→ continue, separate, or redesign
+```
 
 ## The action rule
 
-For the next unit of time, money, and attention:
+For the next unit of time, money, attention, and control:
 
 ```text
-choose the action that changes the current bottleneck
-by the largest durable amount,
-while preserving the life-quality floor
-and a recoverable failure boundary
+choose the smallest recoverable action
+that can change or distinguish the binding constraint,
+while preserving the life-quality floor,
+important obligations,
+and the ability to try again
 ```
 
-This prevents common category errors:
+This prevents several category errors:
 
-- a student optimizing investment return before creating market proof;
-- a worker buying more courses when the real problem is weak market access;
-- a freelancer building a complex product before observing repeat demand;
-- a founder hiring before delivery is repeatable;
-- an asset owner concentrating further after control advantage has disappeared.
+- optimizing investment return when the capital base is small and market proof is absent;
+- buying more education when the real problem is access or legibility;
+- forcing productization when premium direct work already supports the desired life;
+- hiring when the normal process is still unstable;
+- diversifying a controlled productive asset before its marginal creation value declines;
+- continuing accumulation when complexity and maintenance already reduce autonomy.
 
-## Case 1 — Strong student, no exchangeable proof
+## Case 1 — strong output, weak external exchange
 
-**Situation.** Lin is 19, receives living support from family, has good grades, and has learned basic programming. He has no deployed project, internship responsibility, user, or independent income. He spends substantial time following markets because investing feels economically serious.
+**Situation.** A technical builder has substantial AI-assisted artifacts but no repeated external use or responsibility.
 
-**Tempting move.** Search for higher-return trades or add more unrelated courses.
+**Binding transition.** Retained capability and narrow external proof must become legible together.
 
-**Practical move.** Treat S1 as the starting state. In eight weeks, choose one narrow problem, build an inspectable result, show it to five real users, and record what failed. Keep financial activity low-maintenance because the capital base is small and the capability-to-proof bottleneck is large.
+**Practical move.** Select one subsystem, independently reconstruct and modify it, then expose one narrow result to several relevant users.
 
-**Why this is realistic.** It does not assume that a first project becomes a business. The expected result is evidence: a working artifact, user feedback, and a clearer view of the next skill gap.
+**Why this is realistic.** It reuses existing work and asks only for evidence, not a successful company.
 
-**What would change the diagnosis.** If Lin already has repeated paid work or externally trusted delivery, the bottleneck is no longer proof and should move to S2 or S3.
+**Failure signal.** If the person cannot safely own the core implementation, return to foundations. If users do not recognize the problem, redesign the external wedge.
 
-## Case 2 — Employed, but no durable surplus
+## Case 2 — fragmented work and weak refusal power
 
-**Situation.** Chen earns 9,000 yuan per month. Rent, transport, food, subscriptions, family transfers, and instalments consume nearly all income. The job builds some useful capability, but a job loss would force immediate acceptance of the next offer.
+**Situation.** A worker has useful practical experience but irregular work access, little continuity capital, and no transferable proof.
 
-**Tempting move.** Focus only on a higher salary or attempt high-risk investing to escape faster.
+**Binding set.** Stability, proof, and schedule control are coupled.
 
-**Practical move.** Treat S3 as the state, with surplus and refusal power as the bottleneck. Reduce one or two low-value fixed commitments, improve the most marketable part of the current role, and build enough continuity capital to permit a deliberate job search.
+**Practical move.** Extract one recurring higher-value result, document it, and test one adjacent work source without abandoning current income.
 
-**Why this is realistic.** It does not require extreme frugality or immediate career change. It creates a small buffer and a stronger bargaining position while preserving ordinary life.
+**Why this is realistic.** It permits a mixed strategy rather than requiring uninterrupted retraining or immediate exit.
 
-**What would change the diagnosis.** If the main problem is poor health or unreliable functioning, the person should temporarily move back to S0 rather than intensify work.
+**Failure signal.** If health, transport, care, or safety makes even a small test impossible, continuity repair becomes primary.
 
-## Case 3 — High revenue, owner still trapped
+## Case 3 — large ownership, low usable autonomy
 
-**Situation.** Zhao runs a small service business. Monthly revenue is 80,000 yuan and accounting profit is 20,000 yuan, but Zhao handles sales, quality control, emergencies, and key client relationships. Two weeks away would materially damage the business.
+**Situation.** An owner has substantial assets but low liquidity, high maintenance, incomplete information, and many shared failure modes.
 
-**Tempting move.** Hire quickly, add more clients, or call the business a scalable asset because revenue is high.
+**Binding transition.** Nominal ownership must become governable, usable, and compatible with chosen life.
 
-**Practical move.** Treat S4 as the state, with owner dependence as the bottleneck. Freeze expansion briefly, document one critical workflow, transfer one repeatable responsibility, and test a bounded owner absence.
+**Practical move.** Map one material claim completely, then repair one information, authority, liability, or maintenance weakness.
 
-**Why this is realistic.** The first goal is not “passive income.” It is a measurable reduction in one dependency without risking the whole business.
+**Why this is realistic.** It avoids both blind liquidation and endless accumulation.
 
-**What would change the diagnosis.** If demand is not repeatable or unit economics are weak, the business is still proving S2–S3 mechanisms and should not systematize premature scale.
+**Failure signal.** If simplification destroys valuable control, relationships, or purpose, retain the complexity deliberately and improve governance instead.
 
-## The first 30 days
+## Ownership is a branch, not a compulsory promotion
 
-1. Write the first important “no” from the starting-state test.
-2. Select one action that can produce visible evidence within 30 days.
-3. Set a maximum loss in money, time, health, and commitments before starting.
-4. Define the evidence that would justify another 30 days.
-5. Stop or redesign if the expected evidence does not appear.
+Move toward reusable production and systems when:
 
-A plan is useful only when it changes what the person does now.
+- a useful result repeats;
+- rights can be controlled;
+- reuse reduces labour or improves quality;
+- maintenance remains below value;
+- demand survives beyond one accidental buyer;
+- the ownership relation improves the desired life.
 
-## Transition rule
+Do not force the ownership branch when:
 
-Move to the next stage only when evidence changes:
+- work is highly customized and well compensated;
+- direct practice is intrinsically desired;
+- productization reduces quality or trust;
+- rights are unavailable;
+- support exceeds saved labour;
+- diversified claims already provide sufficient independence.
 
-```text
-foundation is reliable
-→ an inspectable capability exists
-→ an outside party trusts it
-→ paid or independently controlled demand appears
-→ surplus recurs
-→ output persists beyond labour
-→ the system survives partial owner absence
-→ independent claims support meaningful choices
-```
+Economic autonomy is the objective. A particular business form is not.
 
-Do not advance because a calendar year passed, a credential was awarded, or a self-description changed.
+## Evidence for transition
+
+Evidence changes by engine.
+
+### Work and exchange
+
+- independently produced result;
+- external inspection;
+- repeated trust, responsibility, use, or payment;
+- recurring quality-preserving surplus;
+- portable bargaining power.
+
+### Ownership and operation
+
+- repeated demand;
+- controlled reusable core;
+- lower labour per result;
+- documented normal operation;
+- bounded owner absence;
+- residual value after maintenance.
+
+### Capital and optionality
+
+- ordinary disruption is survivable;
+- valuable options can be exercised;
+- claims do not all share one failure;
+- liabilities are bounded;
+- resources materially improve chosen life and refusal power.
 
 ## E0 result
 
-A practical economic plan begins with one diagnosis:
+A practical economic plan does not ask, “Which stage am I?”
 
-> What currently prevents the next durable increase in capability, captured value, ownership, or autonomy?
+It asks:
 
-Everything that does not address that constraint is secondary until the state changes.
+> Which transition is unsupported, what is the smallest binding set preventing it, and what recoverable action can distinguish or change that set?
+
+Everything else remains secondary until evidence changes the diagnosis.

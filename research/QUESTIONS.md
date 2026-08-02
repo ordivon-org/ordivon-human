@@ -6,34 +6,35 @@
 
 **Question:** How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-**Status:** First-principles cycle and practical E0–E9 reconstruction completed; six-case validation suite constructed.
+**Status:** First-principles cycle, practical E0–E9 reconstruction, and six-case structural review completed.
 
-**Active practical path:**
+**Active practical model:**
 
 ```text
-foundation
-→ professional direction
-→ proof
-→ first market exchange
-→ early-career value capture and surplus
-→ life-quality and commitment control
-→ productive ownership
-→ owner-independent system
-→ capital by function
-→ continuity and economic autonomy
+diagnose unsupported transition and smallest binding set
+
+work and exchange:
+functioning → capability → proof → trusted exchange → surplus
+
+ownership and operation:
+repeated result → reusable ownership → repeatability
+→ governed operation → residual claims
+
+capital and optionality:
+continuity → options → controlled claims
+→ independent claims → protection → deliberate life use
+
+rails:
+life quality | recoverability | relations and obligations | control and maintenance
 ```
 
 **Retained mechanism:**
 
 ```text
-capability
-→ value creation
-→ value capture
-→ quality-preserving surplus
-→ productive ownership
-→ net productive leverage
-→ compounding
-→ economic autonomy
+capability → value creation → value capture → quality-preserving surplus
+                         ↘ conditional productive ownership and leverage
+capital and optionality → continuity, independent claims, protection, and life use
+all routes → economic autonomy
 ```
 
 **Practical decision form:**
@@ -52,9 +53,11 @@ current state
 
 **Closeout:** [`economy/E0-E9-CLOSEOUT.md`](economy/E0-E9-CLOSEOUT.md).
 
-**Validation suite:** [`economy/cases/README.md`](economy/cases/README.md).
+**Structural pressure-test suite:** [`economy/cases/README.md`](economy/cases/README.md).
 
-The six cases test distinct transitions from capability formation through precarious and stable labour, direct professional capture, operating ownership, and high-wealth governance. The suite is closed to routine expansion until a missing mechanism or incorrect action ranking appears.
+**Cross-case review:** [`economy/cases/CROSS-CASE-REVIEW.md`](economy/cases/CROSS-CASE-REVIEW.md).
+
+The six cases test distinct transitions from capability formation through precarious and stable labour, direct professional capture, operating ownership, and high-wealth governance. They support structural coherence, not population validity. The suite is closed to routine expansion until a missing mechanism or incorrect action ranking appears.
 
 ## Active E-series questions
 

@@ -1,217 +1,253 @@
-# E9 — Execute the Path, Stop Bad Loops, and Change Stages
+# E9 — Execute Across Branching Transitions
 
 ## What this chapter is for
 
-A sound mechanism can still fail through repeated reset, overcommitment, action bias, poor attribution, and inability to stop. E9 provides the minimum execution structure for the complete path.
+A sound mechanism can still fail through repeated reset, overcommitment, action bias, poor attribution, hidden coupling, and inability to stop.
 
-The system should remain thin. It is not a permanent dashboard, score, or behavioural surveillance program.
+E9 provides the minimum execution structure for a branching path. It is not a permanent dashboard, score, or behavioural surveillance program.
 
 ## The minimum execution structure
 
-Every material action should declare five things:
+Every material action should state:
 
-1. **state** — what is the current binding constraint?
-2. **action** — what mechanism is expected to change?
-3. **boundary** — what is the maximum acceptable loss in money, time, health, and commitment?
-4. **evidence** — what observable result justifies continuing or expanding?
-5. **exit** — what happens when evidence is absent or the state changes?
+1. **binding transition** — what change is currently unsupported?
+2. **smallest binding set** — is one constraint dominant, or must a small coupled set change together?
+3. **action** — what mechanism is expected to change or be distinguished?
+4. **boundary** — what is the maximum acceptable loss in money, time, health, relationships, rights, and commitments?
+5. **evidence** — what observable result justifies continuing or expanding?
+6. **retained value** — what capability, proof, asset, relationship, or information survives failure?
+7. **exit** — what happens when evidence is absent or the state changes?
 
-If these cannot be stated simply, the action may be too vague or too large.
+If these cannot be stated simply, the action is probably too vague, too large, or solving several unknowns at once.
 
-## Use an evidence ladder
+## Use the evidence ladder that matches the engine
 
-Do not move directly from idea to full commitment.
+There is no single universal ladder.
+
+### Work and exchange ladder
 
 ```text
 observation
-→ small attempt
-→ real user or external review
-→ paid or responsibility-bearing test
-→ repeated demand and delivery
-→ bounded scale
-→ owner-independence test
-→ larger capital commitment
+→ independent attempt
+→ inspectable result
+→ external review or use
+→ responsibility or payment
+→ repeated exchange
+→ portable bargaining and surplus
 ```
 
-Each step should answer a different uncertainty. Repeating the same low-quality test does not create stronger evidence.
+### Ownership and operation ladder
+
+```text
+repeated manual delivery
+→ reusable controlled core
+→ fixed normal case
+→ repeat demand
+→ lower labour per result
+→ transferred operation
+→ bounded owner absence
+→ residual value after maintenance
+```
+
+### Capital and governance ladder
+
+```text
+claim and obligation map
+→ assigned function
+→ information and control check
+→ bounded allocation or repair
+→ state-change evidence
+→ concentration or liability decision
+→ usable autonomy and deliberate life value
+```
+
+Choose the ladder that answers the current uncertainty. Do not force a worker toward product scale or an asset owner toward market-entry proof.
 
 ## Separate failure domains
 
 Do not let one experiment simultaneously endanger:
 
-- essential living capital;
-- education access;
-- health;
-- primary income;
-- family obligations;
+- essential living and health;
+- compulsory learning or primary income;
+- care and relationship obligations;
+- all available liquidity;
 - all ownership assets;
+- legal or contractual rights;
 - future ability to try again.
 
-The objective is not to avoid every loss. It is to prevent an ordinary failure from terminating the entire path.
+The objective is not to avoid loss. It is to prevent an ordinary failure from terminating the whole path.
+
+## Coupled-constraint test
+
+When progress appears blocked, ask:
+
+1. Can the transition occur if only one constraint changes?
+2. Which pair or small set reinforces each other?
+3. What low-cost action can distinguish the dominant constraint?
+4. Can one intervention improve two constraints without creating a large commitment?
+
+Examples:
+
+- a predictable schedule may improve both continuity and capability formation;
+- external user contact may test both problem demand and proof legibility;
+- a bounded owner-absence test may expose both process and authority failures;
+- an ownership map may expose both liquidity and information risk.
+
+Do not label every problem “multi-factor.” Name the smallest set that changes the decision.
 
 ## Stop rules
 
-A stop rule should be set before emotional escalation. Examples:
+Set stop or redesign conditions before emotional or organizational escalation.
 
-- maximum money committed;
-- maximum hours or weeks without external evidence;
-- minimum user response required;
-- maximum support burden;
-- maximum debt or fixed cost;
-- a defined health or sleep boundary;
-- a dependency that must be reduced before scale.
+Possible boundaries include:
 
-Stopping does not always mean abandoning the domain. It may mean reducing scope, returning to manual delivery, changing the user, or repairing a missing capability.
+- maximum money or liquidity committed;
+- maximum effort without new external evidence;
+- minimum user, buyer, operator, or governance response;
+- maximum support and maintenance burden;
+- maximum debt or fixed commitment;
+- health, sleep, care, or relationship boundaries;
+- a dependency that must be reduced before scale;
+- an information gap that makes further action unsafe;
+- a life-quality loss that exceeds the expected gain.
 
-## Case 1 — Repeated trading resets the path
+Stopping may mean reducing scope, returning to manual delivery, changing the user, repairing foundations, simplifying ownership, or deliberately continuing the current path without expansion.
 
-**Situation.** A worker accumulates several months of savings, loses a large portion through concentrated short-term trading, adds more money to recover quickly, and repeats the cycle. Occasional large gains reinforce confidence.
+## Correct non-action
 
-**Tempting move.** Improve the trading system while continuing to expose all available savings, because the next recovery appears close.
+Do not act merely because an engine exists.
 
-**Practical move.** Separate continuity and long-horizon ownership from any speculative experiment. Set a small maximum exposure that can go to zero without changing life or the main path. Evaluate whether results exceed a simple alternative after costs and over a sufficiently large sample; otherwise stop allocating attention and capital.
+Non-action can be correct when:
 
-**Why this is realistic.** It does not require declaring all speculation impossible. It prevents uncertain skill from repeatedly destroying confirmed progress.
+- the current work path is still compounding capability and surplus;
+- no external evidence supports a career change;
+- premium direct practice already provides the desired life;
+- controlled concentration remains superior to diversification;
+- a complex asset still produces chosen value and can be governed;
+- the next project, trade, hire, or entity adds maintenance without a named mechanism.
 
-**Failure signal.** Moving money across accounts without reducing total economic exposure is not separation.
-
-## Case 2 — Side project continues without evidence
-
-**Situation.** A developer works on a product for nine months. Features increase, but only friends have tried it and no target user has adopted it. The developer says the product is not ready for feedback.
-
-**Tempting move.** Add more features and delay exposure because sunk effort makes the project feel valuable.
-
-**Practical move.** Reduce the product to one claimed result, contact a narrow set of target users, and set a four-week evidence window. Evidence may be repeated use, payment, a committed pilot, or clear rejection revealing a fixable constraint. If none appears, stop or return to problem discovery.
-
-**Why this is realistic.** Many products need time, but time spent before user contact does not validate demand. The test is small enough to preserve the possibility of redesign.
-
-**Failure signal.** Changing the target user after every rejection without changing the underlying evidence standard keeps the project alive by definition.
-
-## Case 3 — Correct decision is not to act
-
-**Situation.** An employee has stable work, adequate surplus, a simple long-horizon capital arrangement, and no new evidence that the current direction is failing. Online discussion creates pressure to change careers, trade more actively, start a business, and add AI projects simultaneously.
-
-**Tempting move.** Take action to avoid feeling left behind.
-
-**Practical move.** Continue the current capability and ownership plan until a defined state change appears: declining demand, a strong adjacent opportunity, loss of learning, a tested product problem, or a material change in obligations. Use limited exploration rather than replacing a functioning system.
-
-**Why this is realistic.** Opportunity cost includes disrupting a path that is already compounding. Inaction can be an active decision when evidence has not changed.
-
-**Failure signal.** “Waiting for evidence” becomes avoidance if the person never samples the external market or ignores clear deterioration.
+Non-action becomes avoidance when the person refuses cheap external tests, ignores deterioration, or uses uncertainty to protect identity.
 
 ## Attribute outcomes carefully
 
 After success or failure, ask:
 
-- What mechanism was expected?
+- Which mechanism was expected?
+- Which constraints actually moved?
 - What did the person control?
-- What external conditions mattered?
-- Did the same process work more than once?
-- What evidence would distinguish skill from luck?
-- Which part should be repeated, and which should remain bounded?
+- Which external conditions mattered?
+- Did the result repeat?
+- What evidence distinguishes skill from luck or temporary conditions?
+- What survived the failure?
+- Which action should now stop, continue, or be separated?
 
-One successful trade, viral post, large client, or promotion is not yet a stable mechanism. One failed application or product test is not proof that the entire capability has no value.
+One successful trade, promotion, client, product launch, delegation, or asset sale does not establish a durable mechanism.
+
+One failed application, user test, transfer, or simplification does not invalidate the entire engine.
 
 ## Prevent the commitment ratchet
 
 Success often creates new fragility through:
 
-- larger housing and vehicle commitments;
-- permanent staff before repeatability;
+- larger personal commitments;
+- permanent staff or capacity before repeatability;
 - debt based on peak income;
-- more subscriptions, providers, and entities;
-- family expectations tied to temporary success;
-- identity fused with one company or role.
+- more providers, entities, and reporting;
+- care or family expectations tied to temporary success;
+- identity fused with one employer, business, or asset;
+- higher maintenance disguised as growth.
 
-Before making a success permanent, test whether the underlying income, demand, or system is persistent.
+Before making success permanent, test whether the underlying income, demand, operation, control, and life value are persistent.
 
-## The stage-transition review
+## Transition review
 
-Review when meaningful evidence changes. Ask:
+Review when meaningful evidence changes.
 
-### Foundation to capability
+### Work and exchange
 
-Can the person learn and complete work reliably?
+- Is functioning sufficient for the next action?
+- Is capability independently retained?
+- Can an external party inspect the result?
+- Has trust, responsibility, use, or payment repeated?
+- Does surplus recur without chronic depletion?
+- Is bargaining portable beyond one institution or intermediary?
 
-### Capability to market entry
+### Ownership and operation
 
-Is there inspectable proof connected to a real problem?
+- Does a useful result repeat?
+- Are rights controlled?
+- Does reuse lower labour or improve quality?
+- Is demand independent of one accidental buyer?
+- Can the normal case operate without continuous rescue?
+- Does residual value remain after maintenance and owner labour?
 
-### Market entry to labour-dominant income
+### Capital and optionality
 
-Has trusted or paid exchange repeated?
+- Is ordinary disruption survivable?
+- Can valuable options actually be exercised?
+- Are claims understandable and governed?
+- Do income, assets, obligations, and relationships share one failure?
+- Are liabilities bounded?
+- Is further accumulation expanding choices or only increasing maintenance?
+- Would deliberate use improve a terminal outcome more?
 
-### Labour income to stable surplus
+A person may advance in one engine, remain stable in another, and regress temporarily in a third. The objective is not synchronized progress. It is a stronger feasible action set.
 
-Does value captured exceed a quality-preserving life and capability cost repeatedly?
-
-### Stable surplus to productive ownership
-
-Does any useful output or claim persist beyond current labour under controlled rights?
-
-### Ownership to system
-
-Can the normal process operate through another person or system without continuous rescue?
-
-### System to capital-dominant autonomy
-
-Do independent productive claims materially support life and chosen work?
-
-Move only when the answer is supported by behaviour or external evidence.
-
-## A 90-day action page
+## Bounded action page
 
 Keep one page:
 
 ```text
-current state:
-current bottleneck:
-90-day action:
-maximum money at risk:
-maximum time and health cost:
+binding transition:
+smallest binding set:
+proposed action:
+maximum money and liquidity at risk:
+maximum time, health, and relationship cost:
+rights or obligations affected:
 external evidence required:
+retained value under failure:
 stop or redesign condition:
-asset or capability retained under failure:
-next-stage evidence:
+state change that would alter the ranking:
 ```
 
-At the end, make one of four decisions:
+At review, choose one disposition:
 
-- continue unchanged;
-- scale because evidence strengthened;
-- redesign because a named constraint appeared;
-- stop because the mechanism did not appear or the cost is too high.
+- **continue** — mechanism remains plausible and evidence is accumulating;
+- **scale** — evidence strengthened and the next commitment remains recoverable;
+- **separate** — coupled constraints require different experiments;
+- **redesign** — the problem is real but the intervention is wrong;
+- **stop** — the mechanism did not appear or cost violated the boundary;
+- **hold** — the current path is working and additional action lacks evidence;
+- **recover** — restore functioning, continuity, rights, or information before another attempt.
 
-Do not add more categories unless a real case cannot be handled.
+Do not add more categories unless a complete case cannot be handled.
 
 ## Recovery protocol
 
-After a material failure, restore in this order:
+After material failure, restore in this order:
 
-1. essential life and health;
-2. stable income or support;
-3. access to critical tools and information;
-4. reusable capabilities and legitimate assets;
-5. a bounded next attempt.
+1. essential life, health, and care obligations;
+2. stable support, income, or liquidity;
+3. access to critical tools, records, and rights;
+4. reusable capability, proof, relationships, and legitimate assets;
+5. a bounded next attempt or deliberate hold.
 
-The goal is not to regain the historical account peak immediately. It is to regain the ability to continue.
+The goal is not to regain a previous account peak, title, scale, or identity immediately. It is to regain the ability to choose and continue.
 
-## Complete path
+## Revised operating logic
 
 ```text
-protect functioning
-→ build one transferable capability
-→ produce inspectable proof
-→ complete real exchange
-→ improve captured value and recurring surplus
-→ convert repeated labour into owned reusable production
-→ remove one owner bottleneck at a time
-→ separate concentrated creation from independent capital
-→ preserve the ability to refuse, recover, and choose
+protect the four rails
+→ diagnose the binding transition or smallest coupled set
+→ choose the matching engine and evidence ladder
+→ run one recoverable action
+→ retain value under failure
+→ continue, scale, separate, redesign, stop, hold, or recover
+→ use greater economic power for chosen life and autonomy
 ```
 
 ## E9 result
 
-The practical economic path is not a fixed life plan. It is a sequence of bounded state transitions.
+The practical economic path is a network of bounded transitions, not a fixed sequence of stages.
 
-Act when a named mechanism can be tested. Scale when evidence strengthens. Stop when the mechanism fails or the cost violates the boundary. Do nothing when the state has not changed and action would only replace judgment.
+Act when a named mechanism can be tested. Scale when evidence strengthens. Separate coupled constraints when one intervention cannot distinguish them. Stop when cost violates the boundary. Hold when the current path is working. Use accumulated power when further accumulation no longer improves the feasible action set.

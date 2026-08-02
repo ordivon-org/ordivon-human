@@ -40,32 +40,34 @@ The original first-principles cycle was reconstructed into a practical E0–E9 p
 - [`E9`](research/economy/E9-CONTINUITY-AND-STAGE-TRANSITIONS.md) — execute through evidence, boundaries, stop rules, and recovery;
 - [`E0–E9 closeout`](research/economy/E0-E9-CLOSEOUT.md) — reconstruction rationale and final judgment.
 
-The active path is:
+The active model is:
 
 ```text
-foundation
-→ professional direction
-→ proof
-→ first market exchange
-→ early-career value capture and surplus
-→ life-quality and commitment control
-→ productive ownership
-→ owner-independent system
-→ capital by function
-→ continuity and economic autonomy
+DIAGNOSIS
+unsupported transition + smallest binding set
+
+ENGINE A — work and exchange
+functioning → capability → proof → trusted exchange → surplus
+
+ENGINE B — ownership and operation
+repeated result → reusable ownership → repeatability
+→ governed operation → residual claims
+
+ENGINE C — capital and optionality
+continuity → options → controlled claims
+→ independent claims → protection → deliberate life use
+
+RAILS ACROSS ALL ENGINES
+life quality | recoverability | relations and obligations | control and maintenance
 ```
 
-The retained mechanism is:
+The retained mechanism is conditional rather than compulsory:
 
 ```text
-capability
-→ value creation
-→ value capture
-→ quality-preserving surplus
-→ productive ownership
-→ net productive leverage
-→ compounding
-→ economic autonomy
+capability → value creation → value capture → quality-preserving surplus
+                         ↘ conditional productive ownership and leverage
+capital and optionality → continuity, independent claims, protection, and life use
+all routes → economic autonomy
 ```
 
 Each chapter now includes several composite cases with a realistic starting condition, tempting error, bounded move, feasibility rationale, and failure signal.
@@ -74,9 +76,10 @@ Current research index: [`research/economy/README.md`](research/economy/README.m
 
 The first complete-case suite contains six materially different structural cases:
 
-- [`validation cases`](research/economy/cases/README.md) — capability formation, precarious labour, stable employment, independent professional work, founder-dependent ownership, and asset-rich but autonomy-poor ownership.
+- [`structural pressure tests`](research/economy/cases/README.md) — capability formation, precarious labour, stable employment, independent professional work, founder-dependent ownership, and asset-rich but autonomy-poor ownership;
+- [`cross-case review`](research/economy/cases/CROSS-CASE-REVIEW.md) — rejects the remaining linear path, introduces three engines and four rails, and records the framework’s evidence limits.
 
-Six cases are sufficient for the first suite because they cover each major production relation and transition in E0–E9. No additional case is admitted merely to enlarge coverage counts.
+Six cases are sufficient for the first structural suite because they cover the main production relations represented in E0–E9. Health, care, household, and institutional constraints remain explicit coverage limits. No additional case is admitted merely to enlarge coverage counts.
 
 No automatic E10 is planned. Future work requires a new concrete problem or a complete case that exposes a named failure in the current model.
 

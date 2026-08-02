@@ -1,180 +1,254 @@
-# E8 — Allocate Capital by Function, Not by Product Labels
+# E8 — Assign Capital a Function Before Choosing an Asset
 
 ## What this chapter is for
 
-Capital should be assigned to the job it must perform before selecting a product, account, or asset. The same asset can serve different functions for different people, and the same person may need several independent functions.
+Capital should be assigned to the job it must perform before selecting a product, account, business, property, or claim.
 
-The five functions are:
+The cross-case review found six functions rather than five:
 
 1. continuity;
 2. option and exploration;
 3. controlled production;
-4. diversified long-horizon ownership;
-5. protection and liability reduction.
+4. independent diversified ownership;
+5. protection and liability reduction;
+6. deliberate life use and release.
 
-This chapter gives illustrative composite cases, not individualized financial prescriptions. Exact products, taxes, legal protections, and expected returns depend on jurisdiction and current conditions.
+These functions can operate at any stage. A person does not need to complete the ownership engine before using capital for continuity, options, protection, or life.
 
-## Function 1 — continuity capital
+This chapter gives structural reasoning, not individualized financial, legal, or tax prescriptions.
+
+## Function 1 — continuity
 
 Continuity capital prevents an ordinary shock from forcing a destructive decision.
 
-It may need to cover:
+It may support:
 
-- essential living costs during job transition;
-- urgent health or family needs;
-- required relocation;
+- essential living needs during transition;
+- health or care obligations;
 - replacement of a critical work tool;
-- temporary business disruption;
-- obligations that cannot be delayed.
+- temporary income or business disruption;
+- required mobility;
+- obligations that cannot safely be delayed.
 
-The required amount depends on income stability, family support, health, debt, labour-market access, and how quickly spending can be reduced. A universal number of months is not admitted.
+The required amount depends on income stability, support, obligations, health, access, debt, and how quickly costs can change. No universal duration is admitted.
 
-## Function 2 — option and exploration capital
+Continuity is productive when it permits deliberate learning, negotiation, recovery, or refusal. It is not merely idle defence.
 
-This capital buys reversible opportunities:
+## Function 2 — option and exploration
 
-- training with a verified conversion path;
-- interviews and relocation;
-- a short period of reduced work;
+Option capital buys reversible opportunities:
+
+- a verified learning or qualification path;
+- interviews and external collaboration;
+- a bounded period of reduced work;
 - prototypes and market tests;
-- language or qualification access;
-- professional tools.
+- mobility;
+- essential professional tools.
 
-An option is valuable only if it can be exercised. Money labelled “learning” but never connected to output is consumption of uncertainty, not option capital.
+An option is valuable only when it can be exercised and has a plausible conversion path.
 
-## Function 3 — controlled productive capital
+Money repeatedly labelled as learning, migration, or experimentation without decision-changing evidence is not option capital. It is unresolved expenditure.
 
-This is money placed where the person has some combination of information, control, capability, or direct productive use:
+## Function 3 — controlled production
 
-- a proven small business process;
+Controlled productive capital is placed where the person has meaningful information, capability, rights, or direct influence.
+
+Examples include:
+
+- a proven small operating process;
 - equipment with observed demand;
-- reusable software or content;
+- reusable original software, methods, or content;
 - inventory with verified turnover;
-- a bounded service-to-product experiment.
+- a bounded service-to-product experiment;
+- a governed enterprise with clear marginal use for capital.
 
-Controlled production can offer high upside but creates concentration. It should not absorb resources required for essential continuity.
+Controlled production can justify concentration when control and marginal creation value compensate for risk.
 
-## Function 4 — diversified long-horizon productive claims
+It should not absorb resources required for essential continuity or create obligations larger than the evidence.
 
-These claims reduce dependence on the person’s own labour, employer, business, or local environment. Their main value is broad participation in production with low ongoing owner labour.
+## Function 4 — independent diversified ownership
 
-The practical requirements are:
+Independent claims reduce dependence on the person’s own labour, employer, business, property, location, provider, or family arrangement.
 
-- diversification across independent failure modes;
+Their practical requirements are:
+
+- exposure to independent failure modes;
 - understandable rights and costs;
 - a horizon compatible with volatility and liquidity;
-- low maintenance relative to capital size;
-- no need for constant prediction.
+- low maintenance relative to value;
+- no need for constant prediction;
+- sufficient portability and information.
+
+Diversification must be evaluated across the whole economic state, not only inside one account.
 
 ## Function 5 — protection and liability reduction
 
-Some capital produces value by removing asymmetric downside:
+Some capital creates value by removing asymmetric downside:
 
 - reducing expensive or coercive debt;
-- obtaining appropriate insurance where available and enforceable;
-- separating business and personal obligations;
-- avoiding personal guarantees;
-- addressing legal or operational risks that could erase the path.
+- obtaining suitable protection where available and enforceable;
+- separating operating and personal obligations;
+- avoiding or reducing guarantees;
+- repairing legal, operational, health, or information risks;
+- preserving recoverability after failure.
 
-A certain avoided loss can dominate an uncertain investment return.
+A certain avoided loss may dominate an uncertain return.
+
+Protection should still be tested for cost, enforceability, exclusions, and dependence. A complex protection system can become another liability.
+
+## Function 6 — deliberate life use and release
+
+Capital has completed its purpose when it expands a life the person actually values.
+
+Deliberate use may include:
+
+- health and functional capacity;
+- time and recovery;
+- relationships and care;
+- mobility and refusal power;
+- learning and creation without immediate monetization;
+- contribution, stewardship, or public purpose;
+- simplification that removes compulsory management;
+- chosen consumption whose value is present rather than productive.
+
+This is not a residual category for careless spending.
+
+The test is:
+
+```text
+Does converting this capital into life
+increase a terminal outcome
+more than retaining it increases future power?
+```
+
+At low capital levels, continued accumulation may dominate many uses. At high economic sufficiency, accumulation by inertia can reduce autonomy through complexity, maintenance, and postponed life.
 
 ## The whole-system exposure check
 
-Before allocating more capital, list exposure outside the financial account:
+Before allocating more capital, list exposure outside financial accounts:
 
 - occupation and employer;
-- owned business;
-- housing and location;
+- owned business and customers;
+- property and location;
 - debt and guarantees;
-- family obligations;
+- care and family obligations;
 - currency and jurisdiction;
-- platform and provider dependence;
-- health and work flexibility.
+- platforms, providers, and counterparties;
+- health and work flexibility;
+- identity and relationships tied to one asset;
+- information and control dependencies.
 
-A diversified securities account does not make the whole person diversified if income, housing, business, and network all fail together.
+A diversified portfolio does not diversify a life if income, housing, business, network, and obligations fail together.
 
-## Case 1 — Small capital, large capability bottleneck
+## The function conflict test
 
-**Situation.** A 22-year-old has 20,000 yuan, low fixed obligations, and an entry-level job. Essential monthly spending is about 3,500 yuan. The strongest near-term opportunity is a credible technical qualification and job search that may improve recurring income.
+The same unit of capital cannot fully perform several incompatible jobs simultaneously.
 
-**One plausible functional map.** Keep enough immediately usable capital to survive a short transition and replace essential work equipment; reserve a bounded amount for the verified qualification and interviews; begin only a small, low-maintenance long-horizon ownership position; do not fund high-variance speculation from continuity money.
+Examples:
 
-**Why this is realistic.** The example does not assume that all 20,000 yuan should remain idle or that education always wins. It recognizes that the absolute return on a small base is limited while preserving a beginning in long-horizon ownership.
+- operating capital may not be available for emergency continuity;
+- an illiquid property may not provide near-term mobility;
+- a speculative position cannot be treated as both continuity and high-upside exploration;
+- money committed to a long program cannot also preserve refusal power;
+- capital left inside a founder-dependent business is not independent diversification.
 
-**What changes the map.** High family support may reduce continuity needs. Health risk, debt, unstable employment, or relocation could increase them. A weak qualification mechanism could eliminate the education allocation entirely.
+Assign a primary function and acknowledge secondary functions only when they are actually usable.
 
-## Case 2 — Stable surplus with competing uses
+## Case 1 — small capital, capability bottleneck
 
-**Situation.** A 30-year-old employee has 300,000 yuan, recurring annual surplus, no expensive debt, and a side service with repeat demand. The service could be productized with a bounded investment, but failure is possible.
+**Situation.** A person has limited capital and a credible path to improve recurring captured value.
 
-**One plausible functional map.** Separate continuity capital first. Set a maximum amount and time for the productization experiment, released in stages only after demand and delivery evidence. Keep the remainder serving long-horizon diversified ownership and future options rather than repeatedly transferring more capital to the experiment.
+**Functional map.** Preserve enough continuity for ordinary disruption, fund only the verified access step, keep long-horizon ownership simple and low-maintenance, and do not expose continuity money to high variance.
 
-**Why this is realistic.** The design permits meaningful concentration where the person has control while preventing one uncertain project from absorbing all accumulated option value.
+**Why this is realistic.** The absolute effect of capability-to-exchange conversion may dominate marginal return optimization on a small base.
 
-**What changes the map.** If the side service lacks repeat demand, controlled productive capital should fall. If the person has strong business evidence and unusually low personal obligations, staged reinvestment may rise.
+**What changes the map.** Strong external support may lower continuity needs; unstable income, health risk, or obligations may raise them. Weak access evidence may eliminate the learning allocation.
 
-## Case 3 — Founder appears wealthy but is economically concentrated
+## Case 2 — stable surplus and a controlled experiment
 
-**Situation.** A founder has 1.2 million yuan of personal financial assets and a business worth substantially more on paper. Most income, professional identity, customer relationships, and future wealth depend on that business. The founder considers reinvesting all available capital because historical returns have been strong.
+**Situation.** A person has recurring surplus and a side activity with repeated demand but uncertain productization.
 
-**One plausible functional map.** Evaluate the business and personal life as one system. Preserve independent continuity capital, avoid personal guarantees where possible, and convert part of realized gains into claims that do not share the business’s customer, platform, and operating risks. Continue business reinvestment only where the next unit has a clear productive use.
+**Functional map.** Separate continuity first, release controlled productive capital in stages after demand and delivery evidence, and retain independent claims outside the experiment.
 
-**Why this is realistic.** The main risk is not volatility inside one account. It is correlated failure across labour, ownership, identity, and capital.
+**Why this is realistic.** It permits concentrated creation without allowing one uncertain project to consume all option value.
 
-**What changes the map.** If the founder has strong control, robust demand, and exceptional marginal opportunities, continued concentration may remain rational. It is still costly and should be recognized as such.
+**What changes the map.** If support cost remains high or demand is accidental, controlled production should shrink.
+
+## Case 3 — high nominal wealth, low autonomy
+
+**Situation.** A person owns substantial but concentrated, illiquid, and maintenance-heavy claims.
+
+**Functional map.** Improve information and liquidity, separate operating from personal continuity, reduce one correlated liability, and deliberately convert some resources into time, health, relationships, mobility, or simplification.
+
+**Why this is realistic.** The binding constraint is no longer accumulation alone. Usable control and life conversion matter.
+
+**What changes the map.** Valuable control, purpose, or relationships may justify retaining complexity. Simplification should not be automatic.
 
 ## Debt test
 
-Debt is not universally harmful or beneficial. Before using it, ask:
+Before using debt, ask:
 
-1. What productive mechanism does the borrowed capital activate?
-2. Is repayment serviceable if the expected upside is delayed?
-3. What collateral, guarantee, or personal control can be lost?
-4. Does debt duplicate an existing concentrated exposure?
-5. Is the commitment reversible?
-6. Would a smaller staged experiment answer the same question?
+1. Which function does the borrowed capital serve?
+2. What productive mechanism does it activate?
+3. Can service continue if expected upside is delayed?
+4. What collateral, guarantee, relationship, or control can be lost?
+5. Does debt duplicate an existing concentration?
+6. Is the commitment reversible?
+7. Would a smaller staged experiment answer the same question?
 
 Debt should not be used to discover whether a speculative mechanism exists.
 
-## Attention threshold
+## Attention and governance threshold
 
-Active allocation is justified only when:
+Active allocation or governance is justified only when:
 
 ```text
-expected advantage × capital base
+expected decision advantage × relevant capital base
 >
 fees + taxes + spreads + error risk
-+ attention cost + displaced higher-value work
++ attention cost + maintenance
++ displaced higher-value work or life
 ```
 
-This is why a complex strategy can be economically irrational even if it has a positive expected advantage before attention and error.
+At small bases, simple low-maintenance claims may preserve attention for capability and exchange.
 
-For many people in capability-building stages, simple and low-maintenance ownership preserves attention for the larger bottleneck. As the capital base and consequences grow, allocation and governance deserve more deliberate attention.
+At large or complex bases, governance deserves more attention—but only when that attention produces better information, control, liquidity, protection, or life. Reporting that changes no decision should be removed.
 
-## Rebalance when the state changes
+## Reallocate when the state changes
 
-Rebalancing is a failure-control action, not a calendar ritual. Review when:
+Review when:
 
-- concentration materially changes;
-- a liability appears or disappears;
 - income stability changes;
-- a major commitment is added;
-- a business reaches or loses repeatability;
-- future spending moves closer;
-- an asset or provider no longer serves its assigned function.
+- obligations or support change;
+- concentration materially changes;
+- a business gains or loses repeatability;
+- control or information weakens;
+- a major liability appears or disappears;
+- future use becomes near-term;
+- an asset no longer performs its declared function;
+- continued accumulation no longer expands the feasible action set.
+
+This is a state-change review, not a calendar ritual.
 
 ## E8 result
 
-Capital allocation begins by asking what each unit must protect, enable, own, or remove.
+Capital allocation asks:
 
-The practical order is:
+```text
+What must this resource preserve,
+enable, produce, diversify, protect,
+or convert into chosen life?
+```
+
+The durable structure is:
 
 ```text
 preserve continuity
 → buy valuable options
-→ fund controlled production in stages
-→ accumulate low-maintenance diversified claims
+→ fund controlled production conditionally
+→ hold independent claims
 → remove asymmetric liabilities
+→ use sufficient resources deliberately
 ```
 
-The proportions are state-dependent; the functions are the durable structure.
+The sequence and proportions depend on the complete state. None is a universal percentage or compulsory stage.

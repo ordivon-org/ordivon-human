@@ -4,6 +4,8 @@
 
 A wealth path fails if it destroys the person’s capacity to continue. Present life quality is not a reward postponed until economic success. It is both a terminal outcome and part of the productive base.
 
+E5 is not a stage passed before ownership. It is a rail applied to education, employment, self-employment, business ownership, capital governance, and deliberate use.
+
 The practical question is not “spend or save?” It is:
 
 > What does this use of money and time do to present life, future capability, and future commitments?
@@ -49,6 +51,21 @@ The floor should be simple and visible. It may include:
 - access to tools required for the main capability path.
 
 The floor is not luxury. It prevents the wealth plan from consuming the person who must execute it.
+
+## Include relationships, care, and shared resources
+
+Economic decisions are often not purely individual. Before ranking an action, state:
+
+- whose money, time, rights, and obligations are involved;
+- which support can be relied on and under what conditions;
+- which care or relationship obligations are chosen, shared, or non-negotiable;
+- whose consent is required;
+- which institution, employer, client, platform, or law can change access;
+- what failure would transfer cost to another person.
+
+Family support is not automatically free option capital. Care work is not automatically leakage. A shared asset is not fully controlled merely because one person uses it.
+
+The objective is not to assign a price to every relationship. It is to avoid pretending that resources and obligations are independent when they are not.
 
 ## Use the dual-return test
 
@@ -151,16 +168,18 @@ Spending becomes destructive when it:
 - requires debt with coercive downside;
 - is repeatedly justified as an investment without evidence.
 
-## Transition evidence
+## Application evidence
 
-The person has a sustainable base for ownership experiments when:
+The life-quality rail is functioning when:
 
-- the life-quality floor is stable;
-- surplus recurs without chronic depletion;
-- fixed commitments leave room to refuse and change course;
-- tools and education are tied to actual production;
-- one experiment can fail without damaging essential life.
+- essential functioning is stable enough for the proposed action;
+- surplus or progress does not depend on chronic depletion;
+- fixed commitments leave some refusal and recovery power;
+- tools and education are connected to actual use;
+- important relationship and care obligations are explicit;
+- one experiment can fail without transferring unacceptable harm to the person or others;
+- greater economic power is sometimes converted into a life the person values.
 
 ## E5 result
 
-A practical wealth path does not maximize saving or consumption. It protects the person’s functioning, spends deliberately on high present or future value, and resists commitments that convert future freedom into compulsory income.
+A practical wealth path does not maximize saving or consumption. It protects functioning and important relationships, uses shared resources honestly, spends deliberately on present or future value, and resists commitments that convert future freedom into compulsory income.

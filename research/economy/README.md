@@ -1,6 +1,6 @@
 # HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 practical reconstruction completed; six-case validation suite constructed.**
+**Status: E0–E9 practical reconstruction and six-case structural review completed.**
 
 ## Core question
 
@@ -8,22 +8,26 @@
 
 ## Start here
 
-The active path is:
+The active model is:
 
 ```text
-foundation
-→ professional direction
-→ proof
-→ first market exchange
-→ early-career value capture and surplus
-→ life-quality and commitment control
-→ productive ownership
-→ owner-independent system
-→ capital by function
-→ continuity and stage transition
-```
+DIAGNOSIS
+unsupported transition + smallest binding set
 
-Read the chapter matching the first transition that is not yet supported by evidence.
+ENGINE A — work and exchange
+functioning → capability → proof → trusted exchange → surplus
+
+ENGINE B — ownership and operation
+repeated result → reusable ownership → repeatability
+→ governed operation → residual claims
+
+ENGINE C — capital and optionality
+continuity → options → controlled claims
+→ independent claims → protection → deliberate life use
+
+RAILS ACROSS ALL ENGINES
+life quality | recoverability | relations and obligations | control and maintenance
+```
 
 ## Practical E-series
 
@@ -63,9 +67,9 @@ They are designed to show feasible reasoning, not to claim population evidence. 
 
 The cases deliberately avoid exceptional success assumptions.
 
-## Complete-case validation
+## Structural pressure-test suite
 
-The first validation suite contains six privacy-reduced structural cases:
+The first pressure-test suite contains six privacy-reduced structural cases:
 
 - [`CASE-001`](cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) — output to externally trusted repeated use;
 - [`CASE-002`](cases/CASE-002-PRECARIOUS-WORKER.md) — fragmented labour to reliable exchange and refusal power;
@@ -76,22 +80,20 @@ The first validation suite contains six privacy-reduced structural cases:
 
 [`cases/README.md`](cases/README.md) defines the privacy rule, coverage matrix, cross-case falsifiers, and the reason the suite stops at six.
 
-CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 are composite pressure tests unless suitable anonymous real trajectories replace them.
+[`cases/CROSS-CASE-REVIEW.md`](cases/CROSS-CASE-REVIEW.md) records the resulting model revisions: three engines, four rails, coupled constraints, deliberate life use, and engine-specific evidence ladders.
+
+CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 are composite pressure tests and do not establish empirical effectiveness.
 
 ## Retained first-principles mechanism
 
 ```text
-capability
-→ value creation
-→ value capture
-→ quality-preserving surplus
-→ productive ownership
-→ net productive leverage
-→ compounding
-→ economic autonomy
+capability → value creation → value capture → quality-preserving surplus
+                         ↘ conditional productive ownership and leverage
+capital and optionality → continuity, independent claims, protection, and life use
+all routes → economic autonomy
 ```
 
-The practical series reorganizes this mechanism by life transition rather than by academic concept.
+The practical series organizes this mechanism as branching transitions rather than an academic concept sequence or compulsory life ladder.
 
 ## Public calibration
 

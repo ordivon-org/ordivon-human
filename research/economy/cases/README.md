@@ -1,6 +1,6 @@
-# Economic-Autonomy Validation Cases
+# Economic-Autonomy Structural Pressure Tests
 
-The practical E-series is not accepted merely because its concepts are coherent. It must survive complete structural cases in which learning, capability, income, ownership, capital, attention, and failure interact.
+The practical E-series is not accepted merely because its concepts are coherent. It must survive structural pressure tests in which learning, capability, income, ownership, capital, attention, and failure interact.
 
 ## Case purpose
 
@@ -53,7 +53,7 @@ Each complete case contains:
 3. E0 diagnosis;
 4. relevant E1–E9 application;
 5. competing paths and rejected actions;
-6. bounded validation cycle;
+6. bounded evidence cycle;
 7. evidence and stop rules;
 8. model pressure points;
 9. initial verdict.
@@ -73,9 +73,9 @@ current bottleneck
 
 Actions that depend on exceptional success, hidden resources, guaranteed demand, or unrealistic discipline are rejected.
 
-## Why six cases are enough for the first suite
+## Why six cases are enough for the first pressure-test suite
 
-The suite contains one case for each materially different economic relation that the E-series must distinguish:
+The first suite contains one case for each major production relation that the E-series currently distinguishes:
 
 1. capability formation before repeated exchange;
 2. unstable labour before reliable surplus;
@@ -105,6 +105,12 @@ Adding more cases now would mostly vary occupation, age, location, or asset labe
 | CASE-004 | repeated service → reusable controlled production | E4–E7 | self-employment mistaken for leverage |
 | CASE-005 | founder-led business → owner-independent normal operation | E6–E9 | revenue and team size mistaken for a system |
 | CASE-006 | nominal wealth → usable low-maintenance autonomy | E0, E5–E9 | accounting wealth mistaken for control and choice |
+
+## Cross-case review
+
+[`CROSS-CASE-REVIEW.md`](CROSS-CASE-REVIEW.md) records what survived, what failed, and the resulting revisions to E0, E5, E8, and E9.
+
+The suite supports structural coherence and action differentiation. It does not establish empirical effectiveness or population validity.
 
 Together, the cases pressure-test:
 
@@ -142,6 +148,6 @@ Revise the E-series when the suite shows that:
 - **closed-revised** — the case required a named model revision;
 - **abandoned** — evidence became unavailable or the case no longer had decision value.
 
-CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 are composite pressure tests unless a suitable anonymous real trajectory later replaces them.
+CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 remain composite pressure tests unless a suitable anonymous real trajectory later replaces them.
 
 No additional case should be added merely to enlarge coverage counts.

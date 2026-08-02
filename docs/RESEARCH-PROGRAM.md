@@ -4,7 +4,7 @@ Ordivon Human is organized by concrete questions, not by completing domains, dat
 
 ## HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 practical reconstruction complete; complete-case validation active.**
+**Status: E0–E9 practical reconstruction and six-case structural review complete.**
 
 > How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
@@ -95,7 +95,7 @@ Use evidence ladders, exposure boundaries, stop rules, careful outcome attributi
 
 Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
 
-## Complete-case validation suite
+## Structural pressure-test suite
 
 The first suite contains six structural cases:
 
@@ -106,9 +106,9 @@ The first suite contains six structural cases:
 5. a commercially meaningful but founder-dependent operating business;
 6. high nominal wealth with low liquidity, high maintenance, and limited usable autonomy.
 
-The suite covers every major transition in E0–E9 without multiplying cases by occupation, location, age, or asset label. Full coverage and falsifiers are recorded in [`../research/economy/cases/README.md`](../research/economy/cases/README.md).
+The suite covers the main production relations represented in E0–E9 without multiplying cases by occupation, location, age, or asset label. Full coverage and falsifiers are recorded in [`../research/economy/cases/README.md`](../research/economy/cases/README.md). The resulting revisions are in [`../research/economy/cases/CROSS-CASE-REVIEW.md`](../research/economy/cases/CROSS-CASE-REVIEW.md).
 
-No additional case should be admitted unless it exposes a missing transition, a materially different failure mode, or an incorrect action ranking.
+The composite suite pressure-tests structure and action differentiation; it does not validate empirical effectiveness. No additional case should be admitted unless it exposes a missing transition, a materially different failure mode, or an incorrect action ranking.
 
 ## Case-admission standard
 

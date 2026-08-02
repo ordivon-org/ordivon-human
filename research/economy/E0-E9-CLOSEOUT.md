@@ -2,24 +2,28 @@
 
 ## Decision
 
-The E-series was reconstructed on 2026-08-03 from an academic mechanism sequence into a practical life-course path.
+The E-series was reconstructed from an academic mechanism sequence into practical transition modules.
 
-The underlying first-principles conclusions remain, but they are now embedded where a person must make an actual transition:
+A later six-case structural pressure test rejected the remaining implication that every person should move through one linear life-course path.
+
+The active model now uses three engines:
 
 ```text
-foundation
-→ professional direction
-→ proof
-→ first market exchange
-→ early-career value capture and surplus
-→ life-quality and commitment control
-→ productive ownership
-→ owner-independent system
-→ functional capital allocation
-→ continuity and stage transition
+work and exchange
+ownership and operation
+capital and optionality
 ```
 
-The active series is intended to be readable by a student, worker, independent professional, founder, or asset owner without first learning the research vocabulary.
+under four always-on rails:
+
+```text
+life quality and functioning
+continuity and recoverability
+external relations and obligations
+control and maintenance
+```
+
+The active series is intended to be readable by a learner, worker, independent professional, founder, or asset owner without first learning the research vocabulary.
 
 ## Why the prior form was insufficient
 
@@ -44,37 +48,37 @@ But it required the reader to perform a second synthesis before acting. A person
 
 The reconstruction therefore changed the unit of explanation from a concept to a transition.
 
-## Active practical sequence
+## Active practical modules
 
 | Chapter | Practical decision |
 |---|---|
-| E0 | locate the current state and first binding constraint |
+| E0 | locate the unsupported transition and smallest binding set |
 | E1 | build the functional and learning foundation |
 | E2 | choose a professional direction through bounded tests |
 | E3 | turn learning into proof and first trusted exchange |
 | E4 | use early career to build capability, bargaining, and surplus |
-| E5 | protect life quality and avoid commitment traps |
+| E5 | apply life quality, relationships, and commitment boundaries across every transition |
 | E6 | convert repeated labour into owned reusable production |
 | E7 | turn ownership into a system without scaling owner burden |
-| E8 | assign capital by function before choosing products |
-| E9 | execute with boundaries, evidence, stop rules, and stage transitions |
+| E8 | assign capital to continuity, options, production, independence, protection, or deliberate life use |
+| E9 | execute branching transitions with engine-specific evidence ladders |
 
 ## The retained mechanism
 
-The practical sequence still implements the original mechanism:
+The original mechanism remains available but is no longer treated as a compulsory sequence:
 
 ```text
 capability
 → value creation
 → value capture
 → quality-preserving surplus
-→ productive ownership
-→ net productive leverage
-→ compounding
+→ conditional productive ownership
+→ net productive leverage where useful
+→ compounding and deliberate use
 → economic autonomy
 ```
 
-The difference is that each mechanism now appears at the point where it becomes a current action.
+Employment, direct professional practice, operating ownership, and diversified claims are alternative production relations. They are ranked by the complete state, not by a universal hierarchy.
 
 ## Case standard
 
@@ -103,12 +107,13 @@ Cases were rejected or rewritten when they required:
 Across the series, the recommended action form is:
 
 ```text
-identify one current bottleneck
-→ choose one bounded intervention
-→ define maximum loss
+identify the unsupported transition
+→ name the smallest binding set
+→ choose one recoverable intervention
+→ define maximum loss and affected obligations
 → expose the mechanism to reality
-→ retain the capability or asset created
-→ continue, scale, redesign, or stop
+→ retain capability, proof, rights, or information
+→ continue, scale, separate, redesign, stop, hold, or recover
 ```
 
 This is intentionally narrower than a comprehensive life plan.
@@ -145,7 +150,7 @@ More users, employees, revenue, agents, or automation can enlarge the owner’s 
 
 ### 8. Capital should be assigned a function
 
-Continuity, options, controlled production, diversified long-horizon claims, and protection are distinct jobs. Asset labels and universal percentages cannot replace the whole-state analysis.
+Continuity, options, controlled production, independent claims, protection, and deliberate life use are distinct jobs. Asset labels and universal percentages cannot replace the whole-state analysis.
 
 ### 9. Compounding requires stopping bad loops
 
@@ -154,6 +159,22 @@ Repeated reset, loss chasing, success escalation, commitment ratchets, founder d
 ### 10. Not acting can be the correct decision
 
 When the current path is functioning and no state-changing evidence has appeared, additional projects, trades, or career changes may reduce rather than expand autonomy.
+
+## Six-case review revision
+
+The structural pressure-test suite is documented in [`cases/CROSS-CASE-REVIEW.md`](cases/CROSS-CASE-REVIEW.md).
+
+The review retained the terminal outcomes, first-unsupported-transition rule, conditional ownership, net productive leverage, capital by function, and bounded evidence.
+
+It revised five points:
+
+1. one linear path became three engines;
+2. one total stage became a multidimensional state map;
+3. one bottleneck may become the smallest coupled binding set;
+4. life quality, continuity, relations, and maintenance became cross-cutting rails;
+5. deliberate life use became an explicit capital function.
+
+Composite cases are structural pressure tests, not empirical validation.
 
 ## Public-average calibration retained
 
@@ -193,11 +214,11 @@ Concrete high-consequence decisions still require current local evidence and the
 
 ## Status
 
-The practical E0–E9 reconstruction is complete.
+The practical E0–E9 reconstruction and initial six-case structural review are complete.
 
 The earlier academic structure remains recoverable in Git history. It is not maintained as a parallel active edition because doing so would duplicate the same model and recreate navigation cost.
 
-No automatic E10 is planned. New work requires either:
+No automatic E10 is planned. The next meaningful work requires either:
 
 - a complete real case that the practical series ranks incorrectly;
 - a transition for which the current action protocol is infeasible;
