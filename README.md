@@ -26,7 +26,7 @@ Data may calibrate scale. Data availability may not determine the research agend
 
 > How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-The original first-principles cycle was reconstructed into a practical E0–E9 path on 2026-08-03:
+The original first-principles cycle was reconstructed into a practical E0–E9 path:
 
 - [`E0`](research/economy/E0-PATH-AND-STARTING-STATE.md) — identify the current state and first binding constraint;
 - [`E1`](research/economy/E1-FOUNDATION-EDUCATION.md) — build the foundation for continued learning and reliable work;
@@ -74,7 +74,7 @@ Current research index: [`research/economy/README.md`](research/economy/README.m
 
 The first complete-case validation is active:
 
-- [`CASE-001`](research/economy/cases/CASE-001-STUDENT-BUILDER.md) — a privacy-reduced student-builder case testing whether narrow external proof and retained capability should dominate further project expansion and small-capital return optimization.
+- [`CASE-001`](research/economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) — a privacy-reduced structural case testing whether narrow external proof and retained capability should dominate further project expansion and small-capital return optimization.
 
 No automatic E10 is planned. Future work requires a new concrete problem or a complete case that exposes a named failure in the current model.
 

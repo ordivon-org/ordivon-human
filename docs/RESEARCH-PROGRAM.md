@@ -4,7 +4,7 @@ Ordivon Human is organized by concrete questions, not by completing domains, dat
 
 ## HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 practical reconstruction complete 2026-08-03.**
+**Status: E0–E9 practical reconstruction complete; complete-case validation active.**
 
 > How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
@@ -97,15 +97,15 @@ Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy
 
 ## Active complete-case validation
 
-[`../research/economy/cases/CASE-001-STUDENT-BUILDER.md`](../research/economy/cases/CASE-001-STUDENT-BUILDER.md) applies E0–E9 to a privacy-reduced current case with:
+[`../research/economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md`](../research/economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) applies E0–E9 to a privacy-reduced structural case with:
 
-- strong self-directed and AI-assisted technical output;
-- no stable independent market exchange;
-- family-supported basic life and small self-controlled capital;
-- competing university, software-foundation, English, project, and market-attention demands;
-- repeated speculative resets.
+- substantial AI-assisted technical output;
+- incomplete evidence of independently retained capability;
+- no repeated external exchange;
+- limited independently controlled capital;
+- continuity risk from high-variance side activity.
 
-The initial diagnosis is that the first unsupported transition is narrow externally trusted proof, not additional project breadth or capital-return optimization. Reviews are scheduled for 2026-09-02, 2026-10-02, and 2026-11-01.
+The initial diagnosis is that the first unsupported transition is narrow externally trusted proof, not additional project breadth or small-capital return optimization. Reviews use relative evidence checkpoints rather than calendar dates.
 
 ## Case-admission standard
 
