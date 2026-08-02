@@ -1,0 +1,62 @@
+{
+  "data_generating_process": {
+    "individual_effect": "0.4 + 0.5 * baseline_capability - 0.3 * latent_stress",
+    "n_of_1_adjustment": [
+      "linear time trend",
+      "prior-period carryover",
+      "external event window"
+    ],
+    "n_of_1_assignment": "independent randomized treatment each period",
+    "observational_treatment_selection": "depends on baseline capability and latent stress"
+  },
+  "interpretation": [
+    "The observational group difference has the opposite sign from the true population average effect because treatment selection is confounded.",
+    "The positive population average does not determine either target: one benefits substantially and one is harmed.",
+    "Repeated randomized within-person observations recover each target effect under the declared synthetic assumptions.",
+    "Randomization and modeling assumptions, not personal data volume alone, create identification."
+  ],
+  "kind": "ordivon-human-h0-population-to-individual-simulation",
+  "population": {
+    "effect_standard_deviation": 0.5908261835622098,
+    "naive_observational_difference": -0.34803304617117137,
+    "negative_effect_fraction": 0.252,
+    "population_size": 5000,
+    "treated_fraction": 0.4588,
+    "true_average_treatment_effect": 0.39964390037343345
+  },
+  "schema_version": 1,
+  "scope": "synthetic methodological demonstration; not a human or clinical model",
+  "seed": 20260802,
+  "targets": [
+    {
+      "baseline_capability": 1.0,
+      "central_95_percent_simulation_interval": [
+        0.797561401646566,
+        1.2829733943581485
+      ],
+      "estimate_bias": -0.016367413012006393,
+      "estimate_standard_deviation": 0.1298735271208167,
+      "latent_stress": -0.5,
+      "mean_estimated_effect": 1.0336325869879937,
+      "name": "target-benefit",
+      "replicates": 400,
+      "trial_periods": 96,
+      "true_individual_effect": 1.05
+    },
+    {
+      "baseline_capability": -1.0,
+      "central_95_percent_simulation_interval": [
+        -0.547654045915284,
+        -0.03389400884150674
+      ],
+      "estimate_bias": 0.00038280351223091147,
+      "estimate_standard_deviation": 0.13497672915255762,
+      "latent_stress": 0.7,
+      "mean_estimated_effect": -0.30961719648776903,
+      "name": "target-harm",
+      "replicates": 400,
+      "trial_periods": 96,
+      "true_individual_effect": -0.30999999999999994
+    }
+  ]
+}

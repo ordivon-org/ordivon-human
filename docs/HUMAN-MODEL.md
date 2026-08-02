@@ -1,126 +1,223 @@
-# Initial Human Model
+# Human Model
 
-## 1. Why a dynamic model
+**H0 retained model — 2026-08-02.**
 
-A static table of age, height, weight, education, and income describes only one observation surface. Human outcomes emerge from interactions among current state, prior history, environment, behaviour, opportunity, and random events.
+The initial ten-level hierarchy has been superseded by a smaller dynamic model. H0 showed that the hierarchy mixed state domains, actions, context, time, measurement, and study-specific causal roles on one axis.
 
-The initial model therefore uses three axes:
+See [`../research/h0/MODEL-DELETION.md`](../research/h0/MODEL-DELETION.md) for the deletion evidence.
+
+## 1. Unit of analysis
+
+The default unit remains:
 
 ```text
-levels of organization × variable type × time
+person × time × context × history × action × event
 ```
 
-## 2. Levels of organization
+The model is question-specific. It describes only the domains needed by one study; it is not a complete record of a person.
 
-| Level | Research content | Typical observations |
-|---|---|---|
-| L0 — time and development | age, developmental stage, cohort, historical period, timing and duration | dates, age, exposure windows, transition history |
-| L1 — biological substrate | genetics, anatomy, physiology, metabolism, immune and endocrine processes | biospecimens, clinical measures, family history |
-| L2 — bodily functioning | mobility, sensory function, sleep, energy, pain, fitness, illness, recovery | physical measures, wearables, functional assessments |
-| L3 — cognition and affect | attention, memory, reasoning, language, learning, emotion, motivation, regulation | tasks, behaviour, self-report, performance traces |
-| L4 — identity and preferences | self-model, values, goals, personality, risk and time preferences, meaning | repeated reports, choices, narratives, behavioural consistency |
-| L5 — behaviour | habits, routines, decisions, effort, avoidance, exploration, consumption, communication | logs, observation, transactions, repeated actions |
-| L6 — capability | knowledge, skills, creativity, coordination, tool use, execution, adaptation | real tasks, portfolios, tests, transfer and learning curves |
-| L7 — resources | money, assets, debt, time, housing, equipment, access, legal status, risk buffer | administrative and financial records, time budgets |
-| L8 — relationships and institutions | family, peers, networks, organizations, norms, trust, authority, culture | network structure, roles, interaction and institutional data |
-| L9 — environment and tools | physical environment, information exposure, technology, AI, economy, policy, historical shocks | environmental sensors, platform records, macro and policy data |
+## 2. Study specification
 
-No level is the privileged explanation for every question. Reduction to biology can miss institutions; reduction to society can miss physiology; reduction to traits can miss changing opportunity and state.
+Every analysis begins with a `StudySpec`:
 
-## 3. Variable types
+```text
+question
+scope: population, subgroup, or person
+prediction target or causal estimand
+outcome owner
+outcome vector and time horizon
+value assumptions and displaced outcomes
+population and selection process
+privacy and consequence class
+```
 
-Every variable should be classified by its role in the study:
+Without this specification, there is no context-independent meaning of “important human variable” or “improvement.”
 
-- **relatively stable attribute** — changes slowly within the observation window;
-- **state** — current condition that may change rapidly;
-- **behaviour** — an action or repeated action pattern;
-- **resource** — something the person can draw upon or is constrained by;
-- **environment** — conditions outside the person that shape opportunities and exposure;
-- **event** — a discrete transition, shock, intervention, or encounter;
-- **trajectory** — a sequence, trend, volatility pattern, or developmental path;
-- **outcome** — the declared target of one analysis;
-- **measurement** — the instrument and process producing an observation;
-- **latent construct** — an inferred concept not directly observed;
-- **confounder, mediator, moderator, or collider** — a causal role, not an intrinsic property of the variable.
+## 3. Person state
 
-The same quantity can occupy different roles in different studies. Sleep may be an outcome, exposure, mediator, or confounder depending on the question.
+`PersonState_t` may select from four domains.
 
-## 4. Time properties
+### Body
 
-For each observed variable, retain when relevant:
+Biological organization and bodily functioning relevant to the question:
 
-- level;
+- anatomy, physiology, metabolism, immune and endocrine processes;
+- sleep, energy, pain, sensory function, mobility, fitness, illness, and recovery.
+
+H0 merged biological substrate and bodily functioning at the top level. Mechanistic studies may retain finer subdomains locally.
+
+### Mind
+
+Psychological organization relevant to the question:
+
+- perception, attention, memory, reasoning, language, and learning;
+- emotion, motivation, regulation, identity, values, preferences, and subjective experience.
+
+H0 merged cognition/affect and identity/preferences at the top level because their separation is question-dependent rather than universally structural.
+
+### Capability
+
+What the person can reliably do across declared conditions:
+
+- knowledge and skill;
+- creation and problem solving;
+- coordination and tool use;
+- transfer, adaptation, verification, and relearning.
+
+Capability is not identical to one observed action, one test score, model-provided output, or joint human–tool performance.
+
+### Situated state
+
+Current options and constraints that are attached to the person but relational or institutional in nature:
+
+- money, assets, debt, time, housing, equipment, and risk buffer;
+- roles, rights, legal status, credentials, access, and obligations;
+- relationships, trust, support, network position, and organizational membership.
+
+These are not purely internal traits or an undifferentiated external environment.
+
+## 4. Context
+
+`Context_t` describes conditions not adequately represented as the person's current state:
+
+- institutions, norms, culture, and policy;
+- physical and ecological conditions;
+- information exposure and media systems;
+- technologies, AI systems, interfaces, and available tools;
+- economic conditions and historical period.
+
+A tool can be a context, intervention, or component of a joint system depending on the question.
+
+## 5. Transition inputs
+
+### Action
+
+What the person or another participant does. Behaviour is represented as action rather than a static human level.
+
+### Event or intervention
+
+A discrete occurrence or deliberately assigned change, including shocks, transitions, treatments, policy changes, encounters, and changes in access.
+
+Actions and events may change both person state and context.
+
+## 6. Time and history
+
+Time is an axis across all domains, not a peer level.
+
+Relevant properties include:
+
+- age, development, cohort, and historical period;
+- prior states, exposures, actions, and events;
 - direction and rate of change;
-- volatility;
-- persistence and half-life;
-- lag before effects appear;
-- recovery time;
-- sensitivity to developmental timing;
-- reversibility;
-- minimum meaningful change;
-- measurement frequency and missingness.
+- persistence and volatility;
+- lag, carryover, and recovery time;
+- sensitive periods and cumulative effects;
+- reversibility and path dependence.
 
-A trajectory often carries more information than a single value. Stable income and equally valued but highly volatile income imply different risk and autonomy. A one-time high performance and a sustained learning curve imply different capability.
+A “trait” is a state with empirically estimated persistence over a declared window. A trajectory is a derived interpretation of observations across time, not primitive truth.
 
-## 5. Interactions and feedback
+## 7. Observation and measurement
 
-Expected structures include:
+Observed data are not the state itself:
 
 ```text
-sleep ↔ emotion regulation ↔ work quality ↔ stress
-skills → income → time and tool access → further learning
-social support → recovery → participation → stronger relationships
-AI use → capability → task selection → learning or deskilling
-health shock → income loss → treatment access → health trajectory
+Observation_t = Measurement(
+  selected PersonState_t,
+  Context_t,
+  Action_t,
+  Event_t,
+  Outcome_t
+) + error + selection effects
 ```
 
-The project should search for thresholds, loops, bottlenecks, substitution, complementarity, and delayed effects rather than assuming independent additive variables.
+Each observation should preserve when relevant:
 
-## 6. Outcome families
+- construct and operational measure;
+- source, instrument, observer, and version;
+- time, frequency, and context;
+- uncertainty, reliability, and missingness;
+- participant or platform reactivity;
+- privacy class and transformation provenance.
 
-No family is universally primary:
+A latent construct is marked as inferred. Confounder, mediator, moderator, and collider are roles in a study-specific causal graph, not permanent properties of a variable.
 
-- survival and health;
-- bodily and cognitive functioning;
+## 8. Dynamic transition hypothesis
+
+A study may propose:
+
+```text
+PersonState_(t+1), Context_(t+1)
+  = F(
+      PersonState_t,
+      Context_t,
+      Action_t,
+      Event_t,
+      History_(0:t),
+      uncertainty
+    )
+```
+
+`F` is not assumed to be linear, universal, stationary, identifiable, or the same across people. Feedback, thresholds, delayed effects, adaptation, and heterogeneous responses are expected.
+
+## 9. Outcome pluralism
+
+Possible outcome families include:
+
+- survival, health, and functioning;
 - agency and autonomy;
-- capability and learning;
+- capability, learning, and adaptability;
 - material security and option value;
-- relationships and social participation;
+- relationships and participation;
 - subjective well-being and suffering;
 - creation, contribution, and meaning;
-- resilience, recoverability, and adaptability.
+- resilience and recoverability.
 
-Studies must also record adverse displacement: an intervention can improve productivity while worsening sleep, relationships, autonomy, or long-term learning.
+No universal scalar objective is retained. A study records trade-offs and adverse displacement rather than hiding them in one score.
 
-## 7. Observation model
+## 10. Population and individual inference
 
-A recorded value should be treated as:
+The model distinguishes:
+
+- population distribution;
+- observational association;
+- predictive estimate;
+- population average causal effect;
+- subgroup heterogeneity;
+- individual prior;
+- individual longitudinal or experimental evidence.
+
+Population statistics can update a prior for one person. They do not determine personal causal response. H0's synthetic demonstration produced an observational association opposite in sign to the true population effect, while two individual effects had opposite signs.
+
+See [`../research/h0/POPULATION-TO-INDIVIDUAL.md`](../research/h0/POPULATION-TO-INDIVIDUAL.md).
+
+## 11. Human–AI distinction
+
+Human–AI studies must separate:
 
 ```text
-observation = target phenomenon
-            + instrument behaviour
-            + respondent or observer behaviour
-            + context
-            + sampling and selection
-            + random and systematic error
+model-performed output
+human-plus-model system capability
+retained human capability
+human agency, replacement, refusal, and exit
 ```
 
-Agreement across methods raises confidence only when the methods do not share the same bias. A wearable, self-report, and platform log can all be wrong in correlated ways.
+Immediate assisted task success is evidence only for the first two. Durable human augmentation requires measurements appropriate to the declared objective.
 
-## 8. Minimum useful representation
+See [`../research/h0/HUMAN-AI-CAPABILITY-TRANSFER.md`](../research/h0/HUMAN-AI-CAPABILITY-TRANSFER.md).
 
-H0 does not define a universal database schema. The minimum record for one study is:
+## 12. Minimum useful study record
+
+H0 retains this compact record:
 
 ```text
-research question
-population or person scope
-construct and operational measure
-observation time and context
-source and instrument
-uncertainty and missingness
-causal role assumed
-declared outcome and horizon
-privacy class
+StudySpec
+selected state and context domains
+actions and events
+observation provenance and uncertainty
+time and history assumptions
+causal graph or prediction assumptions
+outcomes, horizon, values, and trade-offs
+privacy, consequence, stopping, and deletion conditions
 ```
 
-Additional fields require a demonstrated analytical use.
+Additional structure requires a demonstrated analytical use. No universal database schema follows from this conceptual model.

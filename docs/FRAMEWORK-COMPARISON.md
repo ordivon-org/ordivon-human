@@ -1,5 +1,7 @@
 # Framework Comparison
 
+**H0 status:** the detailed case matrix and deletion result are now in [`../research/h0/FRAMEWORK-COMPOSITION.md`](../research/h0/FRAMEWORK-COMPOSITION.md) and [`../research/h0/MODEL-DELETION.md`](../research/h0/MODEL-DELETION.md).
+
 Ordivon Human begins by composing mature frameworks rather than inventing a proprietary taxonomy.
 
 ## WHO ICF
@@ -93,17 +95,18 @@ Retained lesson:
 
 Source: <https://www.ncbi.nlm.nih.gov/books/NBK543722/table/ch2.Tab1/>
 
-## Ordivon Human synthesis
+## Ordivon Human synthesis after H0
 
-No reviewed framework is sufficient alone. The initial synthesis is:
+No reviewed framework is sufficient alone, but their concepts remain authoritative within their scope. H0 retains the following composition:
 
 ```text
 ICF functioning and environment
-+ RDoC dimensional cognition, affect, and multi-level measurement
-+ OECD plural outcomes, inequality, and future resources
++ RDoC dimensional cognition, affect, and multi-method measurement
++ OECD plural outcomes, distribution, and future resources
 + cohort multimodality from All of Us and UK Biobank
 + life-course timing, feedback, and path dependence
-+ explicit agency, capability, tools, and human–AI co-development
++ within-person and N-of-1 inference discipline
++ explicit capability, agency, tools, and human–AI co-development
 ```
 
-This synthesis is a research hypothesis, not a claim that Ordivon Human has created a superior universal ontology. H0 must delete any layer that does not improve real analyses.
+H0 did not turn this composition into a universal ontology. It deleted the initial ten-level hierarchy and retained only a question-specific state-transition model. See the H0 evidence for the exact deletions and case tests.

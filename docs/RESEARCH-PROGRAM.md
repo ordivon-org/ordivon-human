@@ -4,18 +4,26 @@ The program is organized by questions, not by a commitment to build a permanent 
 
 ## H0 — Foundations and boundary
 
-**Current.** Define the unit of analysis, dynamic model, measurement taxonomy, outcome pluralism, source standards, privacy boundary, and first falsifiable questions.
+**Completed 2026-08-02.**
 
-Exit evidence:
+H0 compared mature frameworks, tested five contrasting cases, deleted the initial ten-level hierarchy, executed a population-to-individual simulation, and defined the human–AI capability-transfer evidence boundary.
 
-- one compact model can represent materially different human-development questions without pretending completeness;
-- trait/state/context/event/trajectory distinctions prevent real analytical errors;
-- mature frameworks are reused rather than renamed;
-- at least three proposed fields or abstractions are deleted as unnecessary.
+Result:
+
+```text
+model: retained, reduced
+repository: retained, research-only
+implementation: one synthetic simulation
+platform and data collection: not admitted
+```
+
+Evidence: [`../research/h0/README.md`](../research/h0/README.md).
 
 ## H1 — Measurement and longitudinal evidence
 
-Compare self-report, task performance, behavioural traces, administrative data, physical measures, wearables, and environmental observations.
+**Ready, inactive.**
+
+Compare at least two observation methods in one bounded study and determine whether the H0 model changes an actual inference.
 
 Key problems:
 
@@ -23,13 +31,14 @@ Key problems:
 - measurement invariance across people and time;
 - missingness, selection, survivorship, and reactivity;
 - sampling frequency and temporal aggregation;
-- linking heterogeneous data without manufacturing precision.
+- within-person versus between-person effects;
+- linking heterogeneous observations without manufacturing precision.
 
-No data-collection system is built until one bounded longitudinal study requires it.
+No general data-collection system is admitted. A study must specify objective, burden, privacy class, stopping rule, and deletion condition first.
 
 ## H2 — Development, learning, and capability formation
 
-Study how health, cognition, practice, feedback, education, environment, tools, and opportunity interact to produce or constrain capability.
+Study how body state, mind state, practice, feedback, education, situated resources, context, tools, and opportunity interact to produce or constrain transferable capability.
 
 Priority comparisons:
 
@@ -37,7 +46,8 @@ Priority comparisons:
 - short-term output versus long-term learning;
 - deliberate practice versus exploration;
 - stable routines versus adaptive strategy change;
-- individual effort versus environmental opportunity.
+- individual effort versus environmental opportunity;
+- joint human–AI capability versus retained human capability.
 
 ## H3 — Resources, relationships, and institutions
 
@@ -49,16 +59,17 @@ The aim is to avoid attributing contextual effects to personality or merit while
 
 Study sensitive periods, cumulative advantage and disadvantage, path dependence, transitions, shocks, recovery, adaptation, decline, and cohort effects.
 
-The central object is a trajectory, not a snapshot.
+The central object is a trajectory under explicit observation assumptions, not a snapshot or a permanent label.
 
 ## H5 — Human–AI augmentation and co-development
 
-Study AI as tutor, memory, collaborator, simulator, adviser, executor, social participant, institution, and source of dependency or control.
+Study AI as tutor, example source, memory, collaborator, simulator, adviser, executor, social participant, institution, and source of dependence or control.
 
 Priority questions:
 
-- which capabilities are extended, transferred, or eroded;
-- whether human judgment improves or is merely displaced;
+- which capabilities are extended, transferred, displaced, or eroded;
+- whether human judgment improves or is merely bypassed;
+- how assistance design changes persistence and learning;
 - how dependence changes resilience and exit options;
 - how AI changes goals, identity, relationships, and institutions;
 - whether a human–AI system preserves the person's authorship and ability to refuse.
@@ -72,7 +83,8 @@ Candidate methods include:
 - interrupted time series;
 - randomized or counterbalanced periods;
 - multiple-baseline designs;
-- Bayesian updating;
+- micro-randomized interventions;
+- Bayesian or hierarchical updating;
 - sequential decision rules;
 - qualitative process evidence;
 - external population priors with individual calibration.
@@ -81,13 +93,14 @@ The goal is not permanent self-surveillance. Measurement continues only while it
 
 ## Admission gates
 
-A new research track or implementation must state:
+A new study, track, or implementation must state:
 
 1. the decision or uncertainty it changes;
 2. the minimum observations required;
 3. the competing explanation or baseline;
-4. the falsification condition;
-5. the privacy and consequence class;
-6. the stopping and deletion condition.
+4. the prediction target or causal estimand;
+5. the falsification condition;
+6. the privacy and consequence class;
+7. the stopping and deletion condition.
 
 “Humans are complex” is not a reason to collect everything. Complexity increases the need for question-specific selection.
