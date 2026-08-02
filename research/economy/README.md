@@ -1,18 +1,24 @@
 # HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
 
-**Status: active. E0–E5 reconstructed or completed first-principles first rounds on 2026-08-02.**
+**Status: E0–E9 first-principles cycle completed 2026-08-02.**
 
 ## Core question
 
-> From the point at which a person can make independent economic decisions, how can they expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
+> How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
 
 This is a wealth-formation and human-development problem, not an investment-return contest or household-data project.
 
-## Current answer
-
-The internally generated wealth path is:
+## Final answer
 
 ```text
+terminal outcomes
+=
+present life quality
++ durable economic power
++ economic autonomy
+
+wealth formation
+=
 capability
 → value creation
 → value capture
@@ -20,79 +26,67 @@ capability
 → productive ownership
 → leverage
 → compounding
-→ greater autonomy
+
+continuity constraint
+=
+ordinary failure must not destroy essential life,
+future capability, or the ability to continue
+
+allocation rule
+=
+place the next unit of time, money, attention, and control
+where it changes the current binding constraint
+by the largest durable amount
+relative to maintenance, dependence, and failure risk
 ```
-
-The dominant mechanism changes with the starting state:
-
-```text
-small capital
-→ capability, market access, captured income, and ownership formation
-
-stable surplus
-→ conversion into scalable ownership and diversified productive claims
-
-large productive base
-→ capital allocation, preservation, and compounding
-```
-
-Risk, liquidity, commitments, and recovery remain constraints on whether the path survives. They are not the primary growth engine.
-
-## Research method
-
-```text
-first-principles structure
-→ public-average magnitude check
-→ explicit assumptions
-→ competing path comparison
-→ counterexample and failure analysis
-→ conditional conclusion
-```
-
-Data may calibrate scale. Data availability may not select the research question.
 
 ## Completed sequence
 
-### E0 — problem and outcomes
+- [`E0-OUTCOME-FRAMEWORK.md`](E0-OUTCOME-FRAMEWORK.md) — terminal outcomes and hard constraints;
+- [`E1-WEALTH-FORMATION-MODEL.md`](E1-WEALTH-FORMATION-MODEL.md) — capability to value, surplus, ownership, leverage, and compounding;
+- [`E2-STAGE-AND-PATH-MODEL.md`](E2-STAGE-AND-PATH-MODEL.md) — dependence through high autonomy, classified by binding constraint;
+- [`E3-GROWTH-ENGINE-COMPARISON.md`](E3-GROWTH-ENGINE-COMPARISON.md) — absolute magnitude of earning growth, surplus, ownership, leverage, and capital return;
+- [`E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md`](E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md) — money and time by present-life, future-capability, and lock-in effects;
+- [`E5-ECONOMIC-CAPABILITY-CONVERSION.md`](E5-ECONOMIC-CAPABILITY-CONVERSION.md) — demand, proof, access, reliability, transferability, bargaining, and AI;
+- [`E6-OWNERSHIP-AND-PRODUCTIVE-LEVERAGE.md`](E6-OWNERSHIP-AND-PRODUCTIVE-LEVERAGE.md) — residual rights, replication, organization, distribution, concentration, and diversification;
+- [`E7-CAPITAL-ACCUMULATION-AND-ALLOCATION.md`](E7-CAPITAL-ACCUMULATION-AND-ALLOCATION.md) — functional capital pools, whole-system allocation, and attention thresholds;
+- [`E8-CONTINUITY-EXECUTION-AND-BEHAVIOURAL-FAILURE.md`](E8-CONTINUITY-EXECUTION-AND-BEHAVIOURAL-FAILURE.md) — repeated reset, escalation, founder dependence, action bias, and recovery;
+- [`E9-CONDITIONAL-STRATEGY-MAP.md`](E9-CONDITIONAL-STRATEGY-MAP.md) — state-dependent synthesis and complete path map;
+- [`E0-E9-CLOSEOUT.md`](E0-E9-CLOSEOUT.md) — concentrated final judgment.
 
-[`E0-OUTCOME-FRAMEWORK.md`](E0-OUTCOME-FRAMEWORK.md)
-
-Retains three terminal outcomes:
-
-- present life quality;
-- durable economic power;
-- economic autonomy.
-
-Income, saving, liquidity, capability, ownership, leverage, commitments, and risk are instruments or constraints rather than equal outcomes.
-
-### E1 — wealth formation
-
-[`E1-WEALTH-FORMATION-MODEL.md`](E1-WEALTH-FORMATION-MODEL.md)
-
-Derives the transitions from capability and value creation to capture, surplus, ownership, leverage, and compounding.
-
-### E2 — stage and path model
-
-[`E2-STAGE-AND-PATH-MODEL.md`](E2-STAGE-AND-PATH-MODEL.md)
-
-Distinguishes:
+## Stage model
 
 ```text
-dependence
-→ labour-dominant income
+economic dependence
+→ labour-dominant independent income
 → stable surplus
 → scalable ownership
 → capital- and system-dominant wealth
-→ high autonomy
+→ high economic autonomy
 ```
 
-The stage is defined by the binding constraint, not age or one wealth threshold.
+A stage changes when the binding constraint changes. It is not defined by age or one wealth number.
 
-### E3 — growth-engine comparison
+## Key retained conclusions
 
-[`E3-GROWTH-ENGINE-COMPARISON.md`](E3-GROWTH-ENGINE-COMPARISON.md)
+1. Wealth is durable and controllable command over resources and future production, not merely net worth.
+2. Value creation, value capture, surplus, ownership, leverage, and compounding are separate transitions.
+3. Capital return is proportional to the existing base; low-capital stages are usually dominated by capability, market access, recurring captured value, and ownership formation.
+4. Consumption and wealth formation are not pure opposites; some uses of money and time improve both present life and future capability.
+5. Private competence creates no automatic income; it requires valuable demand, credible proof, access, reliable delivery, and bargaining or ownership.
+6. Ownership is residual income, residual control, transfer, exit, information, maintenance, and loss exposure—not a name on an account.
+7. True productive leverage grows durable output or claims faster than permanent owner labour, maintenance, fragility, and dependence.
+8. Concentrated ownership can be rational while control and marginal creation value compensate for correlated risk; diversification becomes dominant when those advantages decline.
+9. Capital should be separated by function: continuity, options, controlled production, diversified productive claims, and protection.
+10. Active allocation must cross an attention threshold; low-frequency or no action may dominate after costs and displaced opportunities.
+11. Compounding requires avoiding repeated reset, action substitution, commitment ratchets, capability depletion, founder dependence, and platform tenancy mistaken for ownership.
+12. The final objective is not maximum capital but increasing alignment between resources and chosen action.
 
-Compares cost reduction, earning growth, productive ownership, capital compounding, leverage, and transfers using identities and public-average scale checks.
+## Public calibration
+
+- [`CHINA-BASELINE-2025.md`](CHINA-BASELINE-2025.md) — official public averages used only for scale;
+- [`china_2025_baseline.py`](china_2025_baseline.py) — reproduces the aggregate calculation;
+- [`evidence/china-2025-baseline.json`](evidence/china-2025-baseline.json) — generated public aggregate result.
 
 A recurring 12,000-yuan annual income improvement has the same one-year magnitude as return on:
 
@@ -102,80 +96,35 @@ A recurring 12,000-yuan annual income improvement has the same one-year magnitud
 
 These are equivalence calculations, not forecasts.
 
-### E4 — life quality and capability investment
+## Supporting boundaries
 
-[`E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md`](E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md)
-
-Classifies resource use by function rather than retail category:
-
-- essential maintenance;
-- restoration and present quality;
-- capability investment;
-- productive leverage;
-- pure enjoyment;
-- convenience and time substitution;
-- status and coordination;
-- lock-in;
-- leakage and destruction.
-
-The strongest uses may improve both present life and future productive capacity.
-
-### E5 — economic capability conversion
-
-[`E5-ECONOMIC-CAPABILITY-CONVERSION.md`](E5-ECONOMIC-CAPABILITY-CONVERSION.md)
-
-Explains why private competence does not automatically produce income or ownership. Durable conversion requires:
-
-```text
-competence
-→ valued demand
-→ credible proof
-→ market access
-→ reliable delivery
-→ bargaining and ownership
-→ captured value
-```
-
-In an AI-rich environment, routine execution becomes cheaper while problem selection, verification, integration, trust, distribution, accountability, and ownership become more important bottlenecks.
-
-## Supporting artefacts
-
-- [`CHINA-BASELINE-2025.md`](CHINA-BASELINE-2025.md) — official public-average calibration only;
-- [`china_2025_baseline.py`](china_2025_baseline.py) — reproduces the small aggregate calculation;
-- [`evidence/china-2025-baseline.json`](evidence/china-2025-baseline.json) — generated public aggregate result;
-- [`RISK-AND-CONTINUITY-BOUNDARY.md`](RISK-AND-CONTINUITY-BOUNDARY.md) — thin survival constraint consumed by the growth model;
-- [`E0-E3-RECONSTRUCTION.md`](E0-E3-RECONSTRUCTION.md) — why the previous E2 data program was removed;
-- [`SOURCES.md`](SOURCES.md) — evidence hierarchy and public sources.
+- [`RISK-AND-CONTINUITY-BOUNDARY.md`](RISK-AND-CONTINUITY-BOUNDARY.md) — thin survival constraint;
+- [`E0-E3-RECONSTRUCTION.md`](E0-E3-RECONSTRUCTION.md) — why the former CHFS/CFPS data direction was removed;
+- [`SOURCES.md`](SOURCES.md) — source and inference hierarchy.
 
 ## Deleted direction
 
-The former E2 CHFS/CFPS program was removed from the active repository:
+The active repository contains no:
 
-- no microdata acquisition plan;
-- no variable-map project;
-- no household-panel pipeline;
-- no synthetic survey fixtures;
-- no future respondent-level execution dependency.
+- respondent-level household-data program;
+- personal finance profile;
+- financial score;
+- portfolio optimizer;
+- permanent dashboard;
+- behavioural surveillance system;
+- universal saving or allocation rule.
 
-The implementation remains recoverable in Git history at revision `ec8142020f207f0f053e7db974d5cb47b80dbc3f`.
+The historical E2 data prototype remains recoverable at revision `ec8142020f207f0f053e7db974d5cb47b80dbc3f` but is not an active dependency.
 
-## Retained findings
+## Research boundary
 
-1. Wealth is durable and controllable command over resources and future production, not merely net worth.
-2. Creating value, capturing value, retaining surplus, and owning production are different transitions.
-3. Financial return is proportional to the capital base; small capital limits its absolute effect.
-4. Recurring income and surplus changes can dominate return optimization in early stages.
-5. Ownership is the transition from selling current labour toward residual claims.
-6. Productive leverage must increase future output or claims without proportional permanent maintenance.
-7. Present consumption and future wealth are not pure opposites; some resource uses improve both life and capability.
-8. Low-value leakage and harmful lock-in should be removed before high-value life or capability inputs.
-9. Liquidity and resilience matter because they prevent ordinary failure from ending the wealth path.
-10. The correct strategy changes when the binding constraint changes.
+This program offers a mechanism framework, not individualized financial authority.
 
-## Active frontier
+Future work must begin from:
 
-E6 should study the ownership transition:
+- a new concrete human problem;
+- a complete case that the current model ranks incorrectly;
+- a falsifier exposing a named mechanism failure;
+- a decision whose answer requires evidence not already admitted.
 
-> How can a person move from selling time and results toward owning replicable products, systems, organizations, distribution, and diversified productive claims?
-
-This remains mechanism-first. The central test is whether ownership creates durable residual claims without proportional permanent maintenance or unacceptable loss of autonomy.
+No automatic E10 is planned.

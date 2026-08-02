@@ -1,10 +1,10 @@
 # Research Program
 
-Ordivon Human is organized by concrete questions, not by completing domains or datasets.
+Ordivon Human is organized by concrete questions, not by completing domains, datasets, or numbered tracks for their own sake.
 
-## Active program — HUMAN-ECON-001
+## HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
 
-### Sustainable Personal Economic Autonomy
+**Status: E0–E9 first-principles cycle complete.**
 
 > How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
 
@@ -16,14 +16,16 @@ first-principles structure
 → explicit assumptions
 → competing path comparison
 → counterexample and failure analysis
+→ bounded evidence only when still necessary
 → conditional conclusion
+→ close, revise, or delete
 ```
 
 Data may calibrate scale. Data availability may not select the research question.
 
-## E0 — Problem and outcome definition
+## Completed E-series
 
-**Completed, reconstructed first round.**
+### E0 — Problem and outcome definition
 
 Terminal outcomes:
 
@@ -31,13 +33,9 @@ Terminal outcomes:
 - durable economic power;
 - economic autonomy.
 
-Instruments and constraints such as income, saving, liquidity, capability, ownership, leverage, commitments, and risk survive only when they change a terminal outcome through an explicit mechanism.
+Income, saving, liquidity, capability, ownership, leverage, commitments, and risk are instruments or constraints.
 
-## E1 — First-principles wealth formation
-
-**Completed, reconstructed first round.**
-
-Core chain:
+### E1 — First-principles wealth formation
 
 ```text
 capability
@@ -50,16 +48,10 @@ capability
 → autonomy
 ```
 
-The model distinguishes value created from value captured, income from surplus, saving from ownership, and ownership from scalability.
-
-## E2 — Stage and path model
-
-**Completed, reconstructed first round.**
-
-Stages are defined by the binding constraint:
+### E2 — Stage and path model
 
 ```text
-dependence
+economic dependence
 → labour-dominant independent income
 → stable surplus
 → scalable ownership
@@ -67,148 +59,120 @@ dependence
 → high economic autonomy
 ```
 
-Principal path families:
+A stage is defined by the binding constraint, not age or one wealth threshold.
 
-- professional capability compounding;
-- tool-leveraged independent production;
-- entrepreneurship and organization;
-- income-led diversified capital accumulation;
-- external transfer;
-- concentrated speculation as a contingent high-variance path.
+### E3 — Growth-engine comparison
 
-## E3 — Growth-engine comparison
+Compares cost reduction, recurring earning growth, ownership, capital compounding, productive leverage, financial leverage, and external transfer by absolute magnitude and opportunity cost.
 
-**Completed, first round.**
+### E4 — Life quality and capability-investment frontier
 
-Compares:
-
-- cost reduction;
-- recurring earning and capture growth;
-- productive ownership;
-- capital compounding;
-- productive and financial leverage;
-- external transfers.
-
-Uses mathematical identities and official public averages only for scale calibration.
-
-The current default hypothesis is:
-
-```text
-small capital
-→ capability, market access, recurring captured value, and ownership formation dominate
-
-stable surplus
-→ scalable ownership and diversified productive claims dominate
-
-large productive base
-→ allocation, preservation, and compounding dominate
-```
-
-## E4 — Life quality and capability-investment frontier
-
-**Completed, first round.**
-
-Classifies money and time by their actual function:
+Classifies money and time by:
 
 - essential maintenance;
 - restoration and present quality;
 - capability investment;
 - productive leverage;
-- pure enjoyment;
+- enjoyment;
 - convenience and time substitution;
 - status and coordination;
 - lock-in;
 - leakage and destruction.
 
-The objective is not maximum saving. It is to improve present life, future productive capacity, and ownership while removing harmful lock-in and leakage.
-
-## E5 — Economic capability conversion
-
-**Completed, first round.**
-
-Study how:
+### E5 — Economic capability conversion
 
 ```text
 competence
-× demand
-× proof
-× market access
-× reliability
-× transferability
-× bargaining and distribution
+→ valuable demand
+→ credible proof
+→ market access
+→ reliable delivery
+→ transferable control
+→ bargaining or ownership
 ```
 
-produces durable captured value.
+AI may complement capability, commoditize routine execution, enable earlier ownership, and create new provider dependence.
 
-Questions:
+### E6 — Ownership and productive leverage
 
-- which capabilities remain scarce after tools and AI diffuse;
-- how proof and reputation convert private capability into paid opportunity;
-- how local, national, and global markets change value capture;
-- when education, credentials, projects, employment, freelancing, or entrepreneurship are the strongest proof path;
-- how AI changes individual output, replaceability, and ownership opportunities;
-- when capability is transferable versus locked to one employer, platform, or institution.
+Distinguishes:
 
-## E6 — Ownership and productive leverage
+- residual income and residual control;
+- nominal title and actual transfer or exit rights;
+- self-employment and scalable ownership;
+- tool, replication, distribution, organizational, capital, and financial leverage;
+- productive concentration and destructive concentration;
+- platform tenancy and durable ownership.
 
-**Active frontier.**
+### E7 — Capital accumulation and allocation
 
-Study transitions from:
+Capital is allocated by function:
 
-```text
-selling time
-→ selling results
-→ owning replicable products
-→ owning systems and organizations
-→ owning diversified productive claims
-```
+1. continuity;
+2. options and exploration;
+3. controlled productive opportunity;
+4. diversified long-horizon productive claims;
+5. protection and liability reduction.
 
-Compare code, media, intellectual property, distribution, business equity, organizational leverage, and capital.
+Financial allocation is evaluated jointly with labour income, business ownership, housing, debt, flexibility, insurance, jurisdiction, control, and attention cost.
 
-## E7 — Capital accumulation and allocation
+### E8 — Continuity, execution, and behavioural failure
 
-Begin from an explicit productive base and surplus.
+Retains only failures capable of ending or distorting the main path:
 
-Study:
-
-- diversified productive claims;
-- concentration and correlation;
-- liquidity and time horizon;
-- costs, taxes, and maintenance;
-- debt and financial leverage;
-- when active allocation has enough expected value to justify attention.
-
-## E8 — Continuity, execution, and behavioural failure
-
-Study only the support constraints that can end or distort the main path:
-
-- ruin and repeated reset;
-- excessive commitments;
-- attention capture;
-- unstable decision rules;
-- fraud and avoidable loss;
+- repeated reset;
+- action substitution;
+- percentage blindness;
+- luck–skill attribution error;
+- loss chasing and success escalation;
+- commitment ratchet;
 - capability depletion;
-- dependence on one controller;
-- failure to convert rising income into ownership.
+- income without ownership conversion;
+- founder dependence;
+- platform tenancy mistaken for ownership;
+- attention fragmentation;
+- measurement and governance theatre;
+- AI-induced agency drift.
 
-No separate household-data platform is admitted.
+### E9 — Conditional strategy map
 
-## E9 — Conditional strategy map
-
-Produce conclusions of the form:
+Produces conclusions of the form:
 
 ```text
 starting state
 → binding constraint
 → dominant mechanism
-→ expected order of magnitude
-→ life-quality and time cost
-→ failure mode
-→ exit condition
+→ expected absolute magnitude
+→ life-quality and attention cost
+→ dependence and control
+→ failure boundary
+→ evidence and exit rule
 → next-stage transition
 ```
 
-No universal saving rate, emergency-fund duration, asset allocation, wealth target, or retirement number is presumed.
+## Final synthesis
+
+```text
+terminal outcomes
+=
+present life quality
++ durable economic power
++ economic autonomy
+
+continuity constraint
+=
+ordinary failure must not destroy essential life,
+future capability, or the ability to continue
+
+allocation rule
+=
+place the next unit of time, money, attention, and control
+where it changes the binding constraint
+by the largest durable amount
+relative to maintenance, dependence, and failure risk
+```
+
+Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
 
 ## Supporting public calibration
 
@@ -226,9 +190,7 @@ The Atlas is not a prerequisite. A category survives only when an active problem
 
 ### M0 — Measurement and inference foundations
 
-**Completed and reusable.**
-
-Covers construct validity, description/prediction/causality separation, population-to-individual inference, N-of-1 logic, model deletion, and human–AI capability measurement.
+Completed and reusable.
 
 ### M1 — Data and study design
 
@@ -240,7 +202,7 @@ Evaluate mechanism completeness, counterexamples, magnitude, transfer, subgroup 
 
 ## Admission gates
 
-A study, variable, dataset, or implementation must state:
+A new study, variable, dataset, or implementation must state:
 
 1. the core human problem;
 2. the terminal outcome or decision it changes;
@@ -249,3 +211,9 @@ A study, variable, dataset, or implementation must state:
 5. the simpler competing explanation;
 6. the life-quality, time, dependence, and ruin costs;
 7. the falsifier and deletion condition.
+
+## Next status
+
+No automatic E10 is planned.
+
+The next active research program must begin from a new concrete human problem or from evidence that the completed E0–E9 model ranks a complete case incorrectly.
