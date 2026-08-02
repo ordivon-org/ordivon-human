@@ -1,4 +1,4 @@
-# H0 Model Deletion
+# Methods M0 Model Deletion
 
 ## Problem with the initial model
 

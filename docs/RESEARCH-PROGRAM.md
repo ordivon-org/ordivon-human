@@ -1,106 +1,153 @@
 # Research Program
 
-The program is organized by questions, not by a commitment to build a permanent platform.
+The program studies the human subject first and selects methods second.
 
-## H0 — Foundations and boundary
+## H0 — Human System Map
 
-**Completed 2026-08-02.**
+**Active. P0 foundations established 2026-08-02.**
 
-H0 compared mature frameworks, tested five contrasting cases, deleted the initial ten-level hierarchy, executed a population-to-individual simulation, and defined the human–AI capability-transfer evidence boundary.
+Question:
 
-Result:
+> Which major systems are necessary to explain human functioning and development, and how do they interact across time and context?
 
-```text
-model: retained, reduced
-repository: retained, research-only
-implementation: one synthetic simulation
-platform and data collection: not admitted
-```
+System families:
+
+- body;
+- cognition;
+- emotion and motivation;
+- identity and values;
+- behaviour;
+- capability;
+- economy and resources;
+- relationships;
+- institutions and environment;
+- technology and external capability;
+- time and history as a cross-cutting axis.
+
+P0 covers Body, Cognition, Emotion/Motivation, Capability, the Atlas skeleton, and seed cross-system relations.
+
+H0 closes only after all system families have mature-framework comparisons, at least five complete human cases test the map, and unnecessary categories have been deleted.
 
 Evidence: [`../research/h0/README.md`](../research/h0/README.md).
 
-## H1 — Measurement and longitudinal evidence
+## H1 — Human Development
 
-**Ready, inactive.**
+Study how human systems form and change across the life course:
 
-Compare at least two observation methods in one bounded study and determine whether the H0 model changes an actual inference.
+- prenatal and early development;
+- childhood and adolescence;
+- adulthood and ageing;
+- sensitive periods and plasticity;
+- education, family, peers, and culture;
+- identity and capability formation;
+- cumulative advantage and disadvantage;
+- transitions, shocks, adaptation, and recovery.
 
-Key problems:
+The output should be a development graph, not a single universal stage sequence.
 
-- reliability and validity;
-- measurement invariance across people and time;
-- missingness, selection, survivorship, and reactivity;
-- sampling frequency and temporal aggregation;
-- within-person versus between-person effects;
-- linking heterogeneous observations without manufacturing precision.
+## H2 — Human Variation
 
-No general data-collection system is admitted. A study must specify objective, burden, privacy class, stopping rule, and deletion condition first.
+Study why people differ and why the same person changes:
 
-## H2 — Development, learning, and capability formation
+- inherited and developmental variation;
+- family, education, culture, place, and opportunity;
+- individual, group, cohort, period, and regional differences;
+- stable covariance versus within-person change;
+- distribution tails and heterogeneity;
+- selection and measurement effects;
+- chance events and path dependence.
 
-Study how body state, mind state, practice, feedback, education, situated resources, context, tools, and opportunity interact to produce or constrain transferable capability.
+Methods M0 supplies inference boundaries but does not determine which human differences matter.
 
-Priority comparisons:
+## H3 — Human Dynamics
 
-- test performance versus real-task transfer;
-- short-term output versus long-term learning;
-- deliberate practice versus exploration;
-- stable routines versus adaptive strategy change;
-- individual effort versus environmental opportunity;
-- joint human–AI capability versus retained human capability.
+Study recurrent dynamic structures across systems:
 
-## H3 — Resources, relationships, and institutions
+- positive and negative feedback;
+- bottlenecks and multiplicative constraints;
+- thresholds and tipping points;
+- substitution and complementarity;
+- delayed effects and carryover;
+- cumulative advantage and disadvantage;
+- exploration, exploitation, habit, and adaptation;
+- shocks, recovery, and hysteresis.
 
-Study material security, time autonomy, risk capacity, family and peer networks, organizations, norms, culture, policy, and economic conditions.
+The objective is a small library of reusable human-dynamics patterns tested against complete cases.
 
-The aim is to avoid attributing contextual effects to personality or merit while still preserving individual agency and heterogeneity.
+## H4 — Human Outcomes
 
-## H4 — Life course, shocks, resilience, and ageing
+Study outcome families and their conflicts:
 
-Study sensitive periods, cumulative advantage and disadvantage, path dependence, transitions, shocks, recovery, adaptation, decline, and cohort effects.
+- survival, health, and functioning;
+- cognition, capability, and creativity;
+- material security, time, and autonomy;
+- relationships, participation, and belonging;
+- subjective well-being and suffering;
+- status, power, contribution, meaning, and identity;
+- resilience, recovery, and future option value.
 
-The central object is a trajectory under explicit observation assumptions, not a snapshot or a permanent label.
+No universal outcome scalar is admitted. Studies must expose trade-offs, owners, time horizons, and risk bearers.
 
-## H5 — Human–AI augmentation and co-development
+## H5 — Human Change
 
-Study AI as tutor, example source, memory, collaborator, simulator, adviser, executor, social participant, institution, and source of dependence or control.
+Study how people and their conditions can change through:
 
-Priority questions:
+- nutrition, sleep, physical activity, healthcare, and recovery;
+- education, practice, feedback, and coaching;
+- psychological and behavioural intervention;
+- economic resources and social support;
+- institutional and environmental change;
+- tools, organizations, automation, and AI.
 
-- which capabilities are extended, transferred, displaced, or eroded;
-- whether human judgment improves or is merely bypassed;
-- how assistance design changes persistence and learning;
-- how dependence changes resilience and exit options;
-- how AI changes goals, identity, relationships, and institutions;
-- whether a human–AI system preserves the person's authorship and ability to refuse.
+Each intervention must specify target, mechanism, population, timing, durability, cost, reversibility, displaced outcomes, and dependence.
 
-## H6 — Individual intervention and N-of-1 research
+## H6 — Human Systems and Technology
 
-Develop statistically and ethically defensible methods for personal experiments where sample size is one but repeated observations are possible.
+Study humans embedded in larger systems:
 
-Candidate methods include:
+- families, groups, organizations, markets, cities, and states;
+- culture, law, information systems, and power;
+- language, writing, tools, machines, software, and networks;
+- distributed and externalized human capability;
+- human–AI collaboration, substitution, dependence, and co-development;
+- biotechnology and possible long-term changes in human form.
 
-- interrupted time series;
-- randomized or counterbalanced periods;
-- multiple-baseline designs;
-- micro-randomized interventions;
-- Bayesian or hierarchical updating;
-- sequential decision rules;
-- qualitative process evidence;
-- external population priors with individual calibration.
+Human–AI is an important branch, not the organizing centre of the whole project.
 
-The goal is not permanent self-surveillance. Measurement continues only while its expected decision value exceeds burden, behavioural distortion, privacy risk, and maintenance cost.
+## Methods
+
+### M0 — Measurement and Inference Foundations
+
+**Completed and reclassified from the original H0.**
+
+Covers observation, construct validity, description/prediction/causality separation, population-to-individual inference, N-of-1 logic, model deletion, and human–AI capability measurement.
+
+Evidence: [`../methods/m0/README.md`](../methods/m0/README.md).
+
+### M1 — Data and Study Design
+
+Admit only when one subject-matter study needs:
+
+- repeated or multimodal observation;
+- instrument comparison;
+- sampling, missingness, and measurement invariance analysis;
+- private-data separation and controlled derivation;
+- reproducible study-specific tooling.
+
+### M2 — Model Validation
+
+Evaluate models for explanatory value, prediction, causal identification, transfer, calibration, subgroup failure, intervention distortion, privacy leakage, and whether a simpler account performs equally well.
 
 ## Admission gates
 
-A new study, track, or implementation must state:
+A study, relation, category, dataset, or implementation must state:
 
-1. the decision or uncertainty it changes;
-2. the minimum observations required;
-3. the competing explanation or baseline;
-4. the prediction target or causal estimand;
-5. the falsification condition;
-6. the privacy and consequence class;
+1. the human phenomenon it explains;
+2. the complete case that currently consumes it;
+3. the mature framework or baseline it reuses or challenges;
+4. the minimum evidence required;
+5. the competing explanation and falsifier;
+6. privacy, consequence, burden, and reversibility;
 7. the stopping and deletion condition.
 
-“Humans are complex” is not a reason to collect everything. Complexity increases the need for question-specific selection.
+“Humans are complex” does not justify collecting or classifying everything.

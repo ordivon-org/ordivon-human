@@ -2,134 +2,183 @@
 
 ## 1. Mission
 
-Ordivon Human studies the human being as a changing system embedded in biological, physical, social, economic, institutional, cultural, technological, and historical environments.
+Ordivon Human studies the human being as a biological, cognitive, psychological, behavioural, economic, social, technological, and historical system.
 
-Its objective is not to produce a complete theory of humanity. Its objective is to build progressively better, falsifiable models that help answer:
-
-- what a person can currently do;
-- what constrains or expands that capability;
-- how the person is changing;
-- which observations are reliable;
-- which causal claims are justified;
-- which interventions improve an explicitly declared outcome;
-- what trade-offs, uncertainty, and heterogeneity remain.
-
-## 2. Unit of analysis
-
-The default unit is not an isolated static individual. It is:
+Its primary order is:
 
 ```text
-person × time × context × history × action × event
+what constitutes a human
+→ how the systems interact and develop
+→ why people and trajectories differ
+→ which outcomes emerge
+→ what can change
+→ how those claims should be measured and tested
 ```
 
-A useful human model must preserve at least four distinctions:
+Methods support this sequence. They do not replace the human subject with a study-design problem.
 
-1. **person** — biological and psychological organization, identity, capacities, preferences, and accumulated resources;
-2. **context** — relationships, institutions, physical environment, economy, culture, technology, and current opportunity set;
-3. **trajectory** — prior states, exposures, learning, shocks, path dependence, and developmental timing;
-4. **observation** — how a claim was measured, by whom, with which instrument, error, selection process, and uncertainty.
+## 2. Core questions
 
-## 3. Working dynamic model
+Ordivon Human asks:
 
-Let:
+- which systems are necessary to explain human functioning;
+- how body, cognition, emotion, motivation, identity, behaviour, and capability interact;
+- how resources, relationships, institutions, environment, and technology shape those systems;
+- how development, ageing, events, feedback, and history create trajectories;
+- why similar people diverge and different people sometimes converge;
+- which outcomes matter, to whom, and over what horizon;
+- which changes are possible, durable, reversible, or costly;
+- how human capability is distributed across persons, tools, organizations, and environments.
 
-- `S_t` be a person's latent and observed state at time `t`;
-- `E_t` be the physical, social, economic, institutional, and technological environment;
-- `A_t` be actions and behavioural patterns;
-- `X_t` be exogenous events and shocks;
-- `M_t` be measurement processes;
-- `Y_t` be outcome variables selected for one explicit research question.
+The objective is not a complete theory of humanity. It is a progressively better, falsifiable system map that changes real explanation.
 
-The project studies transitions of the form:
+## 3. Unit of analysis
+
+The default object is not an isolated static individual:
 
 ```text
-S_(t+1) = F(S_t, E_t, A_t, X_t, history, development, uncertainty)
-observed data = M_t(S_t, E_t, A_t, Y_t) + error
+human organism
+× relationships and institutions
+× physical and informational environment
+× technologies and tools
+× time and history
+× action and event
 ```
 
-`F` is not assumed to be linear, stationary, universal, or fully identifiable. Feedback, thresholds, interactions, delays, adaptation, and path dependence are expected.
+A study may focus on one scale, but it must state what is omitted.
 
-## 4. Research dimensions
+## 4. Subject-matter system families
 
-Ordivon Human may study:
+The active Human map may study:
 
-1. biological substrate and inheritance;
-2. bodily functioning, health, energy, sleep, and recovery;
-3. perception, cognition, memory, learning, emotion, motivation, and regulation;
-4. personality, identity, values, preferences, and subjective experience;
-5. behaviour, habits, decisions, and revealed trade-offs;
-6. knowledge, skills, creativity, productivity, and capability formation;
-7. income, wealth, consumption, time, risk capacity, and material security;
-8. relationships, social networks, family, organizations, institutions, and culture;
-9. physical, informational, digital, political, and technological environments;
-10. development, ageing, shocks, transitions, and complete life-course trajectories.
+1. **Body** — biological organization, bodily functioning, energy, sleep, health, recovery, development, and ageing;
+2. **Cognition** — perception, attention, memory, language, reasoning, learning, control, and metacognition;
+3. **Emotion and Motivation** — salience, valence, arousal, threat, reward, effort, persistence, stress, and regulation;
+4. **Identity and Values** — personality, self-model, preference, commitment, meaning, and life narrative;
+5. **Behaviour** — goal-directed action, habit, exploration, avoidance, persistence, interaction, and routine;
+6. **Capability** — reliable achievement, skill, execution, judgment, transfer, adaptation, coordination, tool use, and recovery;
+7. **Economy and Resources** — income, wealth, debt, time, housing, equipment, access, and risk buffer;
+8. **Relationships** — attachment, family, peers, support, trust, status, exchange, influence, and conflict;
+9. **Institutions and Environment** — education, healthcare, labour, law, culture, place, ecology, information, and historical opportunity;
+10. **Technology and External Capability** — language, writing, artefacts, machines, software, organizations, networks, automation, and AI;
+11. **Time and History** — development, ageing, cumulative exposure, learning, shocks, recovery, and path dependence across all systems.
 
-These dimensions are analytical views, not independent compartments.
+These are analytical views, not independent compartments or a mandatory ontology.
 
-## 5. Outcome pluralism
+## 5. Minimum distinctions
 
-No universal scalar objective is accepted by default.
+A credible Human account should not conflate:
 
-Possible outcomes include survival, health, functioning, agency, autonomy, capability, learning, material security, relationships, participation, subjective well-being, creation, contribution, and meaning. A study must declare:
+- structure with current state;
+- state with action;
+- capacity with observed performance;
+- internal skill with supported or joint-system capability;
+- context with personal trait;
+- outcome with measurement;
+- population distribution with individual trajectory;
+- prediction with causal explanation;
+- empirical result with value judgment.
 
-- whose outcome is being optimized;
-- over what time horizon;
-- under which value assumptions;
-- which costs and displaced outcomes are counted;
-- who bears the risk;
-- whether the change is reversible.
+A person is not the sum of database fields. Observations are partial evidence produced by instruments, settings, observers, incentives, and selection processes.
 
-## 6. Epistemic rules
+## 6. Dynamic principle
 
-1. **Population distributions do not determine individuals.** Group statistics update priors; they do not erase individual evidence.
-2. **Correlation is not causation.** Prediction, explanation, intervention, and moral judgment are separate tasks.
-3. **A proxy is not the construct.** Income is not freedom; test score is not intelligence; engagement is not well-being; body mass is not health.
-4. **Self-report is evidence, not ground truth or noise.** Behavioural, physiological, administrative, digital, and reported measures each have distinct failure modes.
-5. **Trait, state, context, event, and trajectory must not be conflated.** Stability is an empirical claim.
-6. **Measurement changes behaviour.** Tracking, scoring, feedback, and model predictions can alter the person and the environment being studied.
-7. **Missingness and selection are causal facts.** Who is measured, who remains, and who drops out can dominate conclusions.
-8. **No precision theatre.** More variables, decimals, dashboards, or model parameters do not create more truth.
-9. **No premature ontology.** A field or abstraction is retained only when it prevents a demonstrated analytical failure or enables a real study.
-10. **Models remain contestable.** A person has the right to reject, correct, contextualize, or exit a model applied to them.
+Human systems are expected to contain:
 
-## 7. Human–AI boundary
+- feedback loops;
+- bottlenecks and multiplicative constraints;
+- thresholds and nonlinear response;
+- adaptation and compensation;
+- substitution and complementarity;
+- delay and carryover;
+- cumulative advantage and disadvantage;
+- sensitive periods;
+- path dependence, shock, and recovery;
+- heterogeneity across people and contexts.
 
-Ordivon Human studies AI as part of the human environment and, increasingly, as a cognitive and action multiplier.
+No linear cause list or one-score model is presumed sufficient.
 
-It asks whether AI:
+## 7. Outcome pluralism
 
-- expands memory, learning, judgment, creativity, and execution;
-- redistributes capability and access;
-- creates dependence, deskilling, persuasion, surveillance, or concentration of control;
-- changes identity, relationships, institutions, labour, and development;
-- enables a durable human–machine composite without silently replacing the person's goals.
+No universal scalar objective is accepted.
 
-Human augmentation is not defined as maximizing time spent with AI or maximizing task output. The retained criterion is increased durable agency under explicit values and acceptable dependence.
+Possible outcome families include:
 
-## 8. Privacy and consequence boundary
+- survival, health, and functioning;
+- cognition, capability, creativity, and learning;
+- material security, time, autonomy, and future option value;
+- relationships, belonging, participation, and recognition;
+- subjective well-being and suffering;
+- contribution, status, power, meaning, and identity;
+- resilience, recovery, and adaptability.
 
-The public repository contains frameworks, methods, synthetic examples, aggregate evidence, and legally reusable source material.
+A study must declare:
 
-It does not contain identifiable personal health, financial, behavioural, relationship, location, biometric, genomic, or private conversational data. Any future private study must separate:
+- whose outcome is considered;
+- the time horizon;
+- the value assumptions;
+- displaced outcomes and opportunity costs;
+- who bears risk;
+- whether change is reversible.
+
+## 8. Methods boundary
+
+Measurement, causal inference, longitudinal design, N-of-1 methods, model comparison, and data engineering belong under `methods/`.
+
+A method enters the active path only when one subject question requires it. Methodological sophistication does not compensate for an undefined human phenomenon.
+
+Core epistemic rules remain:
+
+1. population distributions do not determine individuals;
+2. correlation, prediction, mechanism, intervention, and moral judgment are distinct;
+3. a proxy is not the construct;
+4. self-report, behaviour, physiology, administrative records, and digital traces have different failure modes;
+5. measurement can change behaviour;
+6. missingness and selection are substantive facts;
+7. more variables and decimals do not create more truth;
+8. models remain contestable and revisable.
+
+## 9. Technology and AI boundary
+
+Technology is studied as part of the human system because human capability has long been distributed through language, writing, tools, organizations, infrastructure, and machines.
+
+AI is one important branch. Ordivon Human may ask whether AI:
+
+- expands memory, learning, judgment, creativity, coordination, and execution;
+- changes which capabilities remain internal, external, or jointly distributed;
+- creates dependence, deskilling, manipulation, surveillance, or concentrated control;
+- alters identity, relationships, labour, institutions, and development;
+- preserves goal authorship, verification, refusal, replacement, and exit.
+
+AI does not organize the whole Human project, and output maximization is not a universal human objective.
+
+## 10. Privacy and consequence boundary
+
+The public repository may contain frameworks, methods, synthetic examples, aggregate evidence, and legally reusable source material.
+
+It does not contain identifiable personal health, financial, behavioural, relationship, location, biometric, genomic, or private conversational data.
+
+Any future private study must separate:
 
 ```text
-public methods
-private raw observations
-controlled derived data
-publishable aggregate evidence
+public question and method
+private raw observation
+controlled derived analysis
+reviewed aggregate evidence
 ```
 
 Medical, legal, employment, insurance, credit, education-admission, policing, or other high-consequence decisions require domain-specific authority and evidence outside this repository.
 
-## 9. Implementation admission
+## 11. Implementation admission
 
-A new collector, schema, database, service, model, dashboard, benchmark, or governance process is admitted only when:
+A collector, schema, database, service, model, dashboard, benchmark, or governance process is admitted only when:
 
-1. a named research question requires it;
-2. mature tools cannot perform the work with acceptable cost and fidelity;
-3. the minimum necessary data are identified;
-4. measurement error and privacy consequences are explicit;
-5. deletion or exit remains possible;
-6. the expected information gain exceeds maintenance and governance cost.
+1. a named human phenomenon and study require it;
+2. a complete case currently consumes it;
+3. mature tools cannot perform the work with acceptable cost and fidelity;
+4. the minimum necessary data are identified;
+5. measurement and privacy consequences are explicit;
+6. deletion, refusal, and exit remain possible;
+7. expected information gain exceeds maintenance and governance cost.
 
-The default H0 implementation is documents, analysis notebooks outside the public repository when needed, and small reproducible experiments. A permanent platform is not presumed.
+The default implementation is research text, bounded analysis, and small reproducible experiments. A permanent Human platform is not presumed.

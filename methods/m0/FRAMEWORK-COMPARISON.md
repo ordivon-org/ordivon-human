@@ -1,6 +1,6 @@
-# Framework Comparison
+# Methods M0 Framework Comparison
 
-**H0 status:** the detailed case matrix and deletion result are now in [`../research/h0/FRAMEWORK-COMPOSITION.md`](../research/h0/FRAMEWORK-COMPOSITION.md) and [`../research/h0/MODEL-DELETION.md`](../research/h0/MODEL-DELETION.md).
+The detailed case matrix and deletion result are in [`FRAMEWORK-COMPOSITION.md`](FRAMEWORK-COMPOSITION.md) and [`MODEL-DELETION.md`](MODEL-DELETION.md).
 
 Ordivon Human begins by composing mature frameworks rather than inventing a proprietary taxonomy.
 

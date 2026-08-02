@@ -1,4 +1,4 @@
-# H0 Human–AI Capability Transfer
+# Methods M0 Human–AI Capability Transfer
 
 ## Problem
 

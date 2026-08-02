@@ -1,4 +1,4 @@
-# H0 Population-to-Individual Demonstration
+# Methods M0 Population-to-Individual Demonstration
 
 ## Purpose
 
@@ -65,7 +65,7 @@ It also sets a limit: personal intervention research should not begin merely bec
 ## Reproduction
 
 ```bash
-python3 research/h0/simulate_population_to_individual.py
+python3 methods/m0/simulate_population_to_individual.py
 ```
 
 The script uses only the Python standard library, writes [`evidence/population-to-individual.json`](evidence/population-to-individual.json), and contains assertions for the intended sign reversal, heterogeneity, and estimator accuracy.

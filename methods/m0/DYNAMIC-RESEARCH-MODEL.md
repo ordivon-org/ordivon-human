@@ -1,10 +1,10 @@
-# Human Model
+# Dynamic Research Model
 
-**H0 retained model — 2026-08-02.**
+**Methods M0 retained model — 2026-08-02.**
 
 The initial ten-level hierarchy has been superseded by a smaller dynamic model. H0 showed that the hierarchy mixed state domains, actions, context, time, measurement, and study-specific causal roles on one axis.
 
-See [`../research/h0/MODEL-DELETION.md`](../research/h0/MODEL-DELETION.md) for the deletion evidence.
+See [`MODEL-DELETION.md`](MODEL-DELETION.md) for the deletion evidence.
 
 ## 1. Unit of analysis
 
@@ -188,7 +188,7 @@ The model distinguishes:
 
 Population statistics can update a prior for one person. They do not determine personal causal response. H0's synthetic demonstration produced an observational association opposite in sign to the true population effect, while two individual effects had opposite signs.
 
-See [`../research/h0/POPULATION-TO-INDIVIDUAL.md`](../research/h0/POPULATION-TO-INDIVIDUAL.md).
+See [`POPULATION-TO-INDIVIDUAL.md`](POPULATION-TO-INDIVIDUAL.md).
 
 ## 11. Human–AI distinction
 
@@ -203,7 +203,7 @@ human agency, replacement, refusal, and exit
 
 Immediate assisted task success is evidence only for the first two. Durable human augmentation requires measurements appropriate to the declared objective.
 
-See [`../research/h0/HUMAN-AI-CAPABILITY-TRANSFER.md`](../research/h0/HUMAN-AI-CAPABILITY-TRANSFER.md).
+See [`HUMAN-AI-CAPABILITY-TRANSFER.md`](HUMAN-AI-CAPABILITY-TRANSFER.md).
 
 ## 12. Minimum useful study record
 
