@@ -6,7 +6,7 @@
 
 **Question:** How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-**Status:** First-principles cycle completed 2026-08-02; practical E0–E9 reconstruction completed 2026-08-03.
+**Status:** First-principles cycle completed 2026-08-02; practical E0–E9 reconstruction completed and CASE-001 constructed 2026-08-03.
 
 **Active practical path:**
 
@@ -51,6 +51,12 @@ current state
 **Evidence and derivation:** [`economy/README.md`](economy/README.md).
 
 **Closeout:** [`economy/E0-E9-CLOSEOUT.md`](economy/E0-E9-CLOSEOUT.md).
+
+**Active validation case:** [`economy/cases/CASE-001-STUDENT-BUILDER.md`](economy/cases/CASE-001-STUDENT-BUILDER.md).
+
+CASE-001 tests whether a student with substantial AI-assisted technical output but no stable independent market exchange should prioritize narrow external proof and retained capability over more project breadth or small-capital return optimization.
+
+Scheduled reviews: 2026-09-02, 2026-10-02, and 2026-11-01.
 
 ## Active E-series questions
 

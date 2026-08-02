@@ -95,6 +95,18 @@ Use evidence ladders, exposure boundaries, stop rules, careful outcome attributi
 
 Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
 
+## Active complete-case validation
+
+[`../research/economy/cases/CASE-001-STUDENT-BUILDER.md`](../research/economy/cases/CASE-001-STUDENT-BUILDER.md) applies E0–E9 to a privacy-reduced current case with:
+
+- strong self-directed and AI-assisted technical output;
+- no stable independent market exchange;
+- family-supported basic life and small self-controlled capital;
+- competing university, software-foundation, English, project, and market-attention demands;
+- repeated speculative resets.
+
+The initial diagnosis is that the first unsupported transition is narrow externally trusted proof, not additional project breadth or capital-return optimization. Reviews are scheduled for 2026-09-02, 2026-10-02, and 2026-11-01.
+
 ## Case-admission standard
 
 A practical case must state:

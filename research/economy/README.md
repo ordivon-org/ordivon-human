@@ -1,6 +1,6 @@
 # HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 practical reconstruction completed 2026-08-03.**
+**Status: E0–E9 practical reconstruction completed; CASE-001 constructed 2026-08-03.**
 
 ## Core question
 
@@ -62,6 +62,23 @@ They are designed to show feasible reasoning, not to claim population evidence. 
 - the signal that would invalidate or change it.
 
 The cases deliberately avoid exceptional success assumptions.
+
+## Complete-case validation
+
+The series is now being tested against privacy-reduced complete cases:
+
+- [`cases/README.md`](cases/README.md) — case protocol, privacy boundary, and status rules;
+- [`cases/CASE-001-STUDENT-BUILDER.md`](cases/CASE-001-STUDENT-BUILDER.md) — a current student-builder case with strong AI-assisted technical output, no stable independent market exchange, small capital, family-supported basic life, and repeated speculative resets.
+
+CASE-001 currently ranks the first unsupported transition as:
+
+```text
+substantial technical output
+→ one narrow result that an external party can understand,
+trust, use, and request again
+```
+
+The first scheduled evidence review is 2026-09-02.
 
 ## Retained first-principles mechanism
 

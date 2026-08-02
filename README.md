@@ -72,6 +72,10 @@ Each chapter now includes several composite cases with a realistic starting cond
 
 Current research index: [`research/economy/README.md`](research/economy/README.md).
 
+The first complete-case validation is active:
+
+- [`CASE-001`](research/economy/cases/CASE-001-STUDENT-BUILDER.md) — a privacy-reduced student-builder case testing whether narrow external proof and retained capability should dominate further project expansion and small-capital return optimization.
+
 No automatic E10 is planned. Future work requires a new concrete problem or a complete case that exposes a named failure in the current model.
 
 ## Deleted direction
