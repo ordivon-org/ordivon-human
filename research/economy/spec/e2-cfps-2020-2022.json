@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "study": "HUMAN-ECON-001-E2",
+  "source": "CFPS official 2020 and 2022 English codebooks",
+  "waves": {
+    "2020": {
+      "householdId": "FID20",
+      "panelLinkId": "FID20",
+      "familySize": "FAMILYSIZE20",
+      "candidateWeight": "FSWT_NATCS20N"
+    },
+    "2022": {
+      "householdId": "FID22",
+      "panelLinkId": "FID20",
+      "familySize": "FAMILYSIZE22",
+      "candidateWeight": "FSWT_NATCS22N"
+    }
+  },
+  "variables": {
+    "income": "FINCOME1",
+    "totalExpenditure": "FEXP1",
+    "consumption": "PCE",
+    "cashDeposits": "SAVINGS",
+    "financialAssets": "FINANCE_ASSET",
+    "nonHousingDebt": "NONHOUSING_DEBTS",
+    "housingDebt": "HOUSE_DEBTS",
+    "netHousingAssets": "HOUSEASSET_NET",
+    "grossHousingAssets": "HOUSEASSET_GROSS",
+    "netFamilyAssets": "TOTAL_ASSET",
+    "foodExpenditure": "FOOD",
+    "housingExpenditure": "HOUSE",
+    "medicalExpenditure": "MED",
+    "educationEntertainmentExpenditure": "EEC",
+    "transportCommunicationExpenditure": "TRCO"
+  },
+  "definitions": {
+    "cashConstraint": "cashDeposits <= 0.5 * income / 12",
+    "broadNetLiquidityProxy": "financialAssets - nonHousingDebt",
+    "broadConstraint": "broadNetLiquidityProxy <= 0.5 * income / 12",
+    "illiquidNetResidualProxy": "netFamilyAssets - broadNetLiquidityProxy",
+    "wealthyConstrained": "constrained and illiquidNetResidualProxy > 0",
+    "poorConstrained": "constrained and illiquidNetResidualProxy <= 0",
+    "cashRunwayMonths": "cashDeposits / (consumption / 12)"
+  },
+  "warnings": [
+    "The broad-net-liquidity proxy is not an exact hand-to-mouth replication because NONHOUSING_DEBTS is broader than liquid or credit-card debt.",
+    "FINANCE_ASSET may include components with different liquidation times and costs.",
+    "TOTAL_ASSET is a constructed net-family-asset measure and does not identify member-level control.",
+    "Candidate weights require validation against the official CFPS manual before publication.",
+    "Negative survey codes are missing states and must not be interpreted as monetary values."
+  ]
+}

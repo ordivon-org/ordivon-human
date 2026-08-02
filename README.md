@@ -24,12 +24,16 @@ The Human System Atlas and Methods are supporting resources. They do not determi
 
 > From the point at which a person can independently decide income, consumption, debt, saving, work, and investment, how can they accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
 
-The first evidence round has completed:
+The active study has completed E0–E1 and the public phase of E2:
 
 - an [`outcome framework`](research/economy/E0-OUTCOME-FRAMEWORK.md) separating wealth, quality of life, liquidity, capability, commitments, autonomy, and recovery;
 - a [`personal economic state model`](research/economy/E1-STATE-MODEL.md);
-- an [`evidence review`](research/economy/EVIDENCE-REVIEW-001.md) covering liquidity, commitments, whole-balance-sheet saving, human capital, and asset-return decomposition;
-- a reproducible [`China 2025 baseline`](research/economy/CHINA-BASELINE-2025.md).
+- two evidence reviews covering household finance and [`China-specific liquidity, housing, and debt`](research/economy/EVIDENCE-REVIEW-002-CHINA-LIQUIDITY.md);
+- a reproducible [`China 2025 aggregate baseline`](research/economy/CHINA-BASELINE-2025.md);
+- an official [`CFPS 2020–2022 variable map`](research/economy/CFPS-VARIABLE-MAP-2020-2022.md);
+- a tested, aggregate-only [`E2 analysis pipeline`](research/economy/e2_cfps_balance_sheet.py) with synthetic and Stata-input acceptance tests.
+
+Authorized CHFS/CFPS respondent-level execution remains pending; no current prevalence is claimed without it.
 
 Current research index: [`research/economy/README.md`](research/economy/README.md).
 

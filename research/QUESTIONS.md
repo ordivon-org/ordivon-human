@@ -6,27 +6,31 @@
 
 **Question:** From the point at which a person can independently decide income, consumption, debt, saving, work, and investment, how can they accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
 
-**Current status:** E0 outcome framework and E1 state model completed; first evidence review and China 2025 aggregate baseline completed.
+**Current status:** E0–E1 completed. E2 public evidence, official CFPS variable map, and aggregate analysis protocol completed; authorized CHFS/CFPS respondent-level execution remains pending.
 
-**First-round retained findings:**
+**Retained findings:**
 
-- income, consumption, wealth, and liquidity are distinct;
-- liquidity has independent causal importance;
+- income, consumption, wealth, debt, liquidity, authority, and quality of life are distinct;
+- liquidity has independent value even when net worth is positive;
+- historical CHFS evidence shows wealthy hand-to-mouth households were much more common than net-worth-only fragility measures implied;
+- commitment timing, mortgage state, and housing tenure materially change shock capacity;
 - visible saving can be offset by debt elsewhere on the balance sheet;
-- inflexible commitments change risk capacity and exit power;
+- total consumption can conceal cuts to food, education, health, or capability-building expenditure;
 - human capital and labour-income correlation invalidate age-only risk rules;
-- active saving, valuation gains, and transfers must be separated;
-- Chinese national averages cannot identify household accumulation or fragility.
+- active saving, valuation gains, leverage, and transfers must be separated;
+- negative net assets, household splits, missing codes, and weight selection require explicit handling;
+- current Chinese prevalence cannot be claimed before approved recent microdata execution.
 
 **Evidence:** [`economy/README.md`](economy/README.md).
 
 **Next falsifiers and tests:**
 
-1. a smaller conventional household-finance model explains autonomy without commitment, control, quality, or option variables;
-2. CHFS data show that liquidity and commitment structure add no predictive value for shock response after net worth and income;
-3. CFPS data show no meaningful trade-off or complementarity between consumption categories, life quality, and later capability;
-4. early-stage wealth changes are not materially decomposable into earnings growth, active saving, transfers, leverage, and valuation;
-5. autonomy proxies fail construct validation against real refusal, exit, relocation, or retraining events.
+1. recent CHFS/CFPS estimates show that liquidity and commitment structure add no explanatory value after income and net worth;
+2. wealthy-constrained prevalence disappears under defensible alternative liquid-debt and illiquid-wealth definitions;
+3. mortgage, rental, and outright-ownership states do not differ in shock adjustment after relevant controls;
+4. category-level consumption changes show no meaningful relationship with later health, capability, or well-being;
+5. early-stage wealth changes are not materially decomposable into earnings growth, active saving, transfers, leverage, and valuation;
+6. autonomy proxies fail construct validation against refusal, exit, relocation, retraining, or recovery events.
 
 ## Supporting Human System Atlas
 

@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "kind": "ordivon-human-e2-cfps-aggregate",
+  "generatedAt": "2026-08-02T05:42:24.862155+00:00",
+  "study": "HUMAN-ECON-001-E2",
+  "inputs": {
+    "2020": {
+      "fileName": "cfps-e2-2020-synthetic.csv",
+      "sha256": "a34e8f9ab8b8a36e0d15592c0e5db34eeab61c8ba5665da5c34085314bb3d3d8",
+      "rowsRead": 16
+    },
+    "2022": {
+      "fileName": "cfps-e2-2022-synthetic.csv",
+      "sha256": "20d88e56fba18d90292b96ee8d75971abd04a3308b34375fc662474421d6878c",
+      "rowsRead": 16
+    },
+    "spec": {
+      "fileName": "e2-cfps-2020-2022.json",
+      "sha256": "2c8f9f6cb66786cc1248b0fdff86e6371f7d06a59064c779961eaad8f2a5a203"
+    }
+  },
+  "weights": {
+    "2020": "FSWT_NATCS20N",
+    "2022": "FSWT_NATCS22N",
+    "note": "No candidate CFPS weight is selected automatically. Validate official household and longitudinal weights before publication."
+  },
+  "definitions": {
+    "cashConstraint": "cashDeposits <= 0.5 * income / 12",
+    "broadNetLiquidityProxy": "financialAssets - nonHousingDebt",
+    "broadConstraint": "broadNetLiquidityProxy <= 0.5 * income / 12",
+    "illiquidNetResidualProxy": "netFamilyAssets - broadNetLiquidityProxy",
+    "wealthyConstrained": "constrained and illiquidNetResidualProxy > 0",
+    "poorConstrained": "constrained and illiquidNetResidualProxy <= 0",
+    "cashRunwayMonths": "cashDeposits / (consumption / 12)"
+  },
+  "waves": {
+    "2020": {
+      "rows": 16,
+      "uniqueHouseholdIds": 16,
+      "cashConstraint": {
+        "numerator": 8,
+        "denominator": 15,
+        "unweightedShare": 0.5333333333333333,
+        "weightedShare": 0.5333333333333333
+      },
+      "broadConstraint": {
+        "numerator": 4,
+        "denominator": 16,
+        "unweightedShare": 0.25,
+        "weightedShare": 0.25
+      },
+      "cashStatus": {
+        "non_constrained": {
+          "count": 7,
+          "share": 0.4375,
+          "weightedShare": 0.4375
+        },
+        "wealthy_constrained": {
+          "count": 6,
+          "share": 0.375,
+          "weightedShare": 0.375
+        },
+        "poor_constrained": {
+          "count": 2,
+          "share": 0.125,
+          "weightedShare": 0.125
+        },
+        "unknown": {
+          "count": 1,
+          "share": 0.0625,
+          "weightedShare": 0.0625
+        }
+      },
+      "broadStatus": {
+        "non_constrained": {
+          "count": 12,
+          "share": 0.75,
+          "weightedShare": 0.75
+        },
+        "wealthy_constrained": {
+          "count": 2,
+          "share": 0.125,
+          "weightedShare": 0.125
+        },
+        "poor_constrained": {
+          "count": 2,
+          "share": 0.125,
+          "weightedShare": 0.125
+        },
+        "unknown": {
+          "count": 0,
+          "share": 0.0,
+          "weightedShare": 0.0
+        }
+      },
+      "distributions": {
+        "income": {
+          "valid": 16,
+          "p10": 54000.0,
+          "p25": 81000.0,
+          "median": 115000.0,
+          "p75": 185000.0,
+          "p90": 270000.0,
+          "weightedMedian": 110000.0
+        },
+        "cash": {
+          "valid": 15,
+          "p10": 1400.0,
+          "p25": 2500.0,
+          "median": 5000.0,
+          "p75": 10500.0,
+          "p90": 23999.999999999993,
+          "weightedMedian": 5000.0
+        },
+        "financial_assets": {
+          "valid": 16,
+          "p10": 2000.0,
+          "p25": 4750.0,
+          "median": 13500.0,
+          "p75": 21250.0,
+          "p90": 55000.0,
+          "weightedMedian": 12000.0
+        },
+        "broad_net_liquidity": {
+          "valid": 16,
+          "p10": -4250.0,
+          "p25": 4500.0,
+          "median": 13500.0,
+          "p75": 21250.0,
+          "p90": 47500.0,
+          "weightedMedian": 12000.0
+        },
+        "illiquid_net_residual": {
+          "valid": 16,
+          "p10": -500.0,
+          "p25": 42000.0,
+          "median": 271000.0,
+          "p75": 901250.0,
+          "p90": 1402500.0,
+          "weightedMedian": 218000.0
+        },
+        "total_assets": {
+          "valid": 16,
+          "p10": -5500.0,
+          "p25": 57000.0,
+          "median": 280000.0,
+          "p75": 925000.0,
+          "p90": 1440000.0,
+          "weightedMedian": 230000.0
+        },
+        "total_debt": {
+          "valid": 16,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 6500.0,
+          "p75": 266250.0,
+          "p90": 455000.0,
+          "weightedMedian": 6000.0
+        },
+        "consumption": {
+          "valid": 16,
+          "p10": 47500.0,
+          "p25": 55000.0,
+          "median": 72500.0,
+          "p75": 104500.0,
+          "p90": 150000.0,
+          "weightedMedian": 70000.0
+        },
+        "cash_runway_months": {
+          "valid": 15,
+          "p10": 0.29330024813895783,
+          "p25": 0.4222222222222222,
+          "median": 0.6101694915254237,
+          "p75": 2.1085714285714285,
+          "p90": 2.2227272727272727,
+          "weightedMedian": 0.6101694915254237
+        },
+        "debt_to_income": {
+          "valid": 15,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.125,
+          "p75": 1.1930555555555555,
+          "p90": 1.6866666666666665,
+          "weightedMedian": 0.125
+        },
+        "housing_expenditure_share": {
+          "valid": 15,
+          "p10": 0.12717948717948718,
+          "p25": 0.13944444444444445,
+          "median": 0.15,
+          "p75": 0.16515151515151516,
+          "p90": 0.16666666666666666,
+          "weightedMedian": 0.15
+        }
+      },
+      "missingness": {
+        "income": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "cash": {
+          "missing": 1,
+          "share": 0.0625
+        },
+        "financial_assets": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "nonhousing_debt": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "housing_debt": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "total_assets": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "consumption": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "family_size": {
+          "missing": 0,
+          "share": 0.0
+        }
+      }
+    },
+    "2022": {
+      "rows": 16,
+      "uniqueHouseholdIds": 16,
+      "cashConstraint": {
+        "numerator": 9,
+        "denominator": 16,
+        "unweightedShare": 0.5625,
+        "weightedShare": 0.5625
+      },
+      "broadConstraint": {
+        "numerator": 4,
+        "denominator": 16,
+        "unweightedShare": 0.25,
+        "weightedShare": 0.25
+      },
+      "cashStatus": {
+        "non_constrained": {
+          "count": 7,
+          "share": 0.4375,
+          "weightedShare": 0.4375
+        },
+        "wealthy_constrained": {
+          "count": 7,
+          "share": 0.4375,
+          "weightedShare": 0.4375
+        },
+        "poor_constrained": {
+          "count": 2,
+          "share": 0.125,
+          "weightedShare": 0.125
+        },
+        "unknown": {
+          "count": 0,
+          "share": 0.0,
+          "weightedShare": 0.0
+        }
+      },
+      "broadStatus": {
+        "non_constrained": {
+          "count": 12,
+          "share": 0.75,
+          "weightedShare": 0.75
+        },
+        "wealthy_constrained": {
+          "count": 2,
+          "share": 0.125,
+          "weightedShare": 0.125
+        },
+        "poor_constrained": {
+          "count": 2,
+          "share": 0.125,
+          "weightedShare": 0.125
+        },
+        "unknown": {
+          "count": 0,
+          "share": 0.0,
+          "weightedShare": 0.0
+        }
+      },
+      "distributions": {
+        "income": {
+          "valid": 16,
+          "p10": 57500.0,
+          "p25": 81250.0,
+          "median": 115000.0,
+          "p75": 195000.0,
+          "p90": 242500.0,
+          "weightedMedian": 105000.0
+        },
+        "cash": {
+          "valid": 16,
+          "p10": 900.0,
+          "p25": 1750.0,
+          "median": 4500.0,
+          "p75": 13500.0,
+          "p90": 18000.0,
+          "weightedMedian": 4000.0
+        },
+        "financial_assets": {
+          "valid": 16,
+          "p10": 1500.0,
+          "p25": 6250.0,
+          "median": 14000.0,
+          "p75": 25000.0,
+          "p90": 40000.0,
+          "weightedMedian": 14000.0
+        },
+        "broad_net_liquidity": {
+          "valid": 16,
+          "p10": -4500.0,
+          "p25": 3500.0,
+          "median": 11500.0,
+          "p75": 23500.0,
+          "p90": 38500.0,
+          "weightedMedian": 9000.0
+        },
+        "illiquid_net_residual": {
+          "valid": 16,
+          "p10": 1000.0,
+          "p25": 98000.0,
+          "median": 385500.0,
+          "p75": 864250.0,
+          "p90": 1370000.0,
+          "weightedMedian": 346000.0
+        },
+        "total_assets": {
+          "valid": 16,
+          "p10": 8000.0,
+          "p25": 105250.0,
+          "median": 395000.0,
+          "p75": 880000.0,
+          "p90": 1385000.0,
+          "weightedMedian": 360000.0
+        },
+        "total_debt": {
+          "valid": 16,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 7000.0,
+          "p75": 238500.0,
+          "p90": 450000.0,
+          "weightedMedian": 5000.0
+        },
+        "consumption": {
+          "valid": 16,
+          "p10": 47000.0,
+          "p25": 55750.0,
+          "median": 75000.0,
+          "p75": 108500.0,
+          "p90": 149000.0,
+          "weightedMedian": 70000.0
+        },
+        "cash_runway_months": {
+          "valid": 16,
+          "p10": 0.19965694682675816,
+          "p25": 0.31535862785862784,
+          "median": 0.5736263736263736,
+          "p75": 1.5537782680639822,
+          "p90": 2.602787456445993,
+          "weightedMedian": 0.4615384615384615
+        },
+        "debt_to_income": {
+          "valid": 16,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.18846153846153846,
+          "p75": 1.2529069767441863,
+          "p90": 2.2742919389978216,
+          "weightedMedian": 0.07692307692307693
+        },
+        "housing_expenditure_share": {
+          "valid": 16,
+          "p10": 0.12571428571428572,
+          "p25": 0.14175824175824175,
+          "median": 0.15598290598290598,
+          "p75": 0.21127450980392157,
+          "p90": 0.22333333333333333,
+          "weightedMedian": 0.15555555555555556
+        }
+      },
+      "missingness": {
+        "income": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "cash": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "financial_assets": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "nonhousing_debt": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "housing_debt": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "total_assets": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "consumption": {
+          "missing": 0,
+          "share": 0.0
+        },
+        "family_size": {
+          "missing": 0,
+          "share": 0.0
+        }
+      }
+    }
+  },
+  "panel2020to2022": {
+    "baselineHouseholds": 16,
+    "followupLinkedHouseholds": 16,
+    "followupRowsWithPanelLink": 16,
+    "oneToOneFollowupLinks": 16,
+    "splitHouseholdLinks": 0,
+    "splitFollowupRows": 0,
+    "matchedOneToOneHouseholds": 16,
+    "baselineNotMatchedOneToOne": 0,
+    "followupLinksWithoutBaseline": 0,
+    "panelRule": "Primary transitions include only one-to-one 2020-to-2022 household links. Split links are reported and excluded rather than silently selected.",
+    "cashStatusTransitions": {
+      "cells": [
+        {
+          "from": "non_constrained",
+          "to": "non_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.1875
+        },
+        {
+          "from": "non_constrained",
+          "to": "wealthy_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.25
+        },
+        {
+          "from": "wealthy_constrained",
+          "to": "non_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.25
+        },
+        {
+          "from": "wealthy_constrained",
+          "to": "wealthy_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.125
+        },
+        {
+          "from": "poor_constrained",
+          "to": "poor_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.125
+        },
+        {
+          "from": "unknown",
+          "to": "wealthy_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.0625
+        }
+      ],
+      "rawTotal": 16,
+      "suppressionThreshold": 5
+    },
+    "broadStatusTransitions": {
+      "cells": [
+        {
+          "from": "non_constrained",
+          "to": "non_constrained",
+          "count": 10,
+          "display": "10",
+          "baselineWeightedShare": 0.625
+        },
+        {
+          "from": "non_constrained",
+          "to": "wealthy_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.125
+        },
+        {
+          "from": "wealthy_constrained",
+          "to": "non_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.125
+        },
+        {
+          "from": "poor_constrained",
+          "to": "poor_constrained",
+          "count": null,
+          "display": "<5",
+          "baselineWeightedShare": 0.125
+        }
+      ],
+      "rawTotal": 16,
+      "suppressionThreshold": 5
+    },
+    "changes": {
+      "income": {
+        "valid": 16,
+        "p10": -30000.0,
+        "p25": -15000.0,
+        "median": 10000.0,
+        "p75": 18750.0,
+        "p90": 35000.0,
+        "weightedMedian": 10000.0
+      },
+      "cash": {
+        "valid": 15,
+        "p10": -8800.0,
+        "p25": -1250.0,
+        "median": 500.0,
+        "p75": 6250.0,
+        "p90": 11200.0,
+        "weightedMedian": 500.0
+      },
+      "financial_assets": {
+        "valid": 16,
+        "p10": -13500.0,
+        "p25": -2750.0,
+        "median": 2500.0,
+        "p75": 6500.0,
+        "p90": 20000.0,
+        "weightedMedian": 2000.0
+      },
+      "broad_net_liquidity": {
+        "valid": 16,
+        "p10": -14500.0,
+        "p25": -5150.0,
+        "median": 4500.0,
+        "p75": 8000.0,
+        "p90": 20000.0,
+        "weightedMedian": 3000.0
+      },
+      "total_assets": {
+        "valid": 16,
+        "p10": -55000.0,
+        "p25": -1250.0,
+        "median": 11500.0,
+        "p75": 52500.0,
+        "p90": 120000.0,
+        "weightedMedian": 8000.0
+      },
+      "total_debt": {
+        "valid": 16,
+        "p10": -41000.0,
+        "p25": -11250.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 21500.0,
+        "weightedMedian": 0.0
+      },
+      "consumption": {
+        "valid": 16,
+        "p10": -3000.0,
+        "p25": 500.0,
+        "median": 2500.0,
+        "p75": 5250.0,
+        "p90": 9000.0,
+        "weightedMedian": 2000.0
+      },
+      "food": {
+        "valid": 16,
+        "p10": -500.0,
+        "p25": 750.0,
+        "median": 1000.0,
+        "p75": 1000.0,
+        "p90": 2000.0,
+        "weightedMedian": 1000.0
+      },
+      "housing_expenditure": {
+        "valid": 16,
+        "p10": 0.0,
+        "p25": 0.0,
+        "median": 1000.0,
+        "p75": 1000.0,
+        "p90": 2000.0,
+        "weightedMedian": 1000.0
+      },
+      "medical": {
+        "valid": 16,
+        "p10": -500.0,
+        "p25": 0.0,
+        "median": 1000.0,
+        "p75": 1000.0,
+        "p90": 1000.0,
+        "weightedMedian": 1000.0
+      },
+      "education_entertainment": {
+        "valid": 16,
+        "p10": -1000.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 1250.0,
+        "p90": 2000.0,
+        "weightedMedian": 0.0
+      },
+      "family_size": {
+        "valid": 16,
+        "p10": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 0.0,
+        "weightedMedian": 0.0
+      }
+    }
+  },
+  "warnings": [
+    "The broad-net-liquidity proxy is not an exact hand-to-mouth replication because NONHOUSING_DEBTS is broader than liquid or credit-card debt.",
+    "FINANCE_ASSET may include components with different liquidation times and costs.",
+    "TOTAL_ASSET is a constructed net-family-asset measure and does not identify member-level control.",
+    "Candidate weights require validation against the official CFPS manual before publication.",
+    "Negative survey codes are missing states and must not be interpreted as monetary values.",
+    "The output contains aggregate diagnostics only and is not individualized financial advice.",
+    "Synthetic-fixture results validate code paths but are not empirical estimates.",
+    "Real microdata outputs require provider-compliant access, weighting, attrition analysis, and disclosure review."
+  ]
+}

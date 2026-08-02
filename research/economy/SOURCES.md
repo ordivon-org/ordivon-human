@@ -110,3 +110,46 @@ Fagereng, A., L. Guiso, D. Malacrino and L. Pistaferri. **Heterogeneity and Pers
 - Household assets do not imply equal member authority or exit access.
 - Structural model recommendations depend on institutional and preference assumptions.
 - Results from the US and UK require explicit transport analysis before use in China.
+
+## E2 China liquidity, official documentation, and access
+
+### S18 — CFPS public data and application
+
+Institute of Social Science Survey, Peking University. **CFPS Public Data** and **Public Data Application Guide.** Documents registration and approved access through the CFPS data platform or Peking University Open Data platform.
+<https://www.isss.pku.edu.cn/cfps/en/data/public/index.htm>
+<https://www.isss.pku.edu.cn/cfps/en/faq/data23/index.htm>
+
+### S19 — CFPS codebooks and questionnaires
+
+Institute of Social Science Survey, Peking University. **Codebooks** and **Questionnaires.** Official 2020 and 2022 release documentation used for the E2 variable map.
+<https://www.isss.pku.edu.cn/cfps/en/documentation/data2/1201867cfps1295115.htm>
+<https://www.isss.pku.edu.cn/cfps/en/documentation/questionnaires/index.htm>
+
+### S20 — Wealthy hand-to-mouth households in China
+
+Cui, Z. and Y. Feng. **Wealthy Hand-to-Mouth Households in China.** *Asian Economic Journal* 31(3), 2017. Uses first-wave CHFS data to distinguish poor and wealthy hand-to-mouth households and tests sensitivity to committed-expenditure timing.
+<https://doi.org/10.1111/asej.12123>
+
+### S21 — Income, debt overhang, and liquidity constraints
+
+Ning, L. and J. Wang. **Income stagnation, debt overhang, and household liquidity constraints in China.** *Systems Engineering — Theory & Practice*, 2022. Uses CFPS 2010–2018 and a pandemic-era survey to analyze income and housing-debt channels.
+<https://doi.org/10.12011/SETP2021-3017>
+
+### S22 — Housing purchase and financial vulnerability
+
+**Effect of House Purchasing Behavior of Financially Vulnerable Families on Credit Constraints and Consumption.** *Journal of Central University of Finance & Economics*, 2025. Separates asset-based and vulnerability-based credit-constraint channels.
+<https://xbbjb.cufe.edu.cn/EN/Y2025/V0/I4/41>
+
+### S23 — Health shocks and household consumption composition
+
+**The impact of health shocks on household consumption: Evidence from CFPS.** 2024. Examines medical spending and category substitution, including food and education expenditure.
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC11260705/>
+
+## E2-specific cautions
+
+- First-wave CHFS hand-to-mouth shares are historical evidence, not current prevalence.
+- Commitment timing can materially change classification.
+- CFPS `NONHOUSING_DEBTS` is broader than credit-card debt and cannot reproduce the CHFS liquid-debt definition exactly.
+- Public codebooks authorize variable mapping, not respondent-data redistribution.
+- Household splits and member-level authority complicate longitudinal household identity.
+- Constructed net assets may legitimately be negative; variable-specific cleaning is required.

@@ -43,20 +43,29 @@ Represents:
 - quality-preserving surplus;
 - shocks and recovery.
 
-### E2 — Joint Chinese household baseline
+### E2 — Chinese household liquidity and recovery
 
-**Active frontier.**
+**E2A public phase completed; E2B authorized-data execution pending.**
 
-Use CHFS and CFPS, subject to their data agreements, to estimate:
+Completed:
+
+- China-specific evidence review of wealthy hand-to-mouth households, housing, debt overhang, shocks, and consumption adjustment;
+- official CFPS 2020–2022 variable and panel-link map;
+- multiple liquidity and illiquid-wealth definitions;
+- aggregate-only analysis pipeline for CSV, Stata, and Parquet inputs;
+- synthetic tests covering negative net assets, missingness, household splits, transition cells, and disclosure suppression;
+- lawful data-access and publication boundary.
+
+After approved CHFS/CFPS access, estimate:
 
 - joint income, consumption, wealth, debt, and liquidity distributions;
-- wealthy-but-illiquid states;
-- commitment burden and shock response;
-- active saving versus asset revaluation and transfers;
-- earning growth and early-stage wealth formation;
-- economic state alongside health, education, relationships, migration, and well-being.
+- poor and wealthy constrained states under several definitions;
+- 2020–2022 entry, persistence, and exit with attrition and family-split accounting;
+- mortgage, rental, outright-ownership, and commitment heterogeneity;
+- category-level adjustment after income and health shocks;
+- employment, health, happiness, migration, training, and recovery outcomes.
 
-National Bureau of Statistics data remain macro calibration rather than individual evidence.
+Historical estimates are retained as evidence of mechanism, not current prevalence. National Bureau of Statistics data remain macro calibration rather than individual evidence.
 
 ### E3 — Wealth-formation decomposition
 
