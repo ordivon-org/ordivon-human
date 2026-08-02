@@ -17,15 +17,16 @@ The project then composes the minimum evidence, variables, systems, and methods 
 
 ```text
 problem
-→ outcomes and value assumptions
-→ current evidence and rival explanations
-→ minimum explanatory model
-→ empirical test
+→ terminal outcomes and value assumptions
+→ first-principles constraints and mechanism
+→ public-average magnitude check
+→ rival paths and counterexamples
+→ bounded empirical work only when still necessary
 → conditional result
 → revision or deletion
 ```
 
-System maps and methods are support layers. They do not become the research objective.
+System maps, methods, and datasets are support layers. They do not become the research objective, and data availability does not select the question.
 
 ## 3. Question admission
 
@@ -113,22 +114,26 @@ It must declare:
 
 ## 8. Evidence and methods
 
-Measurement, causal inference, longitudinal design, N-of-1 methods, structural models, qualitative evidence, and data engineering belong under `methods/` or one bounded study.
+First-principles reasoning, public-average calibration, historical cases, qualitative evidence, measurement, causal inference, longitudinal design, N-of-1 methods, structural models, and data engineering may all be useful.
 
-A method enters the active path only when a subject question requires it.
+They do not have equal priority.
+
+A method enters the active path only when a subject question requires it and a simpler mechanism model cannot resolve the decision.
 
 Core rules:
 
-1. population distributions do not determine individuals;
-2. correlation, prediction, mechanism, intervention, and moral judgment are distinct;
-3. a proxy is not the construct;
-4. self-report, behaviour, physiology, administrative records, and digital traces have different failure modes;
-5. measurement can change behaviour;
-6. missingness and selection are substantive facts;
-7. more variables and decimals do not create more truth;
-8. models remain contestable and revisable;
-9. conclusions must state transport limits and heterogeneous effects;
-10. a widely used rule is a baseline to test, not authority.
+1. define the mechanism before searching for variables;
+2. use public averages to calibrate order of magnitude, not to prescribe individual action;
+3. population distributions do not determine individuals;
+4. correlation, prediction, mechanism, intervention, and moral judgment are distinct;
+5. a proxy is not the construct;
+6. self-report, behaviour, physiology, administrative records, and digital traces have different failure modes;
+7. measurement can change behaviour;
+8. missingness and selection are substantive facts;
+9. more variables and decimals do not create more truth;
+10. models remain contestable and revisable;
+11. conclusions must state assumptions, counterexamples, transport limits, and heterogeneous effects;
+12. a dataset, popular rule, or mature framework is a check against reasoning, not authority over the question.
 
 ## 9. Technology and AI
 
@@ -160,10 +165,12 @@ Medical, legal, employment, insurance, credit, education-admission, policing, in
 A collector, schema, database, service, model, dashboard, benchmark, or governance process is admitted only when:
 
 1. an active question requires it;
-2. mature tools cannot perform the work with acceptable cost and fidelity;
-3. the minimum necessary data are identified;
-4. measurement and privacy consequences are explicit;
-5. deletion, refusal, and exit remain possible;
-6. expected information gain exceeds maintenance and governance cost.
+2. the mechanism and decision are already clear;
+3. public averages and simpler reasoning cannot resolve the remaining uncertainty;
+4. mature tools cannot perform the work with acceptable cost and fidelity;
+5. the minimum necessary data are identified;
+6. measurement and privacy consequences are explicit;
+7. deletion, refusal, and exit remain possible;
+8. expected decision value exceeds implementation, maintenance, and governance cost.
 
-The default implementation is research text, bounded analysis, and small reproducible experiments. A permanent Human platform is not presumed.
+The default implementation is research text, first-principles derivation, public-scale calibration, and small bounded experiments. A permanent Human platform or data program is not presumed.

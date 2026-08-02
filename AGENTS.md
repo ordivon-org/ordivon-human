@@ -17,19 +17,22 @@ Do not allow a system map, methodology, AI, data infrastructure, or governance p
 
 ## Required discipline
 
-Before adding code, schemas, datasets, dashboards, automation, or process:
+Before adding research structure, code, schemas, datasets, dashboards, automation, or process:
 
 1. state the research question and decision relevance;
-2. show what mature disciplinary work already explains;
-3. identify rival explanations and transport limits;
-4. specify the minimum evidence and privacy class;
-5. state the falsifier and deletion condition;
-6. prefer official data, primary research, and reproducible analysis;
-7. distinguish structure, state, capacity, action, context, outcome, and observation;
-8. distinguish income, consumption, wealth, liquidity, debt, and control;
-9. distinguish description, prediction, causal claim, and value judgment;
-10. do not add identifiable human or restricted survey data to Git;
-11. do not present medical, psychological, financial, legal, or high-consequence results as individualized authority;
-12. do not create a universal score, mandatory profile, or comprehensive ontology.
+2. identify terminal outcomes rather than optimizing an instrument;
+3. derive the minimum first-principles mechanism and conservation constraints;
+4. use public averages only to calibrate order of magnitude;
+5. identify rival paths, counterexamples, and failure modes;
+6. show what mature disciplinary work already explains without letting it choose the question;
+7. state why granular data are necessary rather than merely available;
+8. specify the minimum evidence and privacy class;
+9. state the falsifier and deletion condition;
+10. distinguish structure, state, capacity, action, context, outcome, and observation;
+11. distinguish value created, value captured, income, surplus, wealth, liquidity, debt, ownership, and control;
+12. distinguish description, prediction, causal claim, mechanism, and value judgment;
+13. do not add identifiable human or restricted survey data to Git;
+14. do not present medical, psychological, financial, legal, or high-consequence results as individualized authority;
+15. do not create a universal score, mandatory profile, comprehensive ontology, or data program whose existence is its evidence of value.
 
-Default to deleting a variable or structure that changes no complete case, inference, or decision.
+Default to deleting a variable, dataset, or structure that changes no complete case, mechanism, inference, or decision.

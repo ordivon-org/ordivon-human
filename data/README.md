@@ -20,3 +20,14 @@ A dataset is admitted only with:
 - retention and deletion condition.
 
 Large or sensitive source data should remain outside Git even when access is lawful.
+
+## Data is not the default next step
+
+Before admitting any dataset, the active study must already have:
+
+- a first-principles mechanism;
+- a decision that the result could change;
+- a quantity whose order of magnitude matters;
+- an explanation of why public averages, identities, cases, or simpler tests are insufficient.
+
+A dataset is deleted or rejected when it mainly increases descriptive detail without changing the mechanism, path ranking, or action boundary.

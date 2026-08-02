@@ -2,38 +2,39 @@
 
 **Problem-driven research into human life, development, constraints, and possible change.**
 
-Ordivon Human begins with concrete questions that materially affect a person's life. It then selects the minimum biological, cognitive, psychological, behavioural, economic, social, technological, and historical concepts needed to explain them.
+Ordivon Human begins with concrete questions that materially affect a person's life. It selects only the biological, cognitive, psychological, behavioural, economic, social, technological, and historical concepts required to explain them.
 
 ## Research order
 
 ```text
 real human problem
-→ explicit outcomes and trade-offs
-→ mature evidence and competing explanations
-→ minimum systems and variables
-→ empirical or reproducible test
+→ terminal outcomes and constraints
+→ first-principles mechanism
+→ public-average magnitude check
+→ competing paths and counterexamples
 → conditional conclusion
-→ revise or delete the model
+→ revise or delete
 ```
 
-The Human System Atlas and Methods are supporting resources. They do not determine the research agenda and are not achievements by themselves.
+Data may calibrate scale. Data availability may not determine the research agenda.
 
 ## Active study
 
 ### HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
 
-> From the point at which a person can independently decide income, consumption, debt, saving, work, and investment, how can they accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
+> How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
 
-The active study has completed E0–E1 and the public phase of E2:
+The reconstructed first-principles sequence now includes:
 
-- an [`outcome framework`](research/economy/E0-OUTCOME-FRAMEWORK.md) separating wealth, quality of life, liquidity, capability, commitments, autonomy, and recovery;
-- a [`personal economic state model`](research/economy/E1-STATE-MODEL.md);
-- two evidence reviews covering household finance and [`China-specific liquidity, housing, and debt`](research/economy/EVIDENCE-REVIEW-002-CHINA-LIQUIDITY.md);
-- a reproducible [`China 2025 aggregate baseline`](research/economy/CHINA-BASELINE-2025.md);
-- an official [`CFPS 2020–2022 variable map`](research/economy/CFPS-VARIABLE-MAP-2020-2022.md);
-- a tested, aggregate-only [`E2 analysis pipeline`](research/economy/e2_cfps_balance_sheet.py) with synthetic and Stata-input acceptance tests.
+- [`E0`](research/economy/E0-OUTCOME-FRAMEWORK.md) — present life quality, durable economic power, and autonomy as terminal outcomes;
+- [`E1`](research/economy/E1-WEALTH-FORMATION-MODEL.md) — capability → value creation → capture → surplus → ownership → leverage → compounding;
+- [`E2`](research/economy/E2-STAGE-AND-PATH-MODEL.md) — stage and path model based on the binding constraint;
+- [`E3`](research/economy/E3-GROWTH-ENGINE-COMPARISON.md) — magnitude comparison among earning growth, surplus, ownership, leverage, and capital return;
+- [`E4`](research/economy/E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md) — resource uses that improve life and capability or create harmful lock-in;
+- [`E5`](research/economy/E5-ECONOMIC-CAPABILITY-CONVERSION.md) — how competence becomes durable captured value through demand, proof, access, reliability, bargaining, and ownership;
+- a small official [`China 2025 public-average calibration`](research/economy/CHINA-BASELINE-2025.md).
 
-Authorized CHFS/CFPS respondent-level execution remains pending; no current prevalence is claimed without it.
+The former CHFS/CFPS household-data program was deleted from the active repository after it failed the core-question priority test. Its Git history remains recoverable.
 
 Current research index: [`research/economy/README.md`](research/economy/README.md).
 
@@ -64,7 +65,7 @@ It does **not** own:
 
 - medical, psychological, financial, legal, or other high-consequence authority;
 - a universal human ontology, ranking, profile, or total score;
-- a personal-data warehouse or public repository of identifiable records;
+- a personal-data warehouse or protected survey-data mirror;
 - an AI therapist, doctor, financial adviser, or autonomous decision maker;
 - generic encyclopaedic accumulation without an admitted question;
 - product infrastructure before a bounded study demonstrates necessity.

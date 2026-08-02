@@ -1,190 +1,189 @@
-# E0 — Outcome Framework for Personal Economic Autonomy
+# E0 — Problem and Outcome Definition
 
-## 1. Why wealth maximization is rejected
+## 1. Core question
 
-A person can increase net worth by working continuously, suppressing all present consumption, accepting severe health costs, or concentrating risk. A person can also report high income while remaining unable to refuse an employer, survive an interruption, or leave an expensive obligation.
+> From the point at which a person can make independent economic decisions, how can they expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
 
-The study therefore rejects:
+This question is not equivalent to:
 
-```text
-maximize terminal net worth
-```
+- maximizing terminal account balance;
+- maximizing salary;
+- minimizing expenditure;
+- maximizing investment return;
+- reaching one retirement number;
+- eliminating all dependence on other people.
 
-as its universal objective.
+Those may be instruments or local objectives. None is the final object of study.
 
-The retained research objective is:
+## 2. First-principles definition of wealth
 
-> Increase durable command over resources and future action while preserving an explicit present quality-of-life floor and keeping the probability and consequence of unrecoverable failure within declared limits.
+For this program, personal wealth is:
 
-No scalar utility function is assumed.
+> Durable and controllable claims on present resources, future goods and services, productive capacity, and other people's voluntary cooperation.
 
-## 2. Outcome families
+This includes, but is not limited to:
 
-### O1 — Current quality of life
+- cash and marketable assets;
+- ownership in businesses, products, and productive systems;
+- intellectual property and reusable digital assets;
+- tools and capital that reduce the cost of future production;
+- enforceable rights and reliable income claims;
+- transferable earning capability;
+- reputation, distribution, and relationships that enable exchange;
+- time that is no longer fully pre-committed to survival.
 
-Observed through a selected set of:
+Accounting net worth is one surface of wealth. It is not the whole concept because it may omit:
 
-- health and functional condition;
-- sleep and available energy;
-- time for leisure, relationships, care, and recovery;
-- housing adequacy and safety;
-- food and essential services;
-- subjective life evaluation and affect;
-- ability to participate in personally valued activities.
+- who actually controls the asset;
+- whether it can be used when needed;
+- whether maintaining it consumes more resources than it produces;
+- whether the person's income and assets fail together;
+- whether wealth expands or contracts the person's feasible actions.
 
-Expenditure is an input and constraint, not the outcome itself.
+## 3. Three terminal outcomes
 
-### O2 — Material security
+E0 retains three terminal outcome families.
 
-- ordinary bills can be paid without arrears or expensive borrowing;
-- essential consumption can continue during a bounded shock;
-- insurance and public or family support are actually accessible;
-- no single near-term payment forces liquidation of productive long-horizon assets.
+### O1 — Present life quality
 
-### O3 — Liquid resilience
+The person can maintain a life they judge worth living now, including sufficient:
 
-The ability to mobilize resources within the time allowed by a shock.
+- health and functional capacity;
+- sleep, recovery, and usable attention;
+- safety and adequate living conditions;
+- relationships, leisure, and participation in valued activities;
+- freedom from persistent destructive stress;
+- time not consumed by low-value compulsory work.
 
-This distinguishes:
+Expenditure is not life quality. Some expenditure produces little value; some is necessary to preserve health, capability, relationships, or time.
 
-- cash and transaction balances;
-- low-loss liquid assets;
-- committed or restricted accounts;
-- illiquid housing and business wealth;
-- credit that is available but costly or revocable;
-- formal and informal transfers with uncertain conditions.
+### O2 — Durable economic power
 
-### O4 — Real net wealth
+The person gains greater command over resources and production across time:
 
-Assets minus liabilities, adjusted where possible for:
+- more value can be created;
+- more of that value can be captured;
+- a larger share can be retained as surplus;
+- surplus can be converted into ownership;
+- owned systems and capital can continue producing without proportional new labour;
+- losses do not routinely erase the prior trajectory.
 
-- inflation;
-- transaction costs;
-- taxes;
-- restricted access;
-- maintenance obligations;
-- concentration;
-- valuation uncertainty.
+Economic power is not merely possession. It requires usable control.
 
-Active saving and valuation gains must be reported separately.
+### O3 — Economic autonomy
 
-### O5 — Earning capability
+The feasible action set expands. The person becomes more able to:
 
-- expected labour and business income;
-- income stability and downside exposure;
-- transferable skills and evidence of capability;
-- labour-supply flexibility;
-- geographic, organizational, and occupational mobility;
-- dependence on one employer, client, platform, or industry;
-- correlation between human-capital income and owned assets.
-
-### O6 — Commitment burden
-
-Obligations that are costly, slow, socially difficult, or legally impossible to change:
-
-- housing and debt payments;
-- family and care responsibilities;
-- business leases and operating costs;
-- status and professional-maintenance costs;
-- location constraints;
-- contractual or institutional lock-in.
-
-The study distinguishes essential responsibility from low-value lock-in. Both affect option value, but their normative meaning differs.
-
-### O7 — Economic autonomy
-
-The feasible ability to:
-
-- refuse an unacceptable offer;
+- refuse a harmful or underpriced offer;
 - wait for better information or terms;
-- leave a harmful job, relationship, organization, or location;
-- reduce work temporarily;
+- change job, client, location, or field;
 - learn or retrain;
-- attempt a reversible project;
-- absorb failure and try again;
-- replace a financial provider, employer, platform, or tool;
+- reduce work temporarily;
+- start a reversible project;
+- survive failure and try again;
+- choose how much, where, and why to work;
 - act without requiring approval from a resource controller.
 
-Autonomy is not independence from all other people. Voluntary support and risk sharing can expand autonomy; support conditioned on obedience can reduce it.
+Autonomy does not require isolation. Voluntary cooperation, insurance, family support, and institutions may enlarge autonomy. Dependence becomes restrictive when access is revocable, coercive, or controlled by another party.
 
-### O8 — Sustainability and recovery
+## 4. Instruments are not outcomes
 
-- the strategy can be executed without exceptional permanent self-control;
-- monitoring and decision burden remain tolerable;
-- health, cognition, relationships, and capability are not systematically depleted;
-- after a loss or shock, the person can restore ordinary functioning within an acceptable period.
+The following are instruments whose value depends on what they change:
 
-## 3. Hard constraints
-
-Every strategy must declare:
-
-1. **quality-of-life floor** — which present outcomes may not fall below what level;
-2. **essential-consumption floor** — which expenditures cannot be interrupted;
-3. **liquidity horizon** — how quickly resources must be available;
-4. **ruin condition** — what counts as irrecoverable or unacceptable loss;
-5. **maximum lock-in** — which commitments cannot be accepted;
-6. **time horizon** — when the benefit must become usable;
-7. **authority** — who controls assets and can veto their use;
-8. **reversibility** — how the person exits if assumptions fail.
-
-## 4. Minimum decision test
-
-A proposed action is not accepted merely because it raises expected wealth.
-
-It must be evaluated against:
-
-| Question | Required answer |
+| Instrument | Why it is not the terminal outcome |
 |---|---|
-| Wealth | Does expected real net wealth increase after debt, costs, and valuation risk? |
-| Liquidity | Does near-term shock capacity improve or deteriorate? |
-| Quality | Which current life outcomes change, and for how long? |
-| Capability | Does it build, preserve, or consume future earning capacity? |
-| Commitments | What becomes harder to change or exit? |
-| Concentration | Which failures now occur together? |
-| Autonomy | Which options become newly feasible or infeasible? |
-| Recovery | What happens if the expected benefit does not arrive? |
+| income | may be high but unstable, fully consumed, or tied to harmful work |
+| saving rate | may rise by damaging life quality or by shifting debt elsewhere |
+| liquidity | protects action but does not by itself create long-run wealth |
+| education | may build capability or merely consume time and money |
+| investment return | has little absolute effect when capital is small and may require ruinous risk |
+| ownership | may produce residual claims or only maintenance and concentration |
+| leverage | may multiply production or multiply irreversible loss |
+| automation | may expand output, dependency, or both |
+| low expenditure | may represent efficiency, deprivation, or underinvestment |
 
-## 5. Why there is no total score
+A variable remains in the research only when it changes one of the three terminal outcomes through an explicit mechanism.
 
-Two people with the same net worth may differ in:
+## 5. Hard constraints
 
-- liquidity;
-- income risk;
-- health;
-- family support;
-- debt service;
-- control over assets;
-- location flexibility;
-- quality-of-life requirements;
-- time horizon;
-- willingness and ability to work after a loss.
+The program does not optimize wealth without limits.
 
-A total score would conceal the mechanism and make value weights appear objective. E0 therefore retains a vector of outcomes and condition-specific dominance judgments.
+Every proposed path must declare:
 
-## 6. Decision categories
+1. **life-quality floor** — which present conditions may not be persistently sacrificed;
+2. **ruin boundary** — which losses or obligations would destroy the ability to recover;
+3. **control boundary** — who can use, transfer, revoke, or veto the resource;
+4. **time boundary** — when the benefit becomes usable relative to the person's finite life;
+5. **reversibility** — whether the person can exit when assumptions fail;
+6. **dependence boundary** — which employer, client, platform, institution, or person can terminate the path;
+7. **maintenance burden** — how much continuing labour, attention, and money the resulting wealth requires.
 
-A strategy may be classified as:
+These are constraints on the growth process, not separate research tracks.
 
-- **dominant under stated conditions** — improves at least one relevant outcome without materially worsening another;
-- **trade-off** — improves one outcome while reducing another;
-- **fragile** — works only under narrow assumptions or creates a severe tail loss;
-- **state-dependent** — changes sign across liquidity, income, commitment, or life-stage conditions;
-- **unsupported** — lacks evidence beyond convention or marketing;
-- **inadmissible** — violates quality, authority, privacy, or ruin constraints.
+## 6. Objective ordering
 
-## 7. First-round judgment
-
-The most useful high-level objective is not financial independence as a binary retirement threshold. It is the progressive expansion of a person's feasible action set:
+No universal scalar score is admitted. A practical ordering is:
 
 ```text
-survive an ordinary shock
-→ avoid forced harmful choices
-→ tolerate an income interruption
-→ refuse some offers
-→ change job, location, or skill path
-→ fund reversible exploration
-→ reduce dependence on current labour
-→ choose how much and why to work
+avoid unrecoverable failure
+→ preserve the declared life-quality floor
+→ increase durable economic power
+→ expand the feasible action set
 ```
 
-The transition thresholds are person- and context-specific and remain empirical questions.
+Within those boundaries, prefer a path that:
+
+- produces a larger durable increase in resources;
+- reaches usefulness sooner;
+- preserves more reversibility;
+- requires less continuing low-value labour;
+- creates fewer correlated failure modes;
+- expands rather than narrows future paths.
+
+## 7. Dominance test
+
+A path is stronger than another under stated conditions when it:
+
+- creates at least as much durable economic power;
+- does not push present life below the declared floor;
+- does not increase ruin risk beyond the accepted boundary;
+- leaves at least as many meaningful future actions feasible;
+- requires no greater permanent maintenance burden.
+
+When these dimensions conflict, the result is a visible trade-off rather than a hidden total score.
+
+## 8. What E0 deletes from the previous model
+
+The previous E0 treated material security, liquidity, net wealth, earning capability, commitments, autonomy, and recovery as parallel outcome families.
+
+That was too flat. The revised structure is:
+
+```text
+terminal outcomes
+├── present life quality
+├── durable economic power
+└── economic autonomy
+
+mechanisms and constraints
+├── capability
+├── income and value capture
+├── surplus
+├── ownership
+├── leverage
+├── liquidity
+├── commitments
+├── risk and recovery
+└── control
+```
+
+Liquidity, commitments, security, and recovery remain necessary, but they no longer compete with wealth formation as equal research programs. They constrain whether a growth path survives.
+
+## 9. E0 result
+
+The research target is not wealth maximization in isolation.
+
+It is:
+
+> The progressive expansion of a person's durable command over resources, productive systems, time, and future choices, under an explicit present-life floor and recoverable failure boundary.
+
+This definition is sufficient to guide E1 and E2 without requiring a personal score, full household ontology, or microdata program.

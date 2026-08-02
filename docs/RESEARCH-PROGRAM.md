@@ -1,144 +1,226 @@
 # Research Program
 
-Ordivon Human is organized by concrete questions, not by completing every domain in sequence.
+Ordivon Human is organized by concrete questions, not by completing domains or datasets.
 
 ## Active program — HUMAN-ECON-001
 
 ### Sustainable Personal Economic Autonomy
 
-Question:
+> How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
 
-> How can a person accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
+## Method
 
-### E0 — Outcome definition
+```text
+first-principles structure
+→ public-average magnitude check
+→ explicit assumptions
+→ competing path comparison
+→ counterexample and failure analysis
+→ conditional conclusion
+```
+
+Data may calibrate scale. Data availability may not select the research question.
+
+## E0 — Problem and outcome definition
+
+**Completed, reconstructed first round.**
+
+Terminal outcomes:
+
+- present life quality;
+- durable economic power;
+- economic autonomy.
+
+Instruments and constraints such as income, saving, liquidity, capability, ownership, leverage, commitments, and risk survive only when they change a terminal outcome through an explicit mechanism.
+
+## E1 — First-principles wealth formation
+
+**Completed, reconstructed first round.**
+
+Core chain:
+
+```text
+capability
+→ value creation
+→ value capture
+→ quality-preserving surplus
+→ productive ownership
+→ leverage
+→ compounding
+→ autonomy
+```
+
+The model distinguishes value created from value captured, income from surplus, saving from ownership, and ownership from scalability.
+
+## E2 — Stage and path model
+
+**Completed, reconstructed first round.**
+
+Stages are defined by the binding constraint:
+
+```text
+dependence
+→ labour-dominant independent income
+→ stable surplus
+→ scalable ownership
+→ capital- and system-dominant wealth
+→ high economic autonomy
+```
+
+Principal path families:
+
+- professional capability compounding;
+- tool-leveraged independent production;
+- entrepreneurship and organization;
+- income-led diversified capital accumulation;
+- external transfer;
+- concentrated speculation as a contingent high-variance path.
+
+## E3 — Growth-engine comparison
 
 **Completed, first round.**
 
-Separates:
+Compares:
 
-- current quality of life;
-- material security;
-- liquid resilience;
-- real net wealth;
-- earning capability;
-- commitment burden;
-- economic autonomy;
-- sustainability and recovery.
+- cost reduction;
+- recurring earning and capture growth;
+- productive ownership;
+- capital compounding;
+- productive and financial leverage;
+- external transfers.
 
-No total score is admitted.
+Uses mathematical identities and official public averages only for scale calibration.
 
-### E1 — State and transition model
+The current default hypothesis is:
+
+```text
+small capital
+→ capability, market access, recurring captured value, and ownership formation dominate
+
+stable surplus
+→ scalable ownership and diversified productive claims dominate
+
+large productive base
+→ allocation, preservation, and compounding dominate
+```
+
+## E4 — Life quality and capability-investment frontier
 
 **Completed, first round.**
 
-Represents:
+Classifies money and time by their actual function:
 
-- assets and liabilities;
-- liquid and illiquid resources;
-- income and expenditure flows;
-- commitment adjustability and authority;
-- human capital and labour flexibility;
-- risk concentration and correlation;
-- named option coverage;
-- quality-preserving surplus;
-- shocks and recovery.
+- essential maintenance;
+- restoration and present quality;
+- capability investment;
+- productive leverage;
+- pure enjoyment;
+- convenience and time substitution;
+- status and coordination;
+- lock-in;
+- leakage and destruction.
 
-### E2 — Chinese household liquidity and recovery
+The objective is not maximum saving. It is to improve present life, future productive capacity, and ownership while removing harmful lock-in and leakage.
 
-**E2A public phase completed; E2B authorized-data execution pending.**
+## E5 — Economic capability conversion
 
-Completed:
+**Completed, first round.**
 
-- China-specific evidence review of wealthy hand-to-mouth households, housing, debt overhang, shocks, and consumption adjustment;
-- official CFPS 2020–2022 variable and panel-link map;
-- multiple liquidity and illiquid-wealth definitions;
-- aggregate-only analysis pipeline for CSV, Stata, and Parquet inputs;
-- synthetic tests covering negative net assets, missingness, household splits, transition cells, and disclosure suppression;
-- lawful data-access and publication boundary.
-
-After approved CHFS/CFPS access, estimate:
-
-- joint income, consumption, wealth, debt, and liquidity distributions;
-- poor and wealthy constrained states under several definitions;
-- 2020–2022 entry, persistence, and exit with attrition and family-split accounting;
-- mortgage, rental, outright-ownership, and commitment heterogeneity;
-- category-level adjustment after income and health shocks;
-- employment, health, happiness, migration, training, and recovery outcomes.
-
-Historical estimates are retained as evidence of mechanism, not current prevalence. National Bureau of Statistics data remain macro calibration rather than individual evidence.
-
-### E3 — Wealth-formation decomposition
-
-Separate changes in wealth into:
+Study how:
 
 ```text
-active saving
-+ labour and business income growth
-+ transfers and inheritance
-+ asset revaluation
-+ leverage
-− losses, costs, and taxes
+competence
+× demand
+× proof
+× market access
+× reliability
+× transferability
+× bargaining and distribution
 ```
 
-Estimate how contributions change by initial wealth, age, education, occupation, family structure, urban/rural status, and housing position.
+produces durable captured value.
 
-### E4 — Consumption and quality-of-life frontier
+Questions:
 
-Study which spending categories:
+- which capabilities remain scarce after tools and AI diffuse;
+- how proof and reputation convert private capability into paid opportunity;
+- how local, national, and global markets change value capture;
+- when education, credentials, projects, employment, freelancing, or entrepreneurship are the strongest proof path;
+- how AI changes individual output, replaceability, and ownership opportunities;
+- when capability is transferable versus locked to one employer, platform, or institution.
 
-- protect essential functioning;
-- produce current life quality;
-- build future capability;
-- create inflexible commitments;
-- substitute time or reduce stress;
-- primarily signal status;
-- are cut first after shocks;
-- predict later health, capability, or autonomy.
+## E6 — Ownership and productive leverage
 
-### E5 — Risk, fragility, and recovery
+**Active frontier.**
 
-Study unemployment, income volatility, health shocks, family change, debt service, illiquid housing, business failure, fraud, and correlated concentration.
-
-Outcomes include forced sale, expensive borrowing, capability cuts, quality-of-life decline, recovery time, and loss of feasible options.
-
-### E6 — Earning capability
-
-Compare education, skill development, occupational change, geographic mobility, employment, freelancing, entrepreneurship, network access, tools, and AI.
-
-Measure expected income, downside, transferability, time cost, life quality, and dependence—not salary alone.
-
-### E7 — Assets, debt, and long-horizon allocation
-
-Begin only after liquidity, commitments, income risk, and human-capital exposure are explicit.
-
-Study cash, debt repayment, insurance, housing, business equity, diversified market assets, concentration, tax, transaction cost, and institutional access.
-
-### E8 — Behaviour and execution
-
-Evaluate defaults, automation, account separation, planning, decision frequency, rules, and feedback against the whole balance sheet.
-
-An intervention fails if visible saving rises while debt, fragility, or life-quality costs offset it.
-
-### E9 — Conditional strategy map
-
-Produce state-dependent conclusions of the form:
+Study transitions from:
 
 ```text
-for whom
-under which conditions
-through which mechanism
-with which expected benefit
-at what cost and risk
-under which failure and exit rule
+selling time
+→ selling results
+→ owning replicable products
+→ owning systems and organizations
+→ owning diversified productive claims
 ```
 
-No universal saving rate, emergency-fund duration, asset allocation, or financial-freedom number is presumed.
+Compare code, media, intellectual property, distribution, business equity, organizational leverage, and capital.
+
+## E7 — Capital accumulation and allocation
+
+Begin from an explicit productive base and surplus.
+
+Study:
+
+- diversified productive claims;
+- concentration and correlation;
+- liquidity and time horizon;
+- costs, taxes, and maintenance;
+- debt and financial leverage;
+- when active allocation has enough expected value to justify attention.
+
+## E8 — Continuity, execution, and behavioural failure
+
+Study only the support constraints that can end or distort the main path:
+
+- ruin and repeated reset;
+- excessive commitments;
+- attention capture;
+- unstable decision rules;
+- fraud and avoidable loss;
+- capability depletion;
+- dependence on one controller;
+- failure to convert rising income into ownership.
+
+No separate household-data platform is admitted.
+
+## E9 — Conditional strategy map
+
+Produce conclusions of the form:
+
+```text
+starting state
+→ binding constraint
+→ dominant mechanism
+→ expected order of magnitude
+→ life-quality and time cost
+→ failure mode
+→ exit condition
+→ next-stage transition
+```
+
+No universal saving rate, emergency-fund duration, asset allocation, wealth target, or retirement number is presumed.
+
+## Supporting public calibration
+
+[`../research/economy/CHINA-BASELINE-2025.md`](../research/economy/CHINA-BASELINE-2025.md) contains a small official average baseline.
+
+It is used only to test whether a mechanism is large enough to matter and whether attention is being spent on a small channel while a larger changeable channel remains.
 
 ## Supporting Human System Atlas
 
 [`../research/h0/`](../research/h0/) provides selectable Body, Cognition, Emotion/Motivation, Capability, and relation maps.
 
-The Atlas is not a prerequisite to complete before active studies. A category survives only when a problem consumes it.
+The Atlas is not a prerequisite. A category survives only when an active problem consumes it.
 
 ## Methods
 
@@ -146,24 +228,24 @@ The Atlas is not a prerequisite to complete before active studies. A category su
 
 **Completed and reusable.**
 
-Covers observation, construct validity, description/prediction/causality separation, population-to-individual inference, N-of-1 logic, model deletion, and human–AI capability measurement.
+Covers construct validity, description/prediction/causality separation, population-to-individual inference, N-of-1 logic, model deletion, and human–AI capability measurement.
 
 ### M1 — Data and study design
 
-Admit only for an active question requiring repeated observation, instrument comparison, causal design, missingness analysis, private-data separation, or reproducible tooling.
+Admit only when a concrete unresolved decision cannot be answered by a simpler mechanism model and public calibration.
 
 ### M2 — Model validation
 
-Evaluate explanatory value, prediction, causal identification, transfer, calibration, subgroup failure, intervention distortion, privacy leakage, and simpler alternatives.
+Evaluate mechanism completeness, counterexamples, magnitude, transfer, subgroup failure, intervention distortion, privacy cost, and simpler alternatives.
 
 ## Admission gates
 
-A study, variable, dataset, relation, or implementation must state:
+A study, variable, dataset, or implementation must state:
 
-1. the real human problem;
-2. the outcome or decision it changes;
-3. the complete case consuming it;
-4. the mature baseline or competing explanation;
-5. the minimum evidence required;
-6. privacy, consequence, burden, and reversibility;
+1. the core human problem;
+2. the terminal outcome or decision it changes;
+3. the mechanism connecting it to that outcome;
+4. the order of magnitude required to matter;
+5. the simpler competing explanation;
+6. the life-quality, time, dependence, and ruin costs;
 7. the falsifier and deletion condition.
