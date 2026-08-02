@@ -1,120 +1,101 @@
 # Research Questions
 
-## Active H0 — Human System Map
+## Active problem
+
+### HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
+
+**Question:** From the point at which a person can independently decide income, consumption, debt, saving, work, and investment, how can they accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
+
+**Current status:** E0 outcome framework and E1 state model completed; first evidence review and China 2025 aggregate baseline completed.
+
+**First-round retained findings:**
+
+- income, consumption, wealth, and liquidity are distinct;
+- liquidity has independent causal importance;
+- visible saving can be offset by debt elsewhere on the balance sheet;
+- inflexible commitments change risk capacity and exit power;
+- human capital and labour-income correlation invalidate age-only risk rules;
+- active saving, valuation gains, and transfers must be separated;
+- Chinese national averages cannot identify household accumulation or fragility.
+
+**Evidence:** [`economy/README.md`](economy/README.md).
+
+**Next falsifiers and tests:**
+
+1. a smaller conventional household-finance model explains autonomy without commitment, control, quality, or option variables;
+2. CHFS data show that liquidity and commitment structure add no predictive value for shock response after net worth and income;
+3. CFPS data show no meaningful trade-off or complementarity between consumption categories, life quality, and later capability;
+4. early-stage wealth changes are not materially decomposable into earnings growth, active saving, transfers, leverage, and valuation;
+5. autonomy proxies fail construct validation against real refusal, exit, relocation, or retraining events.
+
+## Supporting Human System Atlas
+
+The following questions are consulted when HUMAN-ECON-001 or another active problem needs them. They are not independent completion tracks.
 
 ### HUMAN-SYSTEM-001 — Minimum human system map
 
-**Question:** Which system families are necessary to explain complete human cases without confusing bodily structure, mental process, action, context, observed performance, and outcome?
-
-Current candidate map:
-
-- Body;
-- Cognition;
-- Emotion and Motivation;
-- Identity and Values;
-- Behaviour;
-- Capability;
-- Economy and Resources;
-- Relationships;
-- Institutions and Environment;
-- Technology and External Capability;
-- Time and History as a cross-cutting axis.
-
-First falsifier: five complete cases can be explained with a smaller mature framework and no distinctive Ordivon composition.
+Which system distinctions are necessary across complete cases, and which can be deleted?
 
 Evidence: [`h0/ATLAS.md`](h0/ATLAS.md).
 
-### HUMAN-BODY-001 — Functional body map
+### HUMAN-BODY-001 — Functional body constraints
 
-**Question:** Which bodily systems and state variables are necessary to explain ordinary energy, sensation, movement, sleep, stress, health, recovery, cognition, and participation without rebuilding clinical medicine?
-
-P0 result: retain a selectable Body system with neural/autonomic, endocrine, immune, cardiorespiratory, metabolic, musculoskeletal, sensory, sleep/circadian, reproductive/developmental, and integrity/ageing clusters. Internal decomposition remains provisional.
-
-Next falsifier: complete cases do not require one or more clusters, or mature health/function frameworks already provide the needed cross-system explanation without additional synthesis.
+Which bodily states materially alter energy, work capacity, medical risk, recovery, and economic decisions?
 
 Evidence: [`h0/systems/BODY.md`](h0/systems/BODY.md).
 
-### HUMAN-COGNITION-001 — Cognitive architecture for human functioning
+### HUMAN-COGNITION-001 — Cognition and decision capacity
 
-**Question:** Which distinctions among perception, attention, working memory, long-term memory, language, processing speed, control, reasoning, learning, and metacognition materially improve explanation of real development and capability?
-
-P0 result: retain Cognition as a system distinct from knowledge, motivation, one score, one performance, and real-world Capability.
-
-Next falsifier: a smaller general-factor or task-performance account explains the complete cases without losing mechanism, transfer, or state dependence.
+Which cognitive distinctions materially explain learning, planning, financial judgment, and capability under changing conditions?
 
 Evidence: [`h0/systems/COGNITION.md`](h0/systems/COGNITION.md).
 
 ### HUMAN-EMOTION-001 — Emotion, motivation, and action allocation
 
-**Question:** Which distinctions among emotion, mood, arousal, threat, reward, valuation, effort, persistence, regulation, and stress are required to explain attention and action without moralizing motivation?
-
-P0 result: retain one provisional Emotion and Motivation system with functional subdivisions drawn from valence, arousal/regulatory, appraisal, learning, effort, and social processes.
-
-Next falsifier: emotion and motivation can be absorbed into cognition, body, or behaviour without losing salience, value, effort, persistence, approach, avoidance, and regulation.
+How do threat, reward, arousal, effort, stress, and regulation alter spending, work, risk, and persistence?
 
 Evidence: [`h0/systems/EMOTION-MOTIVATION.md`](h0/systems/EMOTION-MOTIVATION.md).
 
-### HUMAN-CAPABILITY-001 — Capability beyond potential and performance
+### HUMAN-CAPABILITY-001 — Capability beyond performance
 
-**Question:** What minimum distinctions separate underlying capacity, currently available capacity, independent skill, situated capability, joint-system capability, one observed performance, transfer, adaptation, and recovery?
-
-P0 result: retain Capability as a relational system emerging from body, cognition, motivation, learning, resources, tools, relationships, and institutions.
-
-Next falsifier: authentic performance plus mature skills frameworks explain complete cases without a distinct capability layer.
+How should earning capability, independent skill, supported performance, transfer, adaptation, and recovery be distinguished?
 
 Evidence: [`h0/systems/CAPABILITY.md`](h0/systems/CAPABILITY.md).
 
 ### HUMAN-RELATION-001 — Cross-system dynamics
 
-**Question:** Which directed relations, feedback loops, bottlenecks, and conditions among human systems are sufficiently precise to explain cases rather than merely asserting that everything interacts?
-
-P0 result: 20 seed relations and four feedback loops are recorded for later reduction.
+Which directed feedback loops and bottlenecks survive complete human cases?
 
 Evidence: [`h0/RELATIONS.md`](h0/RELATIONS.md).
 
-## Queued H0 system questions
+## Future problem candidates
 
-### HUMAN-IDENTITY-001
+These are questions, not scheduled taxonomy sections:
 
-How do personality, temperament, self-model, values, preferences, commitments, and life narrative organize behaviour across time while remaining partly changeable?
+- how can a person sustainably increase capability and learning rate;
+- how can health and functional capacity be preserved across work and ageing;
+- how do relationships expand or constrain agency and resilience;
+- how do institutions distribute opportunity, risk, and control;
+- when do AI and tools expand durable human capability rather than only output;
+- how do shocks and cumulative feedback create or reverse long-term trajectory divergence.
 
-### HUMAN-BEHAVIOUR-001
+## Methods M0 — completed support
 
-How do goal-directed action, habit, exploration, avoidance, persistence, self-control, and environment combine to produce repeated behavioural patterns?
+[`../methods/m0/`](../methods/m0/) preserves reusable work on:
 
-### HUMAN-ECONOMY-001
-
-How do income, wealth, debt, time, housing, equipment, legal access, and risk buffer shape functioning, option value, and development?
-
-### HUMAN-RELATIONSHIP-001
-
-Which functions exist in attachment, family, friendship, mentorship, trust, status, support, exchange, conflict, and network position rather than inside one person?
-
-### HUMAN-INSTITUTION-001
-
-How do education, healthcare, labour markets, law, culture, place, information systems, and historical conditions shape human trajectories and the interpretation of individual differences?
-
-### HUMAN-TECHNOLOGY-001
-
-How are memory, reasoning, execution, coordination, and agency distributed across humans, artefacts, organizations, software, networks, and AI?
-
-## Methods M0 — completed support questions
-
-The original HUMAN-001 to HUMAN-003 work is preserved under [`../methods/m0/`](../methods/m0/):
-
-- minimum dynamic research representation;
-- measurement and observation provenance;
+- dynamic research representation;
+- observation and construct provenance;
 - population association versus individual intervention;
+- causal and N-of-1 reasoning;
+- model deletion;
 - human–AI output, retained capability, and agency distinctions.
-
-These are now methodological support and do not close the active subject-matter H0.
 
 ## Not admitted
 
 - a universal human ontology;
 - a total life-logging application;
-- a personal optimization score;
-- an AI therapist or doctor;
+- a personal optimization or wealth score;
+- an AI therapist, doctor, or autonomous financial adviser;
 - a population ranking engine;
 - a digital twin claiming complete predictive fidelity;
 - a mandatory Ordivon user model;

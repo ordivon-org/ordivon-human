@@ -1,153 +1,160 @@
 # Research Program
 
-The program studies the human subject first and selects methods second.
+Ordivon Human is organized by concrete questions, not by completing every domain in sequence.
 
-## H0 — Human System Map
+## Active program — HUMAN-ECON-001
 
-**Active. P0 foundations established 2026-08-02.**
+### Sustainable Personal Economic Autonomy
 
 Question:
 
-> Which major systems are necessary to explain human functioning and development, and how do they interact across time and context?
+> How can a person accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
 
-System families:
+### E0 — Outcome definition
 
-- body;
-- cognition;
-- emotion and motivation;
-- identity and values;
-- behaviour;
-- capability;
-- economy and resources;
-- relationships;
-- institutions and environment;
-- technology and external capability;
-- time and history as a cross-cutting axis.
+**Completed, first round.**
 
-P0 covers Body, Cognition, Emotion/Motivation, Capability, the Atlas skeleton, and seed cross-system relations.
+Separates:
 
-H0 closes only after all system families have mature-framework comparisons, at least five complete human cases test the map, and unnecessary categories have been deleted.
+- current quality of life;
+- material security;
+- liquid resilience;
+- real net wealth;
+- earning capability;
+- commitment burden;
+- economic autonomy;
+- sustainability and recovery.
 
-Evidence: [`../research/h0/README.md`](../research/h0/README.md).
+No total score is admitted.
 
-## H1 — Human Development
+### E1 — State and transition model
 
-Study how human systems form and change across the life course:
+**Completed, first round.**
 
-- prenatal and early development;
-- childhood and adolescence;
-- adulthood and ageing;
-- sensitive periods and plasticity;
-- education, family, peers, and culture;
-- identity and capability formation;
-- cumulative advantage and disadvantage;
-- transitions, shocks, adaptation, and recovery.
+Represents:
 
-The output should be a development graph, not a single universal stage sequence.
+- assets and liabilities;
+- liquid and illiquid resources;
+- income and expenditure flows;
+- commitment adjustability and authority;
+- human capital and labour flexibility;
+- risk concentration and correlation;
+- named option coverage;
+- quality-preserving surplus;
+- shocks and recovery.
 
-## H2 — Human Variation
+### E2 — Joint Chinese household baseline
 
-Study why people differ and why the same person changes:
+**Active frontier.**
 
-- inherited and developmental variation;
-- family, education, culture, place, and opportunity;
-- individual, group, cohort, period, and regional differences;
-- stable covariance versus within-person change;
-- distribution tails and heterogeneity;
-- selection and measurement effects;
-- chance events and path dependence.
+Use CHFS and CFPS, subject to their data agreements, to estimate:
 
-Methods M0 supplies inference boundaries but does not determine which human differences matter.
+- joint income, consumption, wealth, debt, and liquidity distributions;
+- wealthy-but-illiquid states;
+- commitment burden and shock response;
+- active saving versus asset revaluation and transfers;
+- earning growth and early-stage wealth formation;
+- economic state alongside health, education, relationships, migration, and well-being.
 
-## H3 — Human Dynamics
+National Bureau of Statistics data remain macro calibration rather than individual evidence.
 
-Study recurrent dynamic structures across systems:
+### E3 — Wealth-formation decomposition
 
-- positive and negative feedback;
-- bottlenecks and multiplicative constraints;
-- thresholds and tipping points;
-- substitution and complementarity;
-- delayed effects and carryover;
-- cumulative advantage and disadvantage;
-- exploration, exploitation, habit, and adaptation;
-- shocks, recovery, and hysteresis.
+Separate changes in wealth into:
 
-The objective is a small library of reusable human-dynamics patterns tested against complete cases.
+```text
+active saving
++ labour and business income growth
++ transfers and inheritance
++ asset revaluation
++ leverage
+− losses, costs, and taxes
+```
 
-## H4 — Human Outcomes
+Estimate how contributions change by initial wealth, age, education, occupation, family structure, urban/rural status, and housing position.
 
-Study outcome families and their conflicts:
+### E4 — Consumption and quality-of-life frontier
 
-- survival, health, and functioning;
-- cognition, capability, and creativity;
-- material security, time, and autonomy;
-- relationships, participation, and belonging;
-- subjective well-being and suffering;
-- status, power, contribution, meaning, and identity;
-- resilience, recovery, and future option value.
+Study which spending categories:
 
-No universal outcome scalar is admitted. Studies must expose trade-offs, owners, time horizons, and risk bearers.
+- protect essential functioning;
+- produce current life quality;
+- build future capability;
+- create inflexible commitments;
+- substitute time or reduce stress;
+- primarily signal status;
+- are cut first after shocks;
+- predict later health, capability, or autonomy.
 
-## H5 — Human Change
+### E5 — Risk, fragility, and recovery
 
-Study how people and their conditions can change through:
+Study unemployment, income volatility, health shocks, family change, debt service, illiquid housing, business failure, fraud, and correlated concentration.
 
-- nutrition, sleep, physical activity, healthcare, and recovery;
-- education, practice, feedback, and coaching;
-- psychological and behavioural intervention;
-- economic resources and social support;
-- institutional and environmental change;
-- tools, organizations, automation, and AI.
+Outcomes include forced sale, expensive borrowing, capability cuts, quality-of-life decline, recovery time, and loss of feasible options.
 
-Each intervention must specify target, mechanism, population, timing, durability, cost, reversibility, displaced outcomes, and dependence.
+### E6 — Earning capability
 
-## H6 — Human Systems and Technology
+Compare education, skill development, occupational change, geographic mobility, employment, freelancing, entrepreneurship, network access, tools, and AI.
 
-Study humans embedded in larger systems:
+Measure expected income, downside, transferability, time cost, life quality, and dependence—not salary alone.
 
-- families, groups, organizations, markets, cities, and states;
-- culture, law, information systems, and power;
-- language, writing, tools, machines, software, and networks;
-- distributed and externalized human capability;
-- human–AI collaboration, substitution, dependence, and co-development;
-- biotechnology and possible long-term changes in human form.
+### E7 — Assets, debt, and long-horizon allocation
 
-Human–AI is an important branch, not the organizing centre of the whole project.
+Begin only after liquidity, commitments, income risk, and human-capital exposure are explicit.
+
+Study cash, debt repayment, insurance, housing, business equity, diversified market assets, concentration, tax, transaction cost, and institutional access.
+
+### E8 — Behaviour and execution
+
+Evaluate defaults, automation, account separation, planning, decision frequency, rules, and feedback against the whole balance sheet.
+
+An intervention fails if visible saving rises while debt, fragility, or life-quality costs offset it.
+
+### E9 — Conditional strategy map
+
+Produce state-dependent conclusions of the form:
+
+```text
+for whom
+under which conditions
+through which mechanism
+with which expected benefit
+at what cost and risk
+under which failure and exit rule
+```
+
+No universal saving rate, emergency-fund duration, asset allocation, or financial-freedom number is presumed.
+
+## Supporting Human System Atlas
+
+[`../research/h0/`](../research/h0/) provides selectable Body, Cognition, Emotion/Motivation, Capability, and relation maps.
+
+The Atlas is not a prerequisite to complete before active studies. A category survives only when a problem consumes it.
 
 ## Methods
 
-### M0 — Measurement and Inference Foundations
+### M0 — Measurement and inference foundations
 
-**Completed and reclassified from the original H0.**
+**Completed and reusable.**
 
 Covers observation, construct validity, description/prediction/causality separation, population-to-individual inference, N-of-1 logic, model deletion, and human–AI capability measurement.
 
-Evidence: [`../methods/m0/README.md`](../methods/m0/README.md).
+### M1 — Data and study design
 
-### M1 — Data and Study Design
+Admit only for an active question requiring repeated observation, instrument comparison, causal design, missingness analysis, private-data separation, or reproducible tooling.
 
-Admit only when one subject-matter study needs:
+### M2 — Model validation
 
-- repeated or multimodal observation;
-- instrument comparison;
-- sampling, missingness, and measurement invariance analysis;
-- private-data separation and controlled derivation;
-- reproducible study-specific tooling.
-
-### M2 — Model Validation
-
-Evaluate models for explanatory value, prediction, causal identification, transfer, calibration, subgroup failure, intervention distortion, privacy leakage, and whether a simpler account performs equally well.
+Evaluate explanatory value, prediction, causal identification, transfer, calibration, subgroup failure, intervention distortion, privacy leakage, and simpler alternatives.
 
 ## Admission gates
 
-A study, relation, category, dataset, or implementation must state:
+A study, variable, dataset, relation, or implementation must state:
 
-1. the human phenomenon it explains;
-2. the complete case that currently consumes it;
-3. the mature framework or baseline it reuses or challenges;
-4. the minimum evidence required;
-5. the competing explanation and falsifier;
+1. the real human problem;
+2. the outcome or decision it changes;
+3. the complete case consuming it;
+4. the mature baseline or competing explanation;
+5. the minimum evidence required;
 6. privacy, consequence, burden, and reversibility;
-7. the stopping and deletion condition.
-
-“Humans are complex” does not justify collecting or classifying everything.
+7. the falsifier and deletion condition.

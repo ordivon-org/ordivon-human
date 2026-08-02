@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "publisher": "National Bureau of Statistics of China",
+    "title": "2025年居民收入和消费支出情况",
+    "published": "2026-01-19",
+    "url": "https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962321.html"
+  },
+  "inputs": {
+    "currency": "CNY",
+    "period": 2025,
+    "income": {
+      "national_mean": 43377,
+      "national_median": 36231,
+      "urban_mean": 56502,
+      "rural_mean": 24456,
+      "wages": 24555,
+      "business": 7252,
+      "property": 3490,
+      "transfers": 8080
+    },
+    "consumption": {
+      "national_mean": 29476,
+      "urban_mean": 35869,
+      "rural_mean": 20259,
+      "food_tobacco_liquor": 8631,
+      "clothing": 1554,
+      "residence": 6397,
+      "household_facilities_services": 1667,
+      "transport_communication": 4306,
+      "education_culture_recreation": 3489,
+      "health_care": 2573,
+      "miscellaneous": 859
+    }
+  },
+  "derived": {
+    "mean_income_minus_mean_consumption_cny": 13901,
+    "mean_gap_share_of_mean_income": 0.3204693731701132,
+    "median_to_mean_income_ratio": 0.8352583166194066,
+    "urban_income_minus_consumption_cny": 20633,
+    "urban_gap_share_of_income": 0.3651729142331245,
+    "rural_income_minus_consumption_cny": 4197,
+    "rural_gap_share_of_income": 0.1716143277723258,
+    "urban_to_rural_income_ratio": 2.3103532875368007,
+    "urban_to_rural_consumption_ratio": 1.7705217434226763,
+    "wage_income_share": 0.5660834082578325,
+    "business_income_share": 0.16718537473776426,
+    "property_income_share": 0.08045738525024783,
+    "transfer_income_share": 0.18627383175415543,
+    "food_and_residence_consumption_share": 0.5098385126882887,
+    "transport_education_health_consumption_share": 0.35174379155923463
+  },
+  "interpretationLimits": [
+    "The difference between aggregate mean income and aggregate mean consumption is not a household saving rate.",
+    "The release does not identify the joint household distribution of income, consumption, assets, liabilities, or liquidity.",
+    "Consumption category names do not identify necessity, adjustability, life-quality value, or capability value.",
+    "No causal or individual recommendation is inferred from these aggregate values."
+  ]
+}

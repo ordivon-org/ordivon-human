@@ -2,95 +2,85 @@
 
 ## 1. Mission
 
-Ordivon Human studies the human being as a biological, cognitive, psychological, behavioural, economic, social, technological, and historical system.
+Ordivon Human studies concrete problems that shape human lives and trajectories.
 
-Its primary order is:
+It does not begin by completing a taxonomy of the human being. It begins with a question such as:
 
-```text
-what constitutes a human
-→ how the systems interact and develop
-→ why people and trajectories differ
-→ which outcomes emerge
-→ what can change
-→ how those claims should be measured and tested
-```
+- how can a person obtain greater economic autonomy without destroying present life quality;
+- why do some capability trajectories compound while others stall;
+- which conditions preserve health, agency, relationships, and future options;
+- how do institutions and technologies expand or constrain a person's feasible choices?
 
-Methods support this sequence. They do not replace the human subject with a study-design problem.
+The project then composes the minimum evidence, variables, systems, and methods needed to answer that question.
 
-## 2. Core questions
-
-Ordivon Human asks:
-
-- which systems are necessary to explain human functioning;
-- how body, cognition, emotion, motivation, identity, behaviour, and capability interact;
-- how resources, relationships, institutions, environment, and technology shape those systems;
-- how development, ageing, events, feedback, and history create trajectories;
-- why similar people diverge and different people sometimes converge;
-- which outcomes matter, to whom, and over what horizon;
-- which changes are possible, durable, reversible, or costly;
-- how human capability is distributed across persons, tools, organizations, and environments.
-
-The objective is not a complete theory of humanity. It is a progressively better, falsifiable system map that changes real explanation.
-
-## 3. Unit of analysis
-
-The default object is not an isolated static individual:
+## 2. Research order
 
 ```text
-human organism
-× relationships and institutions
-× physical and informational environment
-× technologies and tools
-× time and history
-× action and event
+problem
+→ outcomes and value assumptions
+→ current evidence and rival explanations
+→ minimum explanatory model
+→ empirical test
+→ conditional result
+→ revision or deletion
 ```
 
-A study may focus on one scale, but it must state what is omitted.
+System maps and methods are support layers. They do not become the research objective.
 
-## 4. Subject-matter system families
+## 3. Question admission
 
-The active Human map may study:
+A research question is admitted only when it states:
 
-1. **Body** — biological organization, bodily functioning, energy, sleep, health, recovery, development, and ageing;
-2. **Cognition** — perception, attention, memory, language, reasoning, learning, control, and metacognition;
-3. **Emotion and Motivation** — salience, valence, arousal, threat, reward, effort, persistence, stress, and regulation;
-4. **Identity and Values** — personality, self-model, preference, commitment, meaning, and life narrative;
-5. **Behaviour** — goal-directed action, habit, exploration, avoidance, persistence, interaction, and routine;
-6. **Capability** — reliable achievement, skill, execution, judgment, transfer, adaptation, coordination, tool use, and recovery;
-7. **Economy and Resources** — income, wealth, debt, time, housing, equipment, access, and risk buffer;
-8. **Relationships** — attachment, family, peers, support, trust, status, exchange, influence, and conflict;
-9. **Institutions and Environment** — education, healthcare, labour, law, culture, place, ecology, information, and historical opportunity;
-10. **Technology and External Capability** — language, writing, artefacts, machines, software, organizations, networks, automation, and AI;
-11. **Time and History** — development, ageing, cumulative exposure, learning, shocks, recovery, and path dependence across all systems.
+1. the real human problem;
+2. whose outcome is affected;
+3. the relevant time horizon;
+4. the outcomes that may improve or deteriorate;
+5. the consequence of getting the answer wrong;
+6. the evidence that could change action or understanding;
+7. the first falsifier or narrowing condition.
 
-These are analytical views, not independent compartments or a mandatory ontology.
+## 4. Supporting system views
+
+An active question may draw on:
+
+- body and biological functioning;
+- cognition, emotion, motivation, identity, and behaviour;
+- capability, learning, and adaptation;
+- income, wealth, consumption, debt, time, and material resources;
+- family, relationships, organizations, institutions, culture, and environment;
+- language, tools, software, networks, automation, and AI;
+- development, ageing, shocks, feedback, recovery, and history.
+
+These are selectable analytical views, not independent compartments or a mandatory ontology.
+
+A system page survives only if an active question consumes it and deletion causes a named explanatory failure.
 
 ## 5. Minimum distinctions
 
-A credible Human account should not conflate:
+A credible study should not conflate:
 
 - structure with current state;
 - state with action;
 - capacity with observed performance;
 - internal skill with supported or joint-system capability;
 - context with personal trait;
-- outcome with measurement;
+- expenditure with quality of life;
+- income with wealth or liquidity;
+- outcome with observation;
 - population distribution with individual trajectory;
 - prediction with causal explanation;
 - empirical result with value judgment.
 
-A person is not the sum of database fields. Observations are partial evidence produced by instruments, settings, observers, incentives, and selection processes.
-
 ## 6. Dynamic principle
 
-Human systems are expected to contain:
+Human problems may involve:
 
 - feedback loops;
 - bottlenecks and multiplicative constraints;
 - thresholds and nonlinear response;
 - adaptation and compensation;
 - substitution and complementarity;
-- delay and carryover;
+- delayed effects and carryover;
 - cumulative advantage and disadvantage;
 - sensitive periods;
 - path dependence, shock, and recovery;
@@ -102,7 +92,7 @@ No linear cause list or one-score model is presumed sufficient.
 
 No universal scalar objective is accepted.
 
-Possible outcome families include:
+A study may examine:
 
 - survival, health, and functioning;
 - cognition, capability, creativity, and learning;
@@ -112,7 +102,7 @@ Possible outcome families include:
 - contribution, status, power, meaning, and identity;
 - resilience, recovery, and adaptability.
 
-A study must declare:
+It must declare:
 
 - whose outcome is considered;
 - the time horizon;
@@ -121,13 +111,13 @@ A study must declare:
 - who bears risk;
 - whether change is reversible.
 
-## 8. Methods boundary
+## 8. Evidence and methods
 
-Measurement, causal inference, longitudinal design, N-of-1 methods, model comparison, and data engineering belong under `methods/`.
+Measurement, causal inference, longitudinal design, N-of-1 methods, structural models, qualitative evidence, and data engineering belong under `methods/` or one bounded study.
 
-A method enters the active path only when one subject question requires it. Methodological sophistication does not compensate for an undefined human phenomenon.
+A method enters the active path only when a subject question requires it.
 
-Core epistemic rules remain:
+Core rules:
 
 1. population distributions do not determine individuals;
 2. correlation, prediction, mechanism, intervention, and moral judgment are distinct;
@@ -136,25 +126,21 @@ Core epistemic rules remain:
 5. measurement can change behaviour;
 6. missingness and selection are substantive facts;
 7. more variables and decimals do not create more truth;
-8. models remain contestable and revisable.
+8. models remain contestable and revisable;
+9. conclusions must state transport limits and heterogeneous effects;
+10. a widely used rule is a baseline to test, not authority.
 
-## 9. Technology and AI boundary
+## 9. Technology and AI
 
-Technology is studied as part of the human system because human capability has long been distributed through language, writing, tools, organizations, infrastructure, and machines.
+Technology is studied when a human problem requires it. Human capability has long been distributed through language, writing, tools, organizations, infrastructure, and machines.
 
-AI is one important branch. Ordivon Human may ask whether AI:
-
-- expands memory, learning, judgment, creativity, coordination, and execution;
-- changes which capabilities remain internal, external, or jointly distributed;
-- creates dependence, deskilling, manipulation, surveillance, or concentrated control;
-- alters identity, relationships, labour, institutions, and development;
-- preserves goal authorship, verification, refusal, replacement, and exit.
+AI may expand or alter memory, learning, judgment, creativity, coordination, and execution. It may also create dependence, deskilling, manipulation, surveillance, or concentrated control.
 
 AI does not organize the whole Human project, and output maximization is not a universal human objective.
 
 ## 10. Privacy and consequence boundary
 
-The public repository may contain frameworks, methods, synthetic examples, aggregate evidence, and legally reusable source material.
+The public repository may contain questions, frameworks, methods, code, synthetic examples, aggregate evidence, and legally reusable source material.
 
 It does not contain identifiable personal health, financial, behavioural, relationship, location, biometric, genomic, or private conversational data.
 
@@ -167,18 +153,17 @@ controlled derived analysis
 reviewed aggregate evidence
 ```
 
-Medical, legal, employment, insurance, credit, education-admission, policing, or other high-consequence decisions require domain-specific authority and evidence outside this repository.
+Medical, legal, employment, insurance, credit, education-admission, policing, investment, or other high-consequence decisions require domain-specific authority and evidence outside this repository.
 
 ## 11. Implementation admission
 
 A collector, schema, database, service, model, dashboard, benchmark, or governance process is admitted only when:
 
-1. a named human phenomenon and study require it;
-2. a complete case currently consumes it;
-3. mature tools cannot perform the work with acceptable cost and fidelity;
-4. the minimum necessary data are identified;
-5. measurement and privacy consequences are explicit;
-6. deletion, refusal, and exit remain possible;
-7. expected information gain exceeds maintenance and governance cost.
+1. an active question requires it;
+2. mature tools cannot perform the work with acceptable cost and fidelity;
+3. the minimum necessary data are identified;
+4. measurement and privacy consequences are explicit;
+5. deletion, refusal, and exit remain possible;
+6. expected information gain exceeds maintenance and governance cost.
 
 The default implementation is research text, bounded analysis, and small reproducible experiments. A permanent Human platform is not presumed.

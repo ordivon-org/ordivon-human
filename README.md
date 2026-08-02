@@ -1,102 +1,96 @@
 # Ordivon Human
 
-**Researching humans as biological, cognitive, psychological, behavioural, economic, social, technological, and historical systems.**
+**Problem-driven research into human life, development, constraints, and possible change.**
 
-Ordivon Human studies what constitutes a person, how those systems interact and develop, why people diverge, what outcomes emerge, and which changes are possible under real constraints.
+Ordivon Human begins with concrete questions that materially affect a person's life. It then selects the minimum biological, cognitive, psychological, behavioural, economic, social, technological, and historical concepts needed to explain them.
 
-## Central question
-
-> What major systems constitute a human life, how do they interact across time and context, and how do those interactions shape health, capability, agency, relationships, material conditions, well-being, and future possibilities?
-
-## Stable responsibility
-
-Ordivon Human owns research into:
-
-- body, cognition, emotion, motivation, identity, behaviour, and capability;
-- economy, resources, relationships, institutions, environment, and technology;
-- human development, ageing, life history, variation, shocks, feedback, and recovery;
-- interactions among internal state, action, opportunity, tools, and social structure;
-- human–technology and human–AI co-development as one branch of the larger human system;
-- methods required to observe and test these questions without reducing a person to one score.
-
-It does **not** own:
-
-- medical diagnosis, treatment, or clinical decision support;
-- a universal ranking, personality label, or aggregate “human score”;
-- an identity provider, user-profile service, or authority over a person's choices;
-- a personal-data warehouse or public repository of identifiable records;
-- generic encyclopaedic accumulation without a system question;
-- product infrastructure before one bounded study demonstrates necessity.
-
-## Current state — H0 P0
-
-The active subject-matter program is [`H0 — Human System Map`](research/h0/README.md).
-
-P0 has established first-pass foundations for:
-
-- [`Body`](research/h0/systems/BODY.md);
-- [`Cognition`](research/h0/systems/COGNITION.md);
-- [`Emotion and Motivation`](research/h0/systems/EMOTION-MOTIVATION.md);
-- [`Capability`](research/h0/systems/CAPABILITY.md);
-- the [`Human System Atlas`](research/h0/ATLAS.md);
-- a seed [`cross-system relation map`](research/h0/RELATIONS.md).
-
-The previous project phase was methodologically useful but mislabelled. It has been preserved as [`Methods M0`](methods/m0/), covering measurement, inference, population-to-individual reasoning, model deletion, and human–AI capability evaluation.
+## Research order
 
 ```text
-human systems
-→ relations and development
-→ variation and outcomes
-→ change and intervention
-→ methods selected for each question
+real human problem
+→ explicit outcomes and trade-offs
+→ mature evidence and competing explanations
+→ minimum systems and variables
+→ empirical or reproducible test
+→ conditional conclusion
+→ revise or delete the model
 ```
+
+The Human System Atlas and Methods are supporting resources. They do not determine the research agenda and are not achievements by themselves.
+
+## Active study
+
+### HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
+
+> From the point at which a person can independently decide income, consumption, debt, saving, work, and investment, how can they accumulate more durable wealth without materially degrading present quality of life, while expanding security, refusal power, exit capacity, and future choices?
+
+The first evidence round has completed:
+
+- an [`outcome framework`](research/economy/E0-OUTCOME-FRAMEWORK.md) separating wealth, quality of life, liquidity, capability, commitments, autonomy, and recovery;
+- a [`personal economic state model`](research/economy/E1-STATE-MODEL.md);
+- an [`evidence review`](research/economy/EVIDENCE-REVIEW-001.md) covering liquidity, commitments, whole-balance-sheet saving, human capital, and asset-return decomposition;
+- a reproducible [`China 2025 baseline`](research/economy/CHINA-BASELINE-2025.md).
+
+Current research index: [`research/economy/README.md`](research/economy/README.md).
+
+## Supporting research assets
+
+### Human System Atlas
+
+[`research/h0/`](research/h0/) contains first-pass maps for Body, Cognition, Emotion/Motivation, Capability, and cross-system relations. These are consulted only when an active problem needs them.
+
+### Methods
+
+[`methods/`](methods/) contains reusable measurement and inference discipline, including population-to-individual reasoning, causal scope, N-of-1 logic, model deletion, and human–AI capability distinctions.
 
 Methods support the subject. They do not substitute for it.
 
-## Program map
+## Stable responsibility
 
-```text
-H0  Human System Map
-H1  Human Development
-H2  Human Variation
-H3  Human Dynamics
-H4  Human Outcomes
-H5  Human Change
-H6  Human Systems and Technology
+Ordivon Human may study:
 
-Methods
-├── M0 Measurement and Inference Foundations
-├── M1 Data and Study Design
-└── M2 Model Validation
-```
+- health, functioning, cognition, emotion, behaviour, identity, capability, and ageing;
+- income, wealth, consumption, debt, work, time, autonomy, and material security;
+- family, relationships, organizations, institutions, culture, environment, and power;
+- education, learning, technology, AI, and externalized capability;
+- life-course trajectories, shocks, feedback, recovery, and path dependence;
+- interventions that could change a declared outcome under explicit costs and risks.
 
-The H-series is a research graph rather than a mandatory linear pipeline. H0 supplies the map needed by later branches.
+It does **not** own:
+
+- medical, psychological, financial, legal, or other high-consequence authority;
+- a universal human ontology, ranking, profile, or total score;
+- a personal-data warehouse or public repository of identifiable records;
+- an AI therapist, doctor, financial adviser, or autonomous decision maker;
+- generic encyclopaedic accumulation without an admitted question;
+- product infrastructure before a bounded study demonstrates necessity.
 
 ## Repository map
 
-- [`CHARTER.md`](CHARTER.md) — mission, boundaries, and relation to Ordivon;
-- [`docs/RESEARCH-PROGRAM.md`](docs/RESEARCH-PROGRAM.md) — current H0–H6 program;
+- [`CHARTER.md`](CHARTER.md) — mission and problem-driven research rules;
+- [`docs/RESEARCH-PROGRAM.md`](docs/RESEARCH-PROGRAM.md) — active and supporting research tracks;
+- [`research/QUESTIONS.md`](research/QUESTIONS.md) — question registry;
+- [`research/economy/`](research/economy/) — active personal economic autonomy study;
+- [`research/h0/`](research/h0/) — supporting Human System Atlas;
+- [`methods/`](methods/) — measurement and inference support;
 - [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) — data and consequence boundaries;
-- [`research/h0/`](research/h0/) — active Human System Map;
-- [`research/QUESTIONS.md`](research/QUESTIONS.md) — active and queued subject questions;
-- [`methods/`](methods/) — reusable measurement and inference support;
-- [`data/README.md`](data/README.md) — data-admission rules; no identifiable human data are stored.
+- [`data/README.md`](data/README.md) — data-admission rules.
 
 ## Relationship to Ordivon
 
 ```text
-Ordivon Human     studies humans and human development
+Ordivon Human     studies concrete human problems and trajectories
 Ordivon Computing synthesizes cross-project implications
 Ordivon Host      preserves Goals, Tasks, commitments, and participant decisions
 Ordivon Harness   organizes model cognition
 Ordivon Runtime   executes trusted-local work
 Ordivon World     connects Tasks to external systems
-Ordivon Game      can provide bounded interactive environments
+Ordivon Game      may provide bounded interactive experiments
 Ordivon Security  studies intelligent opposition and adversarial organization
 Ordivon Web       publishes selected research
 ```
 
-Human findings may revise how Ordivon understands attention, learning, agency, collaboration, tools, and dependence. Modeling a person never grants authority over that person.
+Modeling a person never grants authority over that person.
 
 ## License
 

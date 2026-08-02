@@ -1,88 +1,55 @@
-# H0 — Human System Map
+# Human System Atlas
 
-**Status: active. P0 foundations established on 2026-08-02.**
+**Status: supporting research asset. P0 foundations established on 2026-08-02.**
 
-H0 studies the human subject before studying how to measure, predict, or optimize that subject.
+The Atlas provides selectable distinctions for active problem-driven studies. It is not the active research program and does not need to be completed as a taxonomy before concrete questions proceed.
 
-## Central question
+## Supporting question
 
-> What major systems constitute a human life, what functions do they perform, how do they interact across time, and which distinctions are necessary to explain real human development and variation?
+> Which system distinctions are necessary to explain complete human cases, and which can be deleted without loss?
 
-## Order of work
+Current active consumer: [`HUMAN-ECON-001`](../economy/README.md).
 
-```text
-human systems
-→ cross-system relations
-→ development and variation
-→ outcomes and change
-→ measurement and intervention
-```
+The economic-autonomy study currently consumes:
 
-The former H0 work on measurement, causal inference, population-to-individual reasoning, and human–AI evaluation is preserved under [`../../methods/m0/`](../../methods/m0/). It supports H0 but no longer substitutes for it.
+- Body for health, work capacity, medical shocks, and recovery;
+- Cognition for planning, judgment, learning, and error;
+- Emotion and Motivation for stress, reward, risk, spending, and persistence;
+- Capability for earning, transfer, adaptation, and tool use;
+- cross-system relations for liquidity, commitment, capability, and recovery loops.
 
-## H0 system families
+## Current system views
 
-| System | Scope | P0 status |
+| System | Scope | Current status |
 |---|---|---|
-| Body | biological organization, bodily functioning, energy, sleep, health, recovery, ageing | foundation established |
-| Cognition | perception, attention, memory, language, reasoning, learning, control, metacognition | foundation established |
-| Emotion and motivation | valence, arousal, reward, threat, effort, goals, regulation, stress | foundation established |
-| Identity and values | personality, self-model, preferences, values, meaning, life narrative | queued |
-| Behaviour | action selection, habit, exploration, avoidance, persistence, self-control | queued |
-| Capability | reliable achievement across conditions, transfer, adaptation, tool use, coordination | foundation established |
-| Economy and resources | income, wealth, time, housing, equipment, risk buffer, access | queued |
-| Relationships | attachment, family, peers, trust, support, status, networks, conflict | queued |
-| Institutions and environment | education, law, labour, culture, place, information, historical conditions | queued |
-| Technology and external capability | language, writing, machines, software, organizations, internet, AI | queued |
-| Time and history | development, ageing, exposures, events, path dependence | cross-cutting axis |
+| Body | biological organization, bodily functioning, energy, sleep, health, recovery, ageing | first-pass foundation |
+| Cognition | perception, attention, memory, language, reasoning, learning, control, metacognition | first-pass foundation |
+| Emotion and motivation | valence, arousal, reward, threat, effort, goals, regulation, stress | first-pass foundation |
+| Capability | reliable achievement across conditions, transfer, adaptation, tool use, coordination | first-pass foundation |
+| Identity and values | preferences, commitments, meaning, and self-organization | add only when a problem requires it |
+| Behaviour | action, habit, exploration, avoidance, persistence, and execution | add only when a problem requires it |
+| Economy and resources | income, wealth, time, housing, equipment, risk buffer, access | active study owns the concrete model |
+| Relationships | attachment, support, trust, status, networks, conflict | add only when a problem requires it |
+| Institutions and environment | education, law, labour, culture, place, information, history | add only when a problem requires it |
+| Technology and external capability | language, writing, machines, software, organizations, internet, AI | add only when a problem requires it |
+| Time and history | development, ageing, exposure, events, path dependence | cross-cutting axis |
 
-These are research views, not independent organs and not a mandatory database schema.
+These are analytical views, not independent organs or a mandatory database schema.
 
-## P0 deliverables
+## Existing artefacts
 
-P0 closeout: [`P0-CLOSEOUT.md`](P0-CLOSEOUT.md).
+- [`ATLAS.md`](ATLAS.md) — first system map;
+- [`RELATIONS.md`](RELATIONS.md) — seed relations and feedback loops;
+- [`systems/BODY.md`](systems/BODY.md);
+- [`systems/COGNITION.md`](systems/COGNITION.md);
+- [`systems/EMOTION-MOTIVATION.md`](systems/EMOTION-MOTIVATION.md);
+- [`systems/CAPABILITY.md`](systems/CAPABILITY.md);
+- [`P0-CLOSEOUT.md`](P0-CLOSEOUT.md) — historical P0 record.
 
-P0 establishes:
+The former method-first H0 work is preserved under [`../../methods/m0/`](../../methods/m0/).
 
-1. the corrected project structure;
-2. the Human System Atlas skeleton;
-3. first-pass mature-framework comparisons for Body, Cognition, Emotion and Motivation, and Capability;
-4. a seed relation map connecting those systems;
-5. explicit boundaries between system structure, observed performance, outcome, and measurement;
-6. a question backlog for the next evidence rounds.
+## Retention rule
 
-P0 does not claim a complete review of biology, neuroscience, psychology, education, or skills research.
+A system, subdivision, or relation survives only when an active study uses it and deleting it causes a named failure in explanation, measurement, or decision ranking.
 
-## System-page contract
-
-Each system page must contain:
-
-```text
-definition and boundary
-core components
-functions
-inputs and outputs
-timescales and development
-plasticity and constraints
-mature frameworks
-measurement surfaces
-major relations
-known disputes and failure modes
-high-value research questions
-retention and deletion judgment
-```
-
-A section survives only when removing it causes a named explanatory failure in at least one complete human case.
-
-## H0 exit criteria
-
-H0 closes only when:
-
-- all ten system families have mature-framework comparisons;
-- at least five complete human cases can be represented without method/object confusion;
-- the highest-value cross-system relations are explicit;
-- stable structure, dynamic state, action, context, outcome, and observation are not conflated;
-- at least one proposed category has been deleted after case testing;
-- Ordivon Human's contribution beyond any single discipline can be stated narrowly.
-
-Until then, H0 remains active. No broad personal-data collection or optimization product is admitted.
+No completion target requires filling every remaining category.
