@@ -1,0 +1,22 @@
+schema_version: 1
+id: ordivon-human
+name: Ordivon Human
+repository: https://github.com/zycxfyh/ordivon-human
+kind: research
+default_profiles:
+  - research
+  - organization
+documentation_roots:
+  - README.md
+  - AGENTS.md
+  - CHARTER.md
+  - docs
+  - methods
+  - research
+  - data
+managed_paths: []
+enforcement: advisory
+maintainers:
+  - zycxfyh
+public_projection: ordivon-web
+description: Problem-driven research into human development, constraints, capability, and economic autonomy.
