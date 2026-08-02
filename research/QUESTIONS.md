@@ -2,13 +2,28 @@
 
 ## Completed first cycle
 
-### HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
+### HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Question:** How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
+**Question:** How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-**Status:** E0–E9 first-principles cycle completed 2026-08-02.
+**Status:** First-principles cycle completed 2026-08-02; practical E0–E9 reconstruction completed 2026-08-03.
 
-**Final mechanism:**
+**Active practical path:**
+
+```text
+foundation
+→ professional direction
+→ proof
+→ first market exchange
+→ early-career value capture and surplus
+→ life-quality and commitment control
+→ productive ownership
+→ owner-independent system
+→ capital by function
+→ continuity and economic autonomy
+```
+
+**Retained mechanism:**
 
 ```text
 capability
@@ -16,33 +31,20 @@ capability
 → value capture
 → quality-preserving surplus
 → productive ownership
-→ leverage
+→ net productive leverage
 → compounding
 → economic autonomy
 ```
 
-**Final stage model:**
+**Practical decision form:**
 
 ```text
-economic dependence
-→ labour-dominant independent income
-→ stable surplus
-→ scalable ownership
-→ capital- and system-dominant wealth
-→ high economic autonomy
-```
-
-**Final decision form:**
-
-```text
-starting state
-→ binding constraint
-→ dominant mechanism
-→ absolute magnitude
-→ life-quality and attention cost
-→ dependence and control
-→ ordinary and terminal failure
-→ evidence and exit rule
+current state
+→ first unsupported transition
+→ bounded action
+→ maximum acceptable loss
+→ external evidence
+→ continue, scale, redesign, or stop
 → next-stage transition
 ```
 
@@ -50,36 +52,69 @@ starting state
 
 **Closeout:** [`economy/E0-E9-CLOSEOUT.md`](economy/E0-E9-CLOSEOUT.md).
 
+## Active E-series questions
+
+1. **E0:** What is the first transition in the path that current evidence does not support?
+2. **E1:** Can the person sustain functioning, learn independently, and complete checked work?
+3. **E2:** Which professional direction survives direct contact with real work, demand, access, and cost?
+4. **E3:** Can private capability produce one trusted result for a real party under a real constraint?
+5. **E4:** Does work build portable capability, bargaining power, and recurring quality-preserving surplus?
+6. **E5:** Which resource uses protect life and future capability, and which commitments remove future choice?
+7. **E6:** Which repeated useful result can become a controlled reusable asset?
+8. **E7:** Can output grow without proportional owner labour, maintenance, fragility, and dependence?
+9. **E8:** What function must each unit of capital serve in the complete economic state?
+10. **E9:** What evidence, boundary, stop rule, and recovery path govern the next transition?
+
 ## Retained conclusions
 
 1. Wealth is durable and controllable command over resources and future production, not merely accounting net worth.
 2. Present life quality, durable economic power, and economic autonomy are terminal outcomes.
-3. Capability, value creation, value capture, surplus, ownership, leverage, and compounding are distinct transitions.
-4. Capital return is proportional to the base; low-capital stages are usually dominated by capability, market access, recurring captured value, and ownership formation.
-5. Consumption and wealth formation are not pure opposites; some uses of money and time improve both present life and future capability.
-6. Private competence requires demand, proof, access, reliable delivery, transferability, and bargaining or ownership.
-7. Ownership is a bundle of residual income, residual control, transfer, exit, information, maintenance, and loss exposure.
-8. Productive leverage must grow durable output or claims faster than permanent owner labour, maintenance, fragility, and dependence.
-9. Concentration may be productive while control and marginal creation value compensate for correlated risk; diversification becomes dominant when those advantages decline.
-10. Capital serves continuity, options, controlled production, diversified claims, and protection.
-11. Active allocation must cross an attention threshold; low-frequency or no action may be optimal.
-12. Ordinary failure must not destroy essential life, future capability, or the ability to continue.
-13. The highest-output path may still reduce autonomy when ownership and control remain elsewhere.
-14. The end state is not maximum capital but increasing alignment between resources and chosen action.
+3. Education is economically incomplete when it produces only credentials or test performance without learning agency and inspectable results.
+4. Professional direction should be tested through real work, demand, proof, access, transferability, full cost, and reversibility.
+5. The first market milestone is a useful result delivered to a real party under a real constraint, not immediate large income.
+6. Early work should produce some combination of cash, capability, proof, access, bargaining power, surplus, and ownership opportunity.
+7. Capital return is proportional to the base; low-capital stages are usually dominated by capability, market access, recurring captured value, and ownership formation.
+8. Consumption and wealth formation are not pure opposites; some uses of money and time improve both present life and future capability.
+9. Fixed commitments can erase refusal power even when income rises.
+10. Ownership usually begins by extracting a reusable core from repeated labour while preserving rights.
+11. Productive leverage must grow durable output or claims faster than permanent owner labour, maintenance, fragility, and dependence.
+12. Revenue, users, employees, automation, and agents do not prove scalability without repeatability and owner-substitution evidence.
+13. Concentration may be productive while control and marginal creation value compensate for correlated risk; diversification becomes dominant when those advantages decline.
+14. Capital serves continuity, options, controlled production, diversified claims, and protection.
+15. Active allocation must cross an attention threshold; low-frequency or no action may be optimal.
+16. Ordinary failure must not destroy essential life, future capability, or the ability to continue.
+17. The highest-output path may still reduce autonomy when ownership and control remain elsewhere.
+18. The end state is not maximum capital but increasing alignment between resources and chosen action.
+
+## Practical case boundary
+
+The E-series uses composite cases to demonstrate action logic. They are not representative case studies.
+
+A case is admissible only when it states:
+
+- a plausible starting condition;
+- the tempting error;
+- a bounded intervention;
+- why the intervention is feasible without exceptional resources;
+- the evidence that would invalidate or change it.
+
+A real high-consequence decision may require current local labour-market, educational, legal, tax, migration, or financial evidence beyond the series.
 
 ## Falsifiers and reopening conditions
 
 Reopen or revise HUMAN-ECON-001 only when at least one condition appears:
 
-1. a simpler model explains complete cases without separate value-creation, capture, ownership, leverage, stage, life-quality, or autonomy variables;
-2. the stage model fails to change action ranking when binding constraints differ;
-3. recurring income and surplus changes do not dominate ordinary return optimization at low capital bases under plausible complete cases;
-4. productive ownership does not materially reduce dependence on current labour;
-5. concentrated ownership creates no control or incentive value sufficient to justify any under-diversification;
-6. dual-return resource uses cannot be distinguished from ordinary consumption;
-7. human–AI capability distinctions do not change dependence, verification, ownership, or action ranking;
-8. the conditional strategy map systematically ranks real complete cases incorrectly;
-9. a concrete decision requires granular evidence that cannot be replaced by first principles, public calibration, or bounded cases.
+1. the life-course sequence systematically hides a more important transition;
+2. the starting-state test fails to change action ranking when binding constraints differ;
+3. foundation, direction, proof, exchange, surplus, ownership, system, and capital stages cannot be distinguished in complete cases;
+4. recurring income and surplus changes do not dominate ordinary return optimization at low capital bases under plausible complete cases;
+5. productive ownership does not materially reduce dependence on current labour;
+6. owner-substitution tests fail to distinguish a scalable system from expanded self-employment;
+7. concentrated ownership creates no control or incentive value sufficient to justify any under-diversification;
+8. dual-return resource uses cannot be distinguished from ordinary consumption;
+9. human–AI capability distinctions do not change dependence, verification, ownership, or action ranking;
+10. the practical case protocol repeatedly recommends actions that are infeasible for ordinary starting states;
+11. a concrete decision requires granular evidence that cannot be replaced by first principles, public calibration, current local checks, or bounded cases.
 
 ## No active automatic successor
 

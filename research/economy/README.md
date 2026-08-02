@@ -1,130 +1,113 @@
-# HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
+# HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 first-principles cycle completed 2026-08-02.**
+**Status: E0–E9 practical reconstruction completed 2026-08-03.**
 
 ## Core question
 
-> How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
+> How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-This is a wealth-formation and human-development problem, not an investment-return contest or household-data project.
+## Start here
 
-## Final answer
+The active path is:
 
 ```text
-terminal outcomes
-=
-present life quality
-+ durable economic power
-+ economic autonomy
+foundation
+→ professional direction
+→ proof
+→ first market exchange
+→ early-career value capture and surplus
+→ life-quality and commitment control
+→ productive ownership
+→ owner-independent system
+→ capital by function
+→ continuity and stage transition
+```
 
-wealth formation
-=
+Read the chapter matching the first transition that is not yet supported by evidence.
+
+## Practical E-series
+
+- [`E0-PATH-AND-STARTING-STATE.md`](E0-PATH-AND-STARTING-STATE.md) — locate the current state and first binding constraint;
+- [`E1-FOUNDATION-EDUCATION.md`](E1-FOUNDATION-EDUCATION.md) — build health, literacy, numeracy, self-directed learning, and cooperation;
+- [`E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md`](E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md) — test professional directions before expensive commitment;
+- [`E3-PROOF-AND-FIRST-MARKET-ENTRY.md`](E3-PROOF-AND-FIRST-MARKET-ENTRY.md) — produce inspectable proof and complete the first trusted exchange;
+- [`E4-EARLY-CAREER-AND-SURPLUS.md`](E4-EARLY-CAREER-AND-SURPLUS.md) — turn work into capability, proof, bargaining power, and recurring surplus;
+- [`E5-LIFE-QUALITY-AND-COMMITMENTS.md`](E5-LIFE-QUALITY-AND-COMMITMENTS.md) — protect functioning and avoid fixed commitments that consume future choice;
+- [`E6-LABOUR-TO-OWNERSHIP.md`](E6-LABOUR-TO-OWNERSHIP.md) — extract reusable owned production from repeated labour;
+- [`E7-OWNERSHIP-TO-SYSTEM.md`](E7-OWNERSHIP-TO-SYSTEM.md) — build repeatability and reduce owner dependence before scale;
+- [`E8-CAPITAL-BY-FUNCTION.md`](E8-CAPITAL-BY-FUNCTION.md) — assign capital to continuity, options, controlled production, diversified claims, and protection;
+- [`E9-CONTINUITY-AND-STAGE-TRANSITIONS.md`](E9-CONTINUITY-AND-STAGE-TRANSITIONS.md) — use evidence, boundaries, stop rules, recovery, and stage transitions;
+- [`E0-E9-CLOSEOUT.md`](E0-E9-CLOSEOUT.md) — reconstruction rationale and concentrated final judgment.
+
+## How to use the series
+
+1. Start with E0 and identify the first important “no.”
+2. Read the chapter that addresses that transition.
+3. Choose one bounded action that can produce external evidence.
+4. Define maximum acceptable loss before acting.
+5. Continue, scale, redesign, or stop when evidence changes.
+
+Do not read all ten chapters as ten simultaneous obligations.
+
+## Case policy
+
+Each chapter includes several composite illustrative cases.
+
+They are designed to show feasible reasoning, not to claim population evidence. Each case states:
+
+- the starting condition;
+- the tempting error;
+- a bounded practical move;
+- why the move is realistic;
+- the signal that would invalidate or change it.
+
+The cases deliberately avoid exceptional success assumptions.
+
+## Retained first-principles mechanism
+
+```text
 capability
 → value creation
 → value capture
 → quality-preserving surplus
 → productive ownership
-→ leverage
+→ net productive leverage
 → compounding
-
-continuity constraint
-=
-ordinary failure must not destroy essential life,
-future capability, or the ability to continue
-
-allocation rule
-=
-place the next unit of time, money, attention, and control
-where it changes the current binding constraint
-by the largest durable amount
-relative to maintenance, dependence, and failure risk
+→ economic autonomy
 ```
 
-## Completed sequence
-
-- [`E0-OUTCOME-FRAMEWORK.md`](E0-OUTCOME-FRAMEWORK.md) — terminal outcomes and hard constraints;
-- [`E1-WEALTH-FORMATION-MODEL.md`](E1-WEALTH-FORMATION-MODEL.md) — capability to value, surplus, ownership, leverage, and compounding;
-- [`E2-STAGE-AND-PATH-MODEL.md`](E2-STAGE-AND-PATH-MODEL.md) — dependence through high autonomy, classified by binding constraint;
-- [`E3-GROWTH-ENGINE-COMPARISON.md`](E3-GROWTH-ENGINE-COMPARISON.md) — absolute magnitude of earning growth, surplus, ownership, leverage, and capital return;
-- [`E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md`](E4-LIFE-QUALITY-CAPABILITY-FRONTIER.md) — money and time by present-life, future-capability, and lock-in effects;
-- [`E5-ECONOMIC-CAPABILITY-CONVERSION.md`](E5-ECONOMIC-CAPABILITY-CONVERSION.md) — demand, proof, access, reliability, transferability, bargaining, and AI;
-- [`E6-OWNERSHIP-AND-PRODUCTIVE-LEVERAGE.md`](E6-OWNERSHIP-AND-PRODUCTIVE-LEVERAGE.md) — residual rights, replication, organization, distribution, concentration, and diversification;
-- [`E7-CAPITAL-ACCUMULATION-AND-ALLOCATION.md`](E7-CAPITAL-ACCUMULATION-AND-ALLOCATION.md) — functional capital pools, whole-system allocation, and attention thresholds;
-- [`E8-CONTINUITY-EXECUTION-AND-BEHAVIOURAL-FAILURE.md`](E8-CONTINUITY-EXECUTION-AND-BEHAVIOURAL-FAILURE.md) — repeated reset, escalation, founder dependence, action bias, and recovery;
-- [`E9-CONDITIONAL-STRATEGY-MAP.md`](E9-CONDITIONAL-STRATEGY-MAP.md) — state-dependent synthesis and complete path map;
-- [`E0-E9-CLOSEOUT.md`](E0-E9-CLOSEOUT.md) — concentrated final judgment.
-
-## Stage model
-
-```text
-economic dependence
-→ labour-dominant independent income
-→ stable surplus
-→ scalable ownership
-→ capital- and system-dominant wealth
-→ high economic autonomy
-```
-
-A stage changes when the binding constraint changes. It is not defined by age or one wealth number.
-
-## Key retained conclusions
-
-1. Wealth is durable and controllable command over resources and future production, not merely net worth.
-2. Value creation, value capture, surplus, ownership, leverage, and compounding are separate transitions.
-3. Capital return is proportional to the existing base; low-capital stages are usually dominated by capability, market access, recurring captured value, and ownership formation.
-4. Consumption and wealth formation are not pure opposites; some uses of money and time improve both present life and future capability.
-5. Private competence creates no automatic income; it requires valuable demand, credible proof, access, reliable delivery, and bargaining or ownership.
-6. Ownership is residual income, residual control, transfer, exit, information, maintenance, and loss exposure—not a name on an account.
-7. True productive leverage grows durable output or claims faster than permanent owner labour, maintenance, fragility, and dependence.
-8. Concentrated ownership can be rational while control and marginal creation value compensate for correlated risk; diversification becomes dominant when those advantages decline.
-9. Capital should be separated by function: continuity, options, controlled production, diversified productive claims, and protection.
-10. Active allocation must cross an attention threshold; low-frequency or no action may dominate after costs and displaced opportunities.
-11. Compounding requires avoiding repeated reset, action substitution, commitment ratchets, capability depletion, founder dependence, and platform tenancy mistaken for ownership.
-12. The final objective is not maximum capital but increasing alignment between resources and chosen action.
+The practical series reorganizes this mechanism by life transition rather than by academic concept.
 
 ## Public calibration
 
 - [`CHINA-BASELINE-2025.md`](CHINA-BASELINE-2025.md) — official public averages used only for scale;
 - [`china_2025_baseline.py`](china_2025_baseline.py) — reproduces the aggregate calculation;
-- [`evidence/china-2025-baseline.json`](evidence/china-2025-baseline.json) — generated public aggregate result.
+- [`evidence/china-2025-baseline.json`](evidence/china-2025-baseline.json) — generated result;
+- [`SOURCES.md`](SOURCES.md) — sources and evidence boundary.
 
-A recurring 12,000-yuan annual income improvement has the same one-year magnitude as return on:
+The baseline does not determine individual strategy.
 
-- 240,000 yuan at 5%;
-- 150,000 yuan at 8%;
-- 120,000 yuan at 10%.
+## Supporting boundary
 
-These are equivalence calculations, not forecasts.
+[`RISK-AND-CONTINUITY-BOUNDARY.md`](RISK-AND-CONTINUITY-BOUNDARY.md) retains the thin rule that ordinary failure must not destroy essential life, future capability, or the ability to continue.
 
-## Supporting boundaries
+## Removed active structure
 
-- [`RISK-AND-CONTINUITY-BOUNDARY.md`](RISK-AND-CONTINUITY-BOUNDARY.md) — thin survival constraint;
-- [`E0-E3-RECONSTRUCTION.md`](E0-E3-RECONSTRUCTION.md) — why the former CHFS/CFPS data direction was removed;
-- [`SOURCES.md`](SOURCES.md) — source and inference hierarchy.
+The active repository no longer maintains:
 
-## Deleted direction
+- the former concept-first E0–E9 edition;
+- the E0–E3 reconstruction memo;
+- respondent-level household-data infrastructure;
+- a personal finance profile or score;
+- a portfolio optimizer;
+- a permanent dashboard;
+- behavioural surveillance;
+- universal saving or allocation rules.
 
-The active repository contains no:
-
-- respondent-level household-data program;
-- personal finance profile;
-- financial score;
-- portfolio optimizer;
-- permanent dashboard;
-- behavioural surveillance system;
-- universal saving or allocation rule.
-
-The historical E2 data prototype remains recoverable at revision `ec8142020f207f0f053e7db974d5cb47b80dbc3f` but is not an active dependency.
+Git history remains the archive.
 
 ## Research boundary
 
-This program offers a mechanism framework, not individualized financial authority.
+This program is a practical mechanism guide, not individualized financial, career, educational, legal, tax, or migration authority.
 
-Future work must begin from:
-
-- a new concrete human problem;
-- a complete case that the current model ranks incorrectly;
-- a falsifier exposing a named mechanism failure;
-- a decision whose answer requires evidence not already admitted.
-
-No automatic E10 is planned.
+Future work must begin from a complete case, a falsifier, or a new concrete human problem. No automatic E10 is planned.

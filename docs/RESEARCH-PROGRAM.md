@@ -2,13 +2,13 @@
 
 Ordivon Human is organized by concrete questions, not by completing domains, datasets, or numbered tracks for their own sake.
 
-## HUMAN-ECON-001 — Sustainable Personal Economic Autonomy
+## HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 first-principles cycle complete.**
+**Status: E0–E9 practical reconstruction complete 2026-08-03.**
 
-> How can a person expand durable command over resources and future production without materially degrading present life quality, while increasing the range of actions they can freely choose?
+> How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-## Method
+## Research method
 
 ```text
 first-principles structure
@@ -16,139 +16,98 @@ first-principles structure
 → explicit assumptions
 → competing path comparison
 → counterexample and failure analysis
+→ practical composite cases
 → bounded evidence only when still necessary
-→ conditional conclusion
+→ conditional action
 → close, revise, or delete
 ```
 
 Data may calibrate scale. Data availability may not select the research question.
 
-## Completed E-series
+## Why the E-series was reconstructed
 
-### E0 — Problem and outcome definition
+The first cycle produced a coherent mechanism model but required readers to translate concepts into a life path. The practical reconstruction reorganized the same mechanism around transitions that a person can recognize and act on.
 
-Terminal outcomes:
+Each chapter now provides:
 
-- present life quality;
-- durable economic power;
-- economic autonomy.
+- the real situation addressed;
+- the current bottleneck;
+- a bounded action;
+- several plausible composite cases;
+- the reason the cases are feasible;
+- a failure or state-change signal;
+- evidence required before moving forward.
 
-Income, saving, liquidity, capability, ownership, leverage, commitments, and risk are instruments or constraints.
+## Active E-series
 
-### E1 — First-principles wealth formation
+### E0 — Starting state
 
-```text
-capability
-→ value creation
-→ value capture
-→ quality-preserving surplus
-→ productive ownership
-→ leverage
-→ compounding
-→ autonomy
-```
+Locate the first unsupported transition rather than building a total life plan.
 
-### E2 — Stage and path model
+Evidence path:
 
 ```text
-economic dependence
-→ labour-dominant independent income
-→ stable surplus
-→ scalable ownership
-→ capital- and system-dominant wealth
-→ high economic autonomy
+reliable functioning
+→ inspectable capability
+→ external trust
+→ paid or responsibility-bearing exchange
+→ recurring surplus
+→ output beyond current labour
+→ owner-independent operation
+→ independent claims supporting choice
 ```
 
-A stage is defined by the binding constraint, not age or one wealth threshold.
+### E1 — Foundation education
 
-### E3 — Growth-engine comparison
+Build functional capacity, literacy, numeracy, self-directed learning, cooperation, and tool use. Formal access and independent production operate as parallel loops.
 
-Compares cost reduction, recurring earning growth, ownership, capital compounding, productive leverage, financial leverage, and external transfer by absolute magnitude and opportunity cost.
+### E2 — Direction and professional choice
 
-### E4 — Life quality and capability-investment frontier
+Test candidate paths through real work, demand, proof, access, transferability, full cost, and reversibility before major commitment.
 
-Classifies money and time by:
+### E3 — Proof and first market entry
 
-- essential maintenance;
-- restoration and present quality;
-- capability investment;
-- productive leverage;
-- enjoyment;
-- convenience and time substitution;
-- status and coordination;
-- lock-in;
-- leakage and destruction.
+Convert competence into a useful result for a real party under a real constraint. The first payment or responsibility is evidence of exchange, not proof of a scalable career.
 
-### E5 — Economic capability conversion
+### E4 — Early career and surplus
 
-```text
-competence
-→ valuable demand
-→ credible proof
-→ market access
-→ reliable delivery
-→ transferable control
-→ bargaining or ownership
-```
+Evaluate work by cash, capability, proof, access, and ownership returns. Build recurring surplus without damaging life or the capability base.
 
-AI may complement capability, commoditize routine execution, enable earlier ownership, and create new provider dependence.
+### E5 — Life quality and commitments
 
-### E6 — Ownership and productive leverage
+Protect a declared life-quality floor, seek resource uses with present and future value, and resist fixed commitments that remove refusal power.
 
-Distinguishes:
+### E6 — Labour to ownership
 
-- residual income and residual control;
-- nominal title and actual transfer or exit rights;
-- self-employment and scalable ownership;
-- tool, replication, distribution, organizational, capital, and financial leverage;
-- productive concentration and destructive concentration;
-- platform tenancy and durable ownership.
+Find repeated useful work, deliver it manually, isolate a reusable core, preserve legal and contractual rights, and test whether reuse exceeds maintenance.
 
-### E7 — Capital accumulation and allocation
+### E7 — Ownership to system
 
-Capital is allocated by function:
+Prove repeat demand, delivery, unit economics, bounded variation, and owner substitution before scaling. More output is not leverage when owner burden grows proportionally.
 
-1. continuity;
-2. options and exploration;
-3. controlled productive opportunity;
-4. diversified long-horizon productive claims;
-5. protection and liability reduction.
+### E8 — Capital by function
 
-Financial allocation is evaluated jointly with labour income, business ownership, housing, debt, flexibility, insurance, jurisdiction, control, and attention cost.
+Assign capital to continuity, options, controlled production, diversified long-horizon claims, and protection before choosing products or percentages.
 
-### E8 — Continuity, execution, and behavioural failure
+### E9 — Continuity and stage transitions
 
-Retains only failures capable of ending or distorting the main path:
+Use evidence ladders, exposure boundaries, stop rules, careful outcome attribution, recovery, and deliberate non-action.
 
-- repeated reset;
-- action substitution;
-- percentage blindness;
-- luck–skill attribution error;
-- loss chasing and success escalation;
-- commitment ratchet;
-- capability depletion;
-- income without ownership conversion;
-- founder dependence;
-- platform tenancy mistaken for ownership;
-- attention fragmentation;
-- measurement and governance theatre;
-- AI-induced agency drift.
+Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
 
-### E9 — Conditional strategy map
+## Case-admission standard
 
-Produces conclusions of the form:
+A practical case must state:
 
-```text
-starting state
-→ binding constraint
-→ dominant mechanism
-→ expected absolute magnitude
-→ life-quality and attention cost
-→ dependence and control
-→ failure boundary
-→ evidence and exit rule
-→ next-stage transition
-```
+1. a plausible starting state;
+2. the tempting but possibly incorrect move;
+3. a bounded intervention;
+4. why it does not require exceptional resources or success;
+5. what evidence would invalidate or change the action.
+
+A case is rejected when it depends on hidden privilege, guaranteed demand, unrealistic product success, unbounded capital, or a false claim of passive ownership.
+
+Cases illustrate mechanism application. They are not substitutes for representative empirical evidence.
 
 ## Final synthesis
 
@@ -167,18 +126,16 @@ future capability, or the ability to continue
 allocation rule
 =
 place the next unit of time, money, attention, and control
-where it changes the binding constraint
+where it changes the current binding constraint
 by the largest durable amount
 relative to maintenance, dependence, and failure risk
 ```
-
-Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
 
 ## Supporting public calibration
 
 [`../research/economy/CHINA-BASELINE-2025.md`](../research/economy/CHINA-BASELINE-2025.md) contains a small official average baseline.
 
-It is used only to test whether a mechanism is large enough to matter and whether attention is being spent on a small channel while a larger changeable channel remains.
+It is used only to check scale. It does not determine individual strategy or validate the composite cases as representative.
 
 ## Supporting Human System Atlas
 
@@ -194,7 +151,7 @@ Completed and reusable.
 
 ### M1 — Data and study design
 
-Admit only when a concrete unresolved decision cannot be answered by a simpler mechanism model and public calibration.
+Admit only when a concrete unresolved decision cannot be answered by a simpler mechanism model, current local evidence, and bounded cases.
 
 ### M2 — Model validation
 
@@ -202,7 +159,7 @@ Evaluate mechanism completeness, counterexamples, magnitude, transfer, subgroup 
 
 ## Admission gates
 
-A new study, variable, dataset, or implementation must state:
+A new study, variable, dataset, case program, or implementation must state:
 
 1. the core human problem;
 2. the terminal outcome or decision it changes;
@@ -216,4 +173,4 @@ A new study, variable, dataset, or implementation must state:
 
 No automatic E10 is planned.
 
-The next active research program must begin from a new concrete human problem or from evidence that the completed E0–E9 model ranks a complete case incorrectly.
+The next active research program must begin from a new concrete human problem or from a complete case showing that the practical E0–E9 path ranks a material action incorrectly.
