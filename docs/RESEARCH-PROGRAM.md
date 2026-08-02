@@ -95,17 +95,20 @@ Use evidence ladders, exposure boundaries, stop rules, careful outcome attributi
 
 Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
 
-## Active complete-case validation
+## Complete-case validation suite
 
-[`../research/economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md`](../research/economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) applies E0–E9 to a privacy-reduced structural case with:
+The first suite contains six structural cases:
 
-- substantial AI-assisted technical output;
-- incomplete evidence of independently retained capability;
-- no repeated external exchange;
-- limited independently controlled capital;
-- continuity risk from high-variance side activity.
+1. early technical capability with substantial AI-assisted output but no repeated external exchange;
+2. precarious labour with fragmented income and weak refusal power;
+3. stable salaried work with shrinking options and fixed commitments;
+4. independent professional revenue without proven productive leverage;
+5. a commercially meaningful but founder-dependent operating business;
+6. high nominal wealth with low liquidity, high maintenance, and limited usable autonomy.
 
-The initial diagnosis is that the first unsupported transition is narrow externally trusted proof, not additional project breadth or small-capital return optimization. Reviews use relative evidence checkpoints rather than calendar dates.
+The suite covers every major transition in E0–E9 without multiplying cases by occupation, location, age, or asset label. Full coverage and falsifiers are recorded in [`../research/economy/cases/README.md`](../research/economy/cases/README.md).
+
+No additional case should be admitted unless it exposes a missing transition, a materially different failure mode, or an incorrect action ranking.
 
 ## Case-admission standard
 

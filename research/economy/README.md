@@ -1,6 +1,6 @@
 # HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
-**Status: E0–E9 practical reconstruction completed; CASE-001 validation active.**
+**Status: E0–E9 practical reconstruction completed; six-case validation suite constructed.**
 
 ## Core question
 
@@ -65,20 +65,18 @@ The cases deliberately avoid exceptional success assumptions.
 
 ## Complete-case validation
 
-The series is now being tested against privacy-reduced complete cases:
+The first validation suite contains six privacy-reduced structural cases:
 
-- [`cases/README.md`](cases/README.md) — case protocol, privacy boundary, and status rules;
-- [`cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md`](cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) — a privacy-reduced structural case with substantial AI-assisted technical output, incomplete retained-capability evidence, no repeated external exchange, limited independently controlled capital, and continuity risk from high-variance side activity.
+- [`CASE-001`](cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) — output to externally trusted repeated use;
+- [`CASE-002`](cases/CASE-002-PRECARIOUS-WORKER.md) — fragmented labour to reliable exchange and refusal power;
+- [`CASE-003`](cases/CASE-003-STABLE-SALARIED-SPECIALIST.md) — stable salary to portable options and bounded ownership;
+- [`CASE-004`](cases/CASE-004-INDEPENDENT-PROFESSIONAL.md) — repeated service to reusable controlled production;
+- [`CASE-005`](cases/CASE-005-FOUNDER-DEPENDENT-SMALL-BUSINESS.md) — founder-led business to owner-independent normal operation;
+- [`CASE-006`](cases/CASE-006-ASSET-RICH-AUTONOMY-POOR.md) — nominal wealth to usable low-maintenance autonomy.
 
-CASE-001 currently ranks the first unsupported transition as:
+[`cases/README.md`](cases/README.md) defines the privacy rule, coverage matrix, cross-case falsifiers, and the reason the suite stops at six.
 
-```text
-substantial technical output
-→ one narrow result that an external party can understand,
-trust, use, and request again
-```
-
-Reviews use relative evidence checkpoints rather than calendar dates.
+CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 are composite pressure tests unless suitable anonymous real trajectories replace them.
 
 ## Retained first-principles mechanism
 

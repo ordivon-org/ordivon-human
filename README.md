@@ -72,9 +72,11 @@ Each chapter now includes several composite cases with a realistic starting cond
 
 Current research index: [`research/economy/README.md`](research/economy/README.md).
 
-The first complete-case validation is active:
+The first complete-case suite contains six materially different structural cases:
 
-- [`CASE-001`](research/economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) — a privacy-reduced structural case testing whether narrow external proof and retained capability should dominate further project expansion and small-capital return optimization.
+- [`validation cases`](research/economy/cases/README.md) — capability formation, precarious labour, stable employment, independent professional work, founder-dependent ownership, and asset-rich but autonomy-poor ownership.
+
+Six cases are sufficient for the first suite because they cover each major production relation and transition in E0–E9. No additional case is admitted merely to enlarge coverage counts.
 
 No automatic E10 is planned. Future work requires a new concrete problem or a complete case that exposes a named failure in the current model.
 

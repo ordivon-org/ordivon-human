@@ -6,7 +6,7 @@
 
 **Question:** How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
 
-**Status:** First-principles cycle and practical E0–E9 reconstruction completed; CASE-001 validation active.
+**Status:** First-principles cycle and practical E0–E9 reconstruction completed; six-case validation suite constructed.
 
 **Active practical path:**
 
@@ -52,11 +52,9 @@ current state
 
 **Closeout:** [`economy/E0-E9-CLOSEOUT.md`](economy/E0-E9-CLOSEOUT.md).
 
-**Active validation case:** [`economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md`](economy/cases/CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md).
+**Validation suite:** [`economy/cases/README.md`](economy/cases/README.md).
 
-CASE-001 tests whether an early-stage technical builder with substantial AI-assisted output but no repeated external exchange should prioritize narrow external proof and retained capability over more project breadth or small-capital return optimization.
-
-Reviews use three relative checkpoints: capability and pruning, external use, and stronger exchange.
+The six cases test distinct transitions from capability formation through precarious and stable labour, direct professional capture, operating ownership, and high-wealth governance. The suite is closed to routine expansion until a missing mechanism or incorrect action ranking appears.
 
 ## Active E-series questions
 
