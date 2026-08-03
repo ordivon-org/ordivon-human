@@ -96,7 +96,7 @@ Evidence path:
 
 ```text
 reliable functioning
-→ inspectable capability
+→ verifiable capability
 → external trust
 → paid or responsibility-bearing exchange
 → recurring surplus

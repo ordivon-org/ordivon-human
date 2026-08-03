@@ -33,7 +33,7 @@ related:
 
 ## Executive judgment
 
-Economic autonomy develops through supported transitions: reliable functioning, inspectable capability, trusted exchange, recurring surplus, controlled reusable production, owner-independent operation, and capital assigned to continuity, options, productive control, diversified claims, protection, and deliberate life use. The correct next move is the smallest bounded action that changes the current binding constraint without making ordinary failure destructive.
+Economic autonomy develops through supported transitions: reliable functioning, verifiable capability, trusted exchange, recurring surplus, controlled reusable production, owner-independent operation, and capital assigned to continuity, options, productive control, diversified claims, protection, and deliberate life use. The correct next move is the smallest bounded action that changes the current binding constraint without making ordinary failure destructive.
 
 ## Question
 
@@ -87,7 +87,7 @@ life quality | recoverability | relations and obligations | control and maintena
 - [`E0-PATH-AND-STARTING-STATE.md`](E0-PATH-AND-STARTING-STATE.md) — locate the current state and first binding constraint;
 - [`E1-FOUNDATION-EDUCATION.md`](E1-FOUNDATION-EDUCATION.md) — build health, literacy, numeracy, self-directed learning, and cooperation;
 - [`E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md`](E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md) — test professional directions before expensive commitment;
-- [`E3-PROOF-AND-FIRST-MARKET-ENTRY.md`](E3-PROOF-AND-FIRST-MARKET-ENTRY.md) — produce inspectable proof and complete the first trusted exchange;
+- [`E3-PROOF-AND-FIRST-MARKET-ENTRY.md`](E3-PROOF-AND-FIRST-MARKET-ENTRY.md) — produce verifiable proof and complete the first trusted exchange;
 - [`E4-EARLY-CAREER-AND-SURPLUS.md`](E4-EARLY-CAREER-AND-SURPLUS.md) — turn work into capability, proof, bargaining power, and recurring surplus;
 - [`E5-LIFE-QUALITY-AND-COMMITMENTS.md`](E5-LIFE-QUALITY-AND-COMMITMENTS.md) — protect functioning and avoid fixed commitments that consume future choice;
 - [`E6-LABOUR-TO-OWNERSHIP.md`](E6-LABOUR-TO-OWNERSHIP.md) — extract reusable owned production from repeated labour;

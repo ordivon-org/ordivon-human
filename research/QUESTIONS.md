@@ -123,7 +123,7 @@ The six cases test distinct transitions from capability formation through precar
 
 1. Wealth is durable and controllable command over resources and future production, not merely accounting net worth.
 2. Present life quality, durable economic power, and economic autonomy are terminal outcomes.
-3. Education is economically incomplete when it produces only credentials or test performance without learning agency and inspectable results.
+3. Education is economically incomplete when it produces only credentials or test performance without learning agency and verifiable results.
 4. Professional direction should be tested through real work, demand, proof, access, transferability, full cost, and reversibility.
 5. The first market milestone is a useful result delivered to a real party under a real constraint, not immediate large income.
 6. Early work should produce some combination of cash, capability, proof, access, bargaining power, surplus, and ownership opportunity.
