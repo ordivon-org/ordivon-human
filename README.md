@@ -203,6 +203,12 @@ Modeling a person never grants authority over that person.
 See [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) and
 [`docs/authority.md`](docs/authority.md).
 
+## Project family
+
+- [Public project directory](https://ordivon.com/projects) — reader-facing research status, boundaries, and next steps.
+- [Cross-project map](https://github.com/zycxfyh/ordivon-computing/blob/main/projects/README.md) — stable roles, repository links, and authority entry points for all nine repositories.
+- [Ordivon Computing](https://github.com/zycxfyh/ordivon-computing) owns cross-project research synthesis; Human remains authoritative for its admitted questions, methods, practical paths, and evidence limits.
+
 ## License
 
 Apache License 2.0. Research sources retain their original licences and citation
