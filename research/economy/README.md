@@ -1,10 +1,63 @@
+---
+schema_version: 1
+id: human.economy.current-report
+title: HUMAN-ECON-001 — A Practical Path to Economic Autonomy
+type: report
+profile: research
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - reader
+  - builder
+  - agent
+updated: 2026-08-03
+summary: Canonical practical E0–E9 path for economic autonomy, including transition logic, bounded actions, six structural cases, retained mechanisms, evidence limits, and reopening conditions.
+evidence_status: verified
+readiness: READY
+applies_to:
+  - HUMAN-ECON-001
+related:
+  - human.program
+  - human.questions
+  - human.methodology
+  - human.privacy-ethics
+  - human.authority
+---
 # HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
 **Status: E0–E9 practical reconstruction and six-case structural review completed.**
 
-## Core question
+## Executive judgment
+
+Economic autonomy develops through supported transitions: reliable functioning, verifiable capability, trusted exchange, recurring surplus, controlled reusable production, owner-independent operation, and capital assigned to continuity, options, productive control, diversified claims, protection, and deliberate life use. The correct next move is the smallest bounded action that changes the current binding constraint without making ordinary failure destructive.
+
+## Question
 
 > How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
+
+## Method
+
+The report combines first-principles mechanism derivation, public-average magnitude checks, explicit assumptions, competing-path comparison, counterexample analysis, privacy-reduced composite cases, and conditional action rules. Data calibrates or falsifies a retained mechanism; data availability does not select the research question.
+
+## Findings
+
+The retained model separates three engines—work and exchange, ownership and operation, and capital and optionality—under four cross-cutting rails: life quality, recoverability, relations and obligations, and control and maintenance. Six structural cases distinguish unsupported transitions and expose where output, income, revenue, nominal ownership, or net worth fail to produce durable autonomy.
+
+## Limitations
+
+The E-series and cases establish structural coherence and differentiated action logic, not population prevalence or individualized advice. Composite cases are not disguised biographies or representative samples. Local labour-market, educational, legal, tax, migration, health, or financial decisions may require current jurisdiction-specific evidence.
+
+## Evidence
+
+Evidence consists of the E0–E9 derivation, closeout, official China 2025 aggregate scale check, bounded source registry, six privacy-reduced structural cases, and cross-case review. Each chapter states external evidence, failure conditions, and reopening criteria.
+
+## Next action
+
+Apply E0 to a complete starting state, locate the first unsupported transition, choose one bounded action with a declared maximum loss, and continue, redesign, or stop when external evidence changes the transition judgment. Reopen the model only when a complete case exposes a missing mechanism or an incorrect action ranking.
 
 ## Start here
 
@@ -34,7 +87,7 @@ life quality | recoverability | relations and obligations | control and maintena
 - [`E0-PATH-AND-STARTING-STATE.md`](E0-PATH-AND-STARTING-STATE.md) — locate the current state and first binding constraint;
 - [`E1-FOUNDATION-EDUCATION.md`](E1-FOUNDATION-EDUCATION.md) — build health, literacy, numeracy, self-directed learning, and cooperation;
 - [`E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md`](E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md) — test professional directions before expensive commitment;
-- [`E3-PROOF-AND-FIRST-MARKET-ENTRY.md`](E3-PROOF-AND-FIRST-MARKET-ENTRY.md) — produce inspectable proof and complete the first trusted exchange;
+- [`E3-PROOF-AND-FIRST-MARKET-ENTRY.md`](E3-PROOF-AND-FIRST-MARKET-ENTRY.md) — produce verifiable proof and complete the first trusted exchange;
 - [`E4-EARLY-CAREER-AND-SURPLUS.md`](E4-EARLY-CAREER-AND-SURPLUS.md) — turn work into capability, proof, bargaining power, and recurring surplus;
 - [`E5-LIFE-QUALITY-AND-COMMITMENTS.md`](E5-LIFE-QUALITY-AND-COMMITMENTS.md) — protect functioning and avoid fixed commitments that consume future choice;
 - [`E6-LABOUR-TO-OWNERSHIP.md`](E6-LABOUR-TO-OWNERSHIP.md) — extract reusable owned production from repeated labour;

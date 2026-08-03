@@ -1,4 +1,48 @@
+---
+schema_version: 1
+id: human.privacy-ethics
+title: Privacy and Ethics
+type: decision
+profile: organization
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - maintainer
+  - builder
+  - participant
+  - agent
+updated: 2026-08-03
+summary: Canonical decision for public-data prohibition, minimization, participation, high-consequence use, anti-reductionism, Human–AI studies, and private-study separation.
+evidence_status: not_applicable
+readiness: READY
+applies_to:
+  - ordivon-human
+related:
+  - human.charter
+  - human.methodology
+  - human.authority
+---
 # Privacy and Ethics
+
+## Context
+
+Human research may involve intimate, linkable, consequential, or behavior-changing information. Technical access, storage cost, model capability, or participant consent alone do not justify collection, publication, inference, or automated use.
+
+## Decision
+
+Keep the public repository free of identifiable human research data. Minimize every observation to a named question, match consent and review to actual risk and jurisdiction, prohibit automated high-consequence authority, reject essentialist or moral ranking from limited measurements, and separate private raw data, controlled analysis, and reviewed aggregate publication.
+
+## Consequences
+
+Public Git may contain questions, methods, code, synthetic fixtures, aggregate evidence, and lawful reusable sources. It may not contain raw or linkable personal health, financial, relationship, behavioral, location, biometric, genetic, conversational, credential, education, employment, legal, or identity records. A private study must remain deletable and the public repository must function without its raw data.
+
+## Status
+
+Accepted and active. [`../CHARTER.md`](../CHARTER.md) defines project admission, [`../methods/METHODOLOGY.md`](../methods/METHODOLOGY.md) defines evidence discipline, and [`authority.md`](authority.md) records content authority. Any proposed exception requires an explicit study-specific review outside this document and does not modify the default public-data prohibition.
 
 ## 1. Default data posture
 
