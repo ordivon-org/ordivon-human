@@ -14,8 +14,8 @@ audience:
   - reader
   - builder
   - agent
-updated: 2026-08-03
-summary: Canonical registry of the active Human problem, supporting questions, retained findings, falsifiers, future candidates, and excluded project forms.
+updated: 2026-08-04
+summary: Canonical registry separating Human's project question, completed applied cycle, supporting questions, inactive candidates, falsifiers, and excluded project forms.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -29,214 +29,200 @@ related:
 
 ## Problem
 
-Identify which concrete human questions currently justify research and prevent supporting taxonomies, methods, datasets, or infrastructure from becoming self-authorizing work.
+Identify which concrete human questions justify research and prevent supporting
+taxonomies, methods, datasets, or infrastructure from becoming self-authorizing
+work.
 
 ## Scope
 
-The registry contains completed and active problem cycles, supporting Human System Atlas questions that may be consumed by them, future problem candidates that are not scheduled work, completed methodological support, and explicitly excluded project forms.
+This registry covers the stable project question, completed and active applied
+cycles, supporting questions, inactive candidates, and explicitly excluded
+project forms.
 
 ## Consequence
 
-Without a canonical registry, a supporting system page or method can be mistaken for an active research commitment, and historical findings can be mistaken for current individualized guidance.
+Without one status registry, supporting pages and historical plans can be
+misread as active commitments or individualized guidance.
 
 ## Falsifier
 
-A question is narrowed, deferred, or removed when it has no affected outcome, no evidence capable of changing action or understanding, no defensible measurement path, or no named failure caused by its absence.
+A question is narrowed, deferred, closed, or removed when it has no affected
+outcome, no evidence capable of changing action or understanding, no defensible
+measurement path, or no named failure caused by its absence.
 
 ## Evidence required
 
-A problem cycle requires current status, retained findings, unresolved claims, explicit falsifiers, source or experiment references, and a next empirical burden. Supporting questions require a named problem that consumes them.
+An applied cycle requires current status, affected outcomes, retained findings,
+limitations, falsifiers, evidence references, and the next empirical burden. A
+supporting question requires a named applied problem that consumes it.
 
-## Completed first cycle
+## How to read this registry
 
-### HUMAN-ECON-001 — A Practical Path to Economic Autonomy
+This file owns question status. It separates four levels:
 
-**Question:** How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
+1. the stable project-level research question;
+2. admitted applied problem cycles;
+3. supporting questions used by an applied cycle;
+4. candidate questions that are not active work.
 
-**Status:** First-principles cycle, practical E0–E9 reconstruction, and six-case structural review completed.
+A completed question may remain the current reference answer without consuming
+active research capacity.
 
-**Active practical model:**
+## Project-level question
+
+### HUMAN-PROGRAM-001 — Problem-driven human research
+
+> How can concrete human problems be studied without replacing the person or
+> problem with a taxonomy, score, dataset, method, or optimization system?
+
+**Status:** active as the project discipline.
+
+**Falsifier:** a simpler research order consistently produces equally useful,
+safer, and more revisable decisions without the problem-first admission rules.
+
+## Completed applied cycle
+
+### HUMAN-ECON-001 — Economic autonomy under continuity constraints
+
+> How can an ordinary person build durable income, productive ownership,
+> capital, and economic autonomy without sacrificing the conditions required
+> to live and continue?
+
+**Status:** completed first-principles cycle, practical E0–E9 reconstruction,
+and six-case structural review. It is the current conditional reference answer,
+not an active sequence of new stages.
+
+**Current model:**
 
 ```text
-diagnose unsupported transition and smallest binding set
+three engines
+work and exchange | ownership and operation | capital and optionality
 
-work and exchange:
-functioning → capability → proof → trusted exchange → surplus
-
-ownership and operation:
-repeated result → reusable ownership → repeatability
-→ governed operation → residual claims
-
-capital and optionality:
-continuity → options → controlled claims
-→ independent claims → protection → deliberate life use
-
-rails:
+four rails
 life quality | recoverability | relations and obligations | control and maintenance
+
+execution
+unsupported transition → bounded action → external evidence
+→ continue, scale, redesign, hold, recover, or stop
 ```
 
-**Retained mechanism:**
+**Current answer:** [`economy/README.md`](economy/README.md).
 
-```text
-capability → value creation → value capture → quality-preserving surplus
-                         ↘ conditional productive ownership and leverage
-capital and optionality → continuity, independent claims, protection, and life use
-all routes → economic autonomy
-```
+**Practice entry:** [`economy/PRACTICE-GUIDE.md`](economy/PRACTICE-GUIDE.md).
 
-**Practical decision form:**
+**Evidence:**
 
-```text
-current state
-→ first unsupported transition
-→ bounded action
-→ maximum acceptable loss
-→ external evidence
-→ continue, scale, redesign, or stop
-→ next-stage transition
-```
+- [`economy/E0-E9-CLOSEOUT.md`](economy/E0-E9-CLOSEOUT.md);
+- [`economy/cases/README.md`](economy/cases/README.md);
+- [`economy/cases/CROSS-CASE-REVIEW.md`](economy/cases/CROSS-CASE-REVIEW.md);
+- [`economy/CHINA-BASELINE-2025.md`](economy/CHINA-BASELINE-2025.md);
+- [`economy/SOURCES.md`](economy/SOURCES.md).
 
-**Evidence and derivation:** [`economy/README.md`](economy/README.md).
+## Practical modules inside HUMAN-ECON-001
 
-**Closeout:** [`economy/E0-E9-CLOSEOUT.md`](economy/E0-E9-CLOSEOUT.md).
+These are applied questions, not active research tracks or compulsory stages:
 
-**Structural pressure-test suite:** [`economy/cases/README.md`](economy/cases/README.md).
-
-**Cross-case review:** [`economy/cases/CROSS-CASE-REVIEW.md`](economy/cases/CROSS-CASE-REVIEW.md).
-
-The six cases test distinct transitions from capability formation through precarious and stable labour, direct professional capture, operating ownership, and high-wealth governance. They support structural coherence, not population validity. The suite is closed to routine expansion until a missing mechanism or incorrect action ranking appears.
-
-## Active E-series questions
-
-1. **E0:** What is the first transition in the path that current evidence does not support?
-2. **E1:** Can the person sustain functioning, learn independently, and complete checked work?
-3. **E2:** Which professional direction survives direct contact with real work, demand, access, and cost?
-4. **E3:** Can private capability produce one trusted result for a real party under a real constraint?
-5. **E4:** Does work build portable capability, bargaining power, and recurring quality-preserving surplus?
-6. **E5:** Which resource uses protect life and future capability, and which commitments remove future choice?
-7. **E6:** Which repeated useful result can become a controlled reusable asset?
-8. **E7:** Can output grow without proportional owner labour, maintenance, fragility, and dependence?
-9. **E8:** What function must each unit of capital serve in the complete economic state?
-10. **E9:** What evidence, boundary, stop rule, and recovery path govern the next transition?
+| Module | Practical question |
+|---|---|
+| E0 | Which transition is unsupported, and what is the smallest binding set? |
+| E1 | Can reliable functioning and self-directed learning produce checked work? |
+| E2 | Which direction survives real work, demand, access, full cost, and reversibility? |
+| E3 | Can capability produce a trusted result for a real party under a real constraint? |
+| E4 | Does work build portable capability, bargaining power, and recurring surplus? |
+| E5 | Which uses and commitments protect life and future refusal power? |
+| E6 | Which repeated result can become controlled reusable production? |
+| E7 | Can output persist without proportional owner labour and fragility? |
+| E8 | What function must each unit of capital serve? |
+| E9 | What evidence, boundary, stop rule, and recovery path govern action? |
 
 ## Retained conclusions
 
-1. Wealth is durable and controllable command over resources and future production, not merely accounting net worth.
-2. Present life quality, durable economic power, and economic autonomy are terminal outcomes.
-3. Education is economically incomplete when it produces only credentials or test performance without learning agency and verifiable results.
-4. Professional direction should be tested through real work, demand, proof, access, transferability, full cost, and reversibility.
-5. The first market milestone is a useful result delivered to a real party under a real constraint, not immediate large income.
-6. Early work should produce some combination of cash, capability, proof, access, bargaining power, surplus, and ownership opportunity.
-7. Capital return is proportional to the base; low-capital stages are usually dominated by capability, market access, recurring captured value, and ownership formation.
-8. Consumption and wealth formation are not pure opposites; some uses of money and time improve both present life and future capability.
-9. Fixed commitments can erase refusal power even when income rises.
-10. Ownership usually begins by extracting a reusable core from repeated labour while preserving rights.
-11. Productive leverage must grow durable output or claims faster than permanent owner labour, maintenance, fragility, and dependence.
-12. Revenue, users, employees, automation, and agents do not prove scalability without repeatability and owner-substitution evidence.
-13. Concentration may be productive while control and marginal creation value compensate for correlated risk; diversification becomes dominant when those advantages decline.
-14. Capital serves continuity, options, controlled production, diversified claims, and protection.
-15. Active allocation must cross an attention threshold; low-frequency or no action may be optimal.
-16. Ordinary failure must not destroy essential life, future capability, or the ability to continue.
-17. The highest-output path may still reduce autonomy when ownership and control remain elsewhere.
-18. The end state is not maximum capital but increasing alignment between resources and chosen action.
+The cycle currently retains the following claims:
 
-## Practical case boundary
+1. economic autonomy requires present life quality, durable economic power, and
+   usable choice;
+2. education is incomplete when it creates credentials without learning agency
+   and reviewable results;
+3. professional direction should be tested before expensive commitment;
+4. the first market milestone is one trusted useful result, not large income;
+5. early work should produce more than wages;
+6. fixed commitments can erase refusal power even when income rises;
+7. ownership is conditional, and productive leverage is net of owner labour,
+   maintenance, fragility, and dependence;
+8. capital serves continuity, options, controlled production, independent
+   claims, protection, and deliberate life use;
+9. ordinary failure must preserve the ability to continue;
+10. low-frequency action or non-action may be optimal.
 
-The E-series uses composite cases to demonstrate action logic. They are not representative case studies.
+## Reopening conditions
 
-A case is admissible only when it states:
+Reopen or revise `HUMAN-ECON-001` when a complete observed trajectory shows that:
 
-- a plausible starting condition;
-- the tempting error;
-- a bounded intervention;
-- why the intervention is feasible without exceptional resources;
-- the evidence that would invalidate or change it.
+- the first-unsupported-transition rule ranks actions incorrectly;
+- the bounded intervention is infeasible for ordinary starting states;
+- three engines and four rails omit a decision-changing mechanism;
+- owner substitution does not distinguish a system from expanded
+  self-employment;
+- the framework cannot represent health, care, institutional exclusion, or
+  shared household obligations without changing its structure;
+- granular local evidence is necessary and cannot be replaced by simpler
+  evidence.
 
-A real high-consequence decision may require current local labour-market, educational, legal, tax, migration, or financial evidence beyond the series.
+The next empirical burden is observed trajectory evidence, not more conceptual
+chapters or routine case expansion.
 
-## Falsifiers and reopening conditions
+## Supporting questions
 
-Reopen or revise HUMAN-ECON-001 only when at least one condition appears:
-
-1. the life-course sequence systematically hides a more important transition;
-2. the starting-state test fails to change action ranking when binding constraints differ;
-3. foundation, direction, proof, exchange, surplus, ownership, system, and capital stages cannot be distinguished in complete cases;
-4. recurring income and surplus changes do not dominate ordinary return optimization at low capital bases under plausible complete cases;
-5. productive ownership does not materially reduce dependence on current labour;
-6. owner-substitution tests fail to distinguish a scalable system from expanded self-employment;
-7. concentrated ownership creates no control or incentive value sufficient to justify any under-diversification;
-8. dual-return resource uses cannot be distinguished from ordinary consumption;
-9. human–AI capability distinctions do not change dependence, verification, ownership, or action ranking;
-10. the practical case protocol repeatedly recommends actions that are infeasible for ordinary starting states;
-11. a concrete decision requires granular evidence that cannot be replaced by first principles, public calibration, current local checks, or bounded cases.
-
-## No active automatic successor
-
-There is no presumed E10.
-
-Future Human work should begin from another concrete problem such as:
-
-- preserving health and functional capacity across work and ageing;
-- sustainably increasing learning and adaptation;
-- understanding how relationships and institutions expand or constrain agency;
-- determining when AI expands retained human capability rather than only joint output;
-- studying how shocks and cumulative feedback reverse or deepen long-term trajectories.
-
-These are candidates, not scheduled tracks.
-
-## Supporting Human System Atlas
+These questions supply distinctions when an applied cycle needs them. They are
+not independent completion programs.
 
 ### HUMAN-SYSTEM-001 — Minimum human system map
 
-Which system distinctions are necessary across complete cases, and which can be deleted?
-
-Evidence: [`h0/ATLAS.md`](h0/ATLAS.md).
+Which system distinctions are necessary across complete cases, and which can be
+deleted? See [`h0/README.md`](h0/README.md).
 
 ### HUMAN-BODY-001 — Functional body constraints
 
-Which bodily states materially alter energy, work capacity, learning, recovery, and action?
-
-Evidence: [`h0/systems/BODY.md`](h0/systems/BODY.md).
+Which bodily states materially alter functioning, work capacity, learning,
+recovery, and action?
 
 ### HUMAN-COGNITION-001 — Cognition and decision capacity
 
-Which cognitive distinctions materially explain learning, planning, judgment, and adaptation?
-
-Evidence: [`h0/systems/COGNITION.md`](h0/systems/COGNITION.md).
+Which cognitive distinctions materially explain learning, planning, judgment,
+and adaptation?
 
 ### HUMAN-EMOTION-001 — Emotion, motivation, and action allocation
 
-How do threat, reward, arousal, effort, stress, and regulation alter attention, persistence, risk, and choice?
-
-Evidence: [`h0/systems/EMOTION-MOTIVATION.md`](h0/systems/EMOTION-MOTIVATION.md).
+How do threat, reward, arousal, effort, stress, and regulation alter attention,
+persistence, risk, and choice?
 
 ### HUMAN-CAPABILITY-001 — Capability beyond performance
 
-How should independent capability, supported performance, transfer, adaptation, and recovery be distinguished?
-
-Evidence: [`h0/systems/CAPABILITY.md`](h0/systems/CAPABILITY.md).
+How should independent capability, supported performance, transfer, adaptation,
+and recovery be distinguished?
 
 ### HUMAN-RELATION-001 — Cross-system dynamics
 
-Which directed feedback loops and bottlenecks survive complete human cases?
+Which feedback loops and bottlenecks survive complete human cases?
 
-Evidence: [`h0/RELATIONS.md`](h0/RELATIONS.md).
+### HUMAN-METHOD-001 — Population and individual inference
 
-## Methods M0 — completed support
+When may population evidence update an individual decision, and when is a
+within-person or single-case design required? See [`../methods/m0/`](../methods/m0/).
 
-[`../methods/m0/`](../methods/m0/) preserves reusable work on:
+## Inactive candidate problems
 
-- observation and construct provenance;
-- population association versus individual intervention;
-- causal and N-of-1 reasoning;
-- model deletion;
-- human–AI output, retained capability, and agency distinctions.
+Potential future problems include preserving health and functioning across work
+and ageing, increasing learning and adaptation, understanding relational and
+institutional constraints, evaluating retained human capability under AI, and
+studying shock and recovery trajectories.
+
+**Status:** candidates only. None is scheduled work.
 
 ## Not admitted
 
-- a universal human ontology;
-- a total life-logging application;
-- a personal optimization, wealth, or capability score;
+- a universal human ontology or total score;
+- a permanent personal profile or life-logging application;
 - an AI therapist, doctor, or autonomous financial adviser;
 - a population ranking engine;
 - a protected household-data mirror;

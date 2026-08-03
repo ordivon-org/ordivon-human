@@ -1,5 +1,9 @@
 # E6 — Move from Selling Labour to Owning Reusable Production
 
+> **Framework role:** ownership-and-operation entry module.
+>
+> **Use this module when:** useful work repeats and may contain a controlled reusable core. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 Most people first earn by selling time or completing assigned work. Economic autonomy begins to expand when part of the produced value can persist, be reused, or generate a residual claim after the current task ends.

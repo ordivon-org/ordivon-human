@@ -10,12 +10,13 @@ visibility: public
 owners:
   - ordivon-human
 audience:
+  - reader
+  - practitioner
   - researcher
   - builder
-  - reader
   - agent
-updated: 2026-08-03
-summary: Canonical entry to Ordivon Human, its problem-driven research order, active economic-autonomy study, supporting methods, system views, and consequence boundaries.
+updated: 2026-08-04
+summary: Canonical entry to Human's problem-driven research, completed economic-autonomy framework, practical decision modules, evidence limits, methods, and reading paths.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -25,185 +26,184 @@ related:
   - human.program
   - human.questions
   - human.economy.current-report
-  - human.methodology
-  - human.privacy-ethics
   - human.authority
 ---
 # Ordivon Human
 
+Ordivon Human studies **concrete problems that shape human lives and future
+choices**. It does not begin with a complete theory of the person, a personal
+score, or a large dataset. It begins with a decision-relevant question and adds
+only the concepts, evidence, and methods needed to answer it.
+
 ## Purpose
 
-Study concrete human problems and trajectories by selecting the minimum evidence, variables, systems, and methods needed for a falsifiable conditional answer.
+Human provides a problem-first research system and a practical, evidence-bounded
+answer to the first completed applied question. It serves readers who need an
+understandable result, practitioners who need a bounded decision process, and
+researchers or Agents who need provenance, falsifiers, and reproducibility.
+
+## What is being studied now
+
+The first completed applied question is:
+
+> How can an ordinary person build durable income, productive ownership,
+> capital, and economic autonomy without sacrificing the conditions required
+> to live and continue?
+
+The current answer is a practical framework, not a universal life plan:
+
+```text
+find the first unsupported transition
+→ identify the smallest set of binding constraints
+→ choose one bounded action
+→ protect life quality and continuity
+→ obtain external evidence
+→ continue, scale, redesign, hold, recover, or stop
+```
+
+The framework separates three economic engines:
+
+```text
+work and exchange
+ownership and operation
+capital and optionality
+```
+
+Every engine is constrained by four always-on rails:
+
+```text
+life quality and functioning
+continuity and recoverability
+relations and obligations
+control and maintenance
+```
+
+The practical E0–E9 series is the **application layer** for this question. The
+numbers are stable document identifiers. They are not ten mandatory stages and
+are not the overall Human research program.
+
+## What has been established
+
+The first-principles cycle, practical reconstruction, and six-case structural
+review support these conclusions:
+
+- economic autonomy is not the same as income, revenue, ownership, or net worth;
+- capability must become reviewable proof and trusted exchange before it can
+  support durable economic power;
+- ownership is useful only when it improves control, persistence, residual
+  claims, or chosen life;
+- scale fails when output grows no faster than owner labour, maintenance,
+  fragility, and dependence;
+- capital should be assigned a function before choosing an asset or percentage;
+- ordinary failure must not destroy essential life, future capability, or the
+  ability to continue;
+- non-action can be correct when no state-changing evidence has appeared.
+
+These are **conditional structural judgments**. They are not population-validated
+interventions or individualized financial, educational, career, legal, tax, or
+health advice.
 
 ## Start here
 
-- [`CHARTER.md`](CHARTER.md) defines the project mission, admission rules, and consequence boundary.
-- [`docs/RESEARCH-PROGRAM.md`](docs/RESEARCH-PROGRAM.md) defines the active program and authorized next research stages.
-- [`research/QUESTIONS.md`](research/QUESTIONS.md) is the canonical question registry.
-- [`research/economy/README.md`](research/economy/README.md) states the current answer and limits for HUMAN-ECON-001.
-- [`methods/METHODOLOGY.md`](methods/METHODOLOGY.md) defines the reusable inference discipline.
-- [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) defines public-data and high-consequence limits.
-- [`docs/authority.md`](docs/authority.md) separates current conclusions, protocols, supporting models, and historical evidence.
+### Ordinary reader
 
-## Current boundary
+Read these in order:
 
-The active research problem is sustainable personal economic autonomy. The Human System Atlas and methods are supporting resources rather than independent completion tracks. This repository produces research questions, conditional models, reproducible aggregate analysis, and reviewed evidence; it does not provide individualized medical, psychological, financial, legal, employment, education, insurance, credit, or other high-consequence authority.
+1. [`research/economy/README.md`](research/economy/README.md) — the current
+   answer in plain language;
+2. [`research/economy/E0-PATH-AND-STARTING-STATE.md`](research/economy/E0-PATH-AND-STARTING-STATE.md)
+   — how to locate the real bottleneck;
+3. one case in [`research/economy/cases/`](research/economy/cases/) that most
+   resembles the production relation you want to understand.
 
-**Problem-driven research into human life, development, constraints, and possible change.**
+### Practitioner
 
-Ordivon Human begins with concrete questions that materially affect a person’s life. It selects only the biological, cognitive, psychological, behavioural, economic, social, technological, and historical concepts required to explain them.
+Start with [`research/economy/PRACTICE-GUIDE.md`](research/economy/PRACTICE-GUIDE.md).
+It provides a bounded diagnostic, module chooser, action record, loss boundary,
+evidence requirement, and stop rule. Read only the E modules selected by that
+diagnostic.
 
-## Research order
+### Researcher or Agent
 
-```text
-real human problem
-→ terminal outcomes and constraints
-→ first-principles mechanism
-→ public-average magnitude check
-→ competing paths and counterexamples
-→ bounded evidence only when still necessary
-→ practical cases and action tests
-→ conditional conclusion
-→ revise, close, or delete
-```
+Use:
 
-Data may calibrate scale. Data availability may not determine the research agenda.
+1. [`CHARTER.md`](CHARTER.md) — mission and admission rules;
+2. [`docs/RESEARCH-PROGRAM.md`](docs/RESEARCH-PROGRAM.md) — program state,
+   evidence model, and reopening gates;
+3. [`research/QUESTIONS.md`](research/QUESTIONS.md) — question status and
+   falsifiers;
+4. [`methods/METHODOLOGY.md`](methods/METHODOLOGY.md) — inference discipline;
+5. [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md) — executable evidence
+   and validation commands.
 
-## Completed first research cycle
+## E0–E9 without the numbering barrier
 
-### HUMAN-ECON-001 — A Practical Path to Economic Autonomy
+| Need | Module | Role |
+|---|---|---|
+| Find the real bottleneck | E0 | diagnosis across all engines |
+| Build reliable learning capacity | E1 | work and exchange |
+| Test a direction before major commitment | E2 | work and exchange |
+| Turn capability into proof and trusted use | E3 | work and exchange |
+| Improve work returns and recurring surplus | E4 | work and exchange |
+| Protect life quality and refusal power | E5 | rail across every engine |
+| Convert repeated labour into controlled reusable production | E6 | ownership and operation |
+| Test repeatability and owner-independent operation | E7 | ownership and operation |
+| Give capital explicit jobs | E8 | capital and optionality |
+| Run evidence, stop, recovery, and transition rules | E9 | execution across every engine |
 
-> How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
+The current report and full navigation are in
+[`research/economy/README.md`](research/economy/README.md).
 
-The original first-principles cycle was reconstructed into a practical E0–E9 path:
+## What the six cases prove—and do not prove
 
-- [`E0`](research/economy/E0-PATH-AND-STARTING-STATE.md) — identify the current state and first binding constraint;
-- [`E1`](research/economy/E1-FOUNDATION-EDUCATION.md) — build the foundation for continued learning and reliable work;
-- [`E2`](research/economy/E2-DIRECTION-AND-PROFESSIONAL-CHOICE.md) — test professional directions before expensive commitment;
-- [`E3`](research/economy/E3-PROOF-AND-FIRST-MARKET-ENTRY.md) — turn learning into proof and the first trusted exchange;
-- [`E4`](research/economy/E4-EARLY-CAREER-AND-SURPLUS.md) — build capability, bargaining power, and recurring surplus through work;
-- [`E5`](research/economy/E5-LIFE-QUALITY-AND-COMMITMENTS.md) — protect functioning and avoid commitments that consume future choice;
-- [`E6`](research/economy/E6-LABOUR-TO-OWNERSHIP.md) — convert repeated labour into reusable owned production;
-- [`E7`](research/economy/E7-OWNERSHIP-TO-SYSTEM.md) — build repeatability and reduce owner dependence before scale;
-- [`E8`](research/economy/E8-CAPITAL-BY-FUNCTION.md) — allocate capital by continuity, option, production, diversification, and protection functions;
-- [`E9`](research/economy/E9-CONTINUITY-AND-STAGE-TRANSITIONS.md) — execute through evidence, boundaries, stop rules, and recovery;
-- [`E0–E9 closeout`](research/economy/E0-E9-CLOSEOUT.md) — reconstruction rationale and final judgment.
+The six cases cover capability formation, precarious labour, stable employment,
+independent professional work, founder-dependent ownership, and asset-rich but
+autonomy-poor ownership. They test whether the framework produces different,
+feasible actions under different constraints.
 
-The active model is:
-
-```text
-DIAGNOSIS
-unsupported transition + smallest binding set
-
-ENGINE A — work and exchange
-functioning → capability → proof → trusted exchange → surplus
-
-ENGINE B — ownership and operation
-repeated result → reusable ownership → repeatability
-→ governed operation → residual claims
-
-ENGINE C — capital and optionality
-continuity → options → controlled claims
-→ independent claims → protection → deliberate life use
-
-RAILS ACROSS ALL ENGINES
-life quality | recoverability | relations and obligations | control and maintenance
-```
-
-The retained mechanism is conditional rather than compulsory:
-
-```text
-capability → value creation → value capture → quality-preserving surplus
-                         ↘ conditional productive ownership and leverage
-capital and optionality → continuity, independent claims, protection, and life use
-all routes → economic autonomy
-```
-
-Each chapter now includes several composite cases with a realistic starting condition, tempting error, bounded move, feasibility rationale, and failure signal.
-
-Current research index: [`research/economy/README.md`](research/economy/README.md).
-
-The first complete-case suite contains six materially different structural cases:
-
-- [`structural pressure tests`](research/economy/cases/README.md) — capability formation, precarious labour, stable employment, independent professional work, founder-dependent ownership, and asset-rich but autonomy-poor ownership;
-- [`cross-case review`](research/economy/cases/CROSS-CASE-REVIEW.md) — rejects the remaining linear path, introduces three engines and four rails, and records the framework’s evidence limits.
-
-Six cases are sufficient for the first structural suite because they cover the main production relations represented in E0–E9. Health, care, household, and institutional constraints remain explicit coverage limits. No additional case is admitted merely to enlarge coverage counts.
-
-No automatic E10 is planned. Future work requires a new concrete problem or a complete case that exposes a named failure in the current model.
-
-## Deleted direction
-
-The former CHFS/CFPS household-data program was deleted after it failed the core-question priority test. Its Git history remains recoverable, but it is not an active dependency.
-
-The repository also rejects a permanent:
-
-- personal finance profile;
-- wealth or capability score;
-- portfolio optimizer;
-- behavioural surveillance system;
-- financial dashboard;
-- universal saving or allocation rule.
+They support structural coherence and exposed revisions to the original linear
+presentation. Five cases are composites; one is privacy-reduced and may receive
+longitudinal evidence. They do not establish prevalence, average effects, or a
+universally optimal path. See
+[`research/economy/cases/README.md`](research/economy/cases/README.md).
 
 ## Supporting research assets
 
-### Human System Atlas
-
-[`research/h0/`](research/h0/) contains first-pass maps for Body, Cognition, Emotion/Motivation, Capability, and cross-system relations. These are consulted only when an active problem needs them.
-
-### Methods
-
-[`methods/`](methods/) contains reusable measurement and inference discipline, including population-to-individual reasoning, causal scope, N-of-1 logic, model deletion, and human–AI capability distinctions.
-
-Methods support the subject. They do not substitute for it.
-
-## Stable responsibility
-
-Ordivon Human may study:
-
-- health, functioning, cognition, emotion, behaviour, identity, capability, and ageing;
-- income, wealth, consumption, debt, work, time, autonomy, and material security;
-- family, relationships, organizations, institutions, culture, environment, and power;
-- education, learning, technology, AI, and externalized capability;
-- life-course trajectories, shocks, feedback, recovery, and path dependence;
-- interventions that could change a declared outcome under explicit costs and risks.
-
-It does **not** own:
-
-- medical, psychological, financial, legal, or other high-consequence authority;
-- a universal human ontology, ranking, profile, or total score;
-- a personal-data warehouse or protected survey-data mirror;
-- an AI therapist, doctor, financial adviser, or autonomous decision maker;
-- generic accumulation without an admitted question;
-- product infrastructure before a bounded study demonstrates necessity.
-
-## Repository map
-
-- [`CHARTER.md`](CHARTER.md) — mission and problem-driven research rules;
-- [`docs/RESEARCH-PROGRAM.md`](docs/RESEARCH-PROGRAM.md) — research tracks and status;
-- [`research/QUESTIONS.md`](research/QUESTIONS.md) — question registry;
-- [`research/economy/`](research/economy/) — completed practical economic-autonomy cycle;
-- [`research/h0/`](research/h0/) — supporting Human System Atlas;
-- [`methods/`](methods/) — measurement and inference support;
-- [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) — data and consequence boundaries;
+- [`research/h0/`](research/h0/) — the **Human System Atlas**, a selectable map
+  of body, cognition, emotion and motivation, capability, and relations;
+- [`methods/`](methods/) — reusable measurement and inference discipline;
+- [`methods/m0/`](methods/m0/) — completed methodological foundation work,
+  preserved under its historical identifier;
+- [`research/economy/CHINA-BASELINE-2025.md`](research/economy/CHINA-BASELINE-2025.md)
+  — public-average scale calibration;
 - [`data/README.md`](data/README.md) — data-admission rules.
 
-## Relationship to Ordivon
+H0 and M0 are internal lineage identifiers, not prerequisites for reading the
+practical economic-autonomy work.
 
-```text
-Ordivon Human     studies concrete human problems and trajectories
-Ordivon Computing synthesizes cross-project implications
-Ordivon Host      preserves Goals, Tasks, commitments, and participant decisions
-Ordivon Harness   organizes model cognition
-Ordivon Runtime   executes trusted-local work
-Ordivon World     connects Tasks to external systems
-Ordivon Game      may provide bounded interactive experiments
-Ordivon Security  studies intelligent opposition and adversarial organization
-Ordivon Web       publishes selected research
-```
+## Current research status
 
+`HUMAN-ECON-001` is complete at the level of first-principles structure and
+initial case pressure testing. There is no automatic E10 and no active successor
+problem cycle.
+
+The framework reopens only when an observed trajectory exposes a missing
+mechanism, an infeasible recommendation, or an incorrect action ranking. A new
+Human cycle must begin from a new concrete human problem, not from a desire to
+complete a taxonomy or collect more data.
+
+## Current boundary
+
+Ordivon Human may publish questions, methods, source-grounded synthesis,
+aggregate evidence, reproducible code, synthetic examples, and privacy-reduced
+cases. It does not provide medical, psychological, financial, legal,
+employment, education, insurance, credit, or other high-consequence authority.
 Modeling a person never grants authority over that person.
+
+See [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) and
+[`docs/authority.md`](docs/authority.md).
 
 ## License
 
-Apache License 2.0. Research sources retain their original licences and citation requirements.
+Apache License 2.0. Research sources retain their original licences and citation
+requirements.

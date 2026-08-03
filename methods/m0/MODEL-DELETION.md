@@ -1,5 +1,7 @@
 # Methods M0 Model Deletion
 
+> **Naming note:** this document was produced before the original method-first H0 work was reclassified as [Methods M0](README.md). “H0” below is historical wording and does not refer to the current [Human System Atlas](../../research/h0/README.md).
+
 ## Problem with the initial model
 
 The initial `L0–L9` table was useful for recall, but it was not a minimum model. It placed unlike objects on one axis:

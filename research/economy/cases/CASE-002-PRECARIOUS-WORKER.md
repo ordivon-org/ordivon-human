@@ -1,6 +1,10 @@
 # CASE-002 — Precarious Worker with Fragmented Income
 
-**Status:** constructed composite case.
+> **Evidence status:** closed composite structural pressure test.
+>
+> **Primary modules:** E0–E5, E8, and E9. Other E sections test guardrails and false recommendations; they are not equally diagnostic.
+
+> Return to the [case index](README.md) or apply the framework through the [practice guide](../PRACTICE-GUIDE.md).
 
 ## 0. Case boundary
 

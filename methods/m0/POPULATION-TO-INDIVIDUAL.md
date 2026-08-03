@@ -1,5 +1,7 @@
 # Methods M0 Population-to-Individual Demonstration
 
+> **Naming note:** this document was produced before the original method-first H0 work was reclassified as [Methods M0](README.md). “H0” below is historical wording and does not refer to the current [Human System Atlas](../../research/h0/README.md).
+
 ## Purpose
 
 This deterministic synthetic experiment tests three quantities that are often collapsed:

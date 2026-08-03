@@ -1,5 +1,9 @@
 # E9 — Execute Across Branching Transitions
 
+> **Framework role:** cross-engine execution, evidence, stop, and recovery module.
+>
+> **Use this module when:** an action needs explicit exposure, evidence, review, hold, recovery, or stop rules. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 A sound mechanism can still fail through repeated reset, overcommitment, action bias, poor attribution, hidden coupling, and inability to stop.

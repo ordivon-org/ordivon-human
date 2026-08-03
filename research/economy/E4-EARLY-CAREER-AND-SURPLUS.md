@@ -1,5 +1,9 @@
 # E4 — Use Early Career to Build Capability, Bargaining Power, and Surplus
 
+> **Framework role:** work-and-exchange return and surplus module.
+>
+> **Use this module when:** work produces income but its capability, proof, bargaining, surplus, or ownership returns are unclear. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 The first years of work should not be optimized only for the highest immediate salary. They should build a stronger economic position:
