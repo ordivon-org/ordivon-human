@@ -1,4 +1,55 @@
+---
+schema_version: 1
+id: human.methodology
+title: Methodology
+type: protocol
+profile: research
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - builder
+  - agent
+updated: 2026-08-03
+summary: Canonical methodological protocol for matching Human claims to measurement, statistical, causal, longitudinal, qualitative, and model-validation evidence.
+evidence_status: not_applicable
+readiness: READY
+applies_to:
+  - ordivon-human
+related:
+  - human.charter
+  - human.program
+  - human.privacy-ethics
+  - human.authority
+---
 # Methodology
+
+## Question
+
+What minimum methodological discipline is required for Human research to distinguish observation, prediction, causal explanation, and normative choice without overstating population, individual, or intervention claims?
+
+## Method
+
+Match the design to the claim; state target population, measurement validity, uncertainty, missingness, heterogeneity, time structure, identification assumptions, transport limits, privacy risk, and simpler alternatives; preserve null results and delete models that add no explanatory or decision value.
+
+## Inputs
+
+Inputs may include primary studies, official statistical documentation, validated instruments, longitudinal and experimental designs, qualitative evidence, administrative or behavioral records, systematic reviews, project-specific hypotheses, and reproducible code or transformations.
+
+## Procedure
+
+Classify the claim, define constructs and outcomes, select an appropriate design, document data provenance and selection, analyze uncertainty and heterogeneity, test assumptions and simpler baselines, separate empirical findings from value judgments, and record limitations and deletion conditions.
+
+## Evidence
+
+Evidence is sufficient only when its design, measurement, population, timing, and uncertainty support the stated claim. Prestige, sample size, predictive accuracy, statistical significance, or model complexity alone do not establish causal or normative authority.
+
+## Failure conditions
+
+Fail or narrow the claim when constructs lack validity, missingness or selection changes interpretation, within-person and between-person effects are conflated, causal assumptions are unsupported, subgroup harm is hidden by averages, transport is unjustified, privacy cost is disproportionate, or a simpler explanation performs equivalently. [`../docs/PRIVACY-AND-ETHICS.md`](../docs/PRIVACY-AND-ETHICS.md) governs data and consequence limits; [`../docs/authority.md`](../docs/authority.md) governs how method relates to current findings.
 
 ## 1. Separate four tasks
 

@@ -1,4 +1,51 @@
+---
+schema_version: 1
+id: human.questions
+title: Research Questions
+type: question
+profile: research
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - reader
+  - builder
+  - agent
+updated: 2026-08-03
+summary: Canonical registry of the active Human problem, supporting questions, retained findings, falsifiers, future candidates, and excluded project forms.
+evidence_status: verified
+readiness: READY
+applies_to:
+  - ordivon-human
+related:
+  - human.program
+  - human.economy.current-report
+  - human.authority
+---
 # Research Questions
+
+## Problem
+
+Identify which concrete human questions currently justify research and prevent supporting taxonomies, methods, datasets, or infrastructure from becoming self-authorizing work.
+
+## Scope
+
+The registry contains completed and active problem cycles, supporting Human System Atlas questions that may be consumed by them, future problem candidates that are not scheduled work, completed methodological support, and explicitly excluded project forms.
+
+## Consequence
+
+Without a canonical registry, a supporting system page or method can be mistaken for an active research commitment, and historical findings can be mistaken for current individualized guidance.
+
+## Falsifier
+
+A question is narrowed, deferred, or removed when it has no affected outcome, no evidence capable of changing action or understanding, no defensible measurement path, or no named failure caused by its absence.
+
+## Evidence required
+
+A problem cycle requires current status, retained findings, unresolved claims, explicit falsifiers, source or experiment references, and a next empirical burden. Supporting questions require a named problem that consumes them.
 
 ## Completed first cycle
 

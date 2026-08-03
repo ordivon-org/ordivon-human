@@ -14,8 +14,16 @@ documentation_roots:
   - methods
   - research
   - data
-managed_paths: []
-enforcement: advisory
+managed_paths:
+  - README.md
+  - CHARTER.md
+  - docs/RESEARCH-PROGRAM.md
+  - research/QUESTIONS.md
+  - research/economy/README.md
+  - methods/METHODOLOGY.md
+  - docs/PRIVACY-AND-ETHICS.md
+  - docs/authority.md
+enforcement: strict
 maintainers:
   - zycxfyh
 public_projection: ordivon-web

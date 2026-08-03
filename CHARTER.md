@@ -1,4 +1,49 @@
+---
+schema_version: 1
+id: human.charter
+title: Ordivon Human Charter
+type: decision
+profile: organization
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - maintainer
+  - builder
+  - agent
+updated: 2026-08-03
+summary: Canonical decision defining Human's mission, problem-first research order, question admission, evidence discipline, privacy boundary, and implementation threshold.
+evidence_status: not_applicable
+readiness: READY
+applies_to:
+  - ordivon-human
+related:
+  - human.start
+  - human.program
+  - human.methodology
+  - human.privacy-ethics
+  - human.authority
+---
 # Ordivon Human Charter
+
+## Context
+
+A project about human life can easily become an unbounded ontology, data warehouse, optimization score, advisory product, or catalogue of methods. Those forms would obscure concrete human problems and create authority the repository does not possess.
+
+## Decision
+
+Organize Ordivon Human around admitted real-world questions. Each study declares affected outcomes, time horizon, value assumptions, evidence, falsifiers, privacy and consequence limits, and a deletion path. System maps, methods, datasets, and implementation are admitted only when an active question consumes them.
+
+## Consequences
+
+No universal scalar objective, mandatory user model, identifiable public dataset, automated high-consequence decision system, or permanent Human platform is presumed. Conclusions remain conditional, transport-limited, contestable, and separable from individualized professional advice.
+
+## Status
+
+Accepted and active. [`methods/METHODOLOGY.md`](methods/METHODOLOGY.md) defines reusable evidence discipline, [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) defines the consequence boundary, and [`docs/authority.md`](docs/authority.md) records document authority. Reopen only when the project mission or authority boundary changes, not when a new study adds another domain.
 
 ## 1. Mission
 

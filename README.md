@@ -1,4 +1,53 @@
+---
+schema_version: 1
+id: human.start
+title: Ordivon Human
+type: start
+profile: organization
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - builder
+  - reader
+  - agent
+updated: 2026-08-03
+summary: Canonical entry to Ordivon Human, its problem-driven research order, active economic-autonomy study, supporting methods, system views, and consequence boundaries.
+evidence_status: verified
+readiness: READY
+applies_to:
+  - ordivon-human
+related:
+  - human.charter
+  - human.program
+  - human.questions
+  - human.economy.current-report
+  - human.methodology
+  - human.privacy-ethics
+  - human.authority
+---
 # Ordivon Human
+
+## Purpose
+
+Study concrete human problems and trajectories by selecting the minimum evidence, variables, systems, and methods needed for a falsifiable conditional answer.
+
+## Start here
+
+- [`CHARTER.md`](CHARTER.md) defines the project mission, admission rules, and consequence boundary.
+- [`docs/RESEARCH-PROGRAM.md`](docs/RESEARCH-PROGRAM.md) defines the active program and authorized next research stages.
+- [`research/QUESTIONS.md`](research/QUESTIONS.md) is the canonical question registry.
+- [`research/economy/README.md`](research/economy/README.md) states the current answer and limits for HUMAN-ECON-001.
+- [`methods/METHODOLOGY.md`](methods/METHODOLOGY.md) defines the reusable inference discipline.
+- [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) defines public-data and high-consequence limits.
+- [`docs/authority.md`](docs/authority.md) separates current conclusions, protocols, supporting models, and historical evidence.
+
+## Current boundary
+
+The active research problem is sustainable personal economic autonomy. The Human System Atlas and methods are supporting resources rather than independent completion tracks. This repository produces research questions, conditional models, reproducible aggregate analysis, and reviewed evidence; it does not provide individualized medical, psychological, financial, legal, employment, education, insurance, credit, or other high-consequence authority.
 
 **Problem-driven research into human life, development, constraints, and possible change.**
 

@@ -1,3 +1,32 @@
+---
+schema_version: 1
+id: human.economy.current-report
+title: HUMAN-ECON-001 — A Practical Path to Economic Autonomy
+type: report
+profile: research
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - reader
+  - builder
+  - agent
+updated: 2026-08-03
+summary: Canonical practical E0–E9 path for economic autonomy, including transition logic, bounded actions, six structural cases, retained mechanisms, evidence limits, and reopening conditions.
+evidence_status: verified
+readiness: READY
+applies_to:
+  - HUMAN-ECON-001
+related:
+  - human.program
+  - human.questions
+  - human.methodology
+  - human.privacy-ethics
+  - human.authority
+---
 # HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
 **Status: E0–E9 practical reconstruction and six-case structural review completed.**

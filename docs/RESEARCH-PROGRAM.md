@@ -1,6 +1,42 @@
+---
+schema_version: 1
+id: human.program
+title: Research Program
+type: research-proposal
+profile: research
+lifecycle: active
+source_role: canonical
+visibility: public
+owners:
+  - ordivon-human
+audience:
+  - researcher
+  - builder
+  - reader
+  - agent
+updated: 2026-08-03
+summary: Canonical program for the practical E0–E9 economic-autonomy path, its six-case review, admission gates, evidence thresholds, and stopping conditions.
+evidence_status: verified
+readiness: READY
+applies_to:
+  - HUMAN-ECON-001
+related:
+  - human.questions
+  - human.economy.current-report
+  - human.methodology
+  - human.authority
+---
 # Research Program
 
 Ordivon Human is organized by concrete questions, not by completing domains, datasets, or numbered tracks for their own sake.
+
+## Evidence threshold
+
+Each stage must bind a named question, mature comparison, reproducible method, explicit measurement and transport limits, privacy boundary, falsifier, and information gain sufficient to change the retained model or next action.
+
+## Stop rule
+
+Stop, narrow, or delete a stage when required data cannot be used lawfully, the construct cannot be measured credibly, the result cannot change understanding or action, a mature source already answers the question, or implementation and governance cost exceed expected information gain.
 
 ## HUMAN-ECON-001 — A Practical Path to Economic Autonomy
 
