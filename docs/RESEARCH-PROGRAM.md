@@ -28,6 +28,18 @@ related:
 ---
 # Research Program
 
+## Question
+
+How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
+
+## Current judgment
+
+The practical E0–E9 reconstruction and six-case structural review are complete. The retained model is a branching transition system rather than a universal life ladder: identify the first unsupported transition, choose a bounded action, protect continuity, and update only when external evidence changes the action ranking. No automatic successor stage is authorized.
+
+## Method
+
+Derive the minimum mechanism from first principles, check scale against public averages, compare competing paths and failure modes, test the structure with privacy-reduced composite cases, and admit granular data only when it can change a concrete judgment that simpler evidence cannot resolve.
+
 Ordivon Human is organized by concrete questions, not by completing domains, datasets, or numbered tracks for their own sake.
 
 ## Evidence threshold

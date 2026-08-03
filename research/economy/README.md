@@ -31,9 +31,33 @@ related:
 
 **Status: E0–E9 practical reconstruction and six-case structural review completed.**
 
-## Core question
+## Executive judgment
+
+Economic autonomy develops through supported transitions: reliable functioning, inspectable capability, trusted exchange, recurring surplus, controlled reusable production, owner-independent operation, and capital assigned to continuity, options, productive control, diversified claims, protection, and deliberate life use. The correct next move is the smallest bounded action that changes the current binding constraint without making ordinary failure destructive.
+
+## Question
 
 > How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
+
+## Method
+
+The report combines first-principles mechanism derivation, public-average magnitude checks, explicit assumptions, competing-path comparison, counterexample analysis, privacy-reduced composite cases, and conditional action rules. Data calibrates or falsifies a retained mechanism; data availability does not select the research question.
+
+## Findings
+
+The retained model separates three engines—work and exchange, ownership and operation, and capital and optionality—under four cross-cutting rails: life quality, recoverability, relations and obligations, and control and maintenance. Six structural cases distinguish unsupported transitions and expose where output, income, revenue, nominal ownership, or net worth fail to produce durable autonomy.
+
+## Limitations
+
+The E-series and cases establish structural coherence and differentiated action logic, not population prevalence or individualized advice. Composite cases are not disguised biographies or representative samples. Local labour-market, educational, legal, tax, migration, health, or financial decisions may require current jurisdiction-specific evidence.
+
+## Evidence
+
+Evidence consists of the E0–E9 derivation, closeout, official China 2025 aggregate scale check, bounded source registry, six privacy-reduced structural cases, and cross-case review. Each chapter states external evidence, failure conditions, and reopening criteria.
+
+## Next action
+
+Apply E0 to a complete starting state, locate the first unsupported transition, choose one bounded action with a declared maximum loss, and continue, redesign, or stop when external evidence changes the transition judgment. Reopen the model only when a complete case exposes a missing mechanism or an incorrect action ranking.
 
 ## Start here
 
