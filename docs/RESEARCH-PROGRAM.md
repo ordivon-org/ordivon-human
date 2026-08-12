@@ -14,11 +14,12 @@ audience:
   - builder
   - reader
   - agent
-updated: 2026-08-03
-summary: Canonical program for the practical E0–E9 economic-autonomy path, its six-case review, admission gates, evidence thresholds, and stopping conditions.
+updated: 2026-08-04
+summary: Canonical program state, evidence model, admission gates, and reopening conditions for Human's problem-driven research and completed economic-autonomy cycle.
 evidence_status: verified
 readiness: READY
 applies_to:
+  - ordivon-human
   - HUMAN-ECON-001
 related:
   - human.questions
@@ -30,210 +31,161 @@ related:
 
 ## Question
 
-How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
+How should Ordivon Human turn a concrete human problem into a conditional,
+practical, and falsifiable model without allowing methods, datasets, or
+infrastructure to become the research objective?
+
+## Program purpose
+
+Ordivon Human turns a concrete human problem into a conditional, practical, and
+falsifiable model without allowing methods, datasets, or infrastructure to
+become the research objective.
+
+The program is active as a research discipline. Its first applied cycle,
+`HUMAN-ECON-001`, is complete at the level of first-principles structure,
+practical reconstruction, and initial structural pressure testing. No successor
+problem cycle is currently active.
+
+## Current applied question
+
+> How can an ordinary person build durable income, productive ownership,
+> capital, and economic autonomy without sacrificing the conditions required
+> to live and continue?
 
 ## Current judgment
 
-The practical E0–E9 reconstruction and six-case structural review are complete. The retained model is a branching transition system rather than a universal life ladder: identify the first unsupported transition, choose a bounded action, protect continuity, and update only when external evidence changes the action ranking. No automatic successor stage is authorized.
+Economic autonomy is produced through branching transitions, not one life
+ladder. The practical rule is to identify the first unsupported transition,
+name the smallest binding set, choose a recoverable action, protect continuity,
+and update only when external evidence changes the action ranking.
+
+The current answer is owned by
+[`../research/economy/README.md`](../research/economy/README.md).
+
+## Role of E0–E9
+
+E0–E9 is the practical module set for `HUMAN-ECON-001`:
+
+| Function | Modules |
+|---|---|
+| Diagnose and govern action | E0, E5, E9 |
+| Work and exchange | E1–E4 |
+| Ownership and operation | E6–E7 |
+| Capital and optionality | E8 |
+
+The identifiers preserve stable references. A practitioner selects modules by
+bottleneck; they do not complete ten stages in order. The practical workflow is
+in [`../research/economy/PRACTICE-GUIDE.md`](../research/economy/PRACTICE-GUIDE.md).
 
 ## Method
 
-Derive the minimum mechanism from first principles, check scale against public averages, compare competing paths and failure modes, test the structure with privacy-reduced composite cases, and admit granular data only when it can change a concrete judgment that simpler evidence cannot resolve.
+Use the following research workflow. Methods and granular evidence enter only
+when the claim and affected decision require them.
 
-Ordivon Human is organized by concrete questions, not by completing domains, datasets, or numbered tracks for their own sake.
+## Research workflow
+
+```text
+question and affected decision
+→ terminal outcomes and value assumptions
+→ minimum mechanism
+→ public-average scale check
+→ rival paths and failure modes
+→ privacy-reduced structural cases
+→ empirical work only for unresolved decisions
+→ conditional result and practical module
+→ falsifier, closure, or deletion
+```
 
 ## Evidence threshold
 
-Each stage must bind a named question, mature comparison, reproducible method, explicit measurement and transport limits, privacy boundary, falsifier, and information gain sufficient to change the retained model or next action.
+A retained claim must name the affected decision, mechanism, evidence class,
+assumptions, transport limit, privacy boundary, falsifier, and information gain.
+Evidence is sufficient only for the scope that its design can support.
+
+## Evidence classes
+
+| Evidence | What it can support | What it cannot support alone |
+|---|---|---|
+| first-principles constraints | necessary relations and impossible claims | prevalence or effect size |
+| public averages | order-of-magnitude calibration | individual strategy |
+| mature theory and prior studies | mechanisms, comparisons, counterexamples | automatic transport to a new person or context |
+| composite cases | coherence, differentiation, feasibility pressure | causal effectiveness or population validity |
+| observed trajectories | process evidence and model failure | broad generalization without replication |
+| reproducible code | exact transformations and synthetic demonstrations | authority beyond declared assumptions |
+
+## Current evidence map
+
+`HUMAN-ECON-001` currently includes:
+
+- a first-principles mechanism and explicit terminal outcomes;
+- practical E0–E9 modules;
+- six privacy-reduced structural cases and a cross-case review;
+- an official China 2025 aggregate scale check;
+- a bounded source hierarchy;
+- explicit limitations, counterexamples, and reopening conditions.
+
+The six-case suite is **closed-revised** as an initial structural review. It
+supports the three-engine, four-rail model but does not empirically validate its
+effectiveness.
+
+## Reproducibility
+
+[`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) defines the executable entry for the
+aggregate baseline, synthetic population-to-individual demonstration, JSON
+comparison, compilation, and content validation.
+
+## Reopening HUMAN-ECON-001
+
+Reopen the completed cycle only when an observed or sufficiently complete case
+shows at least one of the following:
+
+1. the framework identifies the wrong binding transition;
+2. the recommended bounded action is infeasible under ordinary constraints;
+3. materially different states produce the same recommendation without reason;
+4. a missing mechanism changes the action ranking;
+5. life-quality, relationship, institutional, or maintenance costs cannot be
+   represented by the current rails;
+6. local granular evidence is required for a decision that first principles,
+   public calibration, and bounded cases cannot resolve.
+
+A longitudinal checkpoint in CASE-001 may supply such evidence. It is not an
+automatic continuation stage.
+
+## New problem admission
+
+A new Human cycle must state:
+
+1. the concrete human problem;
+2. whose outcome changes and over what horizon;
+3. the terminal outcomes and value assumptions;
+4. the minimum mechanism and magnitude required to matter;
+5. mature explanations and simpler competing paths;
+6. life-quality, time, dependence, privacy, and ruin costs;
+7. evidence capable of changing action or understanding;
+8. a falsifier and deletion condition.
+
+Candidate domains such as health, learning, relationships, institutions, AI
+capability transfer, and shock recovery are not scheduled work until a concrete
+problem passes this gate.
+
+## Supporting assets
+
+- [`../research/h0/`](../research/h0/) supplies selectable system distinctions;
+- [`../methods/METHODOLOGY.md`](../methods/METHODOLOGY.md) supplies reusable
+  inference discipline;
+- [`../methods/m0/`](../methods/m0/) preserves completed methodological
+  foundation work;
+- [`PRIVACY-AND-ETHICS.md`](PRIVACY-AND-ETHICS.md) governs public data and
+  high-consequence boundaries.
+
+These assets do not own research status and do not require independent
+completion.
 
 ## Stop rule
 
-Stop, narrow, or delete a stage when required data cannot be used lawfully, the construct cannot be measured credibly, the result cannot change understanding or action, a mature source already answers the question, or implementation and governance cost exceed expected information gain.
-
-## HUMAN-ECON-001 — A Practical Path to Economic Autonomy
-
-**Status: E0–E9 practical reconstruction and six-case structural review complete.**
-
-> How can an ordinary person move from education and dependent capability toward durable income, productive ownership, capital, and economic autonomy without sacrificing the conditions required to live and continue?
-
-## Research method
-
-```text
-first-principles structure
-→ public-average magnitude check
-→ explicit assumptions
-→ competing path comparison
-→ counterexample and failure analysis
-→ practical composite cases
-→ bounded evidence only when still necessary
-→ conditional action
-→ close, revise, or delete
-```
-
-Data may calibrate scale. Data availability may not select the research question.
-
-## Why the E-series was reconstructed
-
-The first cycle produced a coherent mechanism model but required readers to translate concepts into a life path. The practical reconstruction reorganized the same mechanism around transitions that a person can recognize and act on.
-
-Each chapter now provides:
-
-- the real situation addressed;
-- the current bottleneck;
-- a bounded action;
-- several plausible composite cases;
-- the reason the cases are feasible;
-- a failure or state-change signal;
-- evidence required before moving forward.
-
-## Active E-series
-
-### E0 — Starting state
-
-Locate the first unsupported transition rather than building a total life plan.
-
-Evidence path:
-
-```text
-reliable functioning
-→ verifiable capability
-→ external trust
-→ paid or responsibility-bearing exchange
-→ recurring surplus
-→ output beyond current labour
-→ owner-independent operation
-→ independent claims supporting choice
-```
-
-### E1 — Foundation education
-
-Build functional capacity, literacy, numeracy, self-directed learning, cooperation, and tool use. Formal access and independent production operate as parallel loops.
-
-### E2 — Direction and professional choice
-
-Test candidate paths through real work, demand, proof, access, transferability, full cost, and reversibility before major commitment.
-
-### E3 — Proof and first market entry
-
-Convert competence into a useful result for a real party under a real constraint. The first payment or responsibility is evidence of exchange, not proof of a scalable career.
-
-### E4 — Early career and surplus
-
-Evaluate work by cash, capability, proof, access, and ownership returns. Build recurring surplus without damaging life or the capability base.
-
-### E5 — Life quality and commitments
-
-Protect a declared life-quality floor, seek resource uses with present and future value, and resist fixed commitments that remove refusal power.
-
-### E6 — Labour to ownership
-
-Find repeated useful work, deliver it manually, isolate a reusable core, preserve legal and contractual rights, and test whether reuse exceeds maintenance.
-
-### E7 — Ownership to system
-
-Prove repeat demand, delivery, unit economics, bounded variation, and owner substitution before scaling. More output is not leverage when owner burden grows proportionally.
-
-### E8 — Capital by function
-
-Assign capital to continuity, options, controlled production, diversified long-horizon claims, and protection before choosing products or percentages.
-
-### E9 — Continuity and stage transitions
-
-Use evidence ladders, exposure boundaries, stop rules, careful outcome attribution, recovery, and deliberate non-action.
-
-Complete closeout: [`../research/economy/E0-E9-CLOSEOUT.md`](../research/economy/E0-E9-CLOSEOUT.md).
-
-## Structural pressure-test suite
-
-The first suite contains six structural cases:
-
-1. early technical capability with substantial AI-assisted output but no repeated external exchange;
-2. precarious labour with fragmented income and weak refusal power;
-3. stable salaried work with shrinking options and fixed commitments;
-4. independent professional revenue without proven productive leverage;
-5. a commercially meaningful but founder-dependent operating business;
-6. high nominal wealth with low liquidity, high maintenance, and limited usable autonomy.
-
-The suite covers the main production relations represented in E0–E9 without multiplying cases by occupation, location, age, or asset label. Full coverage and falsifiers are recorded in [`../research/economy/cases/README.md`](../research/economy/cases/README.md). The resulting revisions are in [`../research/economy/cases/CROSS-CASE-REVIEW.md`](../research/economy/cases/CROSS-CASE-REVIEW.md).
-
-The composite suite pressure-tests structure and action differentiation; it does not validate empirical effectiveness. No additional case should be admitted unless it exposes a missing transition, a materially different failure mode, or an incorrect action ranking.
-
-## Case-admission standard
-
-A practical case must state:
-
-1. a plausible starting state;
-2. the tempting but possibly incorrect move;
-3. a bounded intervention;
-4. why it does not require exceptional resources or success;
-5. what evidence would invalidate or change the action.
-
-A case is rejected when it depends on hidden privilege, guaranteed demand, unrealistic product success, unbounded capital, or a false claim of passive ownership.
-
-Cases illustrate mechanism application. They are not substitutes for representative empirical evidence.
-
-## Final synthesis
-
-```text
-terminal outcomes
-=
-present life quality
-+ durable economic power
-+ economic autonomy
-
-continuity constraint
-=
-ordinary failure must not destroy essential life,
-future capability, or the ability to continue
-
-allocation rule
-=
-place the next unit of time, money, attention, and control
-where it changes the current binding constraint
-by the largest durable amount
-relative to maintenance, dependence, and failure risk
-```
-
-## Supporting public calibration
-
-[`../research/economy/CHINA-BASELINE-2025.md`](../research/economy/CHINA-BASELINE-2025.md) contains a small official average baseline.
-
-It is used only to check scale. It does not determine individual strategy or validate the composite cases as representative.
-
-## Supporting Human System Atlas
-
-[`../research/h0/`](../research/h0/) provides selectable Body, Cognition, Emotion/Motivation, Capability, and relation maps.
-
-The Atlas is not a prerequisite. A category survives only when an active problem consumes it.
-
-## Methods
-
-### M0 — Measurement and inference foundations
-
-Completed and reusable.
-
-### M1 — Data and study design
-
-Admit only when a concrete unresolved decision cannot be answered by a simpler mechanism model, current local evidence, and bounded cases.
-
-### M2 — Model validation
-
-Evaluate mechanism completeness, counterexamples, magnitude, transfer, subgroup failure, intervention distortion, privacy cost, and simpler alternatives.
-
-## Admission gates
-
-A new study, variable, dataset, case program, or implementation must state:
-
-1. the core human problem;
-2. the terminal outcome or decision it changes;
-3. the mechanism connecting it to that outcome;
-4. the order of magnitude required to matter;
-5. the simpler competing explanation;
-6. the life-quality, time, dependence, and ruin costs;
-7. the falsifier and deletion condition.
-
-## Next status
-
-No automatic E10 is planned.
-
-The next active research program must begin from a new concrete human problem or from a complete case showing that the practical E0–E9 path ranks a material action incorrectly.
+Stop, narrow, archive, or delete work when required data cannot be used lawfully,
+the construct cannot be measured credibly, the result cannot change a decision,
+a mature source already answers the question, or implementation and governance
+cost exceed expected information gain.
+
+There is no automatic E10, H1, M1, or platform milestone.

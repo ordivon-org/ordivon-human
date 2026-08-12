@@ -1,5 +1,7 @@
 # Supporting Boundary — Risk, Liquidity, and Continuity
 
+> **Status:** retained supporting boundary and historical deletion record. It does not define a parallel economy program.
+
 ## Role
 
 Risk and liquidity are not the main wealth engine.

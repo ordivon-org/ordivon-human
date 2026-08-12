@@ -1,5 +1,7 @@
 # Methods M0 Framework Composition
 
+> **Naming note:** this document was produced before the original method-first H0 work was reclassified as [Methods M0](README.md). “H0” below is historical wording and does not refer to the current [Human System Atlas](../../research/h0/README.md).
+
 ## Judgment
 
 No reviewed framework is a complete general model of human development, and none should be converted into an Ordivon-owned replacement ontology.

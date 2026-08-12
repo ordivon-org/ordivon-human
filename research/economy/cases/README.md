@@ -1,66 +1,83 @@
 # Economic-Autonomy Structural Pressure Tests
 
-The practical E-series is not accepted merely because its concepts are coherent. It must survive structural pressure tests in which learning, capability, income, ownership, capital, attention, and failure interact.
+The six cases test whether the practical framework distinguishes materially
+different production relations and recommends different bounded actions. They
+are not six biographies and do not prove empirical effectiveness.
 
-## Case purpose
+## Status
 
-A case tests whether E0–E9:
+The initial suite is **closed-revised**. It exposed weaknesses in the remaining
+linear presentation and produced the three-engine, four-rail model documented in
+[`CROSS-CASE-REVIEW.md`](CROSS-CASE-REVIEW.md).
 
-- identifies the first unsupported transition;
-- ranks competing actions correctly;
-- proposes a feasible bounded next move;
-- exposes hidden dependence and maintenance;
-- preserves life quality and recoverability;
-- changes direction when evidence contradicts the initial diagnosis.
+CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 remain
+composite pressure tests unless suitable anonymous observed trajectories replace
+them.
 
-A public case is not a biography, personality profile, or permanent optimization record.
+## How to use a case
 
-## Privacy rule
+Choose a case by its production relation or failure mode, not by age,
+occupation, location, or asset label. Read its primary modules closely and treat
+other E sections as guardrails or counterfactual checks.
 
-Public cases retain decision-relevant structure while removing identifying detail.
+- **CASE-001 — assisted output without repeated trusted exchange.** Primary:
+  E0–E3 and E9. Secondary: E4–E8. Privacy-reduced trajectory; structural
+  review closed and longitudinal evidence remains optional.
+- **CASE-002 — fragmented labour and weak refusal power.** Primary: E0–E5,
+  E8, and E9. Secondary: E6–E7. Composite pressure test.
+- **CASE-003 — stable income with shrinking options.** Primary: E0, E2–E6,
+  E8, and E9. Secondary: E1 and E7. Composite pressure test.
+- **CASE-004 — direct revenue without productive leverage.** Primary: E0 and
+  E4–E7 plus E9. Secondary: E1–E3 and E8. Composite pressure test.
+- **CASE-005 — ownership without owner-independent operation.** Primary: E0
+  and E5–E9. Secondary: E1–E4. Composite pressure test.
+- **CASE-006 — nominal wealth without usable autonomy.** Primary: E0 and
+  E5–E9. Secondary: E1–E4. Composite pressure test.
 
-They must exclude unless logically indispensable:
+The individual files traverse all modules to test false recommendations. This
+does not mean every module is equally relevant to the case.
 
-- all calendar dates;
-- exact age and age bands;
-- country, region, institution, and field of enrollment;
-- exact balances, income, losses, tuition, and family finances;
-- project, repository, domain, company, and provider names;
-- future education, employment, or migration destinations;
-- contact information and private records;
-- distinctive combinations of otherwise ordinary facts.
+## Case suite
 
-A detail survives only when deleting it would change the action ranking or failure boundary.
+- [`CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md`](CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md)
+  — capability formation and external proof;
+- [`CASE-002-PRECARIOUS-WORKER.md`](CASE-002-PRECARIOUS-WORKER.md)
+  — continuity before optimization;
+- [`CASE-003-STABLE-SALARIED-SPECIALIST.md`](CASE-003-STABLE-SALARIED-SPECIALIST.md)
+  — stable income versus portable options;
+- [`CASE-004-INDEPENDENT-PROFESSIONAL.md`](CASE-004-INDEPENDENT-PROFESSIONAL.md)
+  — service capture versus reusable production;
+- [`CASE-005-FOUNDER-DEPENDENT-SMALL-BUSINESS.md`](CASE-005-FOUNDER-DEPENDENT-SMALL-BUSINESS.md)
+  — operating ownership versus owner-independent operation;
+- [`CASE-006-ASSET-RICH-AUTONOMY-POOR.md`](CASE-006-ASSET-RICH-AUTONOMY-POOR.md)
+  — accounting wealth versus usable autonomy.
 
-## Evidence levels
+## Evidence boundary
 
-| Level | Meaning |
-|---|---|
-| observed | directly reported or visible in owner evidence, then generalized for publication |
-| composite | constructed from common mechanisms rather than one identifiable person |
-| inferred | follows from stated facts through an explicit mechanism |
-| unknown | material to a decision but not established |
-| future evidence | result that must appear before action can scale |
+CASE-001 is generalized from a real trajectory and may receive future observed
+checkpoints. The other cases are composites built from common mechanisms. They
+can expose incoherent logic, hidden assumptions, and infeasible actions. They
+cannot estimate prevalence, causal effects, or expected outcomes.
 
-Unknowns remain unknown. They are not completed with plausible-sounding assumptions.
+Unknowns remain unknown. Public cases exclude identifying details, exact private
+finances, institutions, locations, and distinctive fact combinations unless a
+detail is logically indispensable to the action ranking.
 
-## Case structure
+## Required case structure
 
-Each complete case contains:
+A complete case records:
 
 1. privacy and evidence boundary;
 2. generalized starting state;
-3. E0 diagnosis;
-4. relevant E1–E9 application;
-5. competing paths and rejected actions;
-6. bounded evidence cycle;
-7. evidence and stop rules;
+3. binding-transition diagnosis;
+4. action ranking;
+5. primary module application;
+6. secondary and rejected actions;
+7. bounded evidence cycle and maximum loss;
 8. model pressure points;
-9. initial verdict.
+9. a verdict and revision condition.
 
 ## Action standard
-
-A proposed action must state:
 
 ```text
 current bottleneck
@@ -68,86 +85,36 @@ current bottleneck
 → maximum acceptable loss
 → external evidence
 → retained value under failure
-→ continue, scale, redesign, or stop
+→ continue, scale, redesign, hold, recover, or stop
 ```
 
-Actions that depend on exceptional success, hidden resources, guaranteed demand, or unrealistic discipline are rejected.
+Actions that depend on exceptional success, hidden resources, guaranteed demand,
+or unrealistic discipline are rejected.
 
-## Why six cases are enough for the first pressure-test suite
+## What the suite changed
 
-The first suite contains one case for each major production relation that the E-series currently distinguishes:
+The review retained terminal outcomes, diagnosis by unsupported transition,
+conditional ownership, net productive leverage, capital by function, and bounded
+evidence.
 
-1. capability formation before repeated exchange;
-2. unstable labour before reliable surplus;
-3. stable employment before portable options and ownership;
-4. independent professional work before productive leverage;
-5. operating ownership before owner-independent systems;
-6. substantial nominal wealth before usable autonomy.
+It revised:
 
-Adding more cases now would mostly vary occupation, age, location, or asset label without testing a new mechanism. The suite remains closed to routine expansion until a missing transition or incorrect ranking is found.
+- one linear ladder into three engines;
+- one total stage into a multidimensional state map;
+- one bottleneck into the smallest binding set when constraints are coupled;
+- life quality and continuity into always-on rails;
+- capital to include deliberate life use;
+- “validation suite” into the narrower structural pressure-test claim.
 
-## Case suite
+## Reopening and case admission
 
-- [`CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md`](CASE-001-EARLY-STAGE-TECHNICAL-BUILDER.md) — substantial AI-assisted output, incomplete retained-capability evidence, and no repeated external exchange;
-- [`CASE-002-PRECARIOUS-WORKER.md`](CASE-002-PRECARIOUS-WORKER.md) — fragmented income, weak refusal power, hidden practical capability, and continuity as the dominant constraint;
-- [`CASE-003-STABLE-SALARIED-SPECIALIST.md`](CASE-003-STABLE-SALARIED-SPECIALIST.md) — stable income and surplus, but shrinking options through one-employer dependence and fixed commitments;
-- [`CASE-004-INDEPENDENT-PROFESSIONAL.md`](CASE-004-INDEPENDENT-PROFESSIONAL.md) — repeated client demand and high direct capture without a proven reusable production unit;
-- [`CASE-005-FOUNDER-DEPENDENT-SMALL-BUSINESS.md`](CASE-005-FOUNDER-DEPENDENT-SMALL-BUSINESS.md) — commercially meaningful ownership whose normal operation still depends on the founder;
-- [`CASE-006-ASSET-RICH-AUTONOMY-POOR.md`](CASE-006-ASSET-RICH-AUTONOMY-POOR.md) — high nominal wealth with low liquidity, high maintenance, concentrated failure, and limited usable time.
+Add or reopen a case only when a concrete trajectory:
 
-## Coverage matrix
+- exposes a missing transition or mechanism;
+- produces an incorrect action ranking;
+- makes the recommended bounded action infeasible;
+- requires a new treatment of health, care, institutions, household authority,
+  discrimination, migration, retirement, or shock;
+- provides observed evidence capable of revising the framework.
 
-| Case | First unsupported transition | Primary E chapters | Main failure tested |
-|---|---|---|---|
-| CASE-001 | output → externally trusted repeated use | E1–E3 | AI-assisted output mistaken for retained capability |
-| CASE-002 | fragmented labour → reliable exchange and refusal power | E0–E5, E8 | continuity treated as secondary to optimization |
-| CASE-003 | stable salary → portable options and bounded ownership | E3–E6, E8 | income stability mistaken for autonomy |
-| CASE-004 | repeated service → reusable controlled production | E4–E7 | self-employment mistaken for leverage |
-| CASE-005 | founder-led business → owner-independent normal operation | E6–E9 | revenue and team size mistaken for a system |
-| CASE-006 | nominal wealth → usable low-maintenance autonomy | E0, E5–E9 | accounting wealth mistaken for control and choice |
-
-## Cross-case review
-
-[`CROSS-CASE-REVIEW.md`](CROSS-CASE-REVIEW.md) records what survived, what failed, and the resulting revisions to E0, E5, E8, and E9.
-
-The suite supports structural coherence and action differentiation. It does not establish empirical effectiveness or population validity.
-
-Together, the cases pressure-test:
-
-- mixed stages;
-- hidden capability;
-- unstable and stable labour;
-- life-quality floors;
-- fixed commitments;
-- proof and market access;
-- labour-to-ownership conversion;
-- founder dependence;
-- concentration and diversification;
-- capital by function;
-- deliberate non-action;
-- wealth-to-life conversion.
-
-## Cross-case falsifiers
-
-Revise the E-series when the suite shows that:
-
-- the first unsupported transition does not improve action ranking;
-- continuity, capability, proof, surplus, ownership, system, and autonomy cannot be separated in practice;
-- the recommended bounded action is infeasible under ordinary constraints;
-- a supposedly secondary mechanism consistently dominates the diagnosed bottleneck;
-- ownership or diversification reduces rather than expands autonomy in a way the model cannot explain;
-- life-quality and relationship costs cannot be represented without a separate terminal outcome;
-- the same recommendation appears across materially different cases despite different constraints.
-
-## Status language
-
-- **constructed** — starting state and initial ranking recorded;
-- **active** — a real bounded experiment is running;
-- **observed** — at least one evidence checkpoint has occurred;
-- **closed-supported** — the case did not expose a material E-series failure;
-- **closed-revised** — the case required a named model revision;
-- **abandoned** — evidence became unavailable or the case no longer had decision value.
-
-CASE-001 may receive longitudinal evidence. CASE-002 through CASE-006 remain composite pressure tests unless a suitable anonymous real trajectory later replaces them.
-
-No additional case should be added merely to enlarge coverage counts.
+Do not add cases merely to increase occupation, age, location, or asset coverage.

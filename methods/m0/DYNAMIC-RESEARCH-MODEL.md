@@ -1,5 +1,7 @@
 # Dynamic Research Model
 
+> **Naming note:** this document was produced before the original method-first H0 work was reclassified as [Methods M0](README.md). “H0” below is historical wording and does not refer to the current [Human System Atlas](../../research/h0/README.md).
+
 **Methods M0 retained model — 2026-08-02.**
 
 The initial ten-level hierarchy has been superseded by a smaller dynamic model. H0 showed that the hierarchy mixed state domains, actions, context, time, measurement, and study-specific causal roles on one axis.

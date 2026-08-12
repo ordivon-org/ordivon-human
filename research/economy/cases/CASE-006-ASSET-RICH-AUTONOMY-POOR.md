@@ -1,6 +1,10 @@
 # CASE-006 — Asset-Rich but Autonomy-Poor Owner
 
-**Status:** constructed composite case.
+> **Evidence status:** closed composite structural pressure test.
+>
+> **Primary modules:** E0 and E5–E9. Other E sections test guardrails and false recommendations; they are not equally diagnostic.
+
+> Return to the [case index](README.md) or apply the framework through the [practice guide](../PRACTICE-GUIDE.md).
 
 ## 0. Case boundary
 

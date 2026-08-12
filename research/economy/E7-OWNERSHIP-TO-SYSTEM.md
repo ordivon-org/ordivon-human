@@ -1,5 +1,9 @@
 # E7 — Turn Ownership into a System Without Scaling the Owner’s Burden
 
+> **Framework role:** ownership-and-operation repeatability module.
+>
+> **Use this module when:** ownership or revenue exists but normal operation may still scale the owner’s burden. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 A product, customer list, curriculum, codebase, or small business is not yet a scalable system. It becomes productive leverage only when useful output grows faster than the owner’s permanent labour, maintenance, fragility, and dependence.

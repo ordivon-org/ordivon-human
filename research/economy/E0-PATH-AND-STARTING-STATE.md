@@ -1,5 +1,9 @@
 # E0 — Find the Binding Transition, Not a Life Stage
 
+> **Framework role:** diagnosis across all three engines.
+>
+> **Use this module when:** the important next transition is unclear or several constraints interact. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 Do not begin with a lifetime financial plan or a label such as student, employee, founder, or wealthy owner.

@@ -14,7 +14,7 @@ audience:
   - maintainer
   - builder
   - agent
-updated: 2026-08-03
+updated: 2026-08-04
 summary: Canonical decision defining Human's mission, problem-first research order, question admission, evidence discipline, privacy boundary, and implementation threshold.
 evidence_status: not_applicable
 readiness: READY
@@ -31,191 +31,169 @@ related:
 
 ## Context
 
-A project about human life can easily become an unbounded ontology, data warehouse, optimization score, advisory product, or catalogue of methods. Those forms would obscure concrete human problems and create authority the repository does not possess.
+Human research can easily become an unbounded ontology, data warehouse, personal
+score, advisory product, or catalogue of methods. Those forms would obscure the
+concrete problem and create authority that the repository does not possess.
 
 ## Decision
 
-Organize Ordivon Human around admitted real-world questions. Each study declares affected outcomes, time horizon, value assumptions, evidence, falsifiers, privacy and consequence limits, and a deletion path. System maps, methods, datasets, and implementation are admitted only when an active question consumes them.
+Organize Ordivon Human around admitted real-world questions. Each study declares
+whose outcome matters, the time horizon, value assumptions, mechanisms,
+evidence, falsifiers, privacy and consequence limits, and a deletion path.
+System maps, methods, datasets, and implementation are admitted only when a
+question consumes them.
 
-## Consequences
+## Two levels of research
 
-No universal scalar objective, mandatory user model, identifiable public dataset, automated high-consequence decision system, or permanent Human platform is presumed. Conclusions remain conditional, transport-limited, contestable, and separable from individualized professional advice.
+The project-level question is:
 
-## Status
+> How can concrete human problems be studied without replacing the person or
+> problem with a taxonomy, score, dataset, method, or optimization system?
 
-Accepted and active. [`methods/METHODOLOGY.md`](methods/METHODOLOGY.md) defines reusable evidence discipline, [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) defines the consequence boundary, and [`docs/authority.md`](docs/authority.md) records document authority. Reopen only when the project mission or authority boundary changes, not when a new study adds another domain.
+An applied cycle asks a narrower question about a real human outcome. The first
+completed cycle is `HUMAN-ECON-001`, economic autonomy under life-quality and
+continuity constraints.
 
-## 1. Mission
+The practical E0–E9 documents belong to that applied cycle. They are selectable
+decision modules, not the Human project hierarchy. The Human System Atlas and
+Methods M0 are supporting assets, not parallel completion programs.
 
-Ordivon Human studies concrete problems that shape human lives and trajectories.
+## Mission
 
-It does not begin by completing a taxonomy of the human being. It begins with a question such as:
+Ordivon Human studies concrete problems that shape human lives and trajectories,
+including functioning, capability, work, resources, relationships,
+institutions, technology, shocks, recovery, and future choice.
 
-- how can a person obtain greater economic autonomy without destroying present life quality;
-- why do some capability trajectories compound while others stall;
-- which conditions preserve health, agency, relationships, and future options;
-- how do institutions and technologies expand or constrain a person's feasible choices?
+It does not begin by completing a total model of the human being. It composes the
+minimum views and evidence required by the admitted problem.
 
-The project then composes the minimum evidence, variables, systems, and methods needed to answer that question.
-
-## 2. Research order
+## Research order
 
 ```text
-problem
-→ terminal outcomes and value assumptions
+human problem
+→ affected outcomes and value assumptions
 → first-principles constraints and mechanism
 → public-average magnitude check
 → rival paths and counterexamples
 → bounded empirical work only when still necessary
 → conditional result
-→ revision or deletion
+→ practical application
+→ revision, closure, or deletion
 ```
 
-System maps, methods, and datasets are support layers. They do not become the research objective, and data availability does not select the question.
+Data availability does not select the question. A method does not authorize its
+own continued use.
 
-## 3. Question admission
+## Question admission
 
-A research question is admitted only when it states:
+A question is admitted only when it states:
 
 1. the real human problem;
 2. whose outcome is affected;
 3. the relevant time horizon;
-4. the outcomes that may improve or deteriorate;
+4. outcomes that may improve or deteriorate;
 5. the consequence of getting the answer wrong;
-6. the evidence that could change action or understanding;
-7. the first falsifier or narrowing condition.
+6. evidence capable of changing action or understanding;
+7. a first falsifier or narrowing condition.
 
-## 4. Supporting system views
+A completed cycle remains current reference material without remaining active
+work. Reopening requires contradictory evidence or a demonstrated decision
+failure.
 
-An active question may draw on:
+## Supporting system views
 
-- body and biological functioning;
-- cognition, emotion, motivation, identity, and behaviour;
-- capability, learning, and adaptation;
-- income, wealth, consumption, debt, time, and material resources;
-- family, relationships, organizations, institutions, culture, and environment;
-- language, tools, software, networks, automation, and AI;
-- development, ageing, shocks, feedback, recovery, and history.
+A study may select from body and functioning; cognition, emotion, motivation,
+identity, and behaviour; capability and learning; income, wealth, time, debt,
+and material resources; relationships and institutions; technology and AI; and
+development, shock, path dependence, and recovery.
 
-These are selectable analytical views, not independent compartments or a mandatory ontology.
+These are analytical views, not independent compartments or a mandatory schema.
+A view survives only when deleting it causes a named explanatory, measurement,
+or decision-ranking failure.
 
-A system page survives only if an active question consumes it and deletion causes a named explanatory failure.
-
-## 5. Minimum distinctions
+## Minimum distinctions
 
 A credible study should not conflate:
 
-- structure with current state;
-- state with action;
-- capacity with observed performance;
-- internal skill with supported or joint-system capability;
-- context with personal trait;
-- expenditure with quality of life;
-- income with wealth or liquidity;
-- outcome with observation;
-- population distribution with individual trajectory;
-- prediction with causal explanation;
-- empirical result with value judgment.
+- structure, state, action, and observation;
+- capacity, observed performance, and AI-assisted output;
+- context and personal trait;
+- expenditure and life quality;
+- income, wealth, liquidity, control, and autonomy;
+- population association and individual causal response;
+- prediction, causal explanation, and normative judgment.
 
-## 6. Dynamic principle
+## Outcome pluralism
 
-Human problems may involve:
+No universal scalar objective is accepted. A study may consider survival,
+health, functioning, capability, learning, material security, time, autonomy,
+relationships, participation, suffering, meaning, contribution, resilience, or
+adaptability.
 
-- feedback loops;
-- bottlenecks and multiplicative constraints;
-- thresholds and nonlinear response;
-- adaptation and compensation;
-- substitution and complementarity;
-- delayed effects and carryover;
-- cumulative advantage and disadvantage;
-- sensitive periods;
-- path dependence, shock, and recovery;
-- heterogeneity across people and contexts.
+It must state whose outcome is considered, the time horizon, value assumptions,
+opportunity costs, who bears risk, and whether change is reversible.
 
-No linear cause list or one-score model is presumed sufficient.
+## Evidence discipline
 
-## 7. Outcome pluralism
+First-principles reasoning and public averages come before expensive granular
+data when they can resolve the decision. Historical cases, qualitative evidence,
+measurement, causal inference, longitudinal designs, single-case methods,
+structural models, and data engineering enter only when the claim requires them.
 
-No universal scalar objective is accepted.
+Every conclusion states assumptions, counterexamples, transport limits,
+heterogeneous effects, and what evidence would change it. More variables,
+precision, or model complexity do not create authority.
 
-A study may examine:
+[`methods/METHODOLOGY.md`](methods/METHODOLOGY.md) owns the reusable protocol.
 
-- survival, health, and functioning;
-- cognition, capability, creativity, and learning;
-- material security, time, autonomy, and future option value;
-- relationships, belonging, participation, and recognition;
-- subjective well-being and suffering;
-- contribution, status, power, meaning, and identity;
-- resilience, recovery, and adaptability.
+## Technology and AI
 
-It must declare:
+AI may expand output, learning, judgment, creativity, coordination, and
+execution. It may also create dependence, deskilling, manipulation,
+surveillance, or concentrated control.
 
-- whose outcome is considered;
-- the time horizon;
-- the value assumptions;
-- displaced outcomes and opportunity costs;
-- who bears risk;
-- whether change is reversible.
+Human research therefore distinguishes immediate joint-system output from
+retained human capability, transferable control, verification ability, and
+agency. AI does not organize the whole project, and output maximization is not a
+universal human objective.
 
-## 8. Evidence and methods
+## Privacy and consequence boundary
 
-First-principles reasoning, public-average calibration, historical cases, qualitative evidence, measurement, causal inference, longitudinal design, N-of-1 methods, structural models, and data engineering may all be useful.
+The public repository may contain questions, frameworks, methods, code,
+synthetic examples, aggregate evidence, and legally reusable sources. It does
+not contain identifiable personal health, financial, behavioural, relationship,
+location, biometric, genomic, or private conversational data.
 
-They do not have equal priority.
+Medical, legal, employment, insurance, credit, education-admission, policing,
+investment, or other high-consequence decisions require domain-specific
+professional authority and current local evidence outside this repository.
 
-A method enters the active path only when a subject question requires it and a simpler mechanism model cannot resolve the decision.
+## Implementation admission
 
-Core rules:
-
-1. define the mechanism before searching for variables;
-2. use public averages to calibrate order of magnitude, not to prescribe individual action;
-3. population distributions do not determine individuals;
-4. correlation, prediction, mechanism, intervention, and moral judgment are distinct;
-5. a proxy is not the construct;
-6. self-report, behaviour, physiology, administrative records, and digital traces have different failure modes;
-7. measurement can change behaviour;
-8. missingness and selection are substantive facts;
-9. more variables and decimals do not create more truth;
-10. models remain contestable and revisable;
-11. conclusions must state assumptions, counterexamples, transport limits, and heterogeneous effects;
-12. a dataset, popular rule, or mature framework is a check against reasoning, not authority over the question.
-
-## 9. Technology and AI
-
-Technology is studied when a human problem requires it. Human capability has long been distributed through language, writing, tools, organizations, infrastructure, and machines.
-
-AI may expand or alter memory, learning, judgment, creativity, coordination, and execution. It may also create dependence, deskilling, manipulation, surveillance, or concentrated control.
-
-AI does not organize the whole Human project, and output maximization is not a universal human objective.
-
-## 10. Privacy and consequence boundary
-
-The public repository may contain questions, frameworks, methods, code, synthetic examples, aggregate evidence, and legally reusable source material.
-
-It does not contain identifiable personal health, financial, behavioural, relationship, location, biometric, genomic, or private conversational data.
-
-Any future private study must separate:
-
-```text
-public question and method
-private raw observation
-controlled derived analysis
-reviewed aggregate evidence
-```
-
-Medical, legal, employment, insurance, credit, education-admission, policing, investment, or other high-consequence decisions require domain-specific authority and evidence outside this repository.
-
-## 11. Implementation admission
-
-A collector, schema, database, service, model, dashboard, benchmark, or governance process is admitted only when:
+A collector, schema, database, service, model, dashboard, benchmark, or
+governance process is admitted only when:
 
 1. an active question requires it;
-2. the mechanism and decision are already clear;
-3. public averages and simpler reasoning cannot resolve the remaining uncertainty;
-4. mature tools cannot perform the work with acceptable cost and fidelity;
+2. the mechanism and affected decision are clear;
+3. simpler evidence cannot resolve the remaining uncertainty;
+4. mature tools cannot perform the work adequately;
 5. the minimum necessary data are identified;
-6. measurement and privacy consequences are explicit;
+6. privacy, measurement, and misuse consequences are explicit;
 7. deletion, refusal, and exit remain possible;
-8. expected decision value exceeds implementation, maintenance, and governance cost.
+8. expected decision value exceeds implementation and maintenance cost.
 
-The default implementation is research text, first-principles derivation, public-scale calibration, and small bounded experiments. A permanent Human platform or data program is not presumed.
+The default implementation is research text, first-principles derivation,
+public-scale calibration, and small bounded experiments. A permanent Human
+platform or personal model is not presumed.
+
+## Consequences
+
+No universal scalar objective, mandatory user model, identifiable public dataset,
+automated high-consequence decision system, or permanent Human platform is
+presumed. Conclusions remain conditional, transport-limited, contestable, and
+separable from individualized professional advice.
+
+## Status
+
+Accepted and active as the project charter. Reopen only when the mission or
+authority boundary changes, not when a new applied problem is admitted.

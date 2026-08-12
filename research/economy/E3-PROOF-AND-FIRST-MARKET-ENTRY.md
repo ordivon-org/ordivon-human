@@ -1,5 +1,9 @@
 # E3 — Turn Learning into Proof and the First Market Exchange
 
+> **Framework role:** work-and-exchange proof and trusted-use module.
+>
+> **Use this module when:** private capability has not yet become an inspectable result used by another party. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 Private competence creates no automatic economic value. Another party must be able to see the result, trust delivery, and decide that the result is useful enough to support.
