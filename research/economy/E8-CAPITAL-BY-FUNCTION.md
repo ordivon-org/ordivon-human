@@ -1,5 +1,9 @@
 # E8 — Assign Capital a Function Before Choosing an Asset
 
+> **Framework role:** capital-and-optionality allocation module.
+>
+> **Use this module when:** resources exist but their jobs, concentration, liquidity, and life use are unclear. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 Capital should be assigned to the job it must perform before selecting a product, account, business, property, or claim.

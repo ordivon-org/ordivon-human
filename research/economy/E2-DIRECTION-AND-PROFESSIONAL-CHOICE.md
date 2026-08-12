@@ -1,5 +1,9 @@
 # E2 — Choose a Direction by Testing Reality
 
+> **Framework role:** work-and-exchange direction test.
+>
+> **Use this module when:** a major education or professional commitment has not yet earned evidence from real work. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 A professional direction should not be selected only from interest, salary rankings, prestige, or fear of missing out. It should be selected through bounded contact with the work, the market, and the cost of entry.

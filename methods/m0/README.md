@@ -1,12 +1,12 @@
 # Methods M0 — Measurement and Inference Foundations
 
-**Status: completed on 2026-08-02. Reclassified from the original H0 during P0 correction.**
+**Status: completed methodological foundation. Reclassified from the original method-first H0 work; the identifier is historical, not a required stage.**
 
 M0 tested how Ordivon Human should distinguish state, context, action, observation, causal scope, population evidence, individual evidence, and human–AI capability claims. It is methodological support for Human research; it is not the Human System Map itself.
 
 ## Result
 
-H0 selects the first exit outcome from Issue #1:
+The completed study selected the narrow retained outcome:
 
 > Retain a smaller evidence-backed model.
 
@@ -20,11 +20,11 @@ The initial ten-level hierarchy is not retained. It mixed state domains, actions
 - [`HUMAN-AI-CAPABILITY-TRANSFER.md`](HUMAN-AI-CAPABILITY-TRANSFER.md) — minimum evidence contract for distinguishing output, joint-system performance, retained human capability, and agency;
 - [`evidence/population-to-individual.json`](evidence/population-to-individual.json) — deterministic simulation result;
 - [`simulate_population_to_individual.py`](simulate_population_to_individual.py) — standard-library reproduction script;
-- [`SOURCES.md`](SOURCES.md) — primary and official sources used by H0;
+- [`SOURCES.md`](SOURCES.md) — primary and official sources used by the study;
 - [`CLOSEOUT.md`](CLOSEOUT.md) — final judgment, deletions, limits, and next frontier.
 
-## What H0 did not create
+## What the study did not create
 
-H0 created no collector, service, database, dashboard, universal schema, personal score, medical system, persistent profile, or public human dataset.
+The study created no collector, service, database, dashboard, universal schema, personal score, medical system, persistent profile, or public human dataset.
 
 The only executable artifact is one synthetic causal simulation. It exists because a concrete population-to-individual inference failure is difficult to demonstrate precisely in prose alone.

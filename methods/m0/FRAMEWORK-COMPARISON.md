@@ -1,5 +1,7 @@
 # Methods M0 Framework Comparison
 
+> **Naming note:** this document was produced before the original method-first H0 work was reclassified as [Methods M0](README.md). “H0” below is historical wording and does not refer to the current [Human System Atlas](../../research/h0/README.md).
+
 The detailed case matrix and deletion result are in [`FRAMEWORK-COMPOSITION.md`](FRAMEWORK-COMPOSITION.md) and [`MODEL-DELETION.md`](MODEL-DELETION.md).
 
 Ordivon Human begins by composing mature frameworks rather than inventing a proprietary taxonomy.

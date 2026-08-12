@@ -1,5 +1,7 @@
 # E0–E9 Practical Reconstruction Closeout
 
+> **Role:** historical reconstruction and closeout. The current reader entry is [`README.md`](README.md), and the application entry is [`PRACTICE-GUIDE.md`](PRACTICE-GUIDE.md).
+
 ## Decision
 
 The E-series was reconstructed from an academic mechanism sequence into practical transition modules.

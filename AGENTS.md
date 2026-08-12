@@ -1,38 +1,50 @@
 # Agent instructions
 
-Ordivon Human is a problem-driven research repository, not a product scaffold or human taxonomy project.
+## Start with authority
 
-## Problem before system and method
+1. Read [`README.md`](README.md) for the audience routes.
+2. Read [`docs/authority.md`](docs/authority.md) before interpreting status.
+3. Use [`research/QUESTIONS.md`](research/QUESTIONS.md) for question status.
+4. Use [`research/economy/README.md`](research/economy/README.md) for the current
+   `HUMAN-ECON-001` answer.
 
-Before adding a research artefact:
+Do not infer activity from a phase number, filename, date, or confident historical
+language.
 
-1. name the concrete human problem;
-2. declare whose outcomes and which time horizon matter;
-3. identify the minimum system concepts and evidence required;
-4. place subject evidence under the active study in `research/`;
-5. place genuinely reusable measurement or inference work under `methods/`;
-6. justify any implementation as necessary for one admitted study.
+## Research behavior
 
-Do not allow a system map, methodology, AI, data infrastructure, or governance process to become a substitute objective.
+For every proposed study or recommendation:
 
-## Required discipline
+1. state the concrete human problem and affected decision;
+2. state whose outcome matters and the time horizon;
+3. define terminal outcomes and value assumptions;
+4. derive the minimum mechanism before searching for variables;
+5. use public averages for scale, not individual prescription;
+6. compare mature explanations and simpler paths;
+7. distinguish observation, prediction, causality, and normative choice;
+8. state heterogeneity, transport, missingness, privacy, and measurement limits;
+9. preserve counterexamples, null results, and deletion conditions;
+10. admit data or implementation only when it can change the decision.
 
-Before adding research structure, code, schemas, datasets, dashboards, automation, or process:
+## E, H, and M identifiers
 
-1. state the research question and decision relevance;
-2. identify terminal outcomes rather than optimizing an instrument;
-3. derive the minimum first-principles mechanism and conservation constraints;
-4. use public averages only to calibrate order of magnitude;
-5. identify rival paths, counterexamples, and failure modes;
-6. show what mature disciplinary work already explains without letting it choose the question;
-7. state why granular data are necessary rather than merely available;
-8. specify the minimum evidence and privacy class;
-9. state the falsifier and deletion condition;
-10. distinguish structure, state, capacity, action, context, outcome, and observation;
-11. distinguish value created, value captured, income, surplus, wealth, liquidity, debt, ownership, and control;
-12. distinguish description, prediction, causal claim, mechanism, and value judgment;
-13. do not add identifiable human or restricted survey data to Git;
-14. do not present medical, psychological, financial, legal, or high-consequence results as individualized authority;
-15. do not create a universal score, mandatory profile, comprehensive ontology, or data program whose existence is its evidence of value.
+- E0–E9 are selectable economic-autonomy modules, not life stages.
+- H0 identifies the supporting Human System Atlas.
+- M0 identifies completed methodological foundation work that originated under
+  an older H0 label.
 
-Default to deleting a variable, dataset, or structure that changes no complete case, mechanism, inference, or decision.
+Use natural-language concepts in explanations. Include identifiers only when
+linking to stable files.
+
+## Practical cases
+
+Cases test action logic. They are not representative biographies. Distinguish
+privacy-reduced observed trajectories from composites, keep unknowns unknown,
+and never fill missing private details with plausible assumptions.
+
+## Consequence boundary
+
+Do not present medical, psychological, financial, legal, educational,
+employment, insurance, credit, or other high-consequence conclusions as
+individualized authority. Modeling a person never grants authority over that
+person.

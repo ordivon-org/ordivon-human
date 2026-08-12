@@ -1,5 +1,7 @@
 # E0–E9 Six-Case Cross-Case Review
 
+> **Reader guidance:** this is the research synthesis for the initial six-case suite. Practitioners should start with [`../PRACTICE-GUIDE.md`](../PRACTICE-GUIDE.md).
+
 ## Scope and evidence status
 
 This review compares six structural cases against the practical E0–E9 framework.

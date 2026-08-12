@@ -1,5 +1,9 @@
 # E5 — Protect Life Quality and Avoid Commitment Traps
 
+> **Framework role:** always-on life-quality and refusal-power rail.
+>
+> **Use this module when:** a decision may damage functioning, relationships, recovery, or future choice. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 A wealth path fails if it destroys the person’s capacity to continue. Present life quality is not a reward postponed until economic success. It is both a terminal outcome and part of the productive base.

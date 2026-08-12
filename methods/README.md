@@ -1,34 +1,34 @@
 # Methods
 
-Methods supports Ordivon Human research. It does not define the human subject.
+Methods supplies reusable evidence discipline for Ordivon Human. It does not
+define the human subject, choose the research question, or create authority over
+a person.
 
-## Responsibility
+## Start here
 
-Methods owns reusable discipline for:
+- [`METHODOLOGY.md`](METHODOLOGY.md) — current protocol for measurement,
+  inference, causality, heterogeneity, transport, privacy, and model deletion;
+- [`m0/README.md`](m0/README.md) — completed foundation study that established
+  the initial measurement and population-to-individual boundaries;
+- [`../docs/REPRODUCIBILITY.md`](../docs/REPRODUCIBILITY.md) — commands for the
+  current executable artifacts.
 
-- measurement and construct validity;
-- description, prediction, causal inference, and normative decision separation;
-- population, subgroup, and individual inference;
-- longitudinal, single-case, and intervention design;
-- observation provenance, missingness, uncertainty, and selection;
-- model comparison, falsification, and deletion;
-- human–AI capability and dependency evaluation methods.
+## What “M0” means
 
-## M0
+M0 is a historical study identifier. The work began under the original H0 label
+and was later reclassified as methodological support. It is not a prerequisite
+stage and does not compete with the Human System Atlas.
 
-[`m0/`](m0/) preserves the project's original H0 work, reclassified during P0 correction.
-
-M0 established several valid boundaries:
+M0 retained several boundaries:
 
 - observation is not the human state itself;
 - group association is not individual causal response;
 - performance is not capability;
-- model output is not retained human skill;
-- more fields and personal data do not create identification;
+- AI-assisted output is not retained human skill;
+- more personal data do not create identification;
 - no universal human score or schema is justified.
-
-Those findings now support the active [`Human System Map`](../research/h0/README.md). They no longer claim to constitute that map.
 
 ## Admission rule
 
-A methodological abstraction is retained only when at least one subject-matter study currently needs it and removing it causes a named inference or measurement failure.
+A methodological abstraction remains active only when a subject-matter question
+needs it and deleting it causes a named inference or measurement failure.

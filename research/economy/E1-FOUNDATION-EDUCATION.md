@@ -1,5 +1,9 @@
 # E1 — Foundation Education: Build the Capacity to Keep Learning
 
+> **Framework role:** work-and-exchange foundation.
+>
+> **Use this module when:** functioning, learning agency, or the ability to complete checked work is unreliable. This is a selectable decision module, not a compulsory life stage. Start with the [practice guide](PRACTICE-GUIDE.md).
+
 ## What this chapter is for
 
 The first economic task of education is not early career specialization. It is to build a person who can continue learning, produce reliable work, cooperate with others, and recover from ordinary failure.
