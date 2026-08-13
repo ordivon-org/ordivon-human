@@ -43,16 +43,32 @@ become the research objective.
 
 The program is active as a research discipline. Its first applied cycle,
 `HUMAN-ECON-001`, is complete at the level of first-principles structure,
-practical reconstruction, and initial structural pressure testing. No successor
-problem cycle is currently active.
+practical reconstruction, and initial structural pressure testing. A second
+applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
+capability-allocation problem passed the admission gate.
 
-## Current applied question
+## Current applied cycles
+
+### HUMAN-AI-001 — active
+
+> When an Agent system can search, experiment, code, and execute much faster than
+> a human can learn, what should the human internalize, understand, externalize,
+> or delegate, and how should the joint system preserve judgment, verification,
+> transfer, recovery, and autonomy?
+
+The first evidence synthesis retains separate Human and joint-system capability
+surfaces, rejects immediate assisted output as sufficient evidence of retained
+learning, and opens falsifiable work on learning allocation, selective audit,
+delegation, distillation, error recovery, and asynchronous coordination.
+
+The current report is owned by
+[`../research/agentic-capability/README.md`](../research/agentic-capability/README.md).
+
+### HUMAN-ECON-001 — completed current reference
 
 > How can an ordinary person build durable income, productive ownership,
 > capital, and economic autonomy without sacrificing the conditions required
 > to live and continue?
-
-## Current judgment
 
 Economic autonomy is produced through branching transitions, not one life
 ladder. The practical rule is to identify the first unsupported transition,
@@ -115,6 +131,18 @@ Evidence is sufficient only for the scope that its design can support.
 
 ## Current evidence map
 
+`HUMAN-AI-001` currently includes:
+
+- a bounded external evidence synthesis across cognitive offloading,
+  metacognition, AI-assisted learning, human automation, knowledge work,
+  calibration, and transfer;
+- explicit competing hypotheses for seven problem axes;
+- retained contradictory evidence against a universal deskilling claim;
+- prospective experiment contracts that separate assisted output from retained
+  Human transfer, verification, intervention, and recovery;
+- an explicit admission test that prevents a Learning Harness from becoming the
+  presumed result.
+
 `HUMAN-ECON-001` currently includes:
 
 - a first-principles mechanism and explicit terminal outcomes;
@@ -124,9 +152,10 @@ Evidence is sufficient only for the scope that its design can support.
 - a bounded source hierarchy;
 - explicit limitations, counterexamples, and reopening conditions.
 
-The six-case suite is **closed-revised** as an initial structural review. It
-supports the three-engine, four-rail model but does not empirically validate its
-effectiveness.
+The economic six-case suite is **closed-revised** as an initial structural
+review. It supports the three-engine, four-rail model but does not empirically
+validate its effectiveness. `HUMAN-AI-001` has not yet completed its prospective
+Human × Ordivon dogfood and therefore has a different evidence boundary.
 
 ## Reproducibility
 
@@ -164,9 +193,10 @@ A new Human cycle must state:
 7. evidence capable of changing action or understanding;
 8. a falsifier and deletion condition.
 
-Candidate domains such as health, learning, relationships, institutions, AI
-capability transfer, and shock recovery are not scheduled work until a concrete
-problem passes this gate.
+Candidate domains such as health, relationships, institutions, and shock
+recovery remain unscheduled until a concrete problem passes this gate. Human
+learning allocation and retained capability under AI have passed the gate and
+are now consumed by `HUMAN-AI-001`.
 
 ## Supporting assets
 

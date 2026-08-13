@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "experiment": "HUMAN-AI-001/R6",
+  "frozenAt": "2026-08-14",
+  "admission": {
+    "required": [
+      "uncertain at prediction time",
+      "objective resolution rule exists",
+      "resolution expected from future external/project evidence",
+      "record can change future calibration or action",
+      "logging cost is low relative to consequence/information gain"
+    ],
+    "reject": [
+      "trivial daily choices",
+      "unresolvable value preference",
+      "outcome already observed",
+      "whole-task progress used instead of exact claim outcome"
+    ]
+  },
+  "record": [
+    "predictionId",
+    "exactClaim",
+    "probabilityOrOrderedConfidence",
+    "oneDecisiveReason",
+    "oneChangeMyMindCondition",
+    "resolutionRule",
+    "resolutionEventOrHorizon",
+    "optionalExposureBoundary"
+  ],
+  "resolution": [
+    "resolvedOutcome",
+    "sourceEvidence",
+    "wasReasonCausallySupported",
+    "update",
+    "recordingCostSeconds"
+  ],
+  "scoring": {
+    "binaryProbability": "Brier score when enough comparable binary events exist",
+    "heterogeneousValue": "partial order / calibrated direction; do not force one scalar",
+    "primaryHumanOutcome": "calibration and update behavior over repeated resolved records, not one prediction"
+  }
+}

@@ -44,45 +44,30 @@ researchers or Agents who need provenance, falsifiers, and reproducibility.
 
 ## What is being studied now
 
-The first completed applied question is:
+Human now has one completed applied cycle and one active applied cycle.
 
-> How can an ordinary person build durable income, productive ownership,
-> capital, and economic autonomy without sacrificing the conditions required
-> to live and continue?
+The completed `HUMAN-ECON-001` question asks how an ordinary person can build
+economic autonomy while preserving life quality and continuity. Its current
+answer remains the three-engine, four-rail framework in
+[`research/economy/README.md`](research/economy/README.md).
 
-The current answer is a practical framework, not a universal life plan:
+The active `HUMAN-AI-001` question is:
 
-```text
-find the first unsupported transition
-→ identify the smallest set of binding constraints
-→ choose one bounded action
-→ protect life quality and continuity
-→ obtain external evidence
-→ continue, scale, redesign, hold, recover, or stop
-```
+> When an Agent system can search, experiment, code, and execute much faster than
+> a human can learn, what should the human internalize, understand, externalize,
+> or delegate, and how should the joint system preserve judgment, verification,
+> transfer, recovery, and autonomy?
 
-The framework separates three economic engines:
+The first evidence synthesis rejects both “Human must keep up with every Agent
+change” and “joint output proves retained Human skill.” It retains distinct
+independent, situated, joint-system, verification, transfer, and recovery
+capability surfaces while testing learning allocation, delegation, distillation,
+calibration, error recovery, and cross-timescale coordination.
 
-```text
-work and exchange
-ownership and operation
-capital and optionality
-```
+The current report is
+[`research/agentic-capability/README.md`](research/agentic-capability/README.md).
 
-Every engine is constrained by four always-on rails:
-
-```text
-life quality and functioning
-continuity and recoverability
-relations and obligations
-control and maintenance
-```
-
-The practical E0–E9 series is the **application layer** for this question. The
-numbers are stable document identifiers. They are not ten mandatory stages and
-are not the overall Human research program.
-
-## What has been established
+## What has been established in HUMAN-ECON-001
 
 The first-principles cycle, practical reconstruction, and six-case structural
 review support these conclusions:
@@ -183,14 +168,18 @@ practical economic-autonomy work.
 
 ## Current research status
 
-`HUMAN-ECON-001` is complete at the level of first-principles structure and
-initial case pressure testing. There is no automatic E10 and no active successor
-problem cycle.
+`HUMAN-ECON-001` remains complete at the level of first-principles structure and
+initial case pressure testing. There is no automatic E10.
 
-The framework reopens only when an observed trajectory exposes a missing
-mechanism, an infeasible recommendation, or an incorrect action ranking. A new
-Human cycle must begin from a new concrete human problem, not from a desire to
-complete a taxonomy or collect more data.
+`HUMAN-AI-001` is active after passing the Human question-admission gate. Its
+first evidence synthesis and falsification contracts are now published under
+[`research/agentic-capability/`](research/agentic-capability/). The next burden is
+prospectively frozen Human × Ordivon dogfood; there is no automatic assumption
+that the result should be a new platform or Learning Harness.
+
+Any Human cycle reopens or changes only when evidence alters a mechanism,
+feasibility judgment, action ranking, or problem boundary. Research does not
+continue merely to complete a taxonomy or collect more data.
 
 ## Current boundary
 

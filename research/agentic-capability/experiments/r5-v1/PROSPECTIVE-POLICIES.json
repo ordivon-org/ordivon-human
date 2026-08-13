@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "experiment": "HUMAN-AI-001/R5-prospective",
+  "frozenAt": "2026-08-14",
+  "completionHandoffAlwaysDelivered": true,
+  "policies": {
+    "checkpoint": {
+      "description": "Surface every semantic WorkingCheckpoint before completion.",
+      "expectedStrength": "minimum semantic detection delay",
+      "expectedCost": "high interruption load"
+    },
+    "fixed60m": {
+      "description": "Surface at most once per 60 minutes while active, plus completion.",
+      "expectedStrength": "simple and source-independent",
+      "expectedCost": "may review stale/wrong hypotheses or delay abrupt falsifiers"
+    },
+    "eventTriggeredV1": {
+      "description": "Surface before completion only when at least one frozen trigger is met.",
+      "triggers": [
+        "goal_or_terminal_value_changes",
+        "new_high_consequence_or_irreversible_effect_requested",
+        "current_frontier_is_materially_falsified_by_new_evidence",
+        "authority_or_operation_identity_becomes_unknown_and_cannot_be_reconciled_locally",
+        "candidate_world_model_promotion_would_change_future_cross_task_behavior",
+        "recovery_requires_new_user_authority_or_resource"
+      ],
+      "nonTriggers": [
+        "ordinary implementation progress",
+        "test_count_increase_without_model_change",
+        "locally_reconcilable transient transport loss",
+        "aesthetic refactor opportunity"
+      ]
+    }
+  },
+  "score": [
+    "preterminal_interruptions",
+    "critical_events_detected",
+    "critical_detection_delay_minutes",
+    "false_escalations",
+    "correction_cost_if_missed"
+  ],
+  "promotionRule": "Do not promote eventTriggeredV1 unless prospective tasks show lower interruption load than checkpoint policy without materially worse critical-event recall/correction cost, and it is not dominated by fixed60m."
+}

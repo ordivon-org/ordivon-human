@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "experiment": "HUMAN-AI-001/R3",
+  "frozenAt": "2026-08-14",
+  "assignmentMethod": "Sort SHA-256(seed + ':' + caseId) ascending; map to [full, selective, conclusion_only]",
+  "seed": "human-ai-r3-v1-20260814",
+  "assignments": {
+    "computing-rf1": "full",
+    "harness-p0": "selective",
+    "runtime-p5": "conclusion_only"
+  },
+  "primaryOutcomes": [
+    "accept_reject_escalate",
+    "seeded_contradiction_detected",
+    "additional_evidence_request_quality_0_2",
+    "review_time_minutes"
+  ],
+  "boundary": "Wave 1 is apparatus/exploratory because case and review condition are confounded. Later waves rotate condition across new cases."
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "experiment": "HUMAN-AI-001/R1",
+  "frozenAt": "2026-08-14",
+  "assignmentMethod": "Sort SHA-256(seed + ':' + caseId) ascending; map to [raw, summary, active_distillation]",
+  "seed": "human-ai-r1-v1-20260814",
+  "cases": [
+    {
+      "caseId": "runtime-p5",
+      "taskId": "task:runtime:rsi-p5-foundation-closeout-20260811",
+      "checkpointRevision": 9,
+      "checkpointDigest": "sha256:e283d718daa44b571d63d7347f392251e9f1699d11df50b8d4da67f287dfc529",
+      "condition": "raw"
+    },
+    {
+      "caseId": "computing-rf1",
+      "taskId": "task:computing:rf0-rf1-research-stopping-20260811",
+      "checkpointRevision": 3,
+      "checkpointDigest": "sha256:6a5ad817a5293ca384adcdbd85d4b228fb057e967901fded57663e6bc0577895",
+      "condition": "summary"
+    },
+    {
+      "caseId": "harness-p0",
+      "taskId": "task:harness:p0-composition-friction-ablation-20260813",
+      "checkpointRevision": 3,
+      "checkpointDigest": "sha256:6db838a0a45d24159a11b53f88cb805bd6e49fd6e395973165e80f463fda58cb",
+      "condition": "active_distillation"
+    }
+  ],
+  "primaryOutcomes": [
+    "human_attention_minutes",
+    "unaided_reconstruction_0_2",
+    "novel_transfer_0_2",
+    "seeded_error_detection_0_2",
+    "aid_removal_or_recovery_reasoning_0_2"
+  ],
+  "interpretationBoundary": "One Human and one case per condition is an exploratory wave, not a causal estimate of format effect. Later waves must rotate conditions across new cases."
+}

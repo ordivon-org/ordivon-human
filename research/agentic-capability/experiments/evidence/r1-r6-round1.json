@@ -1,0 +1,60 @@
+{
+  "experiment": "HUMAN-AI-001/R1-R6-round1",
+  "files": {
+    "R1-R6-ROUND-1.md": "sha256:c2cf36a24b25937557920852ba5b4ec47ed4a43ad945666edb60303d6dcab9e0",
+    "r1-v1/HUMAN-PACKETS.md": "sha256:e8db6a9a35f9fdcf042d06917a2feeb84cd31aaeb4b837100143e2c59cb30363",
+    "r1-v1/SCORING-KEY.md": "sha256:3cc8cf032720cb3733fd4b2bc4c453046f466f679d31841292c3d480e8ae709d",
+    "r1-v1/manifest.json": "sha256:519bd8aecc7323eafebf843c54ddef45635432236a46872c8259355f588b26d8",
+    "r2-v1/CAPABILITY-SURFACES.md": "sha256:11ebc1816d914b3974b12bdaf1ad7c7743afe6b1d4fb329842da9121f55415ff",
+    "r3-v1/HUMAN-AUDIT-PACKETS.md": "sha256:53f9e81ee458cc31ba996dbcaf9e2563eb740c3ef023295469c997e92222c3f7",
+    "r3-v1/SCORING-KEY.md": "sha256:017ed29d564fc53bb768bbed57b6ecad585a6177cbbf8e31e6ed952d45cd6e9f",
+    "r3-v1/manifest.json": "sha256:2bba85fcf9727a99aa7d3ab98d7b35bed046b61bb4b8a2eadb8719dd64de2fb0",
+    "r4-v1/FAILURE-RECOVERY-MATRIX.md": "sha256:015f38eb26463145465594d06aa406a1d8891bf37d01ee828cde35b657799649",
+    "r5-v1/PROSPECTIVE-POLICIES.json": "sha256:dd41f46e475eda464e7181a34463877c44754b2e6d82e866a428cd3099056924",
+    "r5-v1/RETROSPECTIVE.md": "sha256:000e022e477adc79a6fd800550f91a59ce2ce4530bd450591b754f0ae9e35ebf",
+    "r6-v1/FS0-PREFLIGHT.md": "sha256:75bd79dbfa8d6199a1383867f206ab8e5a49f5f6173281e3c693c09a8aefdba5",
+    "r6-v1/HUMAN-PREDICTIONS-WAVE-1.md": "sha256:da04d035b0f13d9cea43b210ab643a3904b5505bfa7ed6d562304e18f6d1726f",
+    "r6-v1/PROTOCOL.json": "sha256:e79168b14ddd6a8a132a7b494323172fd0bafcaaa7a58c8afb0c6642e4d4087e"
+  },
+  "r1Assignment": {
+    "computing-rf1": "summary",
+    "harness-p0": "active_distillation",
+    "runtime-p5": "raw"
+  },
+  "r3Assignment": {
+    "computing-rf1": "full",
+    "harness-p0": "selective",
+    "runtime-p5": "conclusion_only"
+  },
+  "r5": {
+    "aggregate": {
+      "everyCheckpointPreterminal": 10,
+      "fixed60Preterminal": 4,
+      "hindsightEventTriggeredPreterminal": 1,
+      "runtimeP5KnownCriticalDelayFixed60Minutes": 23.1774
+    },
+    "boundary": "event-trigger count is hindsight-labeled hypothesis generation, not prospective evidence",
+    "samples": {
+      "computing-rf1": {
+        "criticalDetectionDelayFixed60Minutes": null,
+        "durationMinutes": 23.9397,
+        "everyCheckpointPreterminal": 1,
+        "fixed60Preterminal": 0
+      },
+      "runtime-p5": {
+        "criticalDetectionDelayFixed60Minutes": 23.1774,
+        "durationMinutes": 183.0714,
+        "everyCheckpointPreterminal": 7,
+        "fixed60Preterminal": 3
+      },
+      "web-chromium": {
+        "criticalDetectionDelayFixed60Minutes": null,
+        "durationMinutes": 77.6428,
+        "everyCheckpointPreterminal": 2,
+        "fixed60Preterminal": 1
+      }
+    }
+  },
+  "schemaVersion": 1,
+  "status": "apparatus_validated_human_endpoints_partial_or_pending"
+}

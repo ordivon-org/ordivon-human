@@ -80,6 +80,46 @@ active research capacity.
 **Falsifier:** a simpler research order consistently produces equally useful,
 safer, and more revisable decisions without the problem-first admission rules.
 
+## Active applied cycle
+
+### HUMAN-AI-001 — Human capability under agentic intelligence
+
+> When an Agent system can search, experiment, code, and execute much faster than
+> a human can learn, what should the human internalize, understand, externalize,
+> or delegate, and how should the joint system preserve judgment, verification,
+> transfer, recovery, and autonomy?
+
+**Status:** active. The first external evidence synthesis is complete; competing
+hypotheses and prospective Human × Ordivon experiments are frozen in
+[`agentic-capability/`](agentic-capability/). No Learning Harness or universal
+allocation policy has been admitted.
+
+**Current retained distinctions:**
+
+1. joint-system output is real capability but is not sufficient evidence of
+   retained independent Human skill;
+2. externalization can improve immediate performance while changing internal
+   encoding or post-removal performance;
+3. AI learning effects depend on interaction policy and target outcome;
+4. delegation must be task- and failure-dependent because AI capability is
+   uneven across apparently similar tasks;
+5. calibration, object-level skill, transfer, verification, and recovery are
+   separate outcomes;
+6. deskilling is a failure mode to measure, not a universal consequence to
+   assume.
+
+**Active problem axes:** learning allocation; capability attribution; judgment
+and calibration; delegation and deskilling; distillation and promotion; error,
+update, and recovery; Human–Agent timescale coordination.
+
+**Falsifiers and experiment contracts:**
+[`agentic-capability/HYPOTHESES.md`](agentic-capability/HYPOTHESES.md) and
+[`agentic-capability/EXPERIMENTS.md`](agentic-capability/EXPERIMENTS.md).
+
+**Next empirical burden:** prospectively frozen Human × Ordivon dogfood that
+separates immediate assisted performance from retained Human transfer,
+verification, intervention, and recovery.
+
 ## Completed applied cycle
 
 ### HUMAN-ECON-001 — Economic autonomy under continuity constraints
@@ -213,11 +253,13 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 ## Inactive candidate problems
 
 Potential future problems include preserving health and functioning across work
-and ageing, increasing learning and adaptation, understanding relational and
-institutional constraints, evaluating retained human capability under AI, and
-studying shock and recovery trajectories.
+and ageing, understanding relational and institutional constraints outside the
+current applied cycles, and studying shock and recovery trajectories.
 
-**Status:** candidates only. None is scheduled work.
+Learning allocation, adaptation, and retained Human capability under AI are no
+longer inactive candidates; they are consumed by active `HUMAN-AI-001`.
+
+**Status:** the remaining items are candidates only. None is scheduled work.
 
 ## Not admitted
 
