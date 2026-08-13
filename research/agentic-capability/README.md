@@ -273,3 +273,10 @@ lower cost.
 Round 1 exposed an over-strong next-action assumption: external Human evidence was being followed too quickly by direct individual-level re-testing. The current authority is [`EVIDENCE-TRANSPORT.md`](EVIDENCE-TRANSPORT.md) and [`CONTRACTION-20260814.md`](CONTRACTION-20260814.md).
 
 The default is now external Human evidence → moderator/transport analysis → Ordivon-specific system falsification → natural dogfood. Direct Human experiments are residual tools only when a decision-changing transport gap remains. R1/R3 direct comparison fixtures and the standing R6 prediction wave are therefore dormant; R2 remains capability accounting, R4 uses natural recovery first, and R5 remains the strongest active system-level experiment.
+
+
+## AE1/C1 structured evidence update
+
+The post-contraction natural-case round is now executable under `experiments/ae1-c1/`. AE1 currently contracts allocation to `representation granularity -> Durability × Future Control Value -> Promotion Evidence Gate`; deleting any of the three parts produces frozen-case errors, and two current-task holdouts have zero mismatches. C1 contracts seven candidate review fields to four semantic roles: `Claim | Evidence | Challenge | Boundary`; all four have historical deletion witnesses and both current-task holdouts preserve the same role set. These are research candidates, not new service/API requirements. Canonical machine receipt: `experiments/evidence/ae1-c1-round1.json`.
+
+Placement refinement: `Boundary` is required information, not necessarily a fourth local packet field. Across all 8 frozen C1 cases plus 2 current-task holdouts, the boundary is supplied by exact Claim scope or an inherited owner/Task/Run contract; `interface-placement.json` therefore retains `Claim | Evidence | Challenge` as packet-owned roles with resolvable Boundary context and explicitly rejects a new local boundary field.

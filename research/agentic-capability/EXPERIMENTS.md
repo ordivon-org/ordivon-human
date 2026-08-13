@@ -270,3 +270,8 @@ See [`EVIDENCE-TRANSPORT.md`](EVIDENCE-TRANSPORT.md). General Human evidence is 
 
 
 **Current priority override:** the Round-1 designs above are frozen fixtures, not an execution queue. Apply the disposition in [`CONTRACTION-20260814.md`](CONTRACTION-20260814.md): external evidence first; Ordivon-specific system questions next; residual experiments only when they can change a real decision. R5 remains active, while R1/R3 fixtures and the standing R6 wave are dormant by default.
+
+
+## AE1/C1 natural evidence
+
+`experiments/ae1-c1/analyze.py` now validates the first post-contraction representation-allocation and compact-review round from exact Host-bound cases plus two current-task holdouts. Machine result: `experiments/evidence/ae1-c1-round1.json`. Future ordinary work supplies the next counterexamples; no new subsystem is admitted.

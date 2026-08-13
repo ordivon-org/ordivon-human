@@ -1,0 +1,137 @@
+{
+  "ae1": {
+    "ablationMismatches": {
+      "withoutControlValue": [
+        "AE-K14"
+      ],
+      "withoutDurability": [
+        "AE-K02",
+        "AE-K06"
+      ],
+      "withoutPromotionGate": [
+        "AE-K15"
+      ]
+    },
+    "allocationCounts": {
+      "external_only": 1,
+      "locator": 2,
+      "mechanism": 5,
+      "stable_core": 7
+    },
+    "baselineMismatches": [],
+    "caseCount": 15,
+    "holdoutCaseCount": 2,
+    "holdoutMismatches": [],
+    "minimalAllocationModel": {
+      "axes": [
+        "durability",
+        "future_control_value"
+      ],
+      "interpretation": "recurrence/transfer/verification/recovery are evidence for control value or promotion maturity; retrievability/currentness helps choose representation granularity; learning cost schedules attention but does not determine semantic destination",
+      "notIndependentTopLevelAxes": [
+        "recurrence",
+        "transfer",
+        "verification_leverage",
+        "recovery_leverage",
+        "external_retrievability",
+        "learning_cost"
+      ],
+      "separateGate": "promotion_evidence_gate",
+      "step0": "choose representation granularity before classifying knowledge"
+    },
+    "multiClassSourceTasks": {
+      "task:computing:hd6-1970-1999-historical-dogfood-20260812": [
+        "mechanism",
+        "stable_core"
+      ],
+      "task:computing:rf0-rf1-research-stopping-20260811": [
+        "external_only",
+        "mechanism"
+      ],
+      "task:harness:p0-composition-friction-ablation-20260813": [
+        "mechanism",
+        "stable_core"
+      ],
+      "task:runtime:rsi-p5-foundation-closeout-20260811": [
+        "locator",
+        "stable_core"
+      ]
+    }
+  },
+  "c1": {
+    "candidateFieldCount": 7,
+    "caseCount": 8,
+    "claimEvidenceChallengeWithoutBoundaryFailures": [
+      "C1-01",
+      "C1-02",
+      "C1-03",
+      "C1-04",
+      "C1-05",
+      "C1-06",
+      "C1-07",
+      "C1-08"
+    ],
+    "compressedRoleCount": 4,
+    "conditionalAttributeFamilies": {
+      "boundary": 15,
+      "challenge": 5,
+      "evidence": 7
+    },
+    "interpretation": "claim/evidence/challenge/boundary are semantic roles, not a mandate for four new top-level fields; roles may be satisfied by existing owner/Run contracts and exact references",
+    "roleDeletionWitnesses": {
+      "boundary": [
+        "C1-01",
+        "C1-02",
+        "C1-03",
+        "C1-04",
+        "C1-05",
+        "C1-06",
+        "C1-07",
+        "C1-08"
+      ],
+      "challenge": [
+        "C1-01",
+        "C1-02",
+        "C1-03",
+        "C1-04",
+        "C1-05",
+        "C1-06",
+        "C1-07",
+        "C1-08"
+      ],
+      "claim": [
+        "C1-01",
+        "C1-02",
+        "C1-03",
+        "C1-04",
+        "C1-05",
+        "C1-06",
+        "C1-07",
+        "C1-08"
+      ],
+      "evidence": [
+        "C1-01",
+        "C1-02",
+        "C1-03",
+        "C1-04",
+        "C1-05",
+        "C1-06",
+        "C1-07",
+        "C1-08"
+      ]
+    },
+    "roles": [
+      "boundary",
+      "challenge",
+      "claim",
+      "evidence"
+    ]
+  },
+  "kind": "human-ai-ae1-c1-round1-analysis",
+  "schemaVersion": 1,
+  "sourceDigests": {
+    "holdout-cases.json": "sha256:2df3fe725790c111933b7ba3dd9fad1a2bb6aa010bf29bbd3bd31d3e85a446ef",
+    "interface-cases.json": "sha256:ca12b3223f1d442b510424297fbf77f68d79bccabad6ff0be74b360f93b4b375",
+    "knowledge-cases.json": "sha256:4c5444dcbfa5e4b8222d4e133f4772f2c2c927aae7dd436634ff97221c407fbe"
+  }
+}

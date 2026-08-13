@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "kind": "human-ai-ae1-knowledge-allocation-cases",
+  "levels": {
+    "durability": ["low", "medium", "high"],
+    "controlValue": ["low", "medium", "high"],
+    "allocation": ["external_only", "locator", "mechanism", "stable_core"]
+  },
+  "promotionGate": {
+    "requiredForStableCore": [
+      "support_maturity_established",
+      "boundary_or_falsifier_explicit",
+      "implementation_independent_representation"
+    ]
+  },
+  "cases": [
+    {
+      "id": "AE-K01",
+      "source": {"taskId": "task:runtime:rsi-p5-foundation-closeout-20260811", "revision": 9, "checkpointDigest": "sha256:e283d718daa44b571d63d7347f392251e9f1699d11df50b8d4da67f287dfc529"},
+      "knowledge": "Observation loss during an effectful operation is not proof of effect failure; reconcile the same operation identity against durable effect/receipt truth before considering retry.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Cross-provider/release/recovery mechanism. Exact effect IDs remain external evidence."
+    },
+    {
+      "id": "AE-K02",
+      "source": {"taskId": "task:runtime:rsi-p5-foundation-closeout-20260811", "revision": 9, "checkpointDigest": "sha256:e283d718daa44b571d63d7347f392251e9f1699d11df50b8d4da67f287dfc529"},
+      "knowledge": "The current production Windows provider is launcher contract V2 with one exact executable digest/path and the current Runtime catalog has a particular tool count.",
+      "durability": "low",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": false},
+      "expectedAllocation": "locator",
+      "notes": "Operationally important but currentness-bound exact truth; Human should know owner/retrieval path, not memorize values."
+    },
+    {
+      "id": "AE-K03",
+      "source": {"taskId": "task:harness:p0-composition-friction-ablation-20260813", "revision": 3, "checkpointDigest": "sha256:6db838a0a45d24159a11b53f88cb805bd6e49fd6e395973165e80f463fda58cb"},
+      "knowledge": "Discovery/explanation projections expose capability truth but do not grant authority; installed, Run-admitted and turn-admitted capability remain distinct.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Repeated Ordivon authority distinction with direct verification value."
+    },
+    {
+      "id": "AE-K04",
+      "source": {"taskId": "task:harness:p0-composition-friction-ablation-20260813", "revision": 3, "checkpointDigest": "sha256:6db838a0a45d24159a11b53f88cb805bd6e49fd6e395973165e80f463fda58cb"},
+      "knowledge": "A shared abstraction should earn retention from materially different real consumers and deletion pressure rather than architectural neatness alone.",
+      "durability": "medium",
+      "controlValue": "medium",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "notes": "Useful engineering prior but threshold/consumer count remains context-dependent."
+    },
+    {
+      "id": "AE-K05",
+      "source": {"taskId": "task:computing:rf0-rf1-research-stopping-20260811", "revision": 3, "checkpointDigest": "sha256:6a5ad817a5293ca384adcdbd85d4b228fb057e967901fded57663e6bc0577895"},
+      "knowledge": "When a complete evidence universe is small and cheap enough for one bounded synthesis, serial Agent-controlled evidence selection can cost more and introduce path dependence; full inspection remains a strong baseline.",
+      "durability": "medium",
+      "controlValue": "medium",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "notes": "Strong conditional prior, explicitly not a universal anti-stopping law."
+    },
+    {
+      "id": "AE-K06",
+      "source": {"taskId": "task:web:chromium-substrate-recovery-20260813", "revision": 4, "checkpointDigest": "sha256:c27a57a7e9970dcf92b1420e0bc7112ebde87d51698293bf4fb5fc05bd13cfe8"},
+      "knowledge": "The current Web Playwright direct runners must normalize TMPDIR/TMP/TEMP to a short writable root before Playwright import/process startup to avoid Chromium Unix-socket path overflow.",
+      "durability": "low",
+      "controlValue": "medium",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": false},
+      "expectedAllocation": "locator",
+      "notes": "Real recovery knowledge, but narrow implementation realization; retain owner/diagnostic location rather than stable-core detail."
+    },
+    {
+      "id": "AE-K07",
+      "source": {"taskId": "task:workstation-nx5-independent-roots-20260812", "revision": 3, "checkpointDigest": "sha256:36c28681fa19ec17e04e3b8c77fbc0684974da9eda2cf45d194d39544b5474da"},
+      "knowledge": "Independence is dimensioned: graph/lifecycle independence does not imply provider, physical-access or carrier independence; claims must name the independence dimension actually proven.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Broadly useful against dependency/ redundancy overclaims."
+    },
+    {
+      "id": "AE-K08",
+      "source": {"taskId": "task:provider-first-resource-harvest-20260813", "revision": 5, "checkpointDigest": "sha256:3ddf9ac54561a6f28e7f41fd3ed23ddb6b90eea865d06409031484d70d8501b2"},
+      "knowledge": "Discover and qualify mature mechanism owners before custom building; adopt only when total ownership wins, keep domain semantics with their owner, and innovate only on residual semantics that survive provider substitution.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Cross-project method with repeated real consumption and explicit non-authority boundary."
+    },
+    {
+      "id": "AE-K09",
+      "source": {"taskId": "task:computing:hd6-1970-1999-historical-dogfood-20260812", "revision": 3, "checkpointDigest": "sha256:146d68956c58920d55e7f6d293d6ae94a15a93105dbe2d97b17b2ca9827ff5f9"},
+      "knowledge": "Recurrence across many cases/epochs earns review eligibility, not law promotion; independent coding, anti-cases, confound pressure and explicit boundaries remain necessary.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Direct guard against confirmation-biased world-model promotion."
+    },
+    {
+      "id": "AE-K10",
+      "source": {"taskId": "task:studio:grounded-meaning-r5-20260811", "revision": 3, "checkpointDigest": "sha256:220ed87830aab3a88d2d0fe1d6b58c7ca16cab704f52cd3956c4f269334c52c5"},
+      "knowledge": "When fine semantic labels have weak granularity/invariance but exact grounding remains strong, retain evidence-addressed propositions/hypotheses with disagreement instead of promoting a brittle closed ontology.",
+      "durability": "medium",
+      "controlValue": "medium",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "notes": "Useful semantic-modeling prior; exact ontology choice remains domain-specific."
+    },
+    {
+      "id": "AE-K11",
+      "source": {"taskId": "task:ordivon:agent-consumption-surface-acs0-acs9-20260813", "revision": 3, "checkpointDigest": "sha256:6d782acef93964f8dfbb6601948ab10d6801b2b45afd1296bbe57837db723675"},
+      "knowledge": "A consumption surface may compress owner-native truth/currentness for Agents, but it must not move authority, semantic strategy, effect ownership or native escape-hatch truth into a central wrapper.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Cross-owner evidence plus negative controls; directly relevant to Human-facing evidence projection."
+    },
+    {
+      "id": "AE-K12",
+      "source": {"taskId": "task:harness:p1-cross-run-knowledge-procedural-capital-20260814", "revision": 3, "checkpointDigest": "sha256:ccf01983eadce409b0439b6c3e4c62fa3ad638dbb94207ebbb465fc87a19e655"},
+      "knowledge": "Reusable cross-Run knowledge/procedures can remain externally owned and enter a Run by exact reference/provenance; presence does not imply current cognition, authority, ranking or canonical promotion.",
+      "durability": "medium",
+      "controlValue": "medium",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "notes": "Harness-local mechanism with broader externalized-knowledge implications."
+    },
+    {
+      "id": "AE-K13",
+      "source": {"taskId": "task:harness-host:rsi-p7-20260811", "revision": 4, "checkpointDigest": "sha256:bc4bea068eece3b8b30aafcc611cf74bb2138b2e0f5c980e9a3aacdf92c5fcd0"},
+      "knowledge": "Compact cognition is non-authoritative: preserve claim to exact evidence address to unresolved discriminator, keep full evidence rehydratable, and separate cognition-state admission from action authority.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "stable_core",
+      "notes": "Direct precursor to C1; negative control rejected productizing the experimental ledger."
+    },
+    {
+      "id": "AE-K14",
+      "source": {"taskId": "task:computing:rf0-rf1-research-stopping-20260811", "revision": 3, "checkpointDigest": "sha256:6a5ad817a5293ca384adcdbd85d4b228fb057e967901fded57663e6bc0577895"},
+      "knowledge": "RF1 used exactly 73 Provider calls and 1,288,342 Provider tokens in its accepted campaign.",
+      "durability": "high",
+      "controlValue": "low",
+      "promotion": {"support_maturity_established": true, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": false},
+      "expectedAllocation": "external_only",
+      "notes": "Immutable historical evidence can be highly durable yet not worth Human memory; retrieve when auditing cost."
+    },
+    {
+      "id": "AE-K15",
+      "source": {"taskId": "task:computing:hd6-1970-1999-historical-dogfood-20260812", "revision": 3, "checkpointDigest": "sha256:146d68956c58920d55e7f6d293d6ae94a15a93105dbe2d97b17b2ca9827ff5f9"},
+      "knowledge": "The repeatedly recurring R1–R8 structures should already be treated as universal laws.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": false, "boundary_or_falsifier_explicit": false, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "notes": "Negative promotion control: recurrence is strong enough to understand/review, but explicit source-bias and no-clean-contradiction concerns block stable-core promotion."
+    }
+  ]
+}

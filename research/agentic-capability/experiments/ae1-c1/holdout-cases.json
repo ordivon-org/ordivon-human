@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "kind": "human-ai-ae1-c1-holdout-cases",
+  "knowledgeCases": [
+    {
+      "id": "AE-H01",
+      "source": {"taskId": "task:semantic-effect-surface-reform-20260814", "revision": 2, "checkpointDigest": "sha256:8f188cc918eeda96ad22cacd2f031b9330a9afe3a857bb0d8556929b527288ff"},
+      "knowledge": "Recurring generic execution paths may deserve narrower typed semantic capabilities when effect contracts and owner boundaries are stable, while domain semantics remain owner-native.",
+      "durability": "high",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": false, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "reason": "The problem is live and structurally important, but aggregation owner and first vertical slice are unresolved; promotion maturity is not established."
+    },
+    {
+      "id": "AE-H02",
+      "source": {"taskId": "task:harness:p2-programmatic-tool-composition-20260814", "revision": 3, "checkpointDigest": "sha256:4a0ef24112d7350909aae919b850fd607184ee8674158d55a2fb02be9c643b9a"},
+      "knowledge": "Programmatic Tool composition recovery must recognize completed durable effects from Intent/Receipt even when observation content is unavailable, and must not infer step zero or redispatch from missing observation content.",
+      "durability": "medium",
+      "controlValue": "high",
+      "promotion": {"support_maturity_established": false, "boundary_or_falsifier_explicit": true, "implementation_independent_representation": true},
+      "expectedAllocation": "mechanism",
+      "reason": "A real restart falsifier supports the boundary, but P2 remains active and the final evidence-aware recovery design is unresolved."
+    }
+  ],
+  "interfaceCases": [
+    {
+      "id": "C1-H01",
+      "source": {"taskId": "task:semantic-effect-surface-reform-20260814", "revision": 2, "checkpointDigest": "sha256:8f188cc918eeda96ad22cacd2f031b9330a9afe3a857bb0d8556929b527288ff"},
+      "candidateConclusion": "Repeated generic execution friction means Runtime should absorb Finance and Workstation semantics into one central typed capability layer.",
+      "decisiveDiscriminator": "The live Task explicitly preserves Finance financial semantics and Workstation physical egress ownership; aggregation owner and reusable abstraction remain unresolved.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"]
+    },
+    {
+      "id": "C1-H02",
+      "source": {"taskId": "task:harness:p2-programmatic-tool-composition-20260814", "revision": 3, "checkpointDigest": "sha256:4a0ef24112d7350909aae919b850fd607184ee8674158d55a2fb02be9c643b9a"},
+      "candidateConclusion": "After restart, absent Tool observation content means no prior step is proven complete, so recovery can restart from step zero.",
+      "decisiveDiscriminator": "Metadata-only privacy preserves exact durable ToolStep Intent/Receipt even when observationObjectDigest is null; those receipts prove completed effects and require recovery-required/content-unavailable rather than redispatch.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"]
+    }
+  ]
+}

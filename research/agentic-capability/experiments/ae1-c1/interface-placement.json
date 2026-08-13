@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "kind": "human-ai-c1-boundary-placement",
+  "rule": "boundary information must be available at review time but need not be duplicated into a new local field when exact claim scope or an inherited owner/Task/Run contract already owns it",
+  "placements": [
+    {"caseId": "C1-01", "provider": "exact_source_contract"},
+    {"caseId": "C1-02", "provider": "exact_source_contract"},
+    {"caseId": "C1-03", "provider": "exact_source_contract"},
+    {"caseId": "C1-04", "provider": "claim_scope"},
+    {"caseId": "C1-05", "provider": "exact_source_contract"},
+    {"caseId": "C1-06", "provider": "exact_source_contract"},
+    {"caseId": "C1-07", "provider": "exact_source_contract"},
+    {"caseId": "C1-08", "provider": "exact_source_contract"},
+    {"caseId": "C1-H01", "provider": "exact_source_contract"},
+    {"caseId": "C1-H02", "provider": "exact_source_contract"}
+  ],
+  "allowedProviders": ["claim_scope", "exact_source_contract"],
+  "newLocalBoundaryFieldRequired": false
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "kind": "human-ai-ae1-c1-closeout",
+  "date": "2026-08-14",
+  "analysisJobId": "job-019ffcd1-5c96-7280-b8db-457533de1eeb",
+  "analysisScriptDigest": "sha256:51e9d47b88e9117a23914fe78901792571903b11e92b7b279ac34b915d39fa96",
+  "analysisReceiptDigest": "sha256:e454b7498bf53bf3b7ba55e7db1e16edeaf6daf6d338ec9f082f93d03bb5e85b",
+  "boundaryPlacementDigest": "sha256:a2bad94aeae83562de3b9163f2a526eb4c041793e4817cd5ca6178052078d7eb",
+  "ae1": {
+    "candidate": "representation granularity -> durability x future control value -> promotion evidence gate",
+    "frozenCases": 15,
+    "holdoutCases": 2,
+    "holdoutMismatches": 0,
+    "deletionFalsifiers": {
+      "durability": ["AE-K02", "AE-K06"],
+      "futureControlValue": ["AE-K14"],
+      "promotionEvidenceGate": ["AE-K15"]
+    }
+  },
+  "c1": {
+    "informationRoles": ["claim", "evidence", "challenge", "boundary"],
+    "packetOwnedCore": ["claim", "evidence", "challenge"],
+    "boundaryContext": "required but may be supplied by exact claim scope or inherited owner/Task/Run contract",
+    "newLocalBoundaryFieldRequired": false,
+    "frozenCases": 8,
+    "holdoutCases": 2
+  },
+  "admission": {
+    "newService": false,
+    "newRegistry": false,
+    "newScoringSystem": false,
+    "nextEvidence": "natural future Ordivon allocation/review decisions plus existing R5 prospective timescale observation"
+  }
+}

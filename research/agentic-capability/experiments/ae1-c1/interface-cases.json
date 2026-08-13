@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "kind": "human-ai-c1-evidence-interface-cases",
+  "candidateFields": [
+    "claim_scope",
+    "evidence_address_currentness",
+    "counterevidence",
+    "unresolved_discriminator",
+    "authority_effect_reversibility",
+    "source_or_comparator_independence",
+    "applicability_transport_boundary"
+  ],
+  "compressedRoles": {
+    "claim": ["claim_scope"],
+    "evidence": ["evidence_address_currentness", "source_or_comparator_independence"],
+    "challenge": ["counterevidence", "unresolved_discriminator"],
+    "boundary": ["authority_effect_reversibility", "applicability_transport_boundary"]
+  },
+  "cases": [
+    {
+      "id": "C1-01",
+      "source": {"taskId": "task:runtime:rsi-p5-foundation-closeout-20260811", "revision": 9, "checkpointDigest": "sha256:e283d718daa44b571d63d7347f392251e9f1699d11df50b8d4da67f287dfc529"},
+      "candidateConclusion": "Runtime self-replacement transport loss means the release failed and a fresh release identity should be issued.",
+      "decisiveDiscriminator": "Reconcile the same structured effect through authoritative release receipt/release.get; exact replay returned the same effect/job/receipt with no duplicate physical deployment.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["evidence.currentness", "evidence.operation_identity", "boundary.effect_identity", "boundary.reversibility"]
+    },
+    {
+      "id": "C1-02",
+      "source": {"taskId": "task:web:chromium-substrate-recovery-20260813", "revision": 4, "checkpointDigest": "sha256:c27a57a7e9970dcf92b1420e0bc7112ebde87d51698293bf4fb5fc05bd13cfe8"},
+      "candidateConclusion": "A kernel RTNL deadlock is the current root cause of Chromium failure.",
+      "decisiveDiscriminator": "Bounded ip/route/ss probes returned immediately; Chromium emitted an exact socket-path-too-long fatal and a short-temp Playwright control-plane probe succeeded.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["challenge.counterevidence", "challenge.discriminator", "boundary.owner_scope"]
+    },
+    {
+      "id": "C1-03",
+      "source": {"taskId": "task:computing:rf0-rf1-research-stopping-20260811", "revision": 3, "checkpointDigest": "sha256:6a5ad817a5293ca384adcdbd85d4b228fb057e967901fded57663e6bc0577895"},
+      "candidateConclusion": "Progressive stopping is efficient because it had zero false early stops and is selective in principle.",
+      "decisiveDiscriminator": "There were zero autonomous early stops: 8/8 consumed 6/6 windows; progressive agreed 6/8 versus one-shot full evidence 8/8 and cost about 2.3x tokens/2.8x Provider time.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["evidence.comparator_independence", "boundary.applicability", "boundary.cost_baseline"]
+    },
+    {
+      "id": "C1-04",
+      "source": {"taskId": "task:workstation-nx5-independent-roots-20260812", "revision": 3, "checkpointDigest": "sha256:36c28681fa19ec17e04e3b8c77fbc0684974da9eda2cf45d194d39544b5474da"},
+      "candidateConclusion": "Two current graph roots establish independent physical/provider network roots.",
+      "decisiveDiscriminator": "Both roots shared Surfshark and the same observed gateway/MAC; only graph/lifecycle independence was proven, while physical/provider independence was false and carrier independence unknown.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["evidence.currentness", "boundary.claim_dimension", "boundary.unknown_scope"]
+    },
+    {
+      "id": "C1-05",
+      "source": {"taskId": "task:harness:p0-composition-friction-ablation-20260813", "revision": 3, "checkpointDigest": "sha256:6db838a0a45d24159a11b53f88cb805bd6e49fd6e395973165e80f463fda58cb"},
+      "candidateConclusion": "Generated capability discovery/explain should become a global registry or grant authority because it reduces composition friction.",
+      "decisiveDiscriminator": "The treatment won while preserving source-owned installed/Run/turn authority separation; stable API expansion, global registry and second CompositionSpec were rejected, and the specialized seam was retained only after a third real consumer.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["boundary.authority_owner", "boundary.abstraction_scope", "challenge.rejected_rivals"]
+    },
+    {
+      "id": "C1-06",
+      "source": {"taskId": "task:computing:hd6-1970-1999-historical-dogfood-20260812", "revision": 3, "checkpointDigest": "sha256:146d68956c58920d55e7f6d293d6ae94a15a93105dbe2d97b17b2ca9827ff5f9"},
+      "candidateConclusion": "Six-epoch recurrence of R1–R8 is enough to promote them as universal laws.",
+      "decisiveDiscriminator": "Independent exact agreement was only 53.3% before scaffold ablation, source-template bias was measurable, anti-cases narrowed claims, no clean contradiction increases confirmation-bias pressure, and the frozen protocol explicitly keeps recurrence at review eligibility only.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["evidence.source_independence", "challenge.confirmation_bias", "boundary.promotion_scope", "boundary.transport"]
+    },
+    {
+      "id": "C1-07",
+      "source": {"taskId": "task:studio:grounded-meaning-r5-20260811", "revision": 3, "checkpointDigest": "sha256:220ed87830aab3a88d2d0fe1d6b58c7ca16cab704f52cd3956c4f269334c52c5"},
+      "candidateConclusion": "High grounding rates justify promoting the closed discourse/speech/crossmodal label vocabularies as stable semantic truth.",
+      "decisiveDiscriminator": "Fine-label accuracy/invariance and replicate agreement degraded on controlled variants even while grounding stayed high; evidence-addressed propositions were retained and closed taxonomies were rejected or narrowed.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["evidence.replicate_independence", "challenge.disagreement", "boundary.observer_outcome_class", "boundary.semantic_granularity"]
+    },
+    {
+      "id": "C1-08",
+      "source": {"taskId": "task:ordivon:agent-consumption-surface-acs0-acs9-20260813", "revision": 3, "checkpointDigest": "sha256:6d782acef93964f8dfbb6601948ab10d6801b2b45afd1296bbe57837db723675"},
+      "candidateConclusion": "Because compiled Agent surfaces reduce fresh-Agent friction, Ordivon should standardize every owner behind one universal AgentSurfaceManifest/router.",
+      "decisiveDiscriminator": "Owner-native currentness/wrong-wrapper tests retained heterogeneous narrow surfaces, left positive-control owners unchanged, and explicitly rejected a universal manifest, global router/scheduler and moved authority.",
+      "requiredRoles": ["claim", "evidence", "challenge", "boundary"],
+      "conditionalAttributes": ["evidence.cross_model_comparison", "boundary.owner_scope", "boundary.native_escape_hatch"]
+    }
+  ]
+}
