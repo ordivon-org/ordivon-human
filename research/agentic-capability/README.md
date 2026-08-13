@@ -266,3 +266,10 @@ The cycle can close without implementing a new platform. A `Human Learning
 Harness` is admitted only if repeated experiments expose a persistent problem
 that existing Human, Host, Harness, and ordinary learning tools cannot solve at
 lower cost.
+
+
+## Post-Round-1 contraction — evidence transport first
+
+Round 1 exposed an over-strong next-action assumption: external Human evidence was being followed too quickly by direct individual-level re-testing. The current authority is [`EVIDENCE-TRANSPORT.md`](EVIDENCE-TRANSPORT.md) and [`CONTRACTION-20260814.md`](CONTRACTION-20260814.md).
+
+The default is now external Human evidence → moderator/transport analysis → Ordivon-specific system falsification → natural dogfood. Direct Human experiments are residual tools only when a decision-changing transport gap remains. R1/R3 direct comparison fixtures and the standing R6 prediction wave are therefore dormant; R2 remains capability accounting, R4 uses natural recovery first, and R5 remains the strongest active system-level experiment.

@@ -38,3 +38,8 @@ cases, test deleting the more burdensome one.
 strong joint-system capability but does not, by itself, identify the other five
 surfaces. R2 therefore rejects any attempt to back-fill those values from project
 success.
+
+
+## Contraction status
+
+R2 remains a **support-condition accounting model**. Record a surface when ordinary work exposes it or when a live delegation/recovery decision depends on it. Do not create additional observations solely to complete the matrix.

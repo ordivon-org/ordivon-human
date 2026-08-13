@@ -74,3 +74,8 @@ No supporting evidence is shown in this condition.
 
 **Human task:** `ACCEPT`, `REJECT`, or `ESCALATE`. State what evidence you would
 request before allowing another external effect.
+
+
+## Contraction status
+
+This packet is a **dormant fixture**. Candidate review surfaces should first be attacked using external human-factors constraints, historical Ordivon failures, and adversarial model/system replay. Reopen only if those layers leave a decision-changing interface uncertainty.

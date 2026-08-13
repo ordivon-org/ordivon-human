@@ -114,3 +114,10 @@ map mechanisms, not to inflate causal certainty.
 
 New evidence enters only when it can change a competing hypothesis, an experiment
 contract, or a decision about Human–Agent allocation.
+
+
+## Evidence transport rule added after Round 1
+
+The purpose of this evidence base is no longer to identify what should automatically be re-tested in one Human×Ordivon case. For population-typical Human mechanisms, credible external evidence is the default prior. The next research burden is to identify **where transport stops**: known moderators, materially different task/support structures, Ordivon-specific failure semantics, or repeated natural contradiction.
+
+A direct residual experiment is admitted only when that remaining uncertainty can change a real policy and cannot be resolved by structural analysis or natural dogfood. See [`EVIDENCE-TRANSPORT.md`](EVIDENCE-TRANSPORT.md).

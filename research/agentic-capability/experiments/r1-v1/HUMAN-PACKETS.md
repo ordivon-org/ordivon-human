@@ -179,3 +179,8 @@ Without rereading the sections above, answer:
 5. Name one falsifier that would make the retained projection insufficient.
 
 Record approximate reading + response time before consulting any answer key.
+
+
+## Contraction status
+
+This packet is a **dormant fixture**, not a current request for Human completion. Reopen only if a decision-changing Ordivon-specific learning-format uncertainty survives external learning evidence, knowledge-allocation analysis, and natural later use.

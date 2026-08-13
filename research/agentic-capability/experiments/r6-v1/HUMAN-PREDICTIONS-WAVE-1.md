@@ -62,3 +62,8 @@ Three forecasts are not enough to infer stable Human calibration. They seed a
 series. Use Brier-style scoring only after comparable binary events accumulate;
 preserve causal reason quality and update behavior separately from the numeric
 score.
+
+
+## Contraction status
+
+`H6-01..03` remain frozen historical apparatus but are **not an active prediction request**. Do not collect probabilities merely to populate a calibration series. Reopen a forecast only when the underlying decision independently earns a record under R6 admission rules.

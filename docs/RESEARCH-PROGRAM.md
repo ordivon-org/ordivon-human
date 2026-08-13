@@ -219,3 +219,12 @@ a mature source already answers the question, or implementation and governance
 cost exceed expected information gain.
 
 There is no automatic E10, H1, M1, or platform milestone.
+
+
+## HUMAN-AI-001 evidence-transport contraction — 2026-08-14
+
+The earlier prospective Human×Ordivon wording is superseded by the Round-1 contraction. `HUMAN-AI-001` now adopts mature external Human evidence as the default prior for general mechanisms and concentrates active empirical work on Ordivon-specific transport boundaries: knowledge allocation/promotion, evidence-interface design, natural recovery incidents, and R5 timescale coordination.
+
+The frozen R1/R3 fixtures and standing R6 prediction wave are retained as research apparatus but are not an execution queue. Additional direct experiments are admitted only when external evidence, structural analysis, and natural dogfood leave a decision-changing residual.
+
+See [`../research/agentic-capability/EVIDENCE-TRANSPORT.md`](../research/agentic-capability/EVIDENCE-TRANSPORT.md) and [`../research/agentic-capability/CONTRACTION-20260814.md`](../research/agentic-capability/CONTRACTION-20260814.md).

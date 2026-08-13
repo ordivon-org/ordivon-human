@@ -202,3 +202,10 @@ See [`docs/PRIVACY-AND-ETHICS.md`](docs/PRIVACY-AND-ETHICS.md) and
 
 Apache License 2.0. Research sources retain their original licences and citation
 requirements.
+
+
+## HUMAN-AI-001 evidence-transport update — 2026-08-14
+
+The earlier `prospectively frozen Human × Ordivon dogfood` wording is superseded by the evidence-first contraction. General Human mechanisms should first consume the external evidence base; active Ordivon work now targets the transport residuals that external studies do not answer. The frozen R1/R3 fixtures and standing R6 prediction wave are not default next actions; R5 timescale coordination remains active, while R2/R4 use decision-linked and natural evidence first.
+
+See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-capability/CONTRACTION-20260814.md).

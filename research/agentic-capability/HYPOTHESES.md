@@ -220,3 +220,12 @@ use in experiments:
 4. **calibration, object-level skill, transfer, and recovery are separate outcomes.**
 
 Everything more specific remains defeasible.
+
+
+## Post-Round-1 hypothesis contraction
+
+The hypotheses above remain useful, but their **validation burden is reclassified**. General claims about retrieval, offloading, metacognitive feedback, automation failure, and jagged AI capability should consume the external evidence base rather than default to individual replication.
+
+The main Ordivon-specific hypotheses now carrying empirical burden are: A1 at the **knowledge-allocation** boundary rather than a learning-format contest; C1 at the **evidence-interface** boundary; D1 through **natural recovery incidents**; E1 at the **promotion-policy** boundary; and G1 through the already frozen **timescale coordination** experiment. F1 is an optional instrument for selected resolvable decisions, not a standing forecast program.
+
+See [`EVIDENCE-TRANSPORT.md`](EVIDENCE-TRANSPORT.md) and [`CONTRACTION-20260814.md`](CONTRACTION-20260814.md).

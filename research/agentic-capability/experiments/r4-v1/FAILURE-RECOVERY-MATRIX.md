@@ -40,3 +40,8 @@ attempt record whether they can:
 show that recovery needs boundary/evidence reasoning, but they do not prove how
 much of that substrate the Human currently retains or how much practice is worth
 maintaining.
+
+
+## Contraction status
+
+Use these validated failure classes as a map for **natural recovery evidence**. They do not create a requirement to manufacture extra perturbations. Add a dedicated recovery experiment only if real incidents leave a consequential substrate question unresolved.

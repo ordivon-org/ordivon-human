@@ -92,3 +92,17 @@ scoring keys. The same responses can populate R1 reconstruction/transfer, R2
 capability surfaces, R3 audit quality, and R4 intervention probes. Separately,
 freeze a small R6 prediction set before R5/R1–R4 outcomes are known. No new Human
 Learning Harness is justified by apparatus construction alone.
+
+
+## Post-round contraction disposition
+
+The `Next empirical action` above is no longer active. After auditing evidence transport, Round 1 is retained as a valid frozen apparatus but **not a mandatory direct-Human testing sequence**.
+
+- R1 direct treatment comparison: dormant unless an Ordivon-specific format residual survives external evidence and natural use.
+- R2: retain capability distinctions as accounting surfaces; do not manufacture a scorecard.
+- R3 direct Human review comparison: dormant; test evidence surfaces with historical failures and adversarial replay first.
+- R4: observe natural recovery incidents first.
+- R5: remains active as an Ordivon-specific system-policy experiment.
+- R6 standing prediction wave: not admitted; forecasts are optional only for independently consequential, resolvable decisions.
+
+See [`../CONTRACTION-20260814.md`](../CONTRACTION-20260814.md).

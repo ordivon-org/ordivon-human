@@ -272,3 +272,10 @@ longer inactive candidates; they are consumed by active `HUMAN-AI-001`.
 - a portfolio optimizer or behavioural surveillance platform;
 - a digital twin claiming complete predictive fidelity;
 - infrastructure whose existence is its only evidence of value.
+
+
+## HUMAN-AI-001 evidence-transport update — 2026-08-14
+
+The earlier `Next empirical burden` wording is superseded by the evidence-transport audit. Mature external Human evidence is the default prior for general mechanisms. Active work should first target Ordivon-specific transport residuals through structural analysis, adversarial/system replay, natural failure evidence, and the R5 prospective timescale comparison. Additional direct experiments are residual rather than default.
+
+Canonical update: [`agentic-capability/CONTRACTION-20260814.md`](agentic-capability/CONTRACTION-20260814.md).
