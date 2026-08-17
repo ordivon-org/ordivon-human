@@ -1029,7 +1029,45 @@ rather than another motor-control taxonomy.
 
 ---
 
-# 28. Source-level synthesis
+# 28. Primary verification addendum
+
+## Maslovat et al. (2011) — prepared movement and StartReact
+
+- PMID: 21280935
+- DOI: 10.1037/a0022567
+- Use: after practice, a startling acoustic stimulus could trigger already prepared
+  sequential movements at short latency, strengthening the empirical separation of
+  preparation from ordinary initiation/release latency.
+
+## bimanual goal-equivalent variability
+
+- PMID: 16968684
+- PMCID: PMC2253686
+- DOI: 10.3200/JMBR.38.5.383-404
+- Use: bimanual circle-drawing variance can be partitioned into goal-equivalent and
+  non-goal-equivalent components, directly supporting the claim that structured
+  coordination variability is not undifferentiated noise.
+
+## spontaneous interpersonal synchrony
+
+- PMID: 36852275
+- PMCID: PMC9958360
+- Use: unconstrained face-to-face participants showed spontaneous cross-person
+  movement synchrony under visual contact without being instructed to pursue a
+  shared motor goal. This is a strong HF12-boundary falsifier:
+  `BehavioralSynchrony != SharedGoal by definition`.
+
+### HF11 inference
+
+```text
+MotorPreparation != ordinary initiation latency
+GoalEquivalentVariability != Noise
+BehavioralSynchrony != SharedGoal by definition
+```
+
+---
+
+# 29. Source-level synthesis
 
 The strongest surviving distinctions are:
 
