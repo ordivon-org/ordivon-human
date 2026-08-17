@@ -47,16 +47,18 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF17 complete
+## Human Foundations — active programme; HF0–HF18 first cycle complete/frozen
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action/execution. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing/bearer scope. HF16 reconstructs population/temporal aggregation. HF17 reconstructs collective normative choice: preference/judgment/reason, pluralism/comparability, moral uncertainty, social choice/voting/judgment aggregation, agenda/strategy, rights/minority constraints, representation, expertise, deliberation, AI mediation, legitimacy and robust revision. It exposes strategic implementation under incentives/private information as the next boundary.
+HF0 establishes projection/coordinate discipline; HF1 typed identity; HF2 experience/evidence; HF3 attention/access/metacognition; HF4 goals/value/motivation; HF5 organismic regulation; HF6 persistent change; HF7 memory; HF8 representation/knowledge/understanding; HF9 reasoning/causality; HF10 decision/planning; HF11 situated action; HF12 relational multi-agent action; HF13 persistent social order; HF14 normative evaluation; HF15 moral standing/scope; HF16 population/temporal aggregation; HF17 collective normative choice; and HF18 strategic implementation under private information/incentives. HF18 separates mechanism from social choice/institution, solution concepts and IC/IR/efficiency/budget/legitimacy, auctions/bargaining/matching/markets, public goods/commons, adverse selection/moral hazard, principal-agent contracts, collusion/Sybil robustness and strategic AI participation.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md`](../research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md).
+Current completed round: [`../research/foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md`](../research/foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md).
+First-cycle closeout/handoff: [`../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
+Exact deferred frontier: **HF19 — Work, Production, Specialization, Firms, Ownership, Capital, Technology and Economic Organization**. Do not rerun HF0–HF18 without a concrete `FoundationReopenCondition`.
 
 ## Current applied cycles
 

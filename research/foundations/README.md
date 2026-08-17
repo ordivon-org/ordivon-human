@@ -75,6 +75,10 @@ related:
   - human.foundations.hf17
   - human.foundations.hf17.sources
   - human.foundations.hf17.continuation
+  - human.foundations.hf18
+  - human.foundations.hf18.sources
+  - human.foundations.hf18.continuation
+  - human.foundations.hf0-hf18.closeout
   - human.h0.atlas
   - human.questions
 ---
@@ -258,17 +262,30 @@ replication without selecting one population axiology by fiat.
 
 [`HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md`](HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md)
 reconstructs collective normative choice without treating majority, consensus,
-expertise, deliberation or AI mediation as truth/legitimacy by definition. It
-separates preference/judgment/reason, pluralism/comparability, moral uncertainty,
-social/voting/judgment aggregation, strategic manipulation, agenda, rights/minority
-constraints, representation, expertise/authority, deliberation, AI mediation,
-legitimacy, robustness and revision.
+expertise, deliberation or AI mediation as truth/legitimacy by definition.
+
+### HF18 — Incentives, Mechanism Design, Private Information, Bargaining, Public Goods, Commons, Markets and Strategic Implementation
+
+[`HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md`](HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md)
+reconstructs strategic implementation under private information/incentives. It
+separates type/message/action, mechanism/social choice, solution concepts and
+IC/IR/efficiency/budget/legitimacy; auctions/VCG/trade, bargaining, matching/markets,
+public goods/commons, adverse selection/moral hazard, principal-agent contracts,
+collusion/Sybil/false-name behavior and strategic Human/AI participation.
+
+## HF0–HF18 cycle closeout
+
+[`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md)
+is the compact canonical index for the completed first Human Foundations cycle. It
+contains the cross-round conceptual map, durable firewalls, reopen conditions and
+fresh-conversation protocol; consumers should use it instead of rereading all prior
+rounds by default.
 
 ## Current continuation
 
-HF17 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF17-CONTINUATION.md`](HF17-CONTINUATION.md) selects **HF18 — Incentives,
-Mechanism Design, Private Information, Bargaining, Public Goods, Commons, Markets and
-Strategic Implementation** because a legitimate collective-choice rule does not by
-itself elicit truthful private information, align participation/compliance incentives,
-prevent free-riding or implement the selected outcome as an equilibrium.
+HF18 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF18-CONTINUATION.md`](HF18-CONTINUATION.md) selects **HF19 — Work, Production,
+Specialization, Firms, Ownership, Capital, Technology and Economic Organization**
+because allocation and incentive-compatible implementation do not reconstruct how
+work/technology/capital/ownership/organization create and transform the feasible set.
+HF19 is intentionally deferred to a fresh conversation.

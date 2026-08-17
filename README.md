@@ -216,23 +216,8 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF17 are complete. HF0 establishes question-relative Human projections. HF1
-separates identity and extension. HF2 separates experience from state/evidence.
-HF3 separates attention/access/working memory/metacognition/control. HF4 separates
-goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
-regulation. HF6 reconstructs persistent change. HF7 reconstructs memory/retention/
-retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/
-understanding. HF9 reconstructs inference/reasoning/causality/problem solving.
-HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action.
-HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social
-order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing and
-bearer scope. HF16 reconstructs population/temporal aggregation. HF17 reconstructs
-collective normative choice across preference/judgment/reason, social choice,
-voting/strategy, rights, representation, expertise, deliberation, AI mediation,
-legitimacy and robust revision.
+HF0–HF18 first-cycle foundations are complete/frozen. HF0 establishes question-relative Human projections; HF1 typed identity; HF2 experience/evidence; HF3 attention/access/metacognition; HF4 goals/value/motivation; HF5 organismic regulation; HF6 persistent change; HF7 memory; HF8 representation/knowledge/understanding; HF9 reasoning/causality; HF10 decision/planning; HF11 situated action; HF12 relational multi-agent action; HF13 persistent social order; HF14 normative evaluation; HF15 moral standing/scope; HF16 population/temporal aggregation; HF17 collective normative choice; HF18 strategic implementation under private information/incentives.
 
-The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
-and the current completed round is
-[`research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md`](research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md).
-HF17 exposes—rather than pre-plans—HF18: Incentives, Mechanism Design, Private
-Information, Bargaining, Public Goods, Commons, Markets and Strategic Implementation.
+The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md), the current completed round is [`research/foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md`](research/foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md), and the compact cycle handoff is [`research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
+
+HF18 exposes—rather than pre-plans—HF19: Work, Production, Specialization, Firms, Ownership, Capital, Technology and Economic Organization. HF19 is intentionally deferred to a fresh conversation; do not rerun HF0–HF18 without a concrete FoundationReopenCondition.

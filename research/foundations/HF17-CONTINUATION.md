@@ -4,7 +4,7 @@ id: human.foundations.hf17.continuation
 title: Human Foundations Continuation after HF17
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -787,3 +787,11 @@ HF17 does not establish that:
 
 Do not schedule HF19 now. HF18 must expose a repeated neighboring distinction across
 materially different mechanism/allocation/implementation cases.
+
+## Supersession — HF18 complete
+
+HF18 has completed the strategic-implementation boundary selected here. Current
+continuation is owned by [`HF18-CONTINUATION.md`](HF18-CONTINUATION.md), with the
+first-cycle compact index in
+[`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
+This file remains the canonical record of why HF18 emerged from HF17.
