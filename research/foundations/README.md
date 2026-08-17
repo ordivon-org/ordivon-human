@@ -60,6 +60,9 @@ related:
   - human.foundations.hf12
   - human.foundations.hf12.sources
   - human.foundations.hf12.continuation
+  - human.foundations.hf13
+  - human.foundations.hf13.sources
+  - human.foundations.hf13.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -206,19 +209,24 @@ and Human×AI execution/override.
 ### HF12 — Social Interaction, Joint Action, Communication, Shared Goals, Roles and Cooperation
 
 [`HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md`](HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md)
-reconstructs relational multi-agent action. It separates co-presence/influence from
-reciprocal interaction, synchrony/coordination from joint action, identical
-individual goals from shared goals/joint commitment, transmission from
-communication/grounding/repair, common ground from identical knowledge, roles from
-subtasks/authority/responsibility, cooperation from coordination/prosociality,
-trust from reliance/dependence, aggregation from interaction synergy/joint
-capability, and Human×AI tool/delegation/supervision from teaming.
+reconstructs relational multi-agent action: reciprocal interaction, joint action/
+shared goals, communication/common ground/repair, roles, cooperation/competition,
+trust/dependence, joint agency/capability and Human×AI teaming.
+
+### HF13 — Social Norms, Conventions, Reputation, Status, Authority, Power, Sanctions and Institutions
+
+[`HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md`](HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md)
+reconstructs persistent social order beyond current dyadic state. It separates
+regularity/convention, actual frequency/empirical expectation/normative expectation/
+personal normative belief, social norm/rule/law, direct history/reputation/
+credential/stereotype, status/prestige/dominance/expertise/influence, de facto
+power/de jure authority/perceived legitimacy, sanction/enforcement, office/
+organization/institution/infrastructure and Human×AI institutional execution.
 
 ## Current continuation
 
-HF12 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF12-CONTINUATION.md`](HF12-CONTINUATION.md) selects **HF13 — Social Norms,
-Conventions, Reputation, Status, Authority, Power, Sanctions and Institutions**
-because persistent social order can precede and outlive current interactions,
-coordinate strangers, travel through third parties/networks, constrain options and
-persist across member turnover.
+HF13 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF13-CONTINUATION.md`](HF13-CONTINUATION.md) selects **HF14 — Morality, Harm,
+Welfare, Fairness, Justice, Rights, Duties, Responsibility and Legitimacy** because
+social prevalence, expectation, enforcement, legal validity, power and perceived
+legitimacy cannot determine what ought to be done or what is normatively justified.

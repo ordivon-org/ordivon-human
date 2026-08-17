@@ -216,7 +216,7 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF12 are complete. HF0 establishes question-relative Human projections. HF1
+HF0–HF13 are complete. HF0 establishes question-relative Human projections. HF1
 separates identity and extension. HF2 separates experience from state/evidence.
 HF3 separates attention/access/working memory/metacognition/control. HF4 separates
 goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
@@ -224,12 +224,13 @@ regulation. HF6 reconstructs persistent change. HF7 reconstructs memory/retentio
 retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/
 understanding. HF9 reconstructs inference/reasoning/causality/problem solving.
 HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action.
-HF12 reconstructs relational multi-agent action: reciprocal interaction, joint
-action/shared goals, communication/common ground/repair, roles, cooperation/
-competition, trust/dependence, joint agency/capability and Human×AI teaming.
+HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social
+order: convention/norm/expectation, reputation, status/prestige/dominance,
+power/authority/legitimacy, sanctions, rules/law, offices/organizations/institutions
+and Human×AI institutional execution.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md`](research/foundations/HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md).
-HF12 exposes—rather than pre-plans—HF13: Social Norms, Conventions, Reputation,
-Status, Authority, Power, Sanctions and Institutions.
+[`research/foundations/HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md`](research/foundations/HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md).
+HF13 exposes—rather than pre-plans—HF14: Morality, Harm, Welfare, Fairness, Justice,
+Rights, Duties, Responsibility and Legitimacy.

@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF12 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF13 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs realized situated action. HF12 reconstructs relational multi-agent action by separating reciprocal interaction, joint action/shared goals, communication/common ground/repair, roles, cooperation/competition, trust/dependence, joint agency/capability and Human×AI teaming.
+HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs realized situated action. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order by separating convention/norm/expectation, reputation, status/prestige/dominance, power/authority/legitimacy, sanctions, law/rules, offices/organizations/institutions and Human×AI institutional enforcement.
 
 **Current completed round:**
-[`foundations/HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md`](foundations/HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md).
+[`foundations/HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md`](foundations/HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md).
 
-**Exact next boundary:** `HF13 — Social Norms, Conventions, Reputation, Status, Authority, Power, Sanctions and Institutions`, selected because HF12 explains current relational multi-agent action but not persistent social order that precedes/outlives current interaction, travels through networks/third parties and constrains strangers through conventions, reputation, authority, sanctions and institutions.
+**Exact next boundary:** `HF14 — Morality, Harm, Welfare, Fairness, Justice, Rights, Duties, Responsibility and Legitimacy`, selected because HF13 can explain what society does, expects, enforces, legally recognizes or can compel but cannot infer what ought to be done or what is normatively justified.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially
