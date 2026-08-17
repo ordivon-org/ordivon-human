@@ -54,6 +54,9 @@ related:
   - human.foundations.hf10
   - human.foundations.hf10.sources
   - human.foundations.hf10.continuation
+  - human.foundations.hf11
+  - human.foundations.hf11.sources
+  - human.foundations.hf11.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -185,18 +188,26 @@ representational change and Human×AI reasoning.
 ### HF10 — Decision, Choice, Planning, Strategy, Exploration, Exploitation, Stopping and Commitment
 
 [`HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md`](HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md)
-reconstructs the bridge from judgment to temporally organized action policy. It
-separates option generation/evaluation/selection, choice from preference/action,
-risk from ambiguity and description from experience, information value/search/
-stopping, directed/random exploration, conditional choice overload, sunk versus
-remaining/switching costs, precommitment/commitment, plan/policy/strategy/tactic,
-depth-limited/hierarchical planning, and AI option generation/recommendation/
-delegation from Human authority and execution.
+reconstructs sequential decision architecture: option generation/evaluation,
+information search/stopping, exploration/exploitation, commitment, planning,
+strategy/policy and Human×AI recommendation/delegation.
+
+### HF11 — Action, Execution, Sensorimotor Control, Affordance, Skill, Coordination, Feedback and Tool Use
+
+[`HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md`](HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md)
+reconstructs how selected policy becomes realized situated effect. It separates
+action goal/selection/preparation/initiation from motor commands, trajectories and
+outcomes; predictive/feedforward from feedback control; typed motor-learning errors;
+adaptation from skill/automaticity; affordance/attunement/calibration; tool-mediated
+control/body-schema change; intra/interpersonal and human-machine coordination;
+teleoperation latency/shared control; and Human-in-loop/delegated execution from
+meaningful control, authority and responsibility.
 
 ## Current continuation
 
-HF10 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF10-CONTINUATION.md`](HF10-CONTINUATION.md) selects **HF11 — Action, Execution,
-Sensorimotor Control, Affordance, Skill, Coordination, Feedback and Tool Use**
-because a selected option, commitment and valid plan still do not determine
-realized situated action under body/environment/tool feedback.
+HF11 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF11-CONTINUATION.md`](HF11-CONTINUATION.md) selects **HF12 — Social Interaction,
+Joint Action, Communication, Shared Goals, Roles and Cooperation** because
+sensorimotor coordination becomes insufficient once another independently modeling
+agent brings distinct beliefs, goals, roles, authority and communication state into
+the action loop.

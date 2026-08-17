@@ -4,7 +4,7 @@ id: human.foundations.hf10.continuation
 title: Human Foundations Continuation after HF10
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -491,3 +491,10 @@ HF10 does not establish that:
 
 Do not schedule HF12 now. HF11 must expose a repeated neighboring distinction whose
 absence creates category failures across materially different action/control cases.
+
+## Supersession — HF11 complete
+
+HF11 has completed the action/execution/sensorimotor-control boundary selected here.
+Current continuation is owned by
+[`HF11-CONTINUATION.md`](HF11-CONTINUATION.md). This file remains the canonical
+record of why HF11 emerged from HF10.

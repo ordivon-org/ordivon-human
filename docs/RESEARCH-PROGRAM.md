@@ -47,16 +47,16 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF10 complete
+## Human Foundations — active, HF0–HF11 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision architecture: option generation and choice, framing/risk/ambiguity, information search/stopping, exploration/exploitation, conditional choice overload, sunk/remaining/switching costs, precommitment/commitment, depth-limited/hierarchical planning, strategy/policy and Human×AI recommendation/delegation/authority. It exposes situated action/execution/control as the next boundary.
+HF0 establishes the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action/execution: intention/preparation/initiation, motor abundance, predictive/feedback control, typed errors, adaptation/skill/automaticity, affordance/calibration, tool extension, coordination, teleoperation/shared control and Human×AI execution/override. It exposes social interaction/joint action/communication as the next boundary.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md`](../research/foundations/HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md).
+Current completed round: [`../research/foundations/HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md`](../research/foundations/HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md).
 
 ## Current applied cycles
 
