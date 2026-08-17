@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Exact continuation after HD9. HD9 reconstructs organismic state, health/disease, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology, acute/chronic remodeling and multimorbidity trajectories as a cross-system biological domain rather than a new peer Human foundation. HF23 remains current; HF24 is UNKNOWN/not admitted. A completed post-HD9 global residual scan selects HD10 Narrative, Imagination, Fiction, Event Models and Possible-World Construction as the next non-foundation deep route; collective identity/intergroup dynamics remains a competing later residual.
+summary: Exact continuation after HD9. HD9 reconstructs organismic state, health/disease, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology, acute/chronic remodeling and multimorbidity trajectories as a cross-system biological domain rather than a new peer Human foundation. HF23 remains current; HF24 is UNKNOWN/not admitted. No HD10 successor is selected. The next conversation must begin with a fresh Human-wide unexplored-space/domain-coverage search across residual domains, pre-Agent theory, cross-disciplinary boundaries and Agent-era perturbations before admitting any next deep route.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -21,6 +21,7 @@ applies_to:
 related:
   - human.deep-foundations.hd9
   - human.deep-foundations.hd9.sources
+  - human.deep-foundations.hd9.unexplored-space
   - human.foundations.hf23.continuation
 ---
 # Human Deep Foundations Continuation after HD9
@@ -192,64 +193,42 @@ It joins HD4/HD6/HD7/HD8 as further evidence that `DeepImportance != FoundationA
 
 ---
 
-# 11. Post-HD9 global residual scan
+# 11. Unexplored-space inventory — next route intentionally UNKNOWN
 
-Compared:
+HD9 does not pre-rank a successor. Read:
 
 ```text
-narrative / imagination / fiction / event models / possible worlds
-collective identity / intergroup dynamics
-psychopathology / neurological perturbation
-sleep / dreaming synthesis
-built environment / ecology
-creativity / play / aesthetics
+research/deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md
 ```
 
-The strongest remaining mechanism gap is now:
+The next conversation should reopen the whole Human problem space and classify residuals as:
 
 ```text
-narrative / imagination / fiction / event-model / possible-world construction
+foundational omission
+deep mechanism omission inside an existing HF
+domain application / consumer surface
+cross-cutting bridge/process
+neighbor-project ownership
+measurement/evidence method
+unresolved ontology
 ```
 
-because symbolic systems are now owned by HF23/HD5, but the bridge from memory/knowledge to
-open-ended simulated event/world construction remains unowned.
+The inventory includes, without priority order, narrative/imagination, collective identity,
+psychopathology, sleep/dreaming, built environment/ecology, creativity/play/aesthetics,
+education, demography, politics/law/war, religion/ritual, mortality/grief, psychometrics,
+biomechanics, disability/accessibility, Human–technology/Agent coupling and other spaces.
 
----
-
-# 12. Next deep route
-
-```text
-HD10 — Narrative, Imagination, Fiction, Event Models and Possible-World Construction
-```
+Therefore:
 
 ```text
-HD10 != HF24
+HD10 = UNKNOWN
 HF24 = UNKNOWN
+NextDeepRoute = UNKNOWN
 ```
 
 ---
 
-# 13. HD10 starting guard
-
-```text
-Narrative != Language
-Narrative != Memory
-Narrative != Fiction
-Narrative != Identity
-Story != EventModel
-Imagination != MentalImagery
-Imagination != CounterfactualReasoning
-Fiction != FalseBelief
-PossibleWorld != BelievedWorld
-Creativity != NoveltyOnly
-Simulation != Prediction
-NarrativeCoherence != Truth
-LLMNarrativeFluency != GroundedWorldModel
-```
-
----
-
-# 14. Fresh-conversation resume protocol
+# 12. Fresh-conversation resume protocol
 
 Read:
 
@@ -261,7 +240,7 @@ research/deep-foundations/HD8-CONTINUATION.md
 research/foundations/HF23-CONTINUATION.md
 ```
 
-Verify Runtime/Git/Host truth, then begin HD10 without creating HF24 in advance.
+Verify Runtime/Git/Host truth, then begin a fresh Human-wide unexplored-space/domain-coverage search. Do not preselect HD10 and do not create HF24 in advance.
 
 ---
 
@@ -278,5 +257,5 @@ endocrine/metabolic/vascular/cardiorenal/microbiome coupling is typed;
 acute/chronic/recovery/remodeling/multimorbidity trajectories are represented;
 personal baseline/reference/optimal states are separated;
 HF24 is explicitly not admitted;
-and post-HD9 residual scan confirms HD10.
+and the continuation explicitly preserves the next-route decision as UNKNOWN pending a fresh global unexplored-space search.
 ```

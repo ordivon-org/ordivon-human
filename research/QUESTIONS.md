@@ -266,7 +266,7 @@ HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. 
 
 **Current foundation continuation:** [`foundations/HF23-CONTINUATION.md`](foundations/HF23-CONTINUATION.md). HF24 remains UNKNOWN / not admitted; no existing HF round was reopened by HD9.
 
-**Current deep-research direction:** [`deep-foundations/HD9-CONTINUATION.md`](deep-foundations/HD9-CONTINUATION.md) records a post-HD9 global residual scan selecting HD10 — Narrative, Imagination, Fiction, Event Models and Possible-World Construction — as the next non-foundation deep route. `HD10 != HF24`. Collective identity/intergroup dynamics, psychopathology, sleep/dreaming, built environment/ecology and creativity/play/aesthetics remain later residuals rather than being discarded. Development/lifespan, cross-cultural/historical, pathology/lesion, disability/compensation, altered-state and Human×AI analyses remain recurring pressure axes rather than a fixed curriculum.
+**Current deep-research direction:** [`deep-foundations/HD9-CONTINUATION.md`](deep-foundations/HD9-CONTINUATION.md) explicitly leaves the next route UNKNOWN, while [`deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md`](deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md) records a non-ranked set of residual continents. `HD10 = UNKNOWN`, `NextDeepRoute = UNKNOWN`, and `HF24 = UNKNOWN`. The next conversation must rerun global Human domain coverage rather than inherit a fixed curriculum or locally adjacent successor.
 
 **Cycle closeout:** [`foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md) remains the historical frozen first-cycle closeout/reopen protocol; HF19–HF23 extend that library without rewriting its historical state.
 

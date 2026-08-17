@@ -381,7 +381,7 @@ HD4, HD6, HD7, HD8 and HD9 now provide five different examples of
 `DeepImportance != FoundationAdmission`.
 
 [`../deep-foundations/HD9-CONTINUATION.md`](../deep-foundations/HD9-CONTINUATION.md)
-records the post-HD9 global residual scan and admits **HD10 — Narrative, Imagination,
-Fiction, Event Models and Possible-World Construction** as the next non-foundation deep route.
-`HD10 != HF24`; collective identity/intergroup dynamics, psychopathology, sleep/dreaming,
-built environment/ecology and creativity/play/aesthetics remain later residual candidates.
+now deliberately leaves the successor unknown. The non-ranked
+[`../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md`](../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md)
+records remaining research continents without priority. `HD10 = UNKNOWN`, `NextDeepRoute =
+UNKNOWN`, and `HF24 = UNKNOWN`; a fresh Human-wide coverage search must choose the next route.

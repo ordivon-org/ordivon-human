@@ -14,7 +14,7 @@ audience:
   - agent
   - builder
 updated: 2026-08-18
-summary: Deep reconstruction of the organismic health/disease substrate repeatedly referenced but not owned by earlier Human Foundations. HD9 separates organism state from organ labels; health from absence of diagnosis, statistical normality or maximal optimization; disease from symptom, biomarker, risk, diagnosis or one cause; inflammation from harm-only or one scalar immune state; endocrine function from hormone concentration; metabolism from calories; vascular systems from delivery-only plumbing; microbiome state from an autonomous organ; pathogen presence from disease; multimorbidity from a sum of independent diagnoses; and treatment response from mechanism proof. It reconstructs coupled immune–metabolic–endocrine–neural/autonomic–vascular–cardiorespiratory–renal/hepatic–microbiome dynamics, acute/chronic trajectories, reserve, compensation, recovery, chronic remodeling, biomarkers, reference intervals and causal evidence. HD9 concludes that organismic health/pathophysiology is a cross-system biological domain and state/trajectory projection rather than one missing peer Human foundation. HF24 is not admitted and HF0–HF23 remain unreopened. A post-HD9 global residual scan selects narrative/imagination/fiction/event-model construction as the next deep route, with collective identity/intergroup dynamics remaining a competing residual.
+summary: Deep reconstruction of the organismic health/disease substrate repeatedly referenced but not owned by earlier Human Foundations. HD9 separates organism state from organ labels; health from absence of diagnosis, statistical normality or maximal optimization; disease from symptom, biomarker, risk, diagnosis or one cause; inflammation from harm-only or one scalar immune state; endocrine function from hormone concentration; metabolism from calories; vascular systems from delivery-only plumbing; microbiome state from an autonomous organ; pathogen presence from disease; multimorbidity from a sum of independent diagnoses; and treatment response from mechanism proof. It reconstructs coupled immune–metabolic–endocrine–neural/autonomic–vascular–cardiorespiratory–renal/hepatic–microbiome dynamics, acute/chronic trajectories, reserve, compensation, recovery, chronic remodeling, biomarkers, reference intervals and causal evidence. HD9 concludes that organismic health/pathophysiology is a cross-system biological domain and state/trajectory projection rather than one missing peer Human foundation. HF24 is not admitted and HF0–HF23 remain unreopened. HD9 deliberately does not select a successor; the next conversation must reopen the global Human unexplored-space/domain-coverage search before admitting any HD10 route.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -23,6 +23,7 @@ related:
   - human.deep-foundations.hd8.continuation
   - human.deep-foundations.hd9.sources
   - human.deep-foundations.hd9.continuation
+  - human.deep-foundations.hd9.unexplored-space
   - human.foundations.hf5
   - human.foundations.hf6
   - human.foundations.hf20
@@ -2615,98 +2616,45 @@ No contradiction.
 
 ---
 
-# 223. Post-HD9 global residual scan
+# 223. Post-HD9 unexplored-space inventory — no successor selected
 
-Recompare:
+HD9 closes one major biological substrate gap, but **local adjacency is not permission to
+select HD10**. The next conversation must reopen the Human-wide domain-coverage search rather
+than inherit a pre-ranked successor.
+
+The non-ranked inventory is maintained in:
 
 ```text
-narrative / imagination / fiction / event models / possible worlds
-collective identity / intergroup cognition
-psychopathology / neurological perturbation
-sleep / dreaming synthesis
-built environment / ecology
-creativity / play / aesthetics
+research/deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md
 ```
 
-HD9 closes the largest biological substrate gap.
+It spans narrative/imagination, creativity/aesthetics, collective identity, psychopathology,
+sleep/dreaming, built environment/ecology, education, demography, politics/law/war, religion/
+ritual, mortality/grief, psychometrics, biomechanics, Human–Agent coupling and other
+cross-project bridges. Inclusion is not priority.
 
-The strongest remaining mechanism gap now becomes:
+The next route must be selected only after:
 
 ```text
-narrative / imagination / fiction / event-model / possible-world construction
+fresh global residual scan
++ domain ownership audit
++ overlap with HF0–HF23 and HD0–HD9
++ pre-Agent theory coverage
++ cross-disciplinary boundary search
++ Agent-era perturbation
++ cheapest falsifier comparison
 ```
 
-because HD5/HF23 own symbolic systems but explicitly stop before narrative and open-ended
-counterfactual scene/event generation.
-
----
-
-# 224. Why narrative now outranks collective identity
-
-Collective identity remains sparse, but it has owners/interfaces in:
+Therefore:
 
 ```text
-HF1 social identity
-HF12 interaction
-HF13 group/institution/status/norm
-HD4 cultural inheritance
-```
-
-Narrative/imagination has no deep owner for the bridge among:
-
-```text
-memory fragments
-semantic/symbolic systems
-causal/event models
-counterfactual simulation
-future self
-fiction
-social interpretation
-creative generation
-```
-
-and has been deferred since HD5.
-
----
-
-# 225. Next deep route
-
-```text
-HD10 — Narrative, Imagination, Fiction, Event Models and Possible-World Construction
-```
-
-```text
-HD10 != HF24
+HD10 = UNKNOWN
 HF24 = UNKNOWN
 ```
 
 ---
 
-# 226. HD10 starting guard
-
-Do not assume:
-
-```text
-Narrative = Language
-Narrative = Memory
-Narrative = Fiction
-Narrative = Identity
-Story = EventModel
-Imagination = MentalImagery
-Imagination = CounterfactualReasoning
-Fiction = FalseBelief
-PossibleWorld = BelievedWorld
-Creativity = NoveltyOnly
-Simulation = Prediction
-AutobiographicalNarrative = PersonIdentity
-NarrativeCoherence = Truth
-NarrativePersuasion = EpistemicAccuracy
-LLMNarrativeFluency = GroundedWorldModel
-```
-
----
-
-# 227. Durable HD9 firewalls
+# 224. Durable HD9 firewalls
 
 ```text
 OrganBoundary != CausalBoundary

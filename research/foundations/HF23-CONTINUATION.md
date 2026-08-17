@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Exact foundation continuation after HF23 following completed HD9. HF23 remains complete/READY and current; HD9 reconstructs organismic state, health/disease, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology and chronic/multimorbidity trajectories as a cross-system biological domain without admitting HF24. Human Deep Foundations continues separately with HD10 narrative/imagination/fiction/event-model/possible-world construction as the next non-foundation route after a confirming global residual scan.
+summary: Exact foundation continuation after HF23 following completed HD9. HF23 remains complete/READY and current; HD9 reconstructs organismic state, health/disease, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology and chronic/multimorbidity trajectories as a cross-system biological domain without admitting HF24. Human Deep Foundations continues separately with no preselected successor: HD10 and HF24 remain UNKNOWN pending a fresh global unexplored-space/domain-coverage search.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -22,6 +22,8 @@ related:
   - human.foundations.hf23
   - human.foundations.hf23.sources
   - human.deep-foundations.hd5.continuation
+  - human.deep-foundations.hd9.continuation
+  - human.deep-foundations.hd9.unexplored-space
 ---
 # Human Foundations Continuation after HF23
 
@@ -143,14 +145,19 @@ Read:
 ../deep-foundations/HD9-CONTINUATION.md
 ```
 
-The next non-foundation route is:
+The next non-foundation route is intentionally **not selected here**. Read:
 
 ```text
-HD10 — Narrative, Imagination, Fiction, Event Models and Possible-World Construction
+../deep-foundations/HD9-CONTINUATION.md
+../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md
 ```
 
+Then rerun Human-wide coverage before admitting any successor.
+
 ```text
-HD10 != HF24
+HD10 = UNKNOWN
+NextDeepRoute = UNKNOWN
+HF24 = UNKNOWN
 ```
 
 ---
