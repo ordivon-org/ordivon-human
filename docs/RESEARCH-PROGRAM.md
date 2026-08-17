@@ -47,16 +47,16 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF16 complete
+## Human Foundations — active, HF0–HF17 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action/execution. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing/bearer scope. HF16 reconstructs population and temporal aggregation: claim/welfare aggregation; total/average/distribution/priority; variable population size/identity; non-identity/person-affecting comparison; creation; discounting; future generations; extinction and digital replication. It exposes collective choice under normative pluralism as the next boundary.
+HF0 establishes the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action/execution. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing/bearer scope. HF16 reconstructs population/temporal aggregation. HF17 reconstructs collective normative choice: preference/judgment/reason, pluralism/comparability, moral uncertainty, social choice/voting/judgment aggregation, agenda/strategy, rights/minority constraints, representation, expertise, deliberation, AI mediation, legitimacy and robust revision. It exposes strategic implementation under incentives/private information as the next boundary.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md`](../research/foundations/HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md).
+Current completed round: [`../research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md`](../research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md).
 
 ## Current applied cycles
 

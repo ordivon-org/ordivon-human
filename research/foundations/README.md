@@ -72,6 +72,9 @@ related:
   - human.foundations.hf16
   - human.foundations.hf16.sources
   - human.foundations.hf16.continuation
+  - human.foundations.hf17
+  - human.foundations.hf17.sources
+  - human.foundations.hf17.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -247,17 +250,25 @@ scope and artificial-system uncertainty.
 ### HF16 — Population, Aggregation, Future Generations, Non-Identity, Creation, Replication and Existential Loss
 
 [`HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md`](HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md)
-reconstructs aggregation across multiple, future, possible and copied bearers without
-selecting one population axiology by fiat. It separates claim/welfare aggregation,
-total/average/distribution/priority, population size/identity/value, person-affecting
-and impersonal comparison, creation/non-creation, discount components, extinction/
-future loss and digital copy/identity counting.
+reconstructs population/temporal aggregation across claims, welfare, number,
+distribution, identity, future generations, creation, extinction and digital
+replication without selecting one population axiology by fiat.
+
+### HF17 — Normative Pluralism, Moral Uncertainty, Incommensurability, Social Choice, Collective Decision, Voting, Deliberation and Robust Governance
+
+[`HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md`](HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md)
+reconstructs collective normative choice without treating majority, consensus,
+expertise, deliberation or AI mediation as truth/legitimacy by definition. It
+separates preference/judgment/reason, pluralism/comparability, moral uncertainty,
+social/voting/judgment aggregation, strategic manipulation, agenda, rights/minority
+constraints, representation, expertise/authority, deliberation, AI mediation,
+legitimacy, robustness and revision.
 
 ## Current continuation
 
-HF16 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF16-CONTINUATION.md`](HF16-CONTINUATION.md) selects **HF17 — Normative Pluralism,
-Moral Uncertainty, Incommensurability, Social Choice, Collective Decision, Voting,
-Deliberation and Robust Governance** because aggregation across bearers is not
-aggregation across stakeholder preferences or normative theories and cannot by itself
-establish legitimate collective decision authority.
+HF17 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF17-CONTINUATION.md`](HF17-CONTINUATION.md) selects **HF18 — Incentives,
+Mechanism Design, Private Information, Bargaining, Public Goods, Commons, Markets and
+Strategic Implementation** because a legitimate collective-choice rule does not by
+itself elicit truthful private information, align participation/compliance incentives,
+prevent free-riding or implement the selected outcome as an equilibrium.

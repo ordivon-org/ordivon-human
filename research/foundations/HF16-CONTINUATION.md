@@ -4,7 +4,7 @@ id: human.foundations.hf16.continuation
 title: Human Foundations Continuation after HF16
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -579,3 +579,9 @@ HF16 does not establish that:
 
 Do not schedule HF18 now. HF17 must expose a repeated neighboring distinction across
 materially different collective-choice cases.
+
+## Supersession — HF17 complete
+
+HF17 has completed the collective normative-choice boundary selected here. Current
+continuation is owned by [`HF17-CONTINUATION.md`](HF17-CONTINUATION.md). This file
+remains the canonical record of why HF17 emerged from HF16.

@@ -216,7 +216,7 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF16 are complete. HF0 establishes question-relative Human projections. HF1
+HF0–HF17 are complete. HF0 establishes question-relative Human projections. HF1
 separates identity and extension. HF2 separates experience from state/evidence.
 HF3 separates attention/access/working memory/metacognition/control. HF4 separates
 goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
@@ -226,13 +226,13 @@ understanding. HF9 reconstructs inference/reasoning/causality/problem solving.
 HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action.
 HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social
 order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing and
-bearer scope. HF16 reconstructs population/temporal aggregation across claims,
-welfare, number, distribution, identity, future generations, creation, extinction and
-digital replication.
+bearer scope. HF16 reconstructs population/temporal aggregation. HF17 reconstructs
+collective normative choice across preference/judgment/reason, social choice,
+voting/strategy, rights, representation, expertise, deliberation, AI mediation,
+legitimacy and robust revision.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md`](research/foundations/HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md).
-HF16 exposes—rather than pre-plans—HF17: Normative Pluralism, Moral Uncertainty,
-Incommensurability, Social Choice, Collective Decision, Voting, Deliberation and
-Robust Governance.
+[`research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md`](research/foundations/HF17-NORMATIVE-PLURALISM-SOCIAL-CHOICE-GOVERNANCE.md).
+HF17 exposes—rather than pre-plans—HF18: Incentives, Mechanism Design, Private
+Information, Bargaining, Public Goods, Commons, Markets and Strategic Implementation.
