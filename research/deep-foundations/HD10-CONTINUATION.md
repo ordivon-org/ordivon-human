@@ -12,7 +12,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Current HD10 continuation after completed A/B/C. HD10-A separated measurement, population structure, person profile, within-person dynamics and mechanism. HD10-B reconstructed claim-matched measurement/evidence. HD10-C adjudicated personality/temperament rival families and found no single complete ontology: Big Five and HEXACO survive as scoped shared descriptive coordinate systems; lexical approaches as discovery methods; temperament as developmental reactivity/regulation; CAPS as conditional person×situation organization; Whole Trait as the strongest integration template between state distributions and social-cognitive explanation, reconstructed with explicit situation-exposure and equifinality guards; latent state-trait as measurement decomposition; dynamic/idiographic approaches as person-specific realization. Personality is currently a cross-foundation projection over persistent parameters, conditional response structure, realized state distributions and developmental trajectory, not HF24. Next is HD10-D — Cognitive Ability / Intelligence Rival Models.
+summary: Current continuation after completed HD10-A/B/C/D. A established the term firewall; B reconstructed measurement/evidence; C reconstructed personality/temperament as shared descriptive coordinates + realized state distributions + situation exposure + conditional response structure + cross-HF mechanism configuration + developmental trajectory; D reconstructed cognitive ability/intelligence. D retains the positive manifold, psychometric g and CHC-like broad/narrow coordinates as valuable population-level descriptions while rejecting factor-to-mechanism identity. Sampling, Process Overlap, mutualism/network and multiple-component accounts remain live alternative/complementary explanations; working memory/executive control is a major contributor, not intelligence totality; static scores, modifiability, expertise, independent cognitive capability and Agent-supported capability remain separate. New D objects include TaskDemandSamplingDistribution, GeneralFactorEstimate(Battery,Population,Model,Scoring), CognitiveAbilityProfile and CognitiveCapabilitySurface. Personality and intelligence both now look like cross-foundation person projections rather than peer subsystems. HF24 remains UNKNOWN/not admitted; no HF0–HF23 reopen condition exists. Next is HD10-E — Cross-Domain PersonDifferenceProfile Reconstruction & Falsification.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -21,8 +21,8 @@ related:
   - human.deep-foundations.hd10a
   - human.deep-foundations.hd10b
   - human.deep-foundations.hd10c
-  - human.deep-foundations.hd10c.sources
-  - human.deep-foundations.post-hd9.direction-search
+  - human.deep-foundations.hd10d
+  - human.deep-foundations.hd10d.sources
   - human.foundations.hf23.continuation
 ---
 # Human Deep Foundations Continuation — HD10 Individual-Difference Architecture
@@ -38,30 +38,14 @@ HD0–HD9   = completed
 HD10-A    = completed
 HD10-B    = completed
 HD10-C    = completed
+HD10-D    = completed
 HD10      = active
-HD10-D    = next
+HD10-E    = next
 ```
 
 ---
 
-# 1. HD10 object after C
-
-The original object has been sharpened from `stable individual differences` to a layered architecture:
-
-```text
-shared descriptive coordinates
-+ person-specific realized state distributions
-+ situation exposure distributions
-+ conditional response organization
-+ persistent mechanism configuration across existing HFs
-+ developmental trajectory
-```
-
-No layer is identical to another.
-
----
-
-# 2. A firewall remains
+# 1. A/B firewalls remain
 
 ```text
 MeasurementInstrument
@@ -72,280 +56,302 @@ MeasurementInstrument
 != CausalMechanism
 ```
 
-and:
-
-```text
-Trait != State
-Trait != Essence
-Ability != TestScore
-Performance != Capability
-BetweenPersonCovariance != WithinPersonDynamics
-```
-
----
-
-# 3. B evidence firewall remains
-
 ```text
 ReliableFor_X != ReliableFor_Y
-ReplicableGroupEffect != ReliableIndividualDifferenceMeasure
 Reliability != Validity
 Prediction != Mechanism
 MeasurementInvariance != OntologicalUniversality
-NonInvariance != ConstructUnreality
-SelfInformantDisagreement != ErrorOnly
-HumanAIJointPerformance != HumanIndependentCapability
-```
-
-All D evidence/model comparison must obey these.
-
----
-
-# 4. C — rival model dispositions
-
-## Lexical approach
-
-```text
-Retain = descriptive discovery method
-Reject = complete ontology
-```
-
-## Big Five / FFM taxonomy
-
-```text
-Retain = high-value broad shared descriptive coordinates
-Reject = five mechanisms / personality totality
-```
-
-## Five-Factor Theory
-
-```text
-Retain = BasicTendency != CharacteristicAdaptation distinction
-Reject = strong biology-only/environmentally insulated trait ontology as universal
-```
-
-## HEXACO
-
-```text
-Retain = alternative broad coordinate system, including Honesty–Humility content
-Reject = six factors = six natural causal modules
-```
-
-## Temperament
-
-```text
-Retain = developmental reactivity/regulation family
-Reject = fixed innate essence / childhood personality identity
-```
-
-## CAPS / social-cognitive
-
-```text
-Retain = conditional person×situation response/mechanism architecture
-Reject = complete shared descriptive/developmental ontology
-```
-
-## Whole Trait
-
-```text
-Retain = strongest current integration template
-         Trait_DES as state distributions
-         + social-cognitive explanatory program
-Reconstruct = add SituationExposureDistribution
-              + reject unique Trait_DES -> Trait_EXP inversion
-Reject = mandatory Big-Five coordinate closure
-```
-
-## Latent state-trait
-
-```text
-Retain = measurement decomposition of stable/occasion/method/error variance
-Reject = causal personality mechanism
-```
-
-## Dynamic / idiographic
-
-```text
-Retain = person-specific state/profile/transition realization
-Reject = replacement for all shared coordinates or causal theory
+BetweenPersonAssociation != WithinPersonAssociation
 ```
 
 ---
 
-# 5. C's decisive new separation
+# 2. C personality result remains
+
+```text
+PersonalityDescription
+!= StateDistribution
+!= SituationExposureDistribution
+!= ConditionalResponseStructure
+!= PersonalityMechanismConfiguration
+!= DevelopmentalTrajectory
+```
+
+Broad trait systems such as Big Five / HEXACO are retained as scoped shared coordinate systems, not mechanisms.
+
+CAPS-like conditional organization and Whole-Trait-like state distributions/mechanism linking survive as complementary layers.
+
+---
+
+# 3. D cognitive result
+
+`Intelligence` is not retained as one unqualified primitive.
+
+Separate:
+
+```text
+PositiveManifold
+GeneralFactorEstimate
+Broad/NarrowAbilityCoordinates
+CognitiveProcessProfile
+Knowledge/ExpertiseProfile
+ModifiabilityProfile
+IndependentCognitiveCapability
+Situated/JointCognitiveCapability
+```
+
+---
+
+# 4. Positive manifold versus g
+
+Retain:
+
+```text
+PositiveManifold(Battery, Population, Conditions)
+= robust population covariance regularity
+```
+
+and:
+
+```text
+GeneralFactorEstimate(H; Battery, Population, Model, Scoring)
+= useful general covariance/ability coordinate
+```
+
+but:
+
+```text
+PositiveManifold != OneCausalSubstance
+GeneralFactorEstimate != DemonstratedGeneralCausalCapacity
+```
+
+---
+
+# 5. D rival dispositions
+
+## psychometric g
+
+```text
+retain = covariance/general-ability coordinate
+reject = automatic single causal substance
+```
+
+## CHC / hierarchical ability models
+
+```text
+retain = broad/narrow task-family coordinate taxonomy
+reject = factor names as process identities
+note   = CHC is a family/integration, not one timeless exact ontology
+```
+
+## Gf/Gc
+
+```text
+retain = novel-reasoning-heavy versus acquired-knowledge-heavy broad distinction
+reject = process purity / culture-free essence / Gc as memory volume
+```
+
+## working memory / executive control
+
+```text
+retain = major cognitive resource/process contributor
+reject = intelligence totality
+```
+
+## Thomson sampling
+
+```text
+retain = serious overlapping-elements explanation of positive covariance
+reject = unidentified bonds as final mechanism
+```
+
+## Process Overlap Theory
+
+```text
+retain = shared + domain-specific process-sampling architecture
+reject = unsupported specific process assignments
+```
+
+## mutualism / developmental network
+
+```text
+retain = reciprocal-development explanation of emergent positive covariance
+reject = exclusive cause of all common variance
+```
+
+## hybrid network
+
+```text
+retain = plural possibility of shared bottlenecks + sampling + developmental coupling
+```
+
+## multiple-component / multi-network
+
+```text
+retain = complex tasks co-recruit multiple systems
+reject = one recovered component count as ontology
+```
+
+## idiographic
+
+```text
+retain = person-specific within-person cognitive structure
+reject = group factor model as automatic person architecture
+```
+
+## dynamic assessment
+
+```text
+retain = protocol-relative ModifiabilityProfile
+reject = hidden fixed Potential scalar
+```
+
+## expertise/knowledge
+
+```text
+retain = acquired domain organization
+reject = expertise as general intelligence / intelligence as knowledge totality
+```
+
+---
+
+# 6. D's task-sampling correction
 
 Define:
 
 ```text
-SituationExposureDistribution_H,T
-= distribution of psychologically relevant situations actually encountered by H
+TaskDemandSamplingDistribution_B
+= distribution of cognitive demands sampled by battery B
 ```
 
-and:
+Then:
 
 ```text
-StateDistribution_H,T
-= Realize(
-    ConditionalResponseStructure_H,
-    SituationExposureDistribution_H,T,
-    CurrentState/History
+ObservedCognitiveProfile
+= function(
+    PersonCognitiveConfiguration,
+    TaskDemandSamplingDistribution,
+    State,
+    KnowledgeHistory,
+    SupportBoundary,
+    ScoringModel
   )
 ```
 
 Therefore:
 
 ```text
-ObservedStateDistribution
-!= CounterfactualResponseStructure
+BatteryFactorStructure != CompleteHumanCognitiveArchitecture
+```
+
+This is structurally parallel to C's `SituationExposureDistribution` correction.
+
+---
+
+# 7. Cognitive ability and capability objects
+
+```text
+CognitiveAbilityProfile_K(H,T,C)
+= relatively persistent performance/capability coordinates over declared task-demand families
+```
+
+```text
+CognitiveCapabilitySurface_H(
+    TaskFamily,
+    Difficulty,
+    Novelty,
+    TimeBudget,
+    State,
+    KnowledgeAccess,
+    SupportBoundary
+)
+→ achievable performance/reliability distribution
+```
+
+Neither is yet a Foundation.
+
+---
+
+# 8. Modifiability
+
+```text
+ModifiabilityProfile_D(H | InterventionProtocol I, T)
+= gain + support required + strategy change + retention + transfer + learning rate
+```
+
+```text
+CurrentPerformance != Modifiability
+LearningPotential_I != FixedFutureCapacity
+```
+
+---
+
+# 9. Human×Agent cognitive guard
+
+```text
+IndependentCognitiveCapability
+!= SituatedCognitiveCapability
+!= JointCognitiveCapability
+```
+
+Agent/tool support can alter:
+
+```text
+memory demands
+search demands
+planning demands
+representation
+verification
+practice/learning trajectory
+```
+
+so:
+
+```text
+TaskDemandProfile_withoutAI != TaskDemandProfile_withAI
 ```
 
 and:
 
 ```text
-SameObservedTraitDistribution
-!= SameMechanismConfiguration
-```
-
-because both exposure and equifinality remain.
-
----
-
-# 6. Current personality grammar
-
-```text
-PersonalityDescription_H,T,K
-= scoped descriptive projection under coordinate system K
-
-PersonalityState_K(H,t)
-= momentary personality-relevant expression projected into K
-
-StateDistribution_K(H,T | Exposure)
-= realized distribution across actual sampled situations
-
-SituationExposureDistribution_H,T
-= situations H actually encounters/selects/evokes/is assigned
-
-ConditionalResponseStructure_H
-= conditional response distribution over represented situations
-
-PersonalityMechanismConfiguration_H
-= persistent organization/parameterization across existing HF mechanisms
-
-DevelopmentalTrajectory_H
-= history of persistent updates to configuration/response structure
-```
-
-Non-identities:
-
-```text
-Description
-!= StateDistribution
-!= ExposureDistribution
-!= ConditionalResponseStructure
-!= MechanismConfiguration
-!= DevelopmentalTrajectory
+HumanAIOutcome != HumanIntelligenceScore
 ```
 
 ---
 
-# 7. Trait terms after C
+# 10. Existing-HF composition
 
-Separate:
-
-```text
-Trait-D = descriptive regularity/distribution summary
-Trait-R = conditional response tendency
-Trait-M = shorthand hypothesis about mechanism configuration
-```
+Cognitive ability mechanisms compose across:
 
 ```text
-Trait-D != Trait-R != Trait-M
+HF3  attention / working memory / control
+HF4  goals / motivation / effort
+HF5  stress / fatigue / organismic state
+HF6  learning / development / transfer
+HF7  memory / retrieval
+HF8  knowledge / representation / understanding
+HF9  reasoning / problem solving
+HF10 planning / search
+HF11 skill / execution / tool use
+HF12 joint cognition
+HF19 task/technology organization
 ```
 
-unless linked by evidence.
-
----
-
-# 8. Shared versus idiographic representation
-
-Ordivon does not choose:
-
-```text
-nomothetic OR idiographic
-```
-
-Instead:
-
-```text
-SharedTraitCoordinateSystem_K
-+
-PersonSpecificParameters/Dynamics_H
-```
-
-Shared coordinates support comparison and communication; idiographic structure supports individual fidelity.
-
----
-
-# 9. Foundation consumption
-
-Personality mechanisms already compose:
-
-```text
-HF3  attention / cognitive control
-HF4  goals / value / motivation / regulation
-HF5  organismic state / stress / regulation
-HF6  learning / development / plasticity
-HF8  beliefs / schemas / representations
-HF10 decision / policies / planning
-HF12 social interaction
-HF21 affect / appraisal
-HF22 relationship-specific state
-```
-
-Thus personality currently behaves as a **cross-foundation projection**, not a missing subsystem.
-
----
-
-# 10. Agent-era pressure retained
-
-Persistent agents can alter:
-
-```text
-SituationExposureDistribution
-support/scaffolding
-social interaction
-choice architecture
-feedback
-```
-
-and personality estimates can drive future personalization:
-
-```text
-PastBehavior
-→ TraitEstimate
-→ AgentPolicy
-→ FutureExposure
-→ FutureBehavior
-```
-
-Therefore:
-
-```text
-SupportedTraitExpression != IndependentHumanMechanism
-TraitMeasurement can become performative environment
-```
+Thus cognitive ability also currently behaves like a cross-foundation person projection.
 
 ---
 
 # 11. Foundation gate
 
+After personality and cognitive-ability rival adjudication:
+
 ```text
-Personality != HF24 by current evidence
-Temperament != HF24
+Personality != HF24
+Intelligence != HF24
 Psychometrics != HF24
 ```
 
-No current existing foundation fails its own object boundary.
+No existing foundation object has failed.
 
 ```text
 NextFoundationAdmissionCondition(HF24) = false
@@ -355,41 +361,61 @@ HF24 = UNKNOWN / not admitted
 
 ---
 
-# 12. Next action
+# 12. Why E is necessary
+
+HD10 began with the broader residual:
+
+```text
+stable-but-context-sensitive person-specific heterogeneity
+```
+
+A–D now provide local pieces, but do not yet prove that one coherent cross-domain profile exists.
+
+The next discriminating question is no longer another personality/intelligence theory.
+
+It is:
+
+```text
+Can Ordivon represent one person-specific difference architecture
+across personality, cognition, motivation, learning, skill, relationships,
+body/health and support ecology
+without reducing the Human to a fixed vector?
+```
+
+---
+
+# 13. Next action
 
 Proceed to:
 
 ```text
-HD10-D — Cognitive Ability / Intelligence Rival Models
+HD10-E — Cross-Domain PersonDifferenceProfile Reconstruction & Falsification
 ```
 
-D must compare at minimum:
+E must compare candidate profile architectures such as:
 
 ```text
-positive manifold / psychometric g
-hierarchical factor models
-CHC-like broad and narrow abilities
-fluid / crystallized ability distinctions
-sampling accounts
-process-overlap theory
-mutualism / developmental interaction
-working-memory / executive-process accounts
-idiographic within-person cognitive structures
-expertise / knowledge / skill boundaries
-learning potential / dynamic assessment
-independent versus tool/AI-supported capability
+one fixed person vector
+hierarchical multi-domain profile
+context-indexed parameter family
+distribution + response-function profile
+trajectory-based profile
+state-space / dynamic-system parameterization
+support-relative capability profile
 ```
 
-D must ask separately:
+and falsify them across:
 
 ```text
-What is an intelligence score?
-What is an ability factor?
-What explains the positive manifold?
-Is g descriptive, causal, formative, emergent or statistical?
-Do group ability structures describe within-person cognitive architecture?
-How do knowledge, skill, expertise and learning rate relate to ability?
-How should support/tools/agents alter measurement attribution?
+same person / different context
+same behavior / different mechanism
+same score / different profile
+same profile / different development
+illness/fatigue
+learning/intervention
+relationship-specific behavior
+culture/institution
+Human×Agent support
 ```
 
-No `g`, CHC, process theory or mutualism model wins in advance.
+Only E may decide whether HD10 is ready for final closeout or still contains a deeper residual.
