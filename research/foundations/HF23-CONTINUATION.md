@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-17
-summary: Exact foundation continuation after HF23 following completed HD6. HF23 remains complete/READY and current; HD6's global residual scan displaced narrative and reconstructed sex/sexuality/reproduction as a cross-layer Human domain without admitting HF24. Human Deep Foundations continues separately with HD7 genetic variation/heredity/individual differences as a non-foundation route.
+summary: Exact foundation continuation after HF23 following completed HD7. HF23 remains complete/READY and current; HD7 reconstructs genetic variation, heredity, regulation, heritability, genotype–environment interplay, ancestry/population structure and individual differences as a cross-cutting biological causal/inheritance layer without admitting HF24. Human Deep Foundations continues separately with HD8 evolution/phylogeny/population change/Human-specificity as the next non-foundation route after a confirming global residual scan.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -99,7 +99,7 @@ Grounding = Experience
 
 ---
 
-# 4. HD6 completed without admitting HF24
+# 4. HD6 and HD7 completed without admitting HF24
 
 HD6 first ran the residual check required by HD5. Narrative/imagination remained a valid
 later candidate but was displaced by the much larger under-modeled sex/sexuality/reproduction
@@ -119,6 +119,8 @@ NextFoundationAdmissionCondition(HF24) = false
 HF24 = UNKNOWN
 ```
 
+HD7 then reconstructed genetic variation, heredity, regulation, heritability, population structure and individual-difference inference as a cross-cutting biological causal/inheritance layer. It likewise found no clean peer HF24 object and reopened no existing HF.
+
 HF23 remains the current foundation continuation.
 
 ---
@@ -128,19 +130,19 @@ HF23 remains the current foundation continuation.
 Read:
 
 ```text
-../deep-foundations/HD6-SEX-SEXUALITY-REPRODUCTION-LIFE-HISTORY.md
-../deep-foundations/HD6-SOURCES.md
-../deep-foundations/HD6-CONTINUATION.md
+../deep-foundations/HD7-GENETIC-VARIATION-HEREDITY-GENE-ENVIRONMENT-INDIVIDUAL-DIFFERENCES.md
+../deep-foundations/HD7-SOURCES.md
+../deep-foundations/HD7-CONTINUATION.md
 ```
 
 The next non-foundation route is:
 
 ```text
-HD7 — Genetic Variation, Heredity, Gene–Environment Development and Individual Differences
+HD8 — Evolution, Phylogeny, Population Change, Natural Selection and Human Specificity
 ```
 
 ```text
-HD7 != HF24
+HD8 != HF24
 ```
 
 ---
