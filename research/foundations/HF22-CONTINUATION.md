@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-17
-summary: Exact foundation continuation after HD3-derived HF22. HF22 is complete/READY and fills the participant-specific persistent-relationship layer between HF12 interaction and HF13 persistent social order. HF0–HF21 were not reopened. HF23 remains UNKNOWN. Human Deep Foundations continues separately with HD4 social learning/teaching/cultural transmission as a non-foundation route.
+summary: Exact foundation continuation after HF22 following completed HD4. HF22 remains complete/READY and current; HD4 reconstructed social learning/cultural inheritance as a cross-foundation population-historical process and did not admit HF23. Human Deep Foundations continues separately with HD5 language/symbol/reference/meaning as a non-foundation route.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -65,16 +65,18 @@ Do not schedule a new foundation merely because mentalizing remains scientifical
 
 ---
 
-# 3. No HF23 is admitted
+# 3. HD4 completed without admitting HF23
 
-The strongest next deep residual is cultural transmission/social learning, but the canonical
-gate has not yet been run.
-
-Therefore:
+HD4 tested social learning and generic culture/cultural inheritance as candidate neighboring
+foundations. Both failed the standalone-foundation test for a constructive reason: the
+surviving dynamics compose existing owners rather than exposing one missing peer object.
 
 ```text
+DeepImportance != FoundationAdmission
 HF23 = UNKNOWN
 ```
+
+HF22 therefore remains the current foundation continuation.
 
 ---
 
@@ -83,21 +85,21 @@ HF23 = UNKNOWN
 Proceed to:
 
 ```text
-HD4 — Social Learning, Imitation, Teaching, Cultural Transmission and
-      Cumulative/Open-Ended Culture
+HD5 — Language, Symbol, Reference, Meaning, Compositionality and
+      Generative Symbolic Systems
 ```
 
-`HD4 != HF23`.
+`HD5 != HF23`.
 
 Read:
 
 ```text
-../deep-foundations/HD3-SOCIAL-COGNITION-OTHER-MIND-ATTACHMENT-RELATIONS.md
-../deep-foundations/HD3-SOURCES.md
-../deep-foundations/HD3-CONTINUATION.md
+../deep-foundations/HD4-SOCIAL-LEARNING-CULTURAL-TRANSMISSION-CUMULATIVE-CULTURE.md
+../deep-foundations/HD4-SOURCES.md
+../deep-foundations/HD4-CONTINUATION.md
 ```
 
-before beginning HD4.
+before beginning HD5.
 
 ---
 

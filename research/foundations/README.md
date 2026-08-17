@@ -342,24 +342,26 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF22-CONTINUATION.md`](HF22-CONTINUATION.md) owns the current foundation-level state.
-HD3 demonstrated that participant-specific persistent relationship state satisfies the
-repeated-neighboring-residual admission gate, so HF22 is complete/READY as a thin canonical
-extension. HF0–HF21 were not reopened. **HF23 remains UNKNOWN / not admitted.**
+[`HF22-CONTINUATION.md`](HF22-CONTINUATION.md) remains the current foundation-level state.
+HD4 completed a full social-learning/cultural-inheritance depth test and deliberately did
+**not** admit HF23: social learning composes existing learning/social-source owners, while
+generic cultural inheritance is a population-historical dynamic distributed across
+HF6/HF7/HF8/HF10/HF12/HF13/HF19/HF22 rather than one missing peer object. HF0–HF22 were not
+reopened. **HF23 remains UNKNOWN / not admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
 [`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
-continues through completed perception and affective routes, and now includes
-[`../deep-foundations/HD3-SOCIAL-COGNITION-OTHER-MIND-ATTACHMENT-RELATIONS.md`](../deep-foundations/HD3-SOCIAL-COGNITION-OTHER-MIND-ATTACHMENT-RELATIONS.md).
-HD3 owns the full social-cognition/other-mind/attachment/relationship mechanism and
-falsifier reconstruction; HF22 is its compressed persistent-relations surface. HD3
-explicitly rejected a standalone Theory-of-Mind foundation because typed other-mind models
-remain composable from existing HF8/HF9/HF12/HF21 views.
+continues through completed perception, affective and persistent-relations routes, and now
+includes the completed cultural-inheritance route
+[`../deep-foundations/HD4-SOCIAL-LEARNING-CULTURAL-TRANSMISSION-CUMULATIVE-CULTURE.md`](../deep-foundations/HD4-SOCIAL-LEARNING-CULTURAL-TRANSMISSION-CUMULATIVE-CULTURE.md).
+HD4 owns the full social-learning/teaching/transmission/cumulative-culture mechanism and
+falsifier reconstruction. Its central methodological result is
+`DeepImportance != FoundationAdmission`; no HF23 extraction exists.
 
-[`../deep-foundations/HD3-CONTINUATION.md`](../deep-foundations/HD3-CONTINUATION.md)
-admits **HD4 — Social Learning, Imitation, Teaching, Cultural Transmission and
-Cumulative/Open-Ended Culture** as the next non-foundation deep route. `HD4 != HF23`;
-language/symbol remains an adjacent high-priority residual whose boundary is left to
-evidence rather than a predeclared sequence.
+[`../deep-foundations/HD4-CONTINUATION.md`](../deep-foundations/HD4-CONTINUATION.md)
+admits **HD5 — Language, Symbol, Reference, Meaning, Compositionality and Generative
+Symbolic Systems** as the next non-foundation deep route. `HD5 != HF23`. HD and HF numbering
+are now intentionally decoupled whenever a deep route does not independently satisfy the
+foundation-admission gate.
