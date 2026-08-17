@@ -216,18 +216,19 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF8 are complete. HF0 establishes question-relative Human projections. HF1
+HF0–HF9 are complete. HF0 establishes question-relative Human projections. HF1
 separates identity and extension. HF2 separates experience from state/evidence.
 HF3 separates attention/access/working memory/metacognition/control. HF4 separates
 goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
 regulation. HF6 reconstructs persistent change. HF7 reconstructs memory/retention/
-retrieval. HF8 reconstructs representational and epistemic structure by separating
-vehicle/content/referent/truth, memory/belief/knowledge, knowing-how/knowing-that,
-concept/schema/model plurality, understanding surfaces and external/AI answer
-access from internal knowledge and understanding.
+retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/
+understanding. HF9 reconstructs operations over representations: deduction,
+induction, abduction, analogy, probabilistic and causal inference, counterfactual
+simulation, heuristics, judgment, problem representation/search/insight and
+Human×AI reasoning.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md`](research/foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md).
-HF8 exposes—rather than pre-plans—HF9: Inference, Reasoning, Causality,
-Counterfactuals, Judgment and Problem Solving.
+[`research/foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md`](research/foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md).
+HF9 exposes—rather than pre-plans—HF10: Decision, Choice, Planning, Strategy,
+Exploration, Exploitation, Stopping and Commitment.

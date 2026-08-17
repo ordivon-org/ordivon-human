@@ -48,6 +48,9 @@ related:
   - human.foundations.hf8
   - human.foundations.hf8.sources
   - human.foundations.hf8.continuation
+  - human.foundations.hf9
+  - human.foundations.hf9.sources
+  - human.foundations.hf9.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -165,16 +168,25 @@ memory and external memory support.
 ### HF8 — Representation, Knowledge, Belief, Concept, Schema, Mental Model and Understanding
 
 [`HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md`](HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md)
-reconstructs Human representational and epistemic structure. It separates vehicle,
-content, referent and truth; memory, belief and knowledge; knowing-how and
-knowing-that; prototype/exemplar/rule concept strategies; schema benefit/bias;
-mental/world models; understanding surfaces; and external/AI answer access from
-internal knowledge and understanding.
+reconstructs representational and epistemic structure, separating vehicle/content/
+referent/truth, memory/belief/knowledge, concept/schema/model plurality,
+understanding surfaces and external knowledge access.
+
+### HF9 — Inference, Reasoning, Causality, Counterfactuals, Judgment and Problem Solving
+
+[`HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md`](HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md)
+reconstructs transformations over representations. It separates inference from
+retrieval/association, reasoning from formal logic/normative criteria,
+deduction/induction/abduction/analogy, probabilistic reasoning from representation
+format, heuristics from irrationality, observation from intervention, prediction
+from causality, counterfactual simulation from causal truth, analogy into
+access/mapping/adaptation, search from problem solving, insight from Aha experience,
+and AI-assisted judgment from independent reasoning.
 
 ## Current continuation
 
-HF8 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF8-CONTINUATION.md`](HF8-CONTINUATION.md) selects **HF9 — Inference, Reasoning,
-Causality, Counterfactuals, Judgment and Problem Solving** because epistemic states
-become useful only through transformations among representations, hypotheses,
-evidence and alternatives.
+HF9 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF9-CONTINUATION.md`](HF9-CONTINUATION.md) selects **HF10 — Decision, Choice,
+Planning, Strategy, Exploration, Exploitation, Stopping and Commitment** because
+inference and search can generate/evaluate possibilities but do not determine when
+to stop, which option to pursue or how to organize action over time.

@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF8 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF9 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representational and epistemic structure by separating vehicle/content/referent/truth, memory/belief/knowledge, knowing-how/knowing-that, concept strategies, schemas, mental/world models, understanding surfaces and external/AI answer access from internal knowledge.
+HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs operations over representations by separating inference from retrieval, reasoning from formal logic/normative criteria, deduction/induction/abduction/analogy, probabilistic inference and heuristics, observation/intervention and causal/counterfactual reasoning, problem representation/search/insight, and AI-assisted from independent reasoning.
 
 **Current completed round:**
-[`foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md`](foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md).
+[`foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md`](foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md).
 
-**Exact next boundary:** `HF9 — Inference, Reasoning, Causality, Counterfactuals, Judgment and Problem Solving`, selected because HF8 can type epistemic/representational states but cannot explain the operations that derive, compare, revise and transform them.
+**Exact next boundary:** `HF10 — Decision, Choice, Planning, Strategy, Exploration, Exploitation, Stopping and Commitment`, selected because HF9 can generate/evaluate judgments and solution paths but cannot determine how finite search becomes sequential option selection and committed action.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially
