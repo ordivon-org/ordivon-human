@@ -4,7 +4,7 @@ id: human.deep-foundations.hd5.continuation
 title: Human Deep Foundations Continuation after HD5
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:

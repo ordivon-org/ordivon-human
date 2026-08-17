@@ -357,24 +357,25 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) owns the current foundation-level state.
-HD5 demonstrated that a persistent socially stabilized generative symbolic system is a true
-neighboring object between generic representation, one communication/use event, convention
-and cultural transmission, so HF23 is complete/READY as a thin canonical extension.
-HF0–HF22 were not reopened. **HF24 remains UNKNOWN / not admitted.**
+[`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) remains the current foundation-level state.
+HD6 completed the global residual scan and sex/sexuality/reproduction depth test without
+admitting HF24. The surviving domain is cross-layer rather than one peer object:
+`SexRelatedBiology != Sexuality != Reproduction != Parenthood`. HF0–HF23 were not reopened.
+**HF24 remains UNKNOWN / not admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
 [`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
-continues through perception, affect, persistent relations and cultural inheritance, and now
-includes the completed symbolic/language route
-[`../deep-foundations/HD5-LANGUAGE-SYMBOL-REFERENCE-MEANING-GENERATIVE-SYSTEMS.md`](../deep-foundations/HD5-LANGUAGE-SYMBOL-REFERENCE-MEANING-GENERATIVE-SYSTEMS.md).
-HD5 owns the full language/symbol/reference/meaning/composition/pragmatics/grounding theory,
-evidence and falsifier reconstruction; HF23 is its compressed reusable symbolic-system
-surface. HD4 remains the canonical example that a completed deep route need not create an HF.
+continues through perception, affect, persistent relations, cultural inheritance and
+symbolic systems, and now includes the completed cross-layer sex/sexuality/reproduction route
+[`../deep-foundations/HD6-SEX-SEXUALITY-REPRODUCTION-LIFE-HISTORY.md`](../deep-foundations/HD6-SEX-SEXUALITY-REPRODUCTION-LIFE-HISTORY.md).
+HD6 owns the domain mechanism/falsifier grammar while existing HFs continue to own identity,
+motivation, regulation, development, decision/consent, normativity, population aggregation,
+affect, relationships and symbolic classification. HD4 and HD6 now provide two different
+canonical examples of `DeepImportance != FoundationAdmission`.
 
-[`../deep-foundations/HD5-CONTINUATION.md`](../deep-foundations/HD5-CONTINUATION.md)
-provisionally localizes **HD6 — Narrative, Imagination, Fiction, Event Models and
-Possible-World Construction** as the next non-foundation deep route, subject to a lightweight
-residual check before execution. `HD6 != HF24`.
+[`../deep-foundations/HD6-CONTINUATION.md`](../deep-foundations/HD6-CONTINUATION.md)
+admits **HD7 — Genetic Variation, Heredity, Gene–Environment Development and Individual
+Differences** as the next non-foundation deep route. `HD7 != HF24`; narrative/imagination
+remains a later residual candidate.

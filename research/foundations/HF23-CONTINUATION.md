@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-17
-summary: Exact foundation continuation after HD5-derived HF23. HF23 is complete/READY and owns the persistent generative-symbolic-system layer between generic representation, communication events, convention and cultural transmission. HF0–HF22 were not reopened. HF24 remains UNKNOWN. Human Deep Foundations continues separately; HD6 narrative/imagination/possible-world construction is only a provisional non-foundation route pending a lightweight residual check.
+summary: Exact foundation continuation after HF23 following completed HD6. HF23 remains complete/READY and current; HD6's global residual scan displaced narrative and reconstructed sex/sexuality/reproduction as a cross-layer Human domain without admitting HF24. Human Deep Foundations continues separately with HD7 genetic variation/heredity/individual differences as a non-foundation route.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -99,14 +99,27 @@ Grounding = Experience
 
 ---
 
-# 4. No HF24 is admitted
+# 4. HD6 completed without admitting HF24
 
-HD5 exposes a possible next deep route around narrative/imagination/event-model construction,
-but no foundation gate has been run.
+HD6 first ran the residual check required by HD5. Narrative/imagination remained a valid
+later candidate but was displaced by the much larger under-modeled sex/sexuality/reproduction
+domain. After deep reconstruction, that domain still did not expose one clean peer object:
 
 ```text
+SexRelatedBiology != Sexuality != Reproduction != Parenthood
+```
+
+Its surviving mechanisms compose existing Human foundations plus domain-specific
+organismic/genetic variables.
+
+Therefore:
+
+```text
+NextFoundationAdmissionCondition(HF24) = false
 HF24 = UNKNOWN
 ```
+
+HF23 remains the current foundation continuation.
 
 ---
 
@@ -115,21 +128,19 @@ HF24 = UNKNOWN
 Read:
 
 ```text
-../deep-foundations/HD5-LANGUAGE-SYMBOL-REFERENCE-MEANING-GENERATIVE-SYSTEMS.md
-../deep-foundations/HD5-SOURCES.md
-../deep-foundations/HD5-CONTINUATION.md
+../deep-foundations/HD6-SEX-SEXUALITY-REPRODUCTION-LIFE-HISTORY.md
+../deep-foundations/HD6-SOURCES.md
+../deep-foundations/HD6-CONTINUATION.md
 ```
 
-The provisional next route is:
+The next non-foundation route is:
 
 ```text
-HD6 — Narrative, Imagination, Fiction, Event Models and Possible-World Construction
+HD7 — Genetic Variation, Heredity, Gene–Environment Development and Individual Differences
 ```
 
-subject to a fresh residual check before execution.
-
 ```text
-HD6 != HF24
+HD7 != HF24
 ```
 
 ---
