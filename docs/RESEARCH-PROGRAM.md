@@ -47,18 +47,22 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0 complete
+## Human Foundations — active, HF0–HF1 complete
 
-A bounded foundation-reconstruction mode is now admitted because materially
-different Human and cross-project studies repeatedly encountered the same
-category debts. It does not replace problem-first applied research.
+A bounded foundation-reconstruction mode is admitted because materially different
+Human and cross-project studies repeatedly encounter the same category debts. It
+does not replace problem-first applied research.
 
-HF0 treats the legacy H0 taxonomy as a hypothesis, compares competing biological,
-experiential, cognitive, motivational, agentive, personal, social, situated and
-developmental projections, and retains only a question-relative projection
-architecture plus explicit scale/time/evidence/normative/boundary coordinates.
+HF0 treats the legacy H0 taxonomy as a hypothesis and retains a
+question-relative projection architecture plus explicit
+scale/time/evidence/modal/normative/boundary coordinates. HF1 makes Human identity
+projection-relative, separates biological body from body representation/ownership/
+control, treats Self as a family of self-relations rather than one primitive,
+requires qualifiers for Person, separates Actor from Agent, and parameterizes
+tool/AI extension by dimension.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
+Current completed round: [`../research/foundations/HF1-BOUNDARY-IDENTITY.md`](../research/foundations/HF1-BOUNDARY-IDENTITY.md).
 
 ## Current applied cycles
 

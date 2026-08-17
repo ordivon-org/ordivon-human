@@ -216,12 +216,15 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-`HF0 — Human Foundations Problem Space and Boundary Reconstruction` is complete.
-It reclassifies the legacy H0 systems as question-relative projections rather
-than peer primitives, makes Capability explicitly relational, promotes
-scale/time/evidence/normative/boundary coordinates, and preserves first-person
-experience separately from report, behaviour, and physiology.
+HF0 and HF1 are complete. HF0 reclassifies the legacy H0 systems as
+question-relative projections rather than peer primitives. HF1 separates Human,
+organism, biological body, body representation/ownership, experiential subject,
+self, person, actor and agent; replaces untyped identity with
+`Same_K(x_t1, x_t2)`; and replaces binary tool incorporation with
+dimension-specific `Extension_D(H,T)`.
 
-The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md).
-HF0 exposes—rather than pre-plans—the next round: the boundary among Human,
-organism/body, subject, self, person, actor, and agent.
+The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
+and the current completed round is
+[`research/foundations/HF1-BOUNDARY-IDENTITY.md`](research/foundations/HF1-BOUNDARY-IDENTITY.md).
+HF1 exposes—rather than pre-plans—HF2: Experience, Consciousness, Awareness,
+Wakefulness, Connectedness, Responsiveness, Reportability and Recall.

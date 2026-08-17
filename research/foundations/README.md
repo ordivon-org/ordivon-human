@@ -24,6 +24,9 @@ related:
   - human.foundations.hf0
   - human.foundations.hf0.sources
   - human.foundations.hf0.continuation
+  - human.foundations.hf1
+  - human.foundations.hf1.sources
+  - human.foundations.hf1.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -81,30 +84,38 @@ Game Foundations and Media Foundations. The Human-specific additions are
 **reflexivity, subjectivity, normativity, heterogeneity, multi-scale causation,
 and authority/ethics**.
 
-## Current round
+## Completed foundation rounds
 
-[`HF0-PROBLEM-SPACE.md`](HF0-PROBLEM-SPACE.md) reconstructs the Human problem
-space without assuming the legacy H0 Atlas is already the right ontology.
+### HF0 — Problem Space and Boundary Reconstruction
 
-HF0's main result is not a replacement list of compartments. It is a projection
-architecture plus a small set of anti-collapses:
+[`HF0-PROBLEM-SPACE.md`](HF0-PROBLEM-SPACE.md) rejects a flat Human subsystem
+taxonomy as the final ontology and retains question-relative projections plus
+explicit scale, timescale, evidence, modal, normative and boundary coordinates.
+The old [`../h0/ATLAS.md`](../h0/ATLAS.md) remains a useful functional view
+library rather than a set of peer primitives.
+
+### HF1 — Human Boundary and Typed Identity
+
+[`HF1-BOUNDARY-IDENTITY.md`](HF1-BOUNDARY-IDENTITY.md) separates Human, organism,
+body, subject, self, person, actor and agent. Its two central operators are:
 
 ```text
-one Human reality
-→ several question-relative projections
-→ explicit scale / time / evidence / normative coordinates
-→ minimum relation model for the phenomenon under study
+Same_K(x_t1, x_t2)
 ```
 
-The old [`../h0/ATLAS.md`](../h0/ATLAS.md) remains useful as a supporting
-functional index. HF0 reclassifies it from a candidate top-level decomposition
-into one compact **view library** whose categories may split, merge, or become
-derived when a foundation question requires it.
+for projection-relative persistence, and:
+
+```text
+Extension_D(H,T)
+```
+
+for dimension-specific tool/AI/body extension. HF1 rejects one universal
+identity criterion and one binary inside/outside extension boundary.
 
 ## Current continuation
 
-HF0 does not pre-plan HF1–HF20. Its exact continuation is recorded in
-[`HF0-CONTINUATION.md`](HF0-CONTINUATION.md). The first forced neighboring
-problem is the boundary among **Human, organism/body, subject, self, person,
-actor and agent**, including persistence through time and extension through
-ordinary tools.
+HF1 exposes the next unavoidable boundary rather than following a fixed
+curriculum. [`HF1-CONTINUATION.md`](HF1-CONTINUATION.md) selects **HF2 —
+Experience, Consciousness, Awareness, Wakefulness, Connectedness,
+Responsiveness, Reportability and Recall** because sleep, anaesthesia, infancy,
+body ownership and amnesia repeatedly falsify their equivalence.

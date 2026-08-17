@@ -258,19 +258,22 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0 complete. Human Foundations is reusable research,
-not a mandatory personal schema or replacement for problem-first applied cycles.
+**Status:** active programme; HF0 and HF1 complete. Human Foundations is reusable
+research, not a mandatory personal schema or replacement for problem-first
+applied cycles.
 
-HF0 rejects the legacy H0 list as a proven flat ontology, retains it as a useful
-view library, reclassifies Capability as relational, separates experience from
-its observation channels, and introduces explicit scale, timescale, evidence,
-modal, normative and boundary coordinates.
+HF0 rejects the legacy H0 list as a proven flat ontology and introduces a
+projection/coordinate grammar. HF1 then separates Human, organism, body, subject,
+self, person, actor and agent; makes persistence projection-relative through
+`Same_K(x_t1, x_t2)`; and makes tool/AI/body extension dimension-specific through
+`Extension_D(H,T)`.
 
-**Current report:** [`foundations/HF0-PROBLEM-SPACE.md`](foundations/HF0-PROBLEM-SPACE.md).
+**Current completed round:**
+[`foundations/HF1-BOUNDARY-IDENTITY.md`](foundations/HF1-BOUNDARY-IDENTITY.md).
 
-**Exact next boundary:** `HF1 — Human Boundary, Organism, Body, Subject, Self,
-Person, Actor and Agent`, selected from HF0's unresolved boundary rather than a
-prewritten roadmap.
+**Exact next boundary:** `HF2 — Experience, Consciousness, Awareness, Wakefulness,
+Connectedness, Responsiveness, Reportability and Recall`, selected from HF1's
+sleep/anaesthesia/subjectivity falsifiers rather than a prewritten roadmap.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

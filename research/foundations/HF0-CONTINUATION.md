@@ -4,7 +4,7 @@ id: human.foundations.hf0.continuation
 title: Human Foundations Continuation after HF0
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -164,3 +164,10 @@ HF0 does not establish that:
 Do not create HF2 merely because HF1 is complete. HF1 must end by naming a
 neighboring distinction whose absence causes repeated explanatory failure across
 materially different Human cases.
+
+## Supersession — HF1 complete
+
+HF1 has now completed the boundary round selected here. Current continuation is
+owned by [`HF1-CONTINUATION.md`](HF1-CONTINUATION.md). This file remains the
+canonical record of why HF1—not a prewritten Body chapter—was selected after
+HF0.
