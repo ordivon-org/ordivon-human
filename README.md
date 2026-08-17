@@ -216,15 +216,15 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0 and HF1 are complete. HF0 reclassifies the legacy H0 systems as
-question-relative projections rather than peer primitives. HF1 separates Human,
-organism, biological body, body representation/ownership, experiential subject,
-self, person, actor and agent; replaces untyped identity with
-`Same_K(x_t1, x_t2)`; and replaces binary tool incorporation with
-dimension-specific `Extension_D(H,T)`.
+HF0–HF2 are complete. HF0 establishes question-relative Human projections. HF1
+separates Human/body/self/person/actor/agent boundaries using typed identity
+`Same_K` and dimension-specific extension `Extension_D`. HF2 separates experience
+and conscious content from global state, connectedness, responsiveness, downstream
+availability, report and recall; rejects one scalar consciousness foundation; and
+introduces `AvailableFor_D` with asymmetric evidence and explicit uncertainty.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF1-BOUNDARY-IDENTITY.md`](research/foundations/HF1-BOUNDARY-IDENTITY.md).
-HF1 exposes—rather than pre-plans—HF2: Experience, Consciousness, Awareness,
-Wakefulness, Connectedness, Responsiveness, Reportability and Recall.
+[`research/foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md`](research/foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md).
+HF2 exposes—rather than pre-plans—HF3: Attention, Access, Working Memory,
+Metacognition, Confidence and Cognitive Control.

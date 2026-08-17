@@ -45,7 +45,7 @@ different questions and cannot all define the current conclusion.
 - [`RESEARCH-PROGRAM.md`](RESEARCH-PROGRAM.md) owns program state, evidence
   maturity, and reopening gates.
 - [`../research/QUESTIONS.md`](../research/QUESTIONS.md) owns question status.
-- [`../research/foundations/README.md`](../research/foundations/README.md) owns the Human Foundations programme entry; [`../research/foundations/HF0-PROBLEM-SPACE.md`](../research/foundations/HF0-PROBLEM-SPACE.md) owns the completed HF0 problem-space result; [`../research/foundations/HF1-BOUNDARY-IDENTITY.md`](../research/foundations/HF1-BOUNDARY-IDENTITY.md) owns the completed HF1 boundary/typed-identity result; and [`../research/foundations/HF1-CONTINUATION.md`](../research/foundations/HF1-CONTINUATION.md) owns the current exact foundation frontier.
+- [`../research/foundations/README.md`](../research/foundations/README.md) owns the Human Foundations programme entry; [`../research/foundations/HF0-PROBLEM-SPACE.md`](../research/foundations/HF0-PROBLEM-SPACE.md), [`../research/foundations/HF1-BOUNDARY-IDENTITY.md`](../research/foundations/HF1-BOUNDARY-IDENTITY.md), and [`../research/foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md`](../research/foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md) own the completed HF0/HF1/HF2 results respectively; and [`../research/foundations/HF2-CONTINUATION.md`](../research/foundations/HF2-CONTINUATION.md) owns the current exact foundation frontier.
 - [`../research/economy/README.md`](../research/economy/README.md) owns the
   current conditional answer for `HUMAN-ECON-001`.
 - [`../research/economy/PRACTICE-GUIDE.md`](../research/economy/PRACTICE-GUIDE.md)

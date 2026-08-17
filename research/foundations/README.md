@@ -27,6 +27,9 @@ related:
   - human.foundations.hf1
   - human.foundations.hf1.sources
   - human.foundations.hf1.continuation
+  - human.foundations.hf2
+  - human.foundations.hf2.sources
+  - human.foundations.hf2.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -97,25 +100,23 @@ library rather than a set of peer primitives.
 ### HF1 — Human Boundary and Typed Identity
 
 [`HF1-BOUNDARY-IDENTITY.md`](HF1-BOUNDARY-IDENTITY.md) separates Human, organism,
-body, subject, self, person, actor and agent. Its two central operators are:
+body, subject, self, person, actor and agent. Its central operators are
+`Same_K(x_t1, x_t2)` for projection-relative persistence and `Extension_D(H,T)`
+for dimension-specific tool/AI/body extension.
 
-```text
-Same_K(x_t1, x_t2)
-```
+### HF2 — Conscious Experience and Evidence Boundaries
 
-for projection-relative persistence, and:
-
-```text
-Extension_D(H,T)
-```
-
-for dimension-specific tool/AI/body extension. HF1 rejects one universal
-identity criterion and one binary inside/outside extension boundary.
+[`HF2-CONSCIOUSNESS-EXPERIENCE.md`](HF2-CONSCIOUSNESS-EXPERIENCE.md) rejects one
+scalar consciousness variable and separates experiential presence/content, global
+state profile, environmental connectedness, typed responsiveness, downstream
+availability, report and recall. It introduces `AvailableFor_D(content, subject,
+t)` plus asymmetric evidence and explicit `Phenomenon != Evidence != Inference !=
+Theory`.
 
 ## Current continuation
 
-HF1 exposes the next unavoidable boundary rather than following a fixed
-curriculum. [`HF1-CONTINUATION.md`](HF1-CONTINUATION.md) selects **HF2 —
-Experience, Consciousness, Awareness, Wakefulness, Connectedness,
-Responsiveness, Reportability and Recall** because sleep, anaesthesia, infancy,
-body ownership and amnesia repeatedly falsify their equivalence.
+HF2 exposes the next unavoidable boundary rather than following a fixed
+curriculum. [`HF2-CONTINUATION.md`](HF2-CONTINUATION.md) selects **HF3 — Attention,
+Access, Working Memory, Metacognition, Confidence and Cognitive Control** because
+no-report paradigms, blindsight, attribute amnesia and command-following tasks
+repeatedly require distinctions among these downstream availability mechanisms.

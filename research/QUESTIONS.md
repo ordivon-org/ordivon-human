@@ -258,22 +258,23 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0 and HF1 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF2 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 rejects the legacy H0 list as a proven flat ontology and introduces a
-projection/coordinate grammar. HF1 then separates Human, organism, body, subject,
-self, person, actor and agent; makes persistence projection-relative through
-`Same_K(x_t1, x_t2)`; and makes tool/AI/body extension dimension-specific through
-`Extension_D(H,T)`.
+HF0 introduces the projection/coordinate grammar. HF1 makes identity
+projection-relative through `Same_K` and tool/body/AI extension dimension-specific
+through `Extension_D`. HF2 separates experience/content from global state,
+connectedness, responsiveness, downstream availability, report and recall;
+rejects one-dimensional consciousness levels and introduces `AvailableFor_D` plus
+asymmetric evidence.
 
 **Current completed round:**
-[`foundations/HF1-BOUNDARY-IDENTITY.md`](foundations/HF1-BOUNDARY-IDENTITY.md).
+[`foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md`](foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md).
 
-**Exact next boundary:** `HF2 — Experience, Consciousness, Awareness, Wakefulness,
-Connectedness, Responsiveness, Reportability and Recall`, selected from HF1's
-sleep/anaesthesia/subjectivity falsifiers rather than a prewritten roadmap.
+**Exact next boundary:** `HF3 — Attention, Access, Working Memory, Metacognition,
+Confidence and Cognitive Control`, selected from HF2's no-report, blindsight,
+attribute-amnesia and command-following residuals rather than a prewritten roadmap.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

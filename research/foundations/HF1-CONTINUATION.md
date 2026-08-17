@@ -4,7 +4,7 @@ id: human.foundations.hf1.continuation
 title: Human Foundations Continuation after HF1
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -235,3 +235,9 @@ HF1 does not establish that:
 
 Do not schedule HF3 now. HF2 must expose a neighboring Human distinction whose
 absence repeatedly breaks explanations across materially different cases.
+
+## Supersession — HF2 complete
+
+HF2 has now completed the experience/consciousness boundary selected here. Current
+continuation is owned by [`HF2-CONTINUATION.md`](HF2-CONTINUATION.md). This file
+remains the canonical record of why HF2 emerged from HF1.
