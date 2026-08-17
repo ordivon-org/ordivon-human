@@ -63,6 +63,9 @@ related:
   - human.foundations.hf13
   - human.foundations.hf13.sources
   - human.foundations.hf13.continuation
+  - human.foundations.hf14
+  - human.foundations.hf14.sources
+  - human.foundations.hf14.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -216,17 +219,25 @@ trust/dependence, joint agency/capability and Human×AI teaming.
 ### HF13 — Social Norms, Conventions, Reputation, Status, Authority, Power, Sanctions and Institutions
 
 [`HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md`](HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md)
-reconstructs persistent social order beyond current dyadic state. It separates
-regularity/convention, actual frequency/empirical expectation/normative expectation/
-personal normative belief, social norm/rule/law, direct history/reputation/
-credential/stereotype, status/prestige/dominance/expertise/influence, de facto
-power/de jure authority/perceived legitimacy, sanction/enforcement, office/
-organization/institution/infrastructure and Human×AI institutional execution.
+reconstructs persistent social order: convention/norm expectation structure,
+reputation, status/prestige/dominance, power/authority/legitimacy, sanction/
+enforcement, law/rule, office/organization/institution/infrastructure and Human×AI
+institutional execution.
+
+### HF14 — Morality, Harm, Welfare, Fairness, Justice, Rights, Duties, Responsibility and Legitimacy
+
+[`HF14-NORMATIVE-EVALUATION-MORALITY-JUSTICE.md`](HF14-NORMATIVE-EVALUATION-MORALITY-JUSTICE.md)
+reconstructs normative evaluation without selecting one moral theory by fiat. It
+separates moral judgment from normative truth; harm/risk and welfare surfaces;
+equality/equity/need/merit/desert, procedural/outcome fairness and justice; typed
+legal/moral rights and duties; causal/moral/legal responsibility, blame and
+accountability; normative legitimacy; and Human×AI authority/control/responsibility.
 
 ## Current continuation
 
-HF13 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF13-CONTINUATION.md`](HF13-CONTINUATION.md) selects **HF14 — Morality, Harm,
-Welfare, Fairness, Justice, Rights, Duties, Responsibility and Legitimacy** because
-social prevalence, expectation, enforcement, legal validity, power and perceived
-legitimacy cannot determine what ought to be done or what is normatively justified.
+HF14 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF14-CONTINUATION.md`](HF14-CONTINUATION.md) selects **HF15 — Moral Standing,
+Moral Agency, Moral Patienthood, Sentience, Interests, Vulnerability, Dignity and
+Scope of Concern** because every harm, welfare, rights and responsibility relation
+still requires a bearer/scope criterion, while agency, experience, rights capacity
+and responsibility capacity demonstrably do not collapse to one axis.

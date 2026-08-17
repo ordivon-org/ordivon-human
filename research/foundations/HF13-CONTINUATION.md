@@ -4,7 +4,7 @@ id: human.foundations.hf13.continuation
 title: Human Foundations Continuation after HF13
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -714,3 +714,9 @@ HF13 does not establish that:
 
 Do not schedule HF15 now. HF14 must expose a repeated neighboring distinction whose
 absence creates category failures across materially different normative cases.
+
+## Supersession — HF14 complete
+
+HF14 has completed the normative-evaluation boundary selected here. Current
+continuation is owned by [`HF14-CONTINUATION.md`](HF14-CONTINUATION.md). This file
+remains the canonical record of why HF14 emerged from HF13.
