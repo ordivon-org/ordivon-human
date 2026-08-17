@@ -91,6 +91,9 @@ related:
   - human.foundations.hf22
   - human.foundations.hf22.sources
   - human.foundations.hf22.continuation
+  - human.foundations.hf23
+  - human.foundations.hf23.sources
+  - human.foundations.hf23.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -331,6 +334,18 @@ reconnects persistent relations to regulation/capability and partner models; and
 Human–AI relational asymmetry without inferring machine experience. HD3 deliberately did
 not promote Theory of Mind itself to a standalone foundation.
 
+### HF23 — Generative Symbolic Systems, Language, Reference, Meaning and Compositional Use
+
+[`HF23-SYMBOLIC-SYSTEMS-LANGUAGE-MEANING.md`](HF23-SYMBOLIC-SYSTEMS-LANGUAGE-MEANING.md)
+is the thin canonical extraction from completed HD5 deep research. It fills the missing
+object between HF8 generic representation, HF12 communication-use events, HF13 conventions
+and HD4 cultural transmission: a persistent socially stabilized generative symbolic system
+with reusable sign/form types, form↔content mappings, construction/combination resources,
+semantic/reference resources, pragmatic conventions, productivity and external inscription
+links. It separates language from thought, communication and speech; semantics from
+pragmatics; syntax from semantics; composition from productivity; writing from language;
+and multidimensional grounding from fluency, understanding and experience.
+
 ## HF0–HF18 cycle closeout
 
 [`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md)
@@ -342,26 +357,24 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF22-CONTINUATION.md`](HF22-CONTINUATION.md) remains the current foundation-level state.
-HD4 completed a full social-learning/cultural-inheritance depth test and deliberately did
-**not** admit HF23: social learning composes existing learning/social-source owners, while
-generic cultural inheritance is a population-historical dynamic distributed across
-HF6/HF7/HF8/HF10/HF12/HF13/HF19/HF22 rather than one missing peer object. HF0–HF22 were not
-reopened. **HF23 remains UNKNOWN / not admitted.**
+[`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) owns the current foundation-level state.
+HD5 demonstrated that a persistent socially stabilized generative symbolic system is a true
+neighboring object between generic representation, one communication/use event, convention
+and cultural transmission, so HF23 is complete/READY as a thin canonical extension.
+HF0–HF22 were not reopened. **HF24 remains UNKNOWN / not admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
 [`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
-continues through completed perception, affective and persistent-relations routes, and now
-includes the completed cultural-inheritance route
-[`../deep-foundations/HD4-SOCIAL-LEARNING-CULTURAL-TRANSMISSION-CUMULATIVE-CULTURE.md`](../deep-foundations/HD4-SOCIAL-LEARNING-CULTURAL-TRANSMISSION-CUMULATIVE-CULTURE.md).
-HD4 owns the full social-learning/teaching/transmission/cumulative-culture mechanism and
-falsifier reconstruction. Its central methodological result is
-`DeepImportance != FoundationAdmission`; no HF23 extraction exists.
+continues through perception, affect, persistent relations and cultural inheritance, and now
+includes the completed symbolic/language route
+[`../deep-foundations/HD5-LANGUAGE-SYMBOL-REFERENCE-MEANING-GENERATIVE-SYSTEMS.md`](../deep-foundations/HD5-LANGUAGE-SYMBOL-REFERENCE-MEANING-GENERATIVE-SYSTEMS.md).
+HD5 owns the full language/symbol/reference/meaning/composition/pragmatics/grounding theory,
+evidence and falsifier reconstruction; HF23 is its compressed reusable symbolic-system
+surface. HD4 remains the canonical example that a completed deep route need not create an HF.
 
-[`../deep-foundations/HD4-CONTINUATION.md`](../deep-foundations/HD4-CONTINUATION.md)
-admits **HD5 — Language, Symbol, Reference, Meaning, Compositionality and Generative
-Symbolic Systems** as the next non-foundation deep route. `HD5 != HF23`. HD and HF numbering
-are now intentionally decoupled whenever a deep route does not independently satisfy the
-foundation-admission gate.
+[`../deep-foundations/HD5-CONTINUATION.md`](../deep-foundations/HD5-CONTINUATION.md)
+provisionally localizes **HD6 — Narrative, Imagination, Fiction, Event Models and
+Possible-World Construction** as the next non-foundation deep route, subject to a lightweight
+residual check before execution. `HD6 != HF24`.
