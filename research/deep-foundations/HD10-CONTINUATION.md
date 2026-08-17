@@ -12,17 +12,17 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Current continuation for HD10 Individual-Difference Architecture after completed HD10-A. HD10-A audited current repo usage, separated measurement instrument/score, population covariance structure, person-difference profile, within-person dynamics and causal mechanism, and preserved the mature state/capacity/skill/capability distinctions already present in HF0/HF6/HF9/HF11/HF12/HF19 and H0 Capability. Personality, temperament and intelligence remain sparsely owned and no named psychometric model is admitted as ontology. HF24 remains UNKNOWN/not admitted; HF0–HF23 remain preserved. Next is HD10-B — Measurement, Evidence and Construct-Validity Audit.
+summary: Current continuation for HD10 after completed HD10-A and HD10-B. A established the term firewall separating measurement instrument/score, population covariance structure, person-difference profile, within-person dynamics and mechanism. B reconstructed the measurement/evidence layer: reliability is target-specific; robust group effects need not provide reliable individual differences; reliability does not imply validity; validity is scoped to score interpretation/use; prediction and invariance do not establish causal ontology; within-person claims require repeated within-person evidence; self/informant/task/ESM/physiology/neural/digital/real-world/Human×Agent channels have distinct evidence ceilings. HF24 remains UNKNOWN/not admitted and HF0–HF23 remain preserved. Next is HD10-C — Rival Model Families I: Personality / Temperament / Trait–State / Person×Situation Architecture.
 evidence_status: verified
 readiness: READY
 applies_to:
   - HUMAN-FOUNDATIONS-001
 related:
-  - human.deep-foundations.post-hd9.direction-search
-  - human.deep-foundations.post-hd9.direction-search.sources
   - human.deep-foundations.hd10a
   - human.deep-foundations.hd10a.sources
-  - human.deep-foundations.hd9.continuation
+  - human.deep-foundations.hd10b
+  - human.deep-foundations.hd10b.sources
+  - human.deep-foundations.post-hd9.direction-search
   - human.foundations.hf23.continuation
 ---
 # Human Deep Foundations Continuation — HD10 Individual-Difference Architecture
@@ -37,29 +37,36 @@ HF24      = UNKNOWN / not admitted
 HD0–HD9   = completed
 Post-HD9 Human-wide direction search = completed
 HD10-A    = completed
+HD10-B    = completed
 HD10      = active deep route
-HD10-B    = next
+HD10-C    = next
 ```
 
 ---
 
-# 1. HD10 object
-
-Working research object remains:
+# 1. HD10 working object
 
 ```text
 relatively persistent person-specific differences
-in state distributions, response functions and capability profiles
+in state distributions, conditional response tendencies and capability profiles
 across contexts and time
 ```
 
-with strict separation among descriptive, measurement and explanatory objects.
+with strict separation among:
 
-The route does **not** assume one common essence called personality or intelligence.
+```text
+descriptive summary
+measurement model
+population statistics
+within-person dynamics
+causal/developmental mechanism
+```
+
+No common essence called personality or intelligence is assumed.
 
 ---
 
-# 2. HD10-A durable result
+# 2. HD10-A durable firewall
 
 Read:
 
@@ -68,22 +75,7 @@ HD10-A-CURRENT-USE-TERM-SEPARATION-HIDDEN-ASSUMPTION-INVENTORY.md
 HD10-A-SOURCES.md
 ```
 
-A found that current Human already has strong negative grammar:
-
-```text
-State != Trait
-Capacity != ObservedPerformance
-IndependentSkill != SituatedCapability != JointCapability
-Measurement != Construct
-PopulationAverage != IndividualState/Effect
-Expertise_D != GeneralIntelligence
-Credential != Competence
-Productivity != WorkerTrait
-```
-
-but lacks a positive reusable grammar connecting person-specific stable heterogeneity to repeated state dynamics.
-
-The central firewall is now:
+Retain:
 
 ```text
 MeasurementInstrument
@@ -94,279 +86,241 @@ MeasurementInstrument
 != CausalMechanism
 ```
 
----
-
-# 3. Current term firewall
-
-Retain at minimum:
-
-```text
-Person
-PersonState_t
-Situation_t
-ContextHistory
-Behavior
-Performance
-Outcome
-StateDistribution
-TraitDescriptor
-ResponseTendency
-Temperament
-Personality
-Preference
-Habit
-Skill
-Ability
-TaskCapacity
-Competence_D
-Expertise_D
-IndependentCapability
-SituatedCapability
-JointCapability
-MeasurementInstrument
-ObservedResponse
-TestScore
-PopulationCovarianceStructure
-PersonDifferenceProfile
-WithinPersonDynamics
-MeasurementModel
-Mechanism
-DevelopmentalTrajectory
-```
-
-Hard guards:
+and:
 
 ```text
 Trait != State
 Trait != Behavior
 Trait != Essence
 TraitDescriptor != CausalMechanism
-SameTraitScore != SamePersonDifferenceProfile
 Ability != TestScore
-Ability != OneObservedPerformance
-Intelligence != gByDefinition
-g != OneCausalMechanismByDefinition
 Performance != Capability
-JointPerformance != HumanIndependentCapability
 BetweenPersonCovariance != WithinPersonDynamics
-MeasurementInvariance != OntologicalUniversality
-CrossContextStability != ContextIndependence
-RankOrderStability != Immutability
-GeneticContribution != TraitIdentity
 StableBehavior != StableInternalDispositionByDefinition
 ```
 
 ---
 
-# 4. Important current-use asymmetries
+# 3. HD10-B durable measurement grammar
 
-The current repo is strong in:
+Read:
 
 ```text
-state
-performance
-skill
-capability
-learning/history
-context/support
+HD10-B-MEASUREMENT-EVIDENCE-CONSTRUCT-VALIDITY-AUDIT.md
+HD10-B-SOURCES.md
 ```
 
-and weak in positive ownership of:
+B adds:
 
 ```text
-personality
-temperament
-intelligence
-person-specific stable structure
-```
-
-This means HD10 must not mistake sparse classic vocabulary for absence of all relevant foundations. Much of the required substrate already exists and must be composed rather than duplicated.
-
----
-
-# 5. Mature structures HD10 must preserve
-
-## HF0 / H0 Capability
-
-```text
-state != trait
-capacity != typical performance
-independent skill != situated capability != joint capability
-measurement != construct
-```
-
-H0 Capability's useful layered decomposition remains:
-
-```text
-underlying capacity
-available capacity in current state
-independent skill
-situated capability
-joint-system capability
-observed performance
-transfer/recovery capability
-```
-
-## HF4
-
-```text
-Preference_D,t,C != timeless trait
-ObservedChoice != StablePreferenceReadout
-```
-
-## HF6
-
-```text
-PracticePerformance != Learning
-CurrentPerformance != PersistentCapability
-Resilience != one fixed trait
-```
-
-## HF9
-
-```text
-DeductiveTaskPerformance != PureDeductiveCapacity
-Reasoning != WorkingMemoryCapacity
-Expertise_D != GeneralReasoningTrait
-```
-
-## HF11
-
-```text
-CurrentPerformance != Skill
-IntrinsicCapacity != SituatedActionCapability
-BareHumanCapability != HumanToolSystemCapability
-```
-
-## HF12 / HF13 / HF17
-
-```text
-Role != RoleCompetence
-Credential != CurrentCompetence
-Status != TaskCompetence
-Expertise != Authority
-Expertise_D != GeneralIntelligence
-```
-
-## HF19
-
-```text
-LaborProductivity != WorkerTrait
-TechnologyAvailable != EffectiveCapability
-```
-
-## HD7
-
-```text
-Difference_D(A,B,time,context,measure)
-IndividualDifference != PersonEssence
-GeneticVarianceContribution != ImmutableRankOrder
+ReliableFor_X != ReliableFor_Y
+ReplicableGroupEffect != ReliableIndividualDifferenceMeasure
+HighReliability != ValidUse
+HighReliability != Mechanism
+InternalConsistency != TemporalStability
+RankOrderStability != MeanLevelStability
+SelfInformantDisagreement != ErrorOnly
+Prediction != Mechanism
+MeasurementInvariance != OntologicalUniversality
+NonInvariance != ConstructUnreality
+RobustGroupBrainActivation != ReliableIndividualBrainMarker
+HumanAIJointPerformance != HumanIndependentCapability
 ```
 
 ---
 
-# 6. Rival model families remain unselected
+# 4. Evidence object
 
-At minimum later rounds must compare:
+Every HD10 empirical claim should now be represented as:
 
 ```text
-lexical / trait-descriptive
-Five-Factor / Big Five
-alternative broad-trait systems
-biological temperament
-social-cognitive / person-situation
-Whole Trait / density-distribution
-dynamic / idiographic
-latent state-trait
-hierarchical cognitive ability / CHC-like
-g common-cause interpretations
-sampling / process-overlap
-mutualism / developmental interaction
+TargetClaim
+  ↓
+EvidenceTarget
+  ↓
+Instrument / Task / Rater / Trace
+  ↓
+Observation
+  ↓
+Scoring / Estimation Model
+  ↓
+Score / Parameter Estimate
+  ↓
+Reliability / Precision profile
+  ↓
+ValidityEvidence profile
+  ↓
+Scoped Interpretation
 ```
 
-No family has yet won.
+No arrow is identity.
 
 ---
 
-# 7. Required axes remain
+# 5. Evidence channels and ceilings
 
-HD10 must pressure:
+Keep typed separately:
 
 ```text
-development / lifespan
-cross-cultural / socioecological transport
-longitudinal and idiographic dynamics
-pathology / disability where discriminative
-cross-context stability and variability
-measurement invariance / non-invariance
-genetic/environmental source separation
-Human×Agent supported performance
+self-report
+informant report
+behavioral task
+experience sampling / ecological momentary assessment
+prospective longitudinal measurement
+physiological evidence
+neural evidence
+real-world outcome
+digital trace
+learning / retention / transfer
+tool-removal / support-boundary test
+Human×Agent trace
 ```
+
+No channel is universal gold standard.
 
 ---
 
-# 8. Foundation gate
+# 6. Person-level claims require person-level sampling
 
-HD10 is not HF24.
-
-The surviving structure may still turn out to be:
+For a `PersonDifferenceProfile`:
 
 ```text
-parameters over existing HF state spaces
-cross-foundation PersonDifferenceProfile
-measurement-only constructs
-conditional response functions
-causal/developmental mechanisms
-or a genuinely new peer Human object
+single cross-sectional score
 ```
 
-Current state:
+may support one estimate, but does not directly estimate:
+
+```text
+within-person variance
+state distribution shape
+conditional situation-response function
+dynamic transition structure
+```
+
+For those, use repeated/longitudinal/idiographic designs with adequate temporal and context sampling.
+
+---
+
+# 7. Ability/capability measurement guard
+
+Retain:
+
+```text
+OneTaskScore != Ability_D
+LatentAbilityFactor != CausalMechanismByDefinition
+MaximumPerformance != TypicalPerformance
+LearningRate != CurrentAbilityScore
+PracticeGain != RetainedLearning != Transfer
+SupportedPerformance != IndependentCapability
+```
+
+A credible ability claim must declare task family, difficulty coverage, support boundary, state conditions, reliability, practice history and transfer scope.
+
+---
+
+# 8. Personality/temperament measurement guard
+
+At minimum consider:
+
+```text
+self-report
+informant
+repeated personality states
+context distribution
+longitudinal stability/change
+cross-cultural measurement structure
+behavior/outcome relation
+method variance
+```
+
+Trait questionnaire standing is evidence, not ontology.
+
+---
+
+# 9. Model families are finally ready for direct comparison
+
+After A+B, HD10 may now compare substantive model families without allowing instruments to choose the ontology implicitly.
+
+First personality/temperament block should include:
+
+```text
+lexical / trait-descriptive traditions
+Five-Factor / Big Five families
+HEXACO / alternative broad-trait systems
+temperament traditions
+social-cognitive / CAPS-like person×situation models
+Whole Trait / density-distribution models
+latent state-trait models
+dynamic / idiographic models
+```
+
+No family is selected yet.
+
+---
+
+# 10. Why cognitive ability/intelligence is deferred from C
+
+HD10 includes both personality and ability, but forcing both into one round would encourage premature grand unification.
+
+Personality/temperament primarily pressures:
+
+```text
+descriptive trait structure
+state expression
+person×situation response
+self/informant evidence
+developmental continuity
+```
+
+Cognitive ability/intelligence additionally requires:
+
+```text
+task sampling
+speed/accuracy
+latent cognitive covariance
+g/CHC alternatives
+process models
+learning/transfer
+```
+
+Therefore C focuses on personality/temperament architecture; intelligence/ability receives a separate later rival-model round if residual remains.
+
+---
+
+# 11. Foundation gate
 
 ```text
 NextFoundationAdmissionCondition(HF24) = false
 FoundationReopenCondition(HF0–HF23) = false
-HF24 = UNKNOWN
+HF24 = UNKNOWN / not admitted
 ```
+
+Psychometrics remains a cross-cutting method/evidence layer rather than HF24.
+
+`PersonDifferenceProfile` remains a research projection candidate, not a peer subsystem.
 
 ---
 
-# 9. Cross-project guard
-
-Do not absorb:
-
-```text
-genetic architecture → HD7
-pathophysiology → HD9
-external environment → World
-institutional credential/allocation → institutional/economic consumers
-agent execution architecture → Harness/Runtime
-all psychometrics → method layer
-```
-
----
-
-# 10. Next action
+# 12. Next action
 
 Proceed to:
 
 ```text
-HD10-B — Measurement, Evidence and Construct-Validity Audit
+HD10-C — Rival Model Families I:
+Personality / Temperament / Trait–State / Person×Situation Architecture
 ```
 
-B must ask, before model adjudication:
+C must:
 
 ```text
-What is directly observed?
-What is scored or estimated?
-What evidence supports stability?
-What evidence supports cross-context generalization?
-What supports a within-person claim versus between-person claim?
-What does reliability establish and not establish?
-What does predictive validity establish and not establish?
-What does measurement invariance establish and not establish?
-How can trait/state/capacity/ability claims be falsified?
-How do self-report, informant report, behavioral task, repeated sampling,
-physiology, real-world outcome and Human×Agent traces disagree?
+reconstruct each rival in its strongest form;
+separate descriptive structure from explanatory mechanism;
+compare trait dimensions versus state distributions versus conditional response functions;
+pressure person×situation interaction;
+pressure development/temperament continuity;
+pressure self/informant/ESM evidence;
+pressure cross-cultural transport;
+identify cheapest discriminating falsifiers;
+retain partial models when scope-limited;
+and not preselect Big Five/HEXACO/Whole Trait/CAPS/temperament/dynamic models.
 ```
-
-HD10-B must not yet choose Big Five, CHC, `g`, temperament or another model as final ontology.
