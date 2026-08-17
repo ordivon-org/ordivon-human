@@ -358,28 +358,30 @@ the first-cycle closeout.
 ## Current foundation continuation
 
 [`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) remains the current foundation-level state.
-HD8 completed the evolution/phylogeny/population-change/Human-specificity depth test without
-admitting HF24. The surviving layer is population/lineage historical and cross-cutting rather
-than one peer Human object: `Evolution != Progress`, `AlleleFrequencyChange != Selection`,
-`Fitness != Welfare`, `Adaptation != Optimality`, `Convergence != Homology`, and
-`HumanSpecific_D != HumanEssence`. HF0–HF23 were not reopened. **HF24 remains UNKNOWN / not
-admitted.**
+HD9 completed the organismic-systems/health/disease/pathophysiology depth test without
+admitting HF24. The surviving layer is cross-system biological implementation and trajectory
+rather than one peer Human object: `Health != NoDiagnosis`,
+`Disease != Symptom != Biomarker != Diagnosis`,
+`ReferenceRange != OptimalRange != IndividualBaseline`, `Inflammation != OneScalar`, and
+`BodySystemProjection != IndependentSubsystem`. HF0–HF23 were not reopened. **HF24 remains
+UNKNOWN / not admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
 [`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
 continues through perception, affect, persistent relations, cultural inheritance, symbolic
-systems, sex/reproduction and genetics/heredity, and now includes the completed
-evolution/comparative route
-[`../deep-foundations/HD8-EVOLUTION-PHYLOGENY-POPULATION-CHANGE-HUMAN-SPECIFICITY.md`](../deep-foundations/HD8-EVOLUTION-PHYLOGENY-POPULATION-CHANGE-HUMAN-SPECIFICITY.md).
-HD8 owns the population-change/selection/drift/admixture/fitness/adaptation/phylogenetic/
-Human-specificity mechanism and falsifier grammar while existing HFs continue to own person
-identity, development, knowledge, current function and normative authority. HD4, HD6, HD7 and
-HD8 now provide four different examples of `DeepImportance != FoundationAdmission`.
+systems, sex/reproduction, genetics/heredity and evolution/comparative Human, and now includes
+the completed organismic health/disease route
+[`../deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md`](../deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md).
+HD9 owns the health/disease/biomarker/diagnosis/inflammation/immunometabolism/endocrine/
+vascular/cardiorenal/microbiome/trajectory mechanism and falsifier grammar while existing HFs
+continue to own regulation, adaptation, perception/experience, capability and normativity.
+HD4, HD6, HD7, HD8 and HD9 now provide five different examples of
+`DeepImportance != FoundationAdmission`.
 
-[`../deep-foundations/HD8-CONTINUATION.md`](../deep-foundations/HD8-CONTINUATION.md)
-records the post-HD8 global residual scan and admits **HD9 — Organismic Systems, Health,
-Disease, Immune–Metabolic–Endocrine Integration and Pathophysiology** as the next
-non-foundation deep route. `HD9 != HF24`; narrative/imagination, collective identity,
-sleep/dreaming and psychopathology remain later residual candidates.
+[`../deep-foundations/HD9-CONTINUATION.md`](../deep-foundations/HD9-CONTINUATION.md)
+records the post-HD9 global residual scan and admits **HD10 — Narrative, Imagination,
+Fiction, Event Models and Possible-World Construction** as the next non-foundation deep route.
+`HD10 != HF24`; collective identity/intergroup dynamics, psychopathology, sleep/dreaming,
+built environment/ecology and creativity/play/aesthetics remain later residual candidates.

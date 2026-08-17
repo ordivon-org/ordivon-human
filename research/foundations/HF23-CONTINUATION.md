@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Exact foundation continuation after HF23 following completed HD8. HF23 remains complete/READY and current; HD8 reconstructs evolution, population/lineage change, selection/drift/admixture, fitness/adaptation, phylogenetic/comparative inference, introgression, Human-specificity and gene–culture/niche coupling as a cross-cutting population-historical causal/explanatory layer without admitting HF24. Human Deep Foundations continues separately with HD9 organismic systems/health/disease integration as the next non-foundation route after a confirming global residual scan.
+summary: Exact foundation continuation after HF23 following completed HD9. HF23 remains complete/READY and current; HD9 reconstructs organismic state, health/disease, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology and chronic/multimorbidity trajectories as a cross-system biological domain without admitting HF24. Human Deep Foundations continues separately with HD10 narrative/imagination/fiction/event-model/possible-world construction as the next non-foundation route after a confirming global residual scan.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -99,7 +99,7 @@ Grounding = Experience
 
 ---
 
-# 4. HD6–HD8 completed without admitting HF24
+# 4. HD6–HD9 completed without admitting HF24
 
 HD6 first ran the residual check required by HD5. Narrative/imagination remained a valid
 later candidate but was displaced by the much larger under-modeled sex/sexuality/reproduction
@@ -119,14 +119,14 @@ NextFoundationAdmissionCondition(HF24) = false
 HF24 = UNKNOWN
 ```
 
-HD7 then reconstructed genetic variation, heredity, regulation, heritability, population structure and individual-difference inference as a cross-cutting biological causal/inheritance layer. HD8 subsequently reconstructed population/lineage evolution, selection/drift/admixture, fitness/adaptation, phylogenetic/comparative inference, archaic introgression, Human-specificity and gene–culture/niche coupling as a population-historical causal/explanatory layer. Neither exposed a clean peer HF24 object or reopened an existing HF.
+HD7 reconstructed genetics/heredity, HD8 reconstructed population/lineage evolution, and HD9 reconstructed organismic health/disease, inflammatory/immunometabolic, endocrine/metabolic/vascular/cardiorenal and microbiome-host trajectories. None exposed a clean peer HF24 object or reopened an existing HF.
 
 ```text
-Evolution != Progress
-AlleleFrequencyChange != Selection
-Fitness != Welfare / MoralWorth
-Adaptation != Optimality
-HumanSpecific_D != HumanEssence
+Health != NoDiagnosis
+Disease != Symptom != Biomarker != Diagnosis
+ReferenceRange != OptimalRange != IndividualBaseline
+Inflammation != OneScalar
+BodySystemProjection != IndependentSubsystem
 ```
 
 HF23 remains the current foundation continuation.
@@ -138,19 +138,19 @@ HF23 remains the current foundation continuation.
 Read:
 
 ```text
-../deep-foundations/HD8-EVOLUTION-PHYLOGENY-POPULATION-CHANGE-HUMAN-SPECIFICITY.md
-../deep-foundations/HD8-SOURCES.md
-../deep-foundations/HD8-CONTINUATION.md
+../deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md
+../deep-foundations/HD9-SOURCES.md
+../deep-foundations/HD9-CONTINUATION.md
 ```
 
 The next non-foundation route is:
 
 ```text
-HD9 — Organismic Systems, Health, Disease, Immune–Metabolic–Endocrine Integration and Pathophysiology
+HD10 — Narrative, Imagination, Fiction, Event Models and Possible-World Construction
 ```
 
 ```text
-HD9 != HF24
+HD10 != HF24
 ```
 
 ---
