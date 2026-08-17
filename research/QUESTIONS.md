@@ -14,7 +14,7 @@ audience:
   - reader
   - builder
   - agent
-updated: 2026-08-04
+updated: 2026-08-17
 summary: Canonical registry separating Human's project question, completed applied cycle, supporting questions, inactive candidates, falsifiers, and excluded project forms.
 evidence_status: verified
 readiness: READY
@@ -249,6 +249,32 @@ Which feedback loops and bottlenecks survive complete human cases?
 
 When may population evidence update an individual decision, and when is a
 within-person or single-case design required? See [`../methods/m0/`](../methods/m0/).
+
+## Foundation research programme
+
+### HUMAN-FOUNDATIONS-001 — Human foundations reconstruction
+
+> What minimum structures, processes, relations and distinctions are needed to
+> study a human without reducing the person to one discipline, one score, one
+> current state, or one social role?
+
+**Status:** active programme; HF0 complete. Human Foundations is reusable research,
+not a mandatory personal schema or replacement for problem-first applied cycles.
+
+HF0 rejects the legacy H0 list as a proven flat ontology, retains it as a useful
+view library, reclassifies Capability as relational, separates experience from
+its observation channels, and introduces explicit scale, timescale, evidence,
+modal, normative and boundary coordinates.
+
+**Current report:** [`foundations/HF0-PROBLEM-SPACE.md`](foundations/HF0-PROBLEM-SPACE.md).
+
+**Exact next boundary:** `HF1 — Human Boundary, Organism, Body, Subject, Self,
+Person, Actor and Agent`, selected from HF0's unresolved boundary rather than a
+prewritten roadmap.
+
+**Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
+or category-error prevention value over the simpler H0 view library in materially
+different Human problems, contract or delete the added foundation structure.
 
 ## Inactive candidate problems
 

@@ -8,6 +8,13 @@ The Atlas provides selectable distinctions for problem-driven studies. It is not
 a complete model of a person and does not need every category filled before a
 concrete study proceeds.
 
+**HF0 status update (2026-08-17):** the Atlas is now explicitly a historical
+first-pass functional **view library**, not the default Human foundation ontology.
+[`../foundations/HF0-PROBLEM-SPACE.md`](../foundations/HF0-PROBLEM-SPACE.md)
+reclassifies several Atlas categories: Capability is relational rather than a
+peer internal subsystem; Behaviour is an action/performance surface; Identity
+and Values must split; and Time/History becomes a required research coordinate.
+
 ## Current consumer
 
 `HUMAN-ECON-001` uses the Atlas to represent:

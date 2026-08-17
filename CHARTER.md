@@ -14,7 +14,7 @@ audience:
   - maintainer
   - builder
   - agent
-updated: 2026-08-04
+updated: 2026-08-17
 summary: Canonical decision defining Human's mission, problem-first research order, question admission, evidence discipline, privacy boundary, and implementation threshold.
 evidence_status: not_applicable
 readiness: READY
@@ -197,3 +197,27 @@ separable from individualized professional advice.
 
 Accepted and active as the project charter. Reopen only when the mission or
 authority boundary changes, not when a new applied problem is admitted.
+
+## Foundation research amendment — 2026-08-17
+
+Problem-first applied research remains Human's default mode, but repeated
+independent work has now earned a second bounded mode: **Human Foundations**.
+Foundations may study recurring Human distinctions before one new applied problem
+consumes them when at least two materially different prior consumers or external
+fields expose the same category error and the work can be falsified without
+collecting a permanent personal profile.
+
+Foundation research must:
+
+1. treat inherited taxonomies as hypotheses rather than completion targets;
+2. use competing projections, external evidence, counterexamples and deletion
+   tests;
+3. preserve scale, timescale, first-person/third-person and normative boundaries;
+4. avoid universal scalar Human objectives and total-person schemas;
+5. create no authority over a person from descriptive or predictive accuracy;
+6. let each next foundation round be selected by a boundary exposed by the
+   previous round rather than a fixed curriculum.
+
+The canonical entry is [`research/foundations/README.md`](research/foundations/README.md).
+This amendment expands the research modes without weakening the existing question,
+privacy, implementation or high-consequence admission gates.

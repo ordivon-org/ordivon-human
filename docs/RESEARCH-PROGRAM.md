@@ -14,7 +14,7 @@ audience:
   - builder
   - reader
   - agent
-updated: 2026-08-04
+updated: 2026-08-17
 summary: Canonical program state, evidence model, admission gates, and reopening conditions for Human's problem-driven research and completed economic-autonomy cycle.
 evidence_status: verified
 readiness: READY
@@ -46,6 +46,19 @@ The program is active as a research discipline. Its first applied cycle,
 practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
+
+## Human Foundations — active, HF0 complete
+
+A bounded foundation-reconstruction mode is now admitted because materially
+different Human and cross-project studies repeatedly encountered the same
+category debts. It does not replace problem-first applied research.
+
+HF0 treats the legacy H0 taxonomy as a hypothesis, compares competing biological,
+experiential, cognitive, motivational, agentive, personal, social, situated and
+developmental projections, and retains only a question-relative projection
+architecture plus explicit scale/time/evidence/normative/boundary coordinates.
+
+Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
 
 ## Current applied cycles
 
@@ -200,7 +213,8 @@ are now consumed by `HUMAN-AI-001`.
 
 ## Supporting assets
 
-- [`../research/h0/`](../research/h0/) supplies selectable system distinctions;
+- [`../research/foundations/`](../research/foundations/) supplies the active reusable Human foundation distinctions and continuation boundary;
+- [`../research/h0/`](../research/h0/) supplies the historical selectable functional view library;
 - [`../methods/METHODOLOGY.md`](../methods/METHODOLOGY.md) supplies reusable
   inference discipline;
 - [`../methods/m0/`](../methods/m0/) preserves completed methodological
@@ -218,7 +232,7 @@ the construct cannot be measured credibly, the result cannot change a decision,
 a mature source already answers the question, or implementation and governance
 cost exceed expected information gain.
 
-There is no automatic E10, H1, M1, or platform milestone.
+There is no automatic E10, fixed HF sequence, M1, or platform milestone.
 
 
 ## HUMAN-AI-001 evidence-transport contraction — 2026-08-14

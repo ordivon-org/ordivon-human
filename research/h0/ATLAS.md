@@ -4,6 +4,10 @@
 
 The Atlas is a compact map of the systems needed to explain human functioning and development. It is not an exhaustive taxonomy, clinical classification, personality inventory, or claim that each system is independent.
 
+**Foundation status:** HF0 (2026-08-17) retains this document as a useful
+functional view library but rejects interpreting its top-level indentation as a
+proven ontology. See [`../foundations/HF0-PROBLEM-SPACE.md`](../foundations/HF0-PROBLEM-SPACE.md).
+
 The primary object is:
 
 ```text

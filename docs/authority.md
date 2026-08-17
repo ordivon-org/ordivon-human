@@ -15,7 +15,7 @@ audience:
   - reader
   - builder
   - agent
-updated: 2026-08-04
+updated: 2026-08-17
 summary: Decision separating Human's mission, program state, question status, current applied answer, practice guidance, methods, ethics, supporting maps, evidence, and historical records.
 evidence_status: not_applicable
 readiness: READY
@@ -45,6 +45,7 @@ different questions and cannot all define the current conclusion.
 - [`RESEARCH-PROGRAM.md`](RESEARCH-PROGRAM.md) owns program state, evidence
   maturity, and reopening gates.
 - [`../research/QUESTIONS.md`](../research/QUESTIONS.md) owns question status.
+- [`../research/foundations/README.md`](../research/foundations/README.md) owns the Human Foundations programme entry; [`../research/foundations/HF0-PROBLEM-SPACE.md`](../research/foundations/HF0-PROBLEM-SPACE.md) owns the completed HF0 result and [`../research/foundations/HF0-CONTINUATION.md`](../research/foundations/HF0-CONTINUATION.md) owns its exact continuation boundary.
 - [`../research/economy/README.md`](../research/economy/README.md) owns the
   current conditional answer for `HUMAN-ECON-001`.
 - [`../research/economy/PRACTICE-GUIDE.md`](../research/economy/PRACTICE-GUIDE.md)

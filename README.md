@@ -15,7 +15,7 @@ audience:
   - researcher
   - builder
   - agent
-updated: 2026-08-04
+updated: 2026-08-17
 summary: Canonical entry to Human's problem-driven research, completed economic-autonomy framework, practical decision modules, evidence limits, methods, and reading paths.
 evidence_status: verified
 readiness: READY
@@ -31,9 +31,11 @@ related:
 # Ordivon Human
 
 Ordivon Human studies **concrete problems that shape human lives and future
-choices**. It does not begin with a complete theory of the person, a personal
-score, or a large dataset. It begins with a decision-relevant question and adds
-only the concepts, evidence, and methods needed to answer it.
+choices** while maintaining a bounded Human Foundations programme for reusable
+conceptual distinctions. Applied work remains problem-first; foundations does not
+create a complete theory of the person, a personal score, or a mandatory schema.
+It exists because repeated applied and cross-project work exposed recurring
+category errors that should not be reinvented for every problem.
 
 ## Purpose
 
@@ -154,8 +156,10 @@ universally optimal path. See
 
 ## Supporting research assets
 
-- [`research/h0/`](research/h0/) — the **Human System Atlas**, a selectable map
-  of body, cognition, emotion and motivation, capability, and relations;
+- [`research/foundations/`](research/foundations/) — **Human Foundations**, the
+  active first-principles reconstruction of Human concepts and boundaries;
+- [`research/h0/`](research/h0/) — the historical **Human System Atlas**, retained
+  as a selectable functional view library rather than a completed ontology;
 - [`methods/`](methods/) — reusable measurement and inference discipline;
 - [`methods/m0/`](methods/m0/) — completed methodological foundation work,
   preserved under its historical identifier;
@@ -209,3 +213,15 @@ requirements.
 The earlier `prospectively frozen Human × Ordivon dogfood` wording is superseded by the evidence-first contraction. General Human mechanisms should first consume the external evidence base; active Ordivon work now targets the transport residuals that external studies do not answer. The frozen R1/R3 fixtures and standing R6 prediction wave are not default next actions; R5 timescale coordination remains active, while R2/R4 use decision-linked and natural evidence first.
 
 See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-capability/CONTRACTION-20260814.md).
+
+## Human Foundations update — 2026-08-17
+
+`HF0 — Human Foundations Problem Space and Boundary Reconstruction` is complete.
+It reclassifies the legacy H0 systems as question-relative projections rather
+than peer primitives, makes Capability explicitly relational, promotes
+scale/time/evidence/normative/boundary coordinates, and preserves first-person
+experience separately from report, behaviour, and physiology.
+
+The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md).
+HF0 exposes—rather than pre-plans—the next round: the boundary among Human,
+organism/body, subject, self, person, actor, and agent.
