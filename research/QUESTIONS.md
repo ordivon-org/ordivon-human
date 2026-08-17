@@ -258,16 +258,18 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** first foundation cycle HF0–HF18 complete/frozen; Human Foundations remains an active reusable research programme, not a mandatory personal schema or replacement for problem-first applied cycles.
+**Status:** first foundation cycle HF0–HF18 complete/frozen; HF19 production/economic-organization extension complete; Human Foundations remains an active reusable research programme, not a mandatory personal schema or replacement for problem-first applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs realized situated action. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing/bearer conditions. HF16 reconstructs population/temporal aggregation. HF17 reconstructs collective normative choice. HF18 reconstructs strategic implementation under private information/incentives, including mechanism design, IC/IR/efficiency/budget trade-offs, auctions/bargaining/matching/markets, public goods/commons, information asymmetry/principal-agent problems, collusion/Sybil robustness and strategic AI agents.
+HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs realized situated action. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing/bearer conditions. HF16 reconstructs population/temporal aggregation. HF17 reconstructs collective normative choice. HF18 reconstructs strategic implementation under private information/incentives. HF19 reconstructs work, production, productivity, technology, capital, specialization/team production, plural firm/governance models, ownership/control, incomplete contracts, investment, scale/scope/complementarity, automation/AI economic roles and value creation/capture without collapsing them into one production function or firm theory.
 
-**Current completed round:**
-[`foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md`](foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md).
+**Current completed extension:**
+[`foundations/HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md`](foundations/HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md).
 
-**Cycle closeout:** [`foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
+**HF19 evidence:** [`foundations/HF19-SOURCES.md`](foundations/HF19-SOURCES.md).
 
-**Exact next boundary, intentionally deferred to a fresh conversation:** `HF19 — Work, Production, Specialization, Firms, Ownership, Capital, Technology and Economic Organization`, selected because HF18 can implement allocation over a feasible set but does not reconstruct how work, production technology, capital, specialization, ownership and organization create/transform that feasible set. Do not reopen HF0–HF18 without a concrete `FoundationReopenCondition`.
+**Cycle closeout:** [`foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md) remains the frozen first-cycle closeout and reopen protocol.
+
+**Current continuation:** [`foundations/HF19-CONTINUATION.md`](foundations/HF19-CONTINUATION.md). No successor foundation is admitted or named; a future round requires a repeated neighboring residual that HF0–HF19 cannot represent without arbitrary hidden choices. Do not reopen HF0–HF18 without a concrete `FoundationReopenCondition`.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

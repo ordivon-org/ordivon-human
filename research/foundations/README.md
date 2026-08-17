@@ -79,6 +79,9 @@ related:
   - human.foundations.hf18.sources
   - human.foundations.hf18.continuation
   - human.foundations.hf0-hf18.closeout
+  - human.foundations.hf19
+  - human.foundations.hf19.sources
+  - human.foundations.hf19.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -273,19 +276,31 @@ IC/IR/efficiency/budget/legitimacy; auctions/VCG/trade, bargaining, matching/mar
 public goods/commons, adverse selection/moral hazard, principal-agent contracts,
 collusion/Sybil/false-name behavior and strategic Human/AI participation.
 
+### HF19 — Work, Production, Specialization, Firms, Ownership, Capital, Technology and Economic Organization
+
+[`HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md`](HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md)
+reconstructs the dynamic production/economic-organization layer after HF18. It
+separates work/employment/labor/effort/task, production/output/productivity,
+technology/tool/skill, capital assets/services/money/claims, specialization/team
+production, plural theories of firms/governance, ownership/possession/access/control,
+incomplete contracts/hold-up, scale/scope/complementarity, automation/AI roles and
+value creation/capture/welfare. No single firm theory or production function is
+promoted to universal ontology.
+
 ## HF0–HF18 cycle closeout
 
 [`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md)
 is the compact canonical index for the completed first Human Foundations cycle. It
 contains the cross-round conceptual map, durable firewalls, reopen conditions and
 fresh-conversation protocol; consumers should use it instead of rereading all prior
-rounds by default.
+rounds by default. HF19 extends this frozen library without reopening or superseding
+the first-cycle closeout.
 
 ## Current continuation
 
-HF18 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF18-CONTINUATION.md`](HF18-CONTINUATION.md) selects **HF19 — Work, Production,
-Specialization, Firms, Ownership, Capital, Technology and Economic Organization**
-because allocation and incentive-compatible implementation do not reconstruct how
-work/technology/capital/ownership/organization create and transform the feasible set.
-HF19 is intentionally deferred to a fresh conversation.
+[`HF19-CONTINUATION.md`](HF19-CONTINUATION.md) owns the exact continuation after HF19.
+HF19 is complete and READY, no `FoundationReopenCondition` was found for HF0–HF18, and
+**no successor foundation is currently admitted or named**. A later round may be
+created only after repeated cross-context consumer/evidence failures expose a new
+neighboring distinction that HF0–HF19 cannot represent without arbitrary hidden
+choices.

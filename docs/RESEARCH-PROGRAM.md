@@ -47,18 +47,21 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active programme; HF0–HF18 first cycle complete/frozen
+## Human Foundations — active programme; HF0–HF18 frozen, HF19 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes projection/coordinate discipline; HF1 typed identity; HF2 experience/evidence; HF3 attention/access/metacognition; HF4 goals/value/motivation; HF5 organismic regulation; HF6 persistent change; HF7 memory; HF8 representation/knowledge/understanding; HF9 reasoning/causality; HF10 decision/planning; HF11 situated action; HF12 relational multi-agent action; HF13 persistent social order; HF14 normative evaluation; HF15 moral standing/scope; HF16 population/temporal aggregation; HF17 collective normative choice; and HF18 strategic implementation under private information/incentives. HF18 separates mechanism from social choice/institution, solution concepts and IC/IR/efficiency/budget/legitimacy, auctions/bargaining/matching/markets, public goods/commons, adverse selection/moral hazard, principal-agent contracts, collusion/Sybil robustness and strategic AI participation.
+HF0–HF18 remain the frozen first-cycle foundation library. HF19 extends that library with production/economic organization: work versus employment/labor/effort/task; production/output/productivity; technology/tool/skill; typed capital and capital services; specialization/team production; plural theories of firms and governance; ownership/possession/access/control; incomplete contracts/hold-up; scale/scope/complementarity; automation/AI roles; and value creation/capture/welfare boundaries. Its falsification audit found no concrete `FoundationReopenCondition` for HF0–HF18.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md`](../research/foundations/HF18-INCENTIVES-MECHANISM-DESIGN-STRATEGIC-IMPLEMENTATION.md).
+Current completed extension: [`../research/foundations/HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md`](../research/foundations/HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md).
+HF19 evidence ledger: [`../research/foundations/HF19-SOURCES.md`](../research/foundations/HF19-SOURCES.md).
 First-cycle closeout/handoff: [`../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
-Exact deferred frontier: **HF19 — Work, Production, Specialization, Firms, Ownership, Capital, Technology and Economic Organization**. Do not rerun HF0–HF18 without a concrete `FoundationReopenCondition`.
+Current continuation: [`../research/foundations/HF19-CONTINUATION.md`](../research/foundations/HF19-CONTINUATION.md).
+
+No successor foundation is admitted or named. A later round requires repeated cross-context failures that expose a neighboring distinction not representable by HF0–HF19 without arbitrary hidden choices. Do not rerun HF0–HF18 without a concrete `FoundationReopenCondition`.
 
 ## Current applied cycles
 
