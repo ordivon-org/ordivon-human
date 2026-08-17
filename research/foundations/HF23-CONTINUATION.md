@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Exact foundation continuation after HF23 following completed HD9. HF23 remains complete/READY and current; HD9 reconstructs organismic state, health/disease, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology and chronic/multimorbidity trajectories as a cross-system biological domain without admitting HF24. Human Deep Foundations continues separately with no preselected successor: HD10 and HF24 remain UNKNOWN pending a fresh global unexplored-space/domain-coverage search.
+summary: Exact foundation continuation after HF23 following completed HD9 and the subsequent post-HD9 Human-wide direction search. HF23 remains complete/READY and current; HF24 remains UNKNOWN/not admitted. HD10 Individual-Difference Architecture is now admitted only as the next non-foundation deep route, without reopening HF0–HF23 or implying HF24 admission.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -145,19 +145,21 @@ Read:
 ../deep-foundations/HD9-CONTINUATION.md
 ```
 
-The next non-foundation route is intentionally **not selected here**. Read:
+HF23 itself does not select the deep-research route. The historical HD9 closeout first preserved the route as UNKNOWN; a subsequent independent Human-wide search then selected the current deep continuation. Read:
 
 ```text
 ../deep-foundations/HD9-CONTINUATION.md
 ../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md
+../deep-foundations/POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md
+../deep-foundations/HD10-CONTINUATION.md
 ```
 
-Then rerun Human-wide coverage before admitting any successor.
+Current state:
 
 ```text
-HD10 = UNKNOWN
-NextDeepRoute = UNKNOWN
-HF24 = UNKNOWN
+HD10 = Individual-Difference Architecture / admitted deep route
+HF24 = UNKNOWN / not admitted
+FoundationReopenCondition(HF0–HF23) = false
 ```
 
 ---

@@ -381,7 +381,10 @@ HD4, HD6, HD7, HD8 and HD9 now provide five different examples of
 `DeepImportance != FoundationAdmission`.
 
 [`../deep-foundations/HD9-CONTINUATION.md`](../deep-foundations/HD9-CONTINUATION.md)
-now deliberately leaves the successor unknown. The non-ranked
+records that HD9 itself deliberately closed with the successor unknown. The non-ranked
 [`../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md`](../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md)
-records remaining research continents without priority. `HD10 = UNKNOWN`, `NextDeepRoute =
-UNKNOWN`, and `HF24 = UNKNOWN`; a fresh Human-wide coverage search must choose the next route.
+preserves that pre-selection map without priority. The subsequent fresh Human-wide search
+[`../deep-foundations/POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md`](../deep-foundations/POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md)
+admits `HD10 — Individual-Difference Architecture` as the next **non-foundation** deep route.
+[`../deep-foundations/HD10-CONTINUATION.md`](../deep-foundations/HD10-CONTINUATION.md)
+is the current deep handoff. `HF24 = UNKNOWN / not admitted` and no HF0–HF23 foundation has been reopened.

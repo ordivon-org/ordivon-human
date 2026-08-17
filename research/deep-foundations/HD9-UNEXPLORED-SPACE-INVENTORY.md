@@ -4,7 +4,7 @@ id: human.deep-foundations.hd9.unexplored-space
 title: Human Deep Foundations — Unexplored-Space Inventory after HD9
 type: research-index
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Non-ranked inventory of Human research spaces that remain unclosed after HD0–HD9. This document deliberately does not choose HD10 or HF24. Its purpose is to keep the next conversation free to rerun domain coverage across foundational omissions, depth omissions, applications, cross-cutting bridges and neighboring-project ownership, including pre-Agent theory and Agent-era perturbations.
+summary: Preserved non-ranked pre-selection inventory of Human research spaces that remained unclosed immediately after HD0–HD9. This document deliberately did not choose HD10 or HF24 and remains a historical input rather than a current route authority. A later fresh Human-wide direction search selected HD10 Individual-Difference Architecture as the next non-foundation deep route while HF24 remains UNKNOWN.
 evidence_status: provisional
 readiness: READY
 applies_to:
@@ -22,8 +22,12 @@ related:
   - human.deep-foundations.hd9
   - human.deep-foundations.hd9.continuation
   - human.foundations.hf23.continuation
+  - human.deep-foundations.post-hd9.direction-search
+  - human.deep-foundations.hd10.continuation
 ---
 # Human Deep Foundations — Unexplored-Space Inventory after HD9
+
+> Historical-state note: this file preserves the deliberately unranked map used **before** the post-HD9 direction decision. Its internal `HD10 = UNKNOWN` statements describe that creation-time frontier. Current deep-route authority is `POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md` and `HD10-CONTINUATION.md`. Inventory order remains non-ranked and is not retroactively rewritten into a queue.
 
 ## 0. Rule
 

@@ -2645,12 +2645,14 @@ fresh global residual scan
 + cheapest falsifier comparison
 ```
 
-Therefore:
+Therefore, **at HD9 close**:
 
 ```text
 HD10 = UNKNOWN
 HF24 = UNKNOWN
 ```
+
+This is a historical close-state, not a permanent successor claim. The later independent post-HD9 Human-wide direction search is the authority for the current deep route.
 
 ---
 
