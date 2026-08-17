@@ -269,7 +269,9 @@ HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. 
 
 **Cycle closeout:** [`foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md) remains the frozen first-cycle closeout and reopen protocol.
 
-**Current continuation:** [`foundations/HF19-CONTINUATION.md`](foundations/HF19-CONTINUATION.md). No successor foundation is admitted or named; a future round requires a repeated neighboring residual that HF0–HF19 cannot represent without arbitrary hidden choices. Do not reopen HF0–HF18 without a concrete `FoundationReopenCondition`.
+**Current foundation continuation:** [`foundations/HF19-CONTINUATION.md`](foundations/HF19-CONTINUATION.md). No successor HF foundation is admitted or named; a future HF round requires a repeated neighboring residual that HF0–HF19 cannot represent without arbitrary hidden choices. Do not reopen HF0–HF19 without the applicable canonical gate.
+
+**Current deep-research direction:** [`deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md). HD0 is complete and does not create HF20. It admits [`deep-foundations/HD0-CONTINUATION.md`](deep-foundations/HD0-CONTINUATION.md)'s HD1 perception/active-sensing route as a non-foundation depth test. Evolution/comparative, development/lifespan, cross-cultural/historical, pathology/lesion, disability/compensation, altered-state and Human×AI analyses are retained as recurring pressure axes rather than a fixed future curriculum.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

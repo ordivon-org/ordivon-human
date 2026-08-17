@@ -296,11 +296,27 @@ fresh-conversation protocol; consumers should use it instead of rereading all pr
 rounds by default. HF19 extends this frozen library without reopening or superseding
 the first-cycle closeout.
 
-## Current continuation
+## Current foundation continuation
 
-[`HF19-CONTINUATION.md`](HF19-CONTINUATION.md) owns the exact continuation after HF19.
-HF19 is complete and READY, no `FoundationReopenCondition` was found for HF0–HF18, and
-**no successor foundation is currently admitted or named**. A later round may be
-created only after repeated cross-context consumer/evidence failures expose a new
-neighboring distinction that HF0–HF19 cannot represent without arbitrary hidden
-choices.
+[`HF19-CONTINUATION.md`](HF19-CONTINUATION.md) remains the exact foundation-level
+continuation after HF19. HF19 is complete and READY, no `FoundationReopenCondition`
+was found for HF0–HF18, and **no successor HF foundation is currently admitted or
+named**. A later HF round may be created only after repeated cross-context
+consumer/evidence failures expose a new neighboring distinction that HF0–HF19 cannot
+represent without arbitrary hidden choices.
+
+## Human Deep Foundations direction search
+
+The separate deep-research layer begins at
+[`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md).
+HD0 audits skeleton coverage versus mechanistic depth, distinguishes domain candidates
+from cross-cutting pressure axes, and builds a repeated-residual ledger without
+reopening HF0–HF19. Its evidence ledger is
+[`../deep-foundations/HD0-SOURCES.md`](../deep-foundations/HD0-SOURCES.md), and the exact
+continuation is
+[`../deep-foundations/HD0-CONTINUATION.md`](../deep-foundations/HD0-CONTINUATION.md).
+
+HD0 admits **HD1 — Perception, Sensing, Active Sampling and Perceptual World Coupling**
+as the first non-foundation deep route. `HD1 != HF20`: the route must first test whether
+existing HF2/HF3/HF5/HF8/HF11 views can absorb the deeper reconstruction before any
+canonical foundation admission is considered.

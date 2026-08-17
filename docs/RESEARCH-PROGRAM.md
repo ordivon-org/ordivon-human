@@ -61,7 +61,11 @@ HF19 evidence ledger: [`../research/foundations/HF19-SOURCES.md`](../research/fo
 First-cycle closeout/handoff: [`../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
 Current continuation: [`../research/foundations/HF19-CONTINUATION.md`](../research/foundations/HF19-CONTINUATION.md).
 
-No successor foundation is admitted or named. A later round requires repeated cross-context failures that expose a neighboring distinction not representable by HF0–HF19 without arbitrary hidden choices. Do not rerun HF0–HF18 without a concrete `FoundationReopenCondition`.
+No successor HF foundation is admitted or named. A later HF round requires repeated cross-context failures that expose a neighboring distinction not representable by HF0–HF19 without arbitrary hidden choices.
+
+A separate second-generation **Human Deep Foundations** research mode now tests depth debt before changing the canonical foundation library. [`../research/deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../research/deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md) is the completed direction/coverage audit; it distinguishes absent topics from interface-rich/mechanism-thin bridges and from cross-cutting falsification axes. HD0 keeps HF0–HF19 frozen and admits no HF20. Its exact continuation, [`../research/deep-foundations/HD0-CONTINUATION.md`](../research/deep-foundations/HD0-CONTINUATION.md), admits **HD1 — Perception, Sensing, Active Sampling and Perceptual World Coupling** as a non-foundation deep-research route.
+
+The recurring deep-pressure axes are evolution/comparative species, development/lifespan, cross-cultural/historical variation, pathology/lesion, disability/compensation, altered/extreme states, and Human×AI perturbation. These axes test candidate mechanisms; they are not a fixed future HF curriculum.
 
 ## Current applied cycles
 
