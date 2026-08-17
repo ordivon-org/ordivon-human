@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF9 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF10 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs operations over representations by separating inference from retrieval, reasoning from formal logic/normative criteria, deduction/induction/abduction/analogy, probabilistic inference and heuristics, observation/intervention and causal/counterfactual reasoning, problem representation/search/insight, and AI-assisted from independent reasoning.
+HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs the judgment-to-action-policy bridge: option generation/evaluation, choice, risk/ambiguity, information search/stopping, exploration/exploitation, commitment/sunk costs/precommitment, planning/policy/strategy and Human×AI delegation/authority.
 
 **Current completed round:**
-[`foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md`](foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md).
+[`foundations/HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md`](foundations/HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md).
 
-**Exact next boundary:** `HF10 — Decision, Choice, Planning, Strategy, Exploration, Exploitation, Stopping and Commitment`, selected because HF9 can generate/evaluate judgments and solution paths but cannot determine how finite search becomes sequential option selection and committed action.
+**Exact next boundary:** `HF11 — Action, Execution, Sensorimotor Control, Affordance, Skill, Coordination, Feedback and Tool Use`, selected because HF10 can select, commit and plan action but cannot explain how a policy becomes realized situated effect under body/environment/tool constraints and feedback.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

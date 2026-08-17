@@ -216,19 +216,20 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF9 are complete. HF0 establishes question-relative Human projections. HF1
+HF0–HF10 are complete. HF0 establishes question-relative Human projections. HF1
 separates identity and extension. HF2 separates experience from state/evidence.
 HF3 separates attention/access/working memory/metacognition/control. HF4 separates
 goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
 regulation. HF6 reconstructs persistent change. HF7 reconstructs memory/retention/
 retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/
-understanding. HF9 reconstructs operations over representations: deduction,
-induction, abduction, analogy, probabilistic and causal inference, counterfactual
-simulation, heuristics, judgment, problem representation/search/insight and
-Human×AI reasoning.
+understanding. HF9 reconstructs inference/reasoning/causality/problem solving.
+HF10 reconstructs sequential decision architecture: option generation/choice,
+framing/risk/ambiguity, information search/stopping, exploration/exploitation,
+commitment/sunk costs/precommitment, planning/policy/strategy and Human×AI
+recommendation/delegation/authority.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md`](research/foundations/HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md).
-HF9 exposes—rather than pre-plans—HF10: Decision, Choice, Planning, Strategy,
-Exploration, Exploitation, Stopping and Commitment.
+[`research/foundations/HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md`](research/foundations/HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md).
+HF10 exposes—rather than pre-plans—HF11: Action, Execution, Sensorimotor Control,
+Affordance, Skill, Coordination, Feedback and Tool Use.

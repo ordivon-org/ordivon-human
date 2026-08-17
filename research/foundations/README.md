@@ -51,6 +51,9 @@ related:
   - human.foundations.hf9
   - human.foundations.hf9.sources
   - human.foundations.hf9.continuation
+  - human.foundations.hf10
+  - human.foundations.hf10.sources
+  - human.foundations.hf10.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -175,18 +178,25 @@ understanding surfaces and external knowledge access.
 ### HF9 — Inference, Reasoning, Causality, Counterfactuals, Judgment and Problem Solving
 
 [`HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md`](HF9-INFERENCE-REASONING-CAUSALITY-PROBLEM-SOLVING.md)
-reconstructs transformations over representations. It separates inference from
-retrieval/association, reasoning from formal logic/normative criteria,
-deduction/induction/abduction/analogy, probabilistic reasoning from representation
-format, heuristics from irrationality, observation from intervention, prediction
-from causality, counterfactual simulation from causal truth, analogy into
-access/mapping/adaptation, search from problem solving, insight from Aha experience,
-and AI-assisted judgment from independent reasoning.
+reconstructs transformations over representations: inference/reasoning,
+probabilistic/causal/counterfactual judgment, analogy, heuristics, search,
+representational change and Human×AI reasoning.
+
+### HF10 — Decision, Choice, Planning, Strategy, Exploration, Exploitation, Stopping and Commitment
+
+[`HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md`](HF10-DECISION-PLANNING-STRATEGY-COMMITMENT.md)
+reconstructs the bridge from judgment to temporally organized action policy. It
+separates option generation/evaluation/selection, choice from preference/action,
+risk from ambiguity and description from experience, information value/search/
+stopping, directed/random exploration, conditional choice overload, sunk versus
+remaining/switching costs, precommitment/commitment, plan/policy/strategy/tactic,
+depth-limited/hierarchical planning, and AI option generation/recommendation/
+delegation from Human authority and execution.
 
 ## Current continuation
 
-HF9 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF9-CONTINUATION.md`](HF9-CONTINUATION.md) selects **HF10 — Decision, Choice,
-Planning, Strategy, Exploration, Exploitation, Stopping and Commitment** because
-inference and search can generate/evaluate possibilities but do not determine when
-to stop, which option to pursue or how to organize action over time.
+HF10 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF10-CONTINUATION.md`](HF10-CONTINUATION.md) selects **HF11 — Action, Execution,
+Sensorimotor Control, Affordance, Skill, Coordination, Feedback and Tool Use**
+because a selected option, commitment and valid plan still do not determine
+realized situated action under body/environment/tool feedback.
