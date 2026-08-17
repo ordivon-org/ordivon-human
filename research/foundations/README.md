@@ -66,6 +66,9 @@ related:
   - human.foundations.hf14
   - human.foundations.hf14.sources
   - human.foundations.hf14.continuation
+  - human.foundations.hf15
+  - human.foundations.hf15.sources
+  - human.foundations.hf15.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -227,17 +230,24 @@ institutional execution.
 ### HF14 — Morality, Harm, Welfare, Fairness, Justice, Rights, Duties, Responsibility and Legitimacy
 
 [`HF14-NORMATIVE-EVALUATION-MORALITY-JUSTICE.md`](HF14-NORMATIVE-EVALUATION-MORALITY-JUSTICE.md)
-reconstructs normative evaluation without selecting one moral theory by fiat. It
-separates moral judgment from normative truth; harm/risk and welfare surfaces;
-equality/equity/need/merit/desert, procedural/outcome fairness and justice; typed
-legal/moral rights and duties; causal/moral/legal responsibility, blame and
-accountability; normative legitimacy; and Human×AI authority/control/responsibility.
+reconstructs normative evaluation: moral judgment/truth, harm/risk, welfare,
+fairness/justice, typed rights/duties, responsibility/accountability, normative
+legitimacy and Human×AI responsibility.
+
+### HF15 — Moral Standing, Moral Agency, Moral Patienthood, Sentience, Interests, Vulnerability, Dignity and Scope of Concern
+
+[`HF15-MORAL-STANDING-SENTIENCE-SCOPE.md`](HF15-MORAL-STANDING-SENTIENCE-SCOPE.md)
+reconstructs bearer and scope conditions without selecting one standing criterion by
+fiat. It separates direct/derivative relevance, moral patienthood/agency,
+sentience/valence/nociception evidence, interests/preferences/goals, welfare
+capacity, vulnerability/dignity, legal personhood, moral-circle judgments and
+standing uncertainty; and pressure-tests infants, DoC, animals, future persons,
+corporations and artificial systems.
 
 ## Current continuation
 
-HF14 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF14-CONTINUATION.md`](HF14-CONTINUATION.md) selects **HF15 — Moral Standing,
-Moral Agency, Moral Patienthood, Sentience, Interests, Vulnerability, Dignity and
-Scope of Concern** because every harm, welfare, rights and responsibility relation
-still requires a bearer/scope criterion, while agency, experience, rights capacity
-and responsibility capacity demonstrably do not collapse to one axis.
+HF15 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF15-CONTINUATION.md`](HF15-CONTINUATION.md) selects **HF16 — Population,
+Aggregation, Future Generations, Non-Identity, Creation, Replication and Existential
+Loss** because deciding who counts still does not determine how multiple, future,
+possible or copied bearers and their claims aggregate.

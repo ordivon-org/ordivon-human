@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF14 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF15 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs realized situated action. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation by separating moral judgment/truth, harm/risk, welfare surfaces, equality/equity/need/merit/desert/fairness/justice, typed rights/duties, responsibility/accountability, normative legitimacy and Human×AI responsibility.
+HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representation/knowledge/belief/concepts/models/understanding. HF9 reconstructs inference/reasoning/causality/problem solving. HF10 reconstructs sequential decision/planning. HF11 reconstructs realized situated action. HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing/bearer conditions by separating moral patienthood/agency, sentience evidence, interests/preferences, welfare capacity, vulnerability/dignity, legal personhood, future-person scope, AI standing uncertainty and moral-circle judgments.
 
 **Current completed round:**
-[`foundations/HF14-NORMATIVE-EVALUATION-MORALITY-JUSTICE.md`](foundations/HF14-NORMATIVE-EVALUATION-MORALITY-JUSTICE.md).
+[`foundations/HF15-MORAL-STANDING-SENTIENCE-SCOPE.md`](foundations/HF15-MORAL-STANDING-SENTIENCE-SCOPE.md).
 
-**Exact next boundary:** `HF15 — Moral Standing, Moral Agency, Moral Patienthood, Sentience, Interests, Vulnerability, Dignity and Scope of Concern`, selected because HF14 can type harm, welfare, rights, duties and responsibility but cannot yet answer who/what can bear those relations; agency, experience, rights capacity and responsibility capacity do not collapse to one axis.
+**Exact next boundary:** `HF16 — Population, Aggregation, Future Generations, Non-Identity, Creation, Replication and Existential Loss`, selected because HF15 can represent who/what may count and in which role, but standing does not determine how claims across multiple, future, possible or copied bearers aggregate or how alternative populations compare.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

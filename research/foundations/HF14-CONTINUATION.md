@@ -4,7 +4,7 @@ id: human.foundations.hf14.continuation
 title: Human Foundations Continuation after HF14
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -672,3 +672,9 @@ HF14 does not establish that:
 
 Do not schedule HF16 now. HF15 must expose a repeated neighboring distinction whose
 absence creates category failures across materially different bearer/standing cases.
+
+## Supersession — HF15 complete
+
+HF15 has completed the moral-standing/bearer boundary selected here. Current
+continuation is owned by [`HF15-CONTINUATION.md`](HF15-CONTINUATION.md). This file
+remains the canonical record of why HF15 emerged from HF14.
