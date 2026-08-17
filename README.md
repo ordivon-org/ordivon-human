@@ -216,15 +216,15 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF2 are complete. HF0 establishes question-relative Human projections. HF1
-separates Human/body/self/person/actor/agent boundaries using typed identity
-`Same_K` and dimension-specific extension `Extension_D`. HF2 separates experience
-and conscious content from global state, connectedness, responsiveness, downstream
-availability, report and recall; rejects one scalar consciousness foundation; and
-introduces `AvailableFor_D` with asymmetric evidence and explicit uncertainty.
+HF0–HF3 are complete. HF0 establishes question-relative Human projections. HF1
+separates identity and dimension-specific extension. HF2 separates experience
+and conscious content from global state, connectedness, responsiveness, typed
+downstream availability, report and recall. HF3 separates attention/priority,
+working memory, metacognition, confidence and cognitive control, while retaining
+task relevance and selection history as causal variables.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md`](research/foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md).
-HF2 exposes—rather than pre-plans—HF3: Attention, Access, Working Memory,
-Metacognition, Confidence and Cognitive Control.
+[`research/foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md`](research/foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md).
+HF3 exposes—rather than pre-plans—HF4: Goals, Motivation, Value, Affect, Effort,
+Reward and Self-Regulation.

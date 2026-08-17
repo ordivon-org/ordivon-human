@@ -30,6 +30,9 @@ related:
   - human.foundations.hf2
   - human.foundations.hf2.sources
   - human.foundations.hf2.continuation
+  - human.foundations.hf3
+  - human.foundations.hf3.sources
+  - human.foundations.hf3.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -109,14 +112,21 @@ for dimension-specific tool/AI/body extension.
 [`HF2-CONSCIOUSNESS-EXPERIENCE.md`](HF2-CONSCIOUSNESS-EXPERIENCE.md) rejects one
 scalar consciousness variable and separates experiential presence/content, global
 state profile, environmental connectedness, typed responsiveness, downstream
-availability, report and recall. It introduces `AvailableFor_D(content, subject,
-t)` plus asymmetric evidence and explicit `Phenomenon != Evidence != Inference !=
-Theory`.
+availability, report and recall. It introduces `AvailableFor_D` plus asymmetric
+evidence and explicit `Phenomenon != Evidence != Inference != Theory`.
+
+### HF3 — Attention, Access, Working Memory, Metacognition, Confidence and Cognitive Control
+
+[`HF3-ATTENTION-ACCESS-METACOGNITION.md`](HF3-ATTENTION-ACCESS-METACOGNITION.md)
+separates selection/priority, typed downstream access, working-memory maintenance,
+metacognitive evaluation, confidence and cognitive control. It rejects attention as
+consciousness, working memory as a universal consciousness container, confidence as
+a consciousness scale, and cognitive control as exclusively conscious.
 
 ## Current continuation
 
-HF2 exposes the next unavoidable boundary rather than following a fixed
-curriculum. [`HF2-CONTINUATION.md`](HF2-CONTINUATION.md) selects **HF3 — Attention,
-Access, Working Memory, Metacognition, Confidence and Cognitive Control** because
-no-report paradigms, blindsight, attribute amnesia and command-following tasks
-repeatedly require distinctions among these downstream availability mechanisms.
+HF3 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF3-CONTINUATION.md`](HF3-CONTINUATION.md) selects **HF4 — Goals, Motivation,
+Value, Affect, Effort, Reward and Self-Regulation** because priority and control
+repeatedly depend on variables that cannot be reduced to attention, working memory,
+metacognition or confidence.
