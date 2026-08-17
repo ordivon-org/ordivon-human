@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF6 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF7 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates experience/content from global state, connectedness, responsiveness, downstream availability, report and recall. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, preference/value types, reward roles, affect, effort, multidimensional motivation and self-regulation. HF5 reconstructs internal-state regulation. HF6 separates state change from persistent adaptation, practice from learning/retention/transfer, plasticity capacity from plastic change, repeated-exposure response modes, developmental sensitive periods, aging-related change and resilience trajectories.
+HF0 introduces the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates experience/content from state/evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, values, reward, effort, motivation and self-regulation. HF5 reconstructs internal-state regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory as encoding → persistent availability → retrieval ecology → expression, separating forgetting from deletion, retrieval from passive readout, explicit memory from priming/skill, content from source/order, and internal from prospective/external memory.
 
 **Current completed round:**
-[`foundations/HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md`](foundations/HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md).
+[`foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md`](foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md).
 
-**Exact next boundary:** `HF7 — Memory, Retention, Forgetting, Consolidation, Retrieval, Interference, Generalization and Transfer`, selected from HF6's repeated cases where history remains causally present despite not being expressed in current behavior.
+**Exact next boundary:** `HF8 — Representation, Knowledge, Belief, Concept, Schema, Mental Model and Understanding`, selected because HF7 can explain persistence/retrieval of content but not whether that content is true, believed, known, conceptually structured or understood.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

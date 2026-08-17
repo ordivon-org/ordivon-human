@@ -47,16 +47,16 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF6 complete
+## Human Foundations — active, HF0–HF7 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from state/evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, value/reward roles, affect, effort, multidimensional motivation and self-regulation. HF5 reconstructs internal-state regulation. HF6 reconstructs persistent history-dependent change: adaptation, learning/retention/transfer, plasticity, habituation/sensitization/tolerance/extinction, physiological adaptation/compensation, development, aging and resilience trajectories, exposing memory and retained-but-unexpressed history as the next boundary.
+HF0 establishes the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory as encoding, persistent availability, cue/context/state-dependent retrieval, expression and updating; separates forgetting from deletion and explicit recall from skill/priming; preserves reconstructive/false-memory uncertainty; and models prospective/external memory. It exposes representation/knowledge/belief/understanding as the next boundary.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md`](../research/foundations/HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md).
+Current completed round: [`../research/foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md`](../research/foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md).
 
 ## Current applied cycles
 
