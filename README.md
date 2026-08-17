@@ -216,18 +216,18 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF7 are complete. HF0 establishes question-relative Human projections. HF1
+HF0–HF8 are complete. HF0 establishes question-relative Human projections. HF1
 separates identity and extension. HF2 separates experience from state/evidence.
-HF3 separates attention, access, working memory, metacognition, confidence and
-control. HF4 separates goals, values, reward, effort, motivation and self-regulation.
-HF5 reconstructs organismic regulation. HF6 reconstructs persistent change. HF7
-reconstructs memory as encoding, persistent availability, retrieval ecology and
-expression; it separates forgetting from deletion, explicit recall from skill/
-priming, remembered content from source/truth, and internal memory from prospective
-and external memory support.
+HF3 separates attention/access/working memory/metacognition/control. HF4 separates
+goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
+regulation. HF6 reconstructs persistent change. HF7 reconstructs memory/retention/
+retrieval. HF8 reconstructs representational and epistemic structure by separating
+vehicle/content/referent/truth, memory/belief/knowledge, knowing-how/knowing-that,
+concept/schema/model plurality, understanding surfaces and external/AI answer
+access from internal knowledge and understanding.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md`](research/foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md).
-HF7 exposes—rather than pre-plans—HF8: Representation, Knowledge, Belief, Concept,
-Schema, Mental Model and Understanding.
+[`research/foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md`](research/foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md).
+HF8 exposes—rather than pre-plans—HF9: Inference, Reasoning, Causality,
+Counterfactuals, Judgment and Problem Solving.

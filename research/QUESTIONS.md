@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF7 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF8 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates experience/content from state/evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, values, reward, effort, motivation and self-regulation. HF5 reconstructs internal-state regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory as encoding → persistent availability → retrieval ecology → expression, separating forgetting from deletion, retrieval from passive readout, explicit memory from priming/skill, content from source/order, and internal from prospective/external memory.
+HF0 introduces the projection/coordinate grammar. HF1 separates typed identity. HF2 separates experience from state/evidence. HF3 separates attention/access/working memory/metacognition/control. HF4 separates goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic regulation. HF6 reconstructs persistent history-dependent change. HF7 reconstructs memory/retention/retrieval. HF8 reconstructs representational and epistemic structure by separating vehicle/content/referent/truth, memory/belief/knowledge, knowing-how/knowing-that, concept strategies, schemas, mental/world models, understanding surfaces and external/AI answer access from internal knowledge.
 
 **Current completed round:**
-[`foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md`](foundations/HF7-MEMORY-RETRIEVAL-FORGETTING.md).
+[`foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md`](foundations/HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md).
 
-**Exact next boundary:** `HF8 — Representation, Knowledge, Belief, Concept, Schema, Mental Model and Understanding`, selected because HF7 can explain persistence/retrieval of content but not whether that content is true, believed, known, conceptually structured or understood.
+**Exact next boundary:** `HF9 — Inference, Reasoning, Causality, Counterfactuals, Judgment and Problem Solving`, selected because HF8 can type epistemic/representational states but cannot explain the operations that derive, compare, revise and transform them.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

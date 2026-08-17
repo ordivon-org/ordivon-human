@@ -45,6 +45,9 @@ related:
   - human.foundations.hf7
   - human.foundations.hf7.sources
   - human.foundations.hf7.continuation
+  - human.foundations.hf8
+  - human.foundations.hf8.sources
+  - human.foundations.hf8.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -155,17 +158,23 @@ development, aging and resilience trajectories.
 ### HF7 — Memory, Retention, Forgetting, Consolidation, Retrieval, Interference, Generalization and Transfer
 
 [`HF7-MEMORY-RETRIEVAL-FORGETTING.md`](HF7-MEMORY-RETRIEVAL-FORGETTING.md)
-reconstructs retained history and its present expression. It separates encoding,
-retention/availability, retrieval ecology, expression and confidence; treats
-retrieval as an intervention; distinguishes forgetting from deletion and explicit
-memory from priming/skill; preserves constructive/false-memory uncertainty;
-models prospective/external memory; and separates remembered content from truth,
-knowledge, belief and understanding.
+reconstructs retained history and its present expression, separating encoding,
+retention/availability, retrieval ecology, expression, reconstruction, prospective
+memory and external memory support.
+
+### HF8 — Representation, Knowledge, Belief, Concept, Schema, Mental Model and Understanding
+
+[`HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md`](HF8-REPRESENTATION-KNOWLEDGE-UNDERSTANDING.md)
+reconstructs Human representational and epistemic structure. It separates vehicle,
+content, referent and truth; memory, belief and knowledge; knowing-how and
+knowing-that; prototype/exemplar/rule concept strategies; schema benefit/bias;
+mental/world models; understanding surfaces; and external/AI answer access from
+internal knowledge and understanding.
 
 ## Current continuation
 
-HF7 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF7-CONTINUATION.md`](HF7-CONTINUATION.md) selects **HF8 — Representation,
-Knowledge, Belief, Concept, Schema, Mental Model and Understanding** because memory
-can preserve and reconstruct content without determining its representational,
-epistemic or explanatory status.
+HF8 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF8-CONTINUATION.md`](HF8-CONTINUATION.md) selects **HF9 — Inference, Reasoning,
+Causality, Counterfactuals, Judgment and Problem Solving** because epistemic states
+become useful only through transformations among representations, hypotheses,
+evidence and alternatives.
