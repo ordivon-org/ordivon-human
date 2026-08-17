@@ -47,16 +47,16 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF5 complete
+## Human Foundations — active, HF0–HF6 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from state/evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, value/reward roles, affect, effort, multidimensional motivation and self-regulation. HF5 reconstructs internal-state regulation: need types, homeostasis/allostasis, interoceptive signal/representation/experience, hunger/satiety, stress, fatigue and endpoint-specific recovery, exposing history-dependent adaptation/plasticity as the next boundary.
+HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from state/evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, value/reward roles, affect, effort, multidimensional motivation and self-regulation. HF5 reconstructs internal-state regulation. HF6 reconstructs persistent history-dependent change: adaptation, learning/retention/transfer, plasticity, habituation/sensitization/tolerance/extinction, physiological adaptation/compensation, development, aging and resilience trajectories, exposing memory and retained-but-unexpressed history as the next boundary.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF5-NEED-REGULATION-RECOVERY.md`](../research/foundations/HF5-NEED-REGULATION-RECOVERY.md).
+Current completed round: [`../research/foundations/HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md`](../research/foundations/HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md).
 
 ## Current applied cycles
 

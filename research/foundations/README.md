@@ -39,6 +39,9 @@ related:
   - human.foundations.hf5
   - human.foundations.hf5.sources
   - human.foundations.hf5.continuation
+  - human.foundations.hf6
+  - human.foundations.hf6.sources
+  - human.foundations.hf6.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -136,15 +139,22 @@ affect and self-regulation.
 ### HF5 — Need, Homeostasis, Allostasis, Interoception, Satiety, Stress, Fatigue and Recovery
 
 [`HF5-NEED-REGULATION-RECOVERY.md`](HF5-NEED-REGULATION-RECOVERY.md) reconstructs
-internal-state regulation. It separates physiological and psychological uses of
-`need`; regulated variables, targets, feedback and predictive regulation;
-interoceptive signal/representation/accuracy/sensibility/experience; hunger,
-satiation and satiety; stressor/response/load; fatigue experience/performance/cost;
-and typed recovery, habituation and resilience.
+internal-state regulation and separates need types, regulatory mechanisms,
+interoceptive levels, stress/fatigue and endpoint-specific recovery.
+
+### HF6 — Adaptation, Learning, Plasticity, Habituation, Sensitization, Resilience, Development and Aging
+
+[`HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md`](HF6-ADAPTATION-PLASTICITY-DEVELOPMENT.md)
+reconstructs history-dependent persistent change. It separates state change from
+transition-function change; practice from learning/retention/transfer; plasticity
+capacity from plastic change; habituation/sensitization/tolerance/extinction;
+physiological adaptation and compensation; developmental sensitive periods;
+aging-related plasticity, maintenance/reserve; and resilience trajectories.
 
 ## Current continuation
 
-HF5 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF5-CONTINUATION.md`](HF5-CONTINUATION.md) selects **HF6 — Adaptation, Learning,
-Plasticity, Habituation, Sensitization, Resilience, Development and Aging** because
-repeated regulation changes the future transition function of the Human system.
+HF6 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF6-CONTINUATION.md`](HF6-CONTINUATION.md) selects **HF7 — Memory, Retention,
+Forgetting, Consolidation, Retrieval, Interference, Generalization and Transfer**
+because history can remain causally present despite not being expressed in current
+behavior.

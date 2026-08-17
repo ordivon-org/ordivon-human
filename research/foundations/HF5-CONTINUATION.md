@@ -4,7 +4,7 @@ id: human.foundations.hf5.continuation
 title: Human Foundations Continuation after HF5
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -258,3 +258,9 @@ HF5 does not establish that:
 
 Do not schedule HF7 now. HF6 must expose a repeated neighboring distinction whose
 absence causes failures across materially different Human trajectories.
+
+## Supersession — HF6 complete
+
+HF6 has completed the adaptation/plasticity/development boundary selected here.
+Current continuation is owned by [`HF6-CONTINUATION.md`](HF6-CONTINUATION.md).
+This file remains the canonical record of why HF6 emerged from HF5.
