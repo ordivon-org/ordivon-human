@@ -88,6 +88,9 @@ related:
   - human.foundations.hf21
   - human.foundations.hf21.sources
   - human.foundations.hf21.continuation
+  - human.foundations.hf22
+  - human.foundations.hf22.sources
+  - human.foundations.hf22.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -316,6 +319,18 @@ dimensional, appraisal, constructionist, interoceptive, reinforcement/mood-learn
 action-readiness, social-functional, evolutionary and component-process models rather
 than promoting one universal emotion theory.
 
+### HF22 — Persistent Relationships, Attachment, Care, Relational Models and Dyad-Specific Social State
+
+[`HF22-PERSISTENT-RELATIONSHIPS-ATTACHMENT-CARE.md`](HF22-PERSISTENT-RELATIONSHIPS-ATTACHMENT-CARE.md)
+is the thin canonical extraction from completed HD3 deep research. It fills the scale gap
+`CurrentInteraction != PersistentRelationship != PersistentSocialOrder`, representing
+participant-specific relation state across interaction and noninteraction while separating
+relationship from trust, attachment, care, closeness, dependence, institution, household
+and genetic kinship. It permits asymmetric, multiplex, changing and mediated relations;
+reconnects persistent relations to regulation/capability and partner models; and preserves
+Human–AI relational asymmetry without inferring machine experience. HD3 deliberately did
+not promote Theory of Mind itself to a standalone foundation.
+
 ## HF0–HF18 cycle closeout
 
 [`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md)
@@ -327,23 +342,24 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF21-CONTINUATION.md`](HF21-CONTINUATION.md) owns the current foundation-level state.
-HD2 demonstrated that affective world coupling satisfies the repeated-neighboring-residual
-admission gate, so HF21 is complete/READY as a thin canonical extension. HF0–HF20 were
-not reopened. **HF22 remains UNKNOWN / not admitted.**
+[`HF22-CONTINUATION.md`](HF22-CONTINUATION.md) owns the current foundation-level state.
+HD3 demonstrated that participant-specific persistent relationship state satisfies the
+repeated-neighboring-residual admission gate, so HF22 is complete/READY as a thin canonical
+extension. HF0–HF21 were not reopened. **HF23 remains UNKNOWN / not admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
 [`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
-includes the completed perception route
-[`../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md),
-and now the completed affective route
-[`../deep-foundations/HD2-AFFECT-EMOTION-MOOD-APPRAISAL.md`](../deep-foundations/HD2-AFFECT-EMOTION-MOOD-APPRAISAL.md).
-HD2 owns the full affective mechanism/model/falsifier reconstruction; HF21 is its
-compressed reusable foundation surface.
+continues through completed perception and affective routes, and now includes
+[`../deep-foundations/HD3-SOCIAL-COGNITION-OTHER-MIND-ATTACHMENT-RELATIONS.md`](../deep-foundations/HD3-SOCIAL-COGNITION-OTHER-MIND-ATTACHMENT-RELATIONS.md).
+HD3 owns the full social-cognition/other-mind/attachment/relationship mechanism and
+falsifier reconstruction; HF22 is its compressed persistent-relations surface. HD3
+explicitly rejected a standalone Theory-of-Mind foundation because typed other-mind models
+remain composable from existing HF8/HF9/HF12/HF21 views.
 
-[`../deep-foundations/HD2-CONTINUATION.md`](../deep-foundations/HD2-CONTINUATION.md)
-admits **HD3 — Social Cognition, Other-Mind Modeling, Attachment, Care and Persistent
-Relations** as the next non-foundation deep route. `HD3 != HF22`; a future canonical
-promotion again requires its own repeated-residual evidence.
+[`../deep-foundations/HD3-CONTINUATION.md`](../deep-foundations/HD3-CONTINUATION.md)
+admits **HD4 — Social Learning, Imitation, Teaching, Cultural Transmission and
+Cumulative/Open-Ended Culture** as the next non-foundation deep route. `HD4 != HF23`;
+language/symbol remains an adjacent high-priority residual whose boundary is left to
+evidence rather than a predeclared sequence.
