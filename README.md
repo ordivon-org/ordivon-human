@@ -216,7 +216,7 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF15 are complete. HF0 establishes question-relative Human projections. HF1
+HF0–HF16 are complete. HF0 establishes question-relative Human projections. HF1
 separates identity and extension. HF2 separates experience from state/evidence.
 HF3 separates attention/access/working memory/metacognition/control. HF4 separates
 goals/value/reward/effort/motivation/self-regulation. HF5 reconstructs organismic
@@ -226,11 +226,13 @@ understanding. HF9 reconstructs inference/reasoning/causality/problem solving.
 HF10 reconstructs sequential decision/planning. HF11 reconstructs situated action.
 HF12 reconstructs relational multi-agent action. HF13 reconstructs persistent social
 order. HF14 reconstructs normative evaluation. HF15 reconstructs moral standing and
-bearer scope: patienthood/agency, sentience evidence, interests/welfare capacity,
-vulnerability/dignity, legal personhood, future-person scope and AI uncertainty.
+bearer scope. HF16 reconstructs population/temporal aggregation across claims,
+welfare, number, distribution, identity, future generations, creation, extinction and
+digital replication.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF15-MORAL-STANDING-SENTIENCE-SCOPE.md`](research/foundations/HF15-MORAL-STANDING-SENTIENCE-SCOPE.md).
-HF15 exposes—rather than pre-plans—HF16: Population, Aggregation, Future Generations,
-Non-Identity, Creation, Replication and Existential Loss.
+[`research/foundations/HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md`](research/foundations/HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md).
+HF16 exposes—rather than pre-plans—HF17: Normative Pluralism, Moral Uncertainty,
+Incommensurability, Social Choice, Collective Decision, Voting, Deliberation and
+Robust Governance.

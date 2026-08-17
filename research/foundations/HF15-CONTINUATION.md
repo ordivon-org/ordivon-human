@@ -4,7 +4,7 @@ id: human.foundations.hf15.continuation
 title: Human Foundations Continuation after HF15
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -639,3 +639,9 @@ HF15 does not establish that:
 
 Do not schedule HF17 now. HF16 must expose a repeated neighboring distinction across
 materially different population/temporal cases.
+
+## Supersession — HF16 complete
+
+HF16 has completed the population/temporal aggregation boundary selected here.
+Current continuation is owned by [`HF16-CONTINUATION.md`](HF16-CONTINUATION.md).
+This file remains the canonical record of why HF16 emerged from HF15.

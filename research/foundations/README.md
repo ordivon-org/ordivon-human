@@ -69,6 +69,9 @@ related:
   - human.foundations.hf15
   - human.foundations.hf15.sources
   - human.foundations.hf15.continuation
+  - human.foundations.hf16
+  - human.foundations.hf16.sources
+  - human.foundations.hf16.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -237,17 +240,24 @@ legitimacy and Human×AI responsibility.
 ### HF15 — Moral Standing, Moral Agency, Moral Patienthood, Sentience, Interests, Vulnerability, Dignity and Scope of Concern
 
 [`HF15-MORAL-STANDING-SENTIENCE-SCOPE.md`](HF15-MORAL-STANDING-SENTIENCE-SCOPE.md)
-reconstructs bearer and scope conditions without selecting one standing criterion by
-fiat. It separates direct/derivative relevance, moral patienthood/agency,
-sentience/valence/nociception evidence, interests/preferences/goals, welfare
-capacity, vulnerability/dignity, legal personhood, moral-circle judgments and
-standing uncertainty; and pressure-tests infants, DoC, animals, future persons,
-corporations and artificial systems.
+reconstructs bearer/scope conditions: moral patienthood/agency, sentience evidence,
+interests/welfare capacity, vulnerability/dignity, legal personhood, future-person
+scope and artificial-system uncertainty.
+
+### HF16 — Population, Aggregation, Future Generations, Non-Identity, Creation, Replication and Existential Loss
+
+[`HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md`](HF16-POPULATION-AGGREGATION-FUTURE-GENERATIONS.md)
+reconstructs aggregation across multiple, future, possible and copied bearers without
+selecting one population axiology by fiat. It separates claim/welfare aggregation,
+total/average/distribution/priority, population size/identity/value, person-affecting
+and impersonal comparison, creation/non-creation, discount components, extinction/
+future loss and digital copy/identity counting.
 
 ## Current continuation
 
-HF15 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF15-CONTINUATION.md`](HF15-CONTINUATION.md) selects **HF16 — Population,
-Aggregation, Future Generations, Non-Identity, Creation, Replication and Existential
-Loss** because deciding who counts still does not determine how multiple, future,
-possible or copied bearers and their claims aggregate.
+HF16 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF16-CONTINUATION.md`](HF16-CONTINUATION.md) selects **HF17 — Normative Pluralism,
+Moral Uncertainty, Incommensurability, Social Choice, Collective Decision, Voting,
+Deliberation and Robust Governance** because aggregation across bearers is not
+aggregation across stakeholder preferences or normative theories and cannot by itself
+establish legitimate collective decision authority.
