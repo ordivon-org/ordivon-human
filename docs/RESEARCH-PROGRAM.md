@@ -47,16 +47,16 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF4 complete
+## Human Foundations — active, HF0–HF5 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from global state, connectedness, responsiveness, downstream availability, report and memory. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goal-state roles, preference/value types, reward roles, affect, effort demand/cost/expenditure, multidimensional motivation and self-regulation, exposing organismic state regulation as the next boundary.
+HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from state/evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, value/reward roles, affect, effort, multidimensional motivation and self-regulation. HF5 reconstructs internal-state regulation: need types, homeostasis/allostasis, interoceptive signal/representation/experience, hunger/satiety, stress, fatigue and endpoint-specific recovery, exposing history-dependent adaptation/plasticity as the next boundary.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF4-GOALS-MOTIVATION-VALUE.md`](../research/foundations/HF4-GOALS-MOTIVATION-VALUE.md).
+Current completed round: [`../research/foundations/HF5-NEED-REGULATION-RECOVERY.md`](../research/foundations/HF5-NEED-REGULATION-RECOVERY.md).
 
 ## Current applied cycles
 

@@ -4,7 +4,7 @@ id: human.foundations.hf4.continuation
 title: Human Foundations Continuation after HF4
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -249,3 +249,9 @@ HF4 does not establish that:
 
 Do not schedule HF6 now. HF5 must expose the next repeated neighboring distinction
 from cross-system evidence rather than from a prewritten curriculum.
+
+## Supersession — HF5 complete
+
+HF5 has completed the internal-state regulation boundary selected here. Current
+continuation is owned by [`HF5-CONTINUATION.md`](HF5-CONTINUATION.md). This file
+remains the canonical record of why HF5 emerged from HF4.

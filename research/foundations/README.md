@@ -36,6 +36,9 @@ related:
   - human.foundations.hf4
   - human.foundations.hf4.sources
   - human.foundations.hf4.continuation
+  - human.foundations.hf5
+  - human.foundations.hf5.sources
+  - human.foundations.hf5.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -127,15 +130,21 @@ metacognitive evaluation, confidence and cognitive control.
 ### HF4 — Goals, Motivation, Value, Affect, Effort, Reward and Self-Regulation
 
 [`HF4-GOALS-MOTIVATION-VALUE.md`](HF4-GOALS-MOTIVATION-VALUE.md) rejects a scalar
-`motivation` ontology. It separates goal content/activation/commitment/maintenance/
-implementation, liking/wanting/learned/decision/endorsed value, reward roles,
-affect, effort demand/cost/expenditure, motivational action-allocation dimensions,
-habit-like control and temporal/environmental self-regulation.
+`motivation` ontology and separates goal-state roles, value/reward roles, effort,
+affect and self-regulation.
+
+### HF5 — Need, Homeostasis, Allostasis, Interoception, Satiety, Stress, Fatigue and Recovery
+
+[`HF5-NEED-REGULATION-RECOVERY.md`](HF5-NEED-REGULATION-RECOVERY.md) reconstructs
+internal-state regulation. It separates physiological and psychological uses of
+`need`; regulated variables, targets, feedback and predictive regulation;
+interoceptive signal/representation/accuracy/sensibility/experience; hunger,
+satiation and satiety; stressor/response/load; fatigue experience/performance/cost;
+and typed recovery, habituation and resilience.
 
 ## Current continuation
 
-HF4 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF4-CONTINUATION.md`](HF4-CONTINUATION.md) selects **HF5 — Need, Homeostasis,
-Allostasis, Interoception, Satiety, Stress, Fatigue and Recovery** because internal
-organismic state repeatedly transforms wanting, reward response, effort cost,
-priority and self-regulation even when the external goal/outcome is unchanged.
+HF5 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF5-CONTINUATION.md`](HF5-CONTINUATION.md) selects **HF6 — Adaptation, Learning,
+Plasticity, Habituation, Sensitization, Resilience, Development and Aging** because
+repeated regulation changes the future transition function of the Human system.
