@@ -4,7 +4,7 @@ id: human.foundations.hf20.continuation
 title: Human Foundations Continuation after HF20
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:

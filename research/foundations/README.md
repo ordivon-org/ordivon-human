@@ -85,6 +85,9 @@ related:
   - human.foundations.hf20
   - human.foundations.hf20.sources
   - human.foundations.hf20.continuation
+  - human.foundations.hf21
+  - human.foundations.hf21.sources
+  - human.foundations.hf21.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -301,6 +304,18 @@ and preserves plural feedforward, Bayesian, predictive, recurrent, ecological,
 sensorimotor, active-inference and multisensory-causal-inference views rather than
 promoting one universal perceptual theory.
 
+### HF21 — Affect, Emotion, Mood, Appraisal and Affective World Coupling
+
+[`HF21-AFFECT-EMOTION-MOOD-APPRAISAL.md`](HF21-AFFECT-EMOTION-MOOD-APPRAISAL.md)
+is the thin canonical extraction from completed HD2 deep research. It reconstructs
+affective episodes as history-dependent coordination among perceived external/internal
+state, goals/needs/values, appraisal, valence/activation, physiology, action readiness,
+attention/memory modulation, conscious feeling, expression/display, emotion category and
+social function. It separates affect/emotion/mood/appraisal and preserves plural discrete,
+dimensional, appraisal, constructionist, interoceptive, reinforcement/mood-learning,
+action-readiness, social-functional, evolutionary and component-process models rather
+than promoting one universal emotion theory.
+
 ## HF0–HF18 cycle closeout
 
 [`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md)
@@ -312,21 +327,23 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF20-CONTINUATION.md`](HF20-CONTINUATION.md) owns the current foundation-level state.
-HD1 demonstrated that perception satisfies the post-HF19 neighboring-foundation
-admission gate, so HF20 is complete/READY as a thin canonical extension. HF0–HF19 were
-not reopened. **HF21 remains UNKNOWN / not admitted.**
+[`HF21-CONTINUATION.md`](HF21-CONTINUATION.md) owns the current foundation-level state.
+HD2 demonstrated that affective world coupling satisfies the repeated-neighboring-residual
+admission gate, so HF21 is complete/READY as a thin canonical extension. HF0–HF20 were
+not reopened. **HF22 remains UNKNOWN / not admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
-[`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md)
-and now includes the completed
-[`../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md).
-HD1 owns the full perception mechanism/model/falsifier reconstruction; HF20 is its
+[`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
+includes the completed perception route
+[`../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md),
+and now the completed affective route
+[`../deep-foundations/HD2-AFFECT-EMOTION-MOOD-APPRAISAL.md`](../deep-foundations/HD2-AFFECT-EMOTION-MOOD-APPRAISAL.md).
+HD2 owns the full affective mechanism/model/falsifier reconstruction; HF21 is its
 compressed reusable foundation surface.
 
-[`../deep-foundations/HD1-CONTINUATION.md`](../deep-foundations/HD1-CONTINUATION.md)
-admits **HD2 — Affect, Emotion, Mood, Appraisal and Affective World Coupling** as the
-next non-foundation deep route. `HD2 != HF21`; a future canonical promotion again
-requires its own repeated-residual evidence.
+[`../deep-foundations/HD2-CONTINUATION.md`](../deep-foundations/HD2-CONTINUATION.md)
+admits **HD3 — Social Cognition, Other-Mind Modeling, Attachment, Care and Persistent
+Relations** as the next non-foundation deep route. `HD3 != HF22`; a future canonical
+promotion again requires its own repeated-residual evidence.
