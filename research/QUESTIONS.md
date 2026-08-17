@@ -258,16 +258,16 @@ within-person or single-case design required? See [`../methods/m0/`](../methods/
 > study a human without reducing the person to one discipline, one score, one
 > current state, or one social role?
 
-**Status:** active programme; HF0–HF3 complete. Human Foundations is reusable
+**Status:** active programme; HF0–HF4 complete. Human Foundations is reusable
 research, not a mandatory personal schema or replacement for problem-first
 applied cycles.
 
-HF0 introduces the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates experience/content from global state, connectedness, responsiveness, downstream availability, report and recall. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control, retaining task relevance and selection history as causal variables.
+HF0 introduces the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates experience/content from global state, connectedness, responsiveness, downstream availability, report and recall. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goals, preference/value types, reward roles, affect, effort, multidimensional motivation and self-regulation, while retaining organismic state as an unresolved input.
 
 **Current completed round:**
-[`foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md`](foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md).
+[`foundations/HF4-GOALS-MOTIVATION-VALUE.md`](foundations/HF4-GOALS-MOTIVATION-VALUE.md).
 
-**Exact next boundary:** `HF4 — Goals, Motivation, Value, Affect, Effort, Reward and Self-Regulation`, selected from HF3's repeated goal/value/effort/control residuals rather than a prewritten roadmap.
+**Exact next boundary:** `HF5 — Need, Homeostasis, Allostasis, Interoception, Satiety, Stress, Fatigue and Recovery`, selected from HF4's repeated state-dependent valuation/effort/regulation residuals rather than a prewritten roadmap.
 
 **Falsifier:** if the projection/coordinate model repeatedly adds no explanatory
 or category-error prevention value over the simpler H0 view library in materially

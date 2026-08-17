@@ -216,15 +216,15 @@ See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-cap
 
 ## Human Foundations update — 2026-08-17
 
-HF0–HF3 are complete. HF0 establishes question-relative Human projections. HF1
-separates identity and dimension-specific extension. HF2 separates experience
-and conscious content from global state, connectedness, responsiveness, typed
-downstream availability, report and recall. HF3 separates attention/priority,
-working memory, metacognition, confidence and cognitive control, while retaining
-task relevance and selection history as causal variables.
+HF0–HF4 are complete. HF0 establishes question-relative Human projections. HF1
+separates identity and extension. HF2 separates experience from state/evidence.
+HF3 separates attention, access, working memory, metacognition, confidence and
+control. HF4 separates goals, preferences/value types, reward roles, affect, effort,
+multidimensional motivation and self-regulation; it rejects behavior as a direct
+readout of stable preference or personal value.
 
 The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md),
 and the current completed round is
-[`research/foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md`](research/foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md).
-HF3 exposes—rather than pre-plans—HF4: Goals, Motivation, Value, Affect, Effort,
-Reward and Self-Regulation.
+[`research/foundations/HF4-GOALS-MOTIVATION-VALUE.md`](research/foundations/HF4-GOALS-MOTIVATION-VALUE.md).
+HF4 exposes—rather than pre-plans—HF5: Need, Homeostasis, Allostasis, Interoception,
+Satiety, Stress, Fatigue and Recovery.

@@ -4,7 +4,7 @@ id: human.foundations.hf3.continuation
 title: Human Foundations Continuation after HF3
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -173,3 +173,9 @@ HF3 does not establish that:
 
 Do not schedule HF5 now. HF4 must expose a repeated neighboring distinction that
 cannot be represented by HF0–HF4 without category collapse.
+
+## Supersession — HF4 complete
+
+HF4 has completed the goal/value/motivation boundary selected here. Current
+continuation is owned by [`HF4-CONTINUATION.md`](HF4-CONTINUATION.md). This file
+remains the canonical record of why HF4 emerged from HF3.

@@ -47,16 +47,16 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active, HF0–HF3 complete
+## Human Foundations — active, HF0–HF4 complete
 
 A bounded foundation-reconstruction mode is admitted because materially different
 Human and cross-project studies repeatedly encounter the same category debts. It
 does not replace problem-first applied research.
 
-HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from global state, connectedness, responsiveness, downstream availability, report and memory, with asymmetric evidence. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control, including task relevance and selection history.
+HF0 establishes the projection/coordinate grammar. HF1 makes identity projection-relative and dimension-specific. HF2 separates first-person experience/content from global state, connectedness, responsiveness, downstream availability, report and memory. HF3 separates attention/priority, typed access, working memory, metacognition, confidence and cognitive control. HF4 separates goal-state roles, preference/value types, reward roles, affect, effort demand/cost/expenditure, multidimensional motivation and self-regulation, exposing organismic state regulation as the next boundary.
 
 Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed round: [`../research/foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md`](../research/foundations/HF3-ATTENTION-ACCESS-METACOGNITION.md).
+Current completed round: [`../research/foundations/HF4-GOALS-MOTIVATION-VALUE.md`](../research/foundations/HF4-GOALS-MOTIVATION-VALUE.md).
 
 ## Current applied cycles
 

@@ -33,6 +33,9 @@ related:
   - human.foundations.hf3
   - human.foundations.hf3.sources
   - human.foundations.hf3.continuation
+  - human.foundations.hf4
+  - human.foundations.hf4.sources
+  - human.foundations.hf4.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -119,14 +122,20 @@ evidence and explicit `Phenomenon != Evidence != Inference != Theory`.
 
 [`HF3-ATTENTION-ACCESS-METACOGNITION.md`](HF3-ATTENTION-ACCESS-METACOGNITION.md)
 separates selection/priority, typed downstream access, working-memory maintenance,
-metacognitive evaluation, confidence and cognitive control. It rejects attention as
-consciousness, working memory as a universal consciousness container, confidence as
-a consciousness scale, and cognitive control as exclusively conscious.
+metacognitive evaluation, confidence and cognitive control.
+
+### HF4 — Goals, Motivation, Value, Affect, Effort, Reward and Self-Regulation
+
+[`HF4-GOALS-MOTIVATION-VALUE.md`](HF4-GOALS-MOTIVATION-VALUE.md) rejects a scalar
+`motivation` ontology. It separates goal content/activation/commitment/maintenance/
+implementation, liking/wanting/learned/decision/endorsed value, reward roles,
+affect, effort demand/cost/expenditure, motivational action-allocation dimensions,
+habit-like control and temporal/environmental self-regulation.
 
 ## Current continuation
 
-HF3 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF3-CONTINUATION.md`](HF3-CONTINUATION.md) selects **HF4 — Goals, Motivation,
-Value, Affect, Effort, Reward and Self-Regulation** because priority and control
-repeatedly depend on variables that cannot be reduced to attention, working memory,
-metacognition or confidence.
+HF4 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF4-CONTINUATION.md`](HF4-CONTINUATION.md) selects **HF5 — Need, Homeostasis,
+Allostasis, Interoception, Satiety, Stress, Fatigue and Recovery** because internal
+organismic state repeatedly transforms wanting, reward response, effort cost,
+priority and self-regulation even when the external goal/outcome is unchanged.
