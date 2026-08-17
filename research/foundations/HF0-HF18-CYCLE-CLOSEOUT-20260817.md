@@ -177,11 +177,13 @@ HF14  bfbb7b4  establish HF14 normative evaluation boundaries
 HF15  28794ab  establish HF15 moral standing boundaries
 HF16  177eb5e  establish HF16 population aggregation boundaries
 HF17  e4433aa  establish HF17 collective choice boundaries
-HF18  <final HF18 commit after this closeout is committed>
+HF18  7e000c3  establish HF18 strategic implementation boundaries
 ```
 
-The physical final HF18-cycle-closeout head must be revalidated from Git rather than
-copied from this pre-commit placeholder.
+HF18 semantic commit is
+`7e000c3322de9003eb508c2de2a7a0fdba70c4be`. The physical final
+HF0–HF18 cycle-closeout head is the subsequent closeout commit and must be revalidated
+from Git (`main == origin/main`) rather than recursively embedding its own hash here.
 
 ---
 
