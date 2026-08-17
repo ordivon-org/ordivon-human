@@ -4,7 +4,7 @@ id: human.foundations.hf11.continuation
 title: Human Foundations Continuation after HF11
 type: handoff
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
@@ -538,3 +538,10 @@ HF11 does not establish that:
 Do not schedule HF13 now. HF12 must expose a repeated neighboring distinction whose
 absence creates category failures across materially different social/joint-action
 cases.
+
+## Supersession — HF12 complete
+
+HF12 has completed the social-interaction/joint-action/communication boundary
+selected here. Current continuation is owned by
+[`HF12-CONTINUATION.md`](HF12-CONTINUATION.md). This file remains the canonical
+record of why HF12 emerged from HF11.

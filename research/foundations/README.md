@@ -57,6 +57,9 @@ related:
   - human.foundations.hf11
   - human.foundations.hf11.sources
   - human.foundations.hf11.continuation
+  - human.foundations.hf12
+  - human.foundations.hf12.sources
+  - human.foundations.hf12.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -195,19 +198,27 @@ strategy/policy and Human×AI recommendation/delegation.
 ### HF11 — Action, Execution, Sensorimotor Control, Affordance, Skill, Coordination, Feedback and Tool Use
 
 [`HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md`](HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md)
-reconstructs how selected policy becomes realized situated effect. It separates
-action goal/selection/preparation/initiation from motor commands, trajectories and
-outcomes; predictive/feedforward from feedback control; typed motor-learning errors;
-adaptation from skill/automaticity; affordance/attunement/calibration; tool-mediated
-control/body-schema change; intra/interpersonal and human-machine coordination;
-teleoperation latency/shared control; and Human-in-loop/delegated execution from
-meaningful control, authority and responsibility.
+reconstructs how selected policy becomes realized situated effect: action selection/
+initiation, predictive/feedback control, typed errors, skill/automaticity,
+affordance/calibration, tool mediation, coordination, teleoperation/shared control
+and Human×AI execution/override.
+
+### HF12 — Social Interaction, Joint Action, Communication, Shared Goals, Roles and Cooperation
+
+[`HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md`](HF12-SOCIAL-INTERACTION-JOINT-ACTION-COMMUNICATION.md)
+reconstructs relational multi-agent action. It separates co-presence/influence from
+reciprocal interaction, synchrony/coordination from joint action, identical
+individual goals from shared goals/joint commitment, transmission from
+communication/grounding/repair, common ground from identical knowledge, roles from
+subtasks/authority/responsibility, cooperation from coordination/prosociality,
+trust from reliance/dependence, aggregation from interaction synergy/joint
+capability, and Human×AI tool/delegation/supervision from teaming.
 
 ## Current continuation
 
-HF11 exposes the next unavoidable boundary rather than following a fixed curriculum.
-[`HF11-CONTINUATION.md`](HF11-CONTINUATION.md) selects **HF12 — Social Interaction,
-Joint Action, Communication, Shared Goals, Roles and Cooperation** because
-sensorimotor coordination becomes insufficient once another independently modeling
-agent brings distinct beliefs, goals, roles, authority and communication state into
-the action loop.
+HF12 exposes the next unavoidable boundary rather than following a fixed curriculum.
+[`HF12-CONTINUATION.md`](HF12-CONTINUATION.md) selects **HF13 — Social Norms,
+Conventions, Reputation, Status, Authority, Power, Sanctions and Institutions**
+because persistent social order can precede and outlive current interactions,
+coordinate strangers, travel through third parties/networks, constrain options and
+persist across member turnover.
