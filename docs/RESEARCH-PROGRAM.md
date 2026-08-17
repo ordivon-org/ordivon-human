@@ -47,25 +47,17 @@ practical reconstruction, and initial structural pressure testing. A second
 applied cycle, `HUMAN-AI-001`, is now active after a concrete Human–Agent
 capability-allocation problem passed the admission gate.
 
-## Human Foundations — active programme; HF0–HF18 frozen, HF19 complete
+## Human Foundations — active programme; HF0–HF20 established
 
-A bounded foundation-reconstruction mode is admitted because materially different
-Human and cross-project studies repeatedly encounter the same category debts. It
-does not replace problem-first applied research.
+A bounded foundation-reconstruction mode is admitted because materially different Human and cross-project studies repeatedly encounter the same category debts. It does not replace problem-first applied research.
 
-HF0–HF18 remain the frozen first-cycle foundation library. HF19 extends that library with production/economic organization: work versus employment/labor/effort/task; production/output/productivity; technology/tool/skill; typed capital and capital services; specialization/team production; plural theories of firms and governance; ownership/possession/access/control; incomplete contracts/hold-up; scale/scope/complementarity; automation/AI roles; and value creation/capture/welfare boundaries. Its falsification audit found no concrete `FoundationReopenCondition` for HF0–HF18.
+HF0–HF18 remain the frozen first-cycle library; HF19 is the completed production/economic-organization extension. HD1 has now shown that perception was a repeated interface-rich/mechanism-thin neighboring structure across HF2/HF3/HF5/HF8/HF11. Its cross-modal, developmental, sensory-substitution, active-sensing, recurrent-processing and Human-machine falsification satisfied the explicit post-HF19 `NextFoundationAdmissionCondition` without falsifying any existing HF claim.
 
-Current foundation authority: [`../research/foundations/README.md`](../research/foundations/README.md).
-Current completed extension: [`../research/foundations/HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md`](../research/foundations/HF19-WORK-PRODUCTION-ECONOMIC-ORGANIZATION.md).
-HF19 evidence ledger: [`../research/foundations/HF19-SOURCES.md`](../research/foundations/HF19-SOURCES.md).
-First-cycle closeout/handoff: [`../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](../research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
-Current continuation: [`../research/foundations/HF19-CONTINUATION.md`](../research/foundations/HF19-CONTINUATION.md).
+The resulting canonical extension is [`../research/foundations/HF20-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](../research/foundations/HF20-PERCEPTION-SENSING-ACTIVE-SAMPLING.md), with evidence bridge [`../research/foundations/HF20-SOURCES.md`](../research/foundations/HF20-SOURCES.md) and current foundation continuation [`../research/foundations/HF20-CONTINUATION.md`](../research/foundations/HF20-CONTINUATION.md). HF20 is a thin reusable extraction; the full model comparison and falsifier matrix remain owned by [`../research/deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](../research/deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md) and [`../research/deep-foundations/HD1-SOURCES.md`](../research/deep-foundations/HD1-SOURCES.md). **HF21 is UNKNOWN / not admitted.**
 
-No successor HF foundation is admitted or named. A later HF round requires repeated cross-context failures that expose a neighboring distinction not representable by HF0–HF19 without arbitrary hidden choices.
+The separate second-generation **Human Deep Foundations** mode remains the mechanism-depth pressure layer. [`../research/deep-foundations/HD1-CONTINUATION.md`](../research/deep-foundations/HD1-CONTINUATION.md) admits **HD2 — Affect, Emotion, Mood, Appraisal and Affective World Coupling** as the next non-foundation route. `HD2 != HF21`.
 
-A separate second-generation **Human Deep Foundations** research mode now tests depth debt before changing the canonical foundation library. [`../research/deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../research/deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md) is the completed direction/coverage audit; it distinguishes absent topics from interface-rich/mechanism-thin bridges and from cross-cutting falsification axes. HD0 keeps HF0–HF19 frozen and admits no HF20. Its exact continuation, [`../research/deep-foundations/HD0-CONTINUATION.md`](../research/deep-foundations/HD0-CONTINUATION.md), admits **HD1 — Perception, Sensing, Active Sampling and Perceptual World Coupling** as a non-foundation deep-research route.
-
-The recurring deep-pressure axes are evolution/comparative species, development/lifespan, cross-cultural/historical variation, pathology/lesion, disability/compensation, altered/extreme states, and Human×AI perturbation. These axes test candidate mechanisms; they are not a fixed future HF curriculum.
+The recurring deep-pressure axes remain evolution/comparative species, development/lifespan, cross-cultural/historical variation, pathology/lesion, disability/compensation, altered/extreme states, and Human×AI perturbation. These axes test candidate mechanisms; they are not a fixed future HF curriculum.
 
 ## Current applied cycles
 

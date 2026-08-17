@@ -82,6 +82,9 @@ related:
   - human.foundations.hf19
   - human.foundations.hf19.sources
   - human.foundations.hf19.continuation
+  - human.foundations.hf20
+  - human.foundations.hf20.sources
+  - human.foundations.hf20.continuation
   - human.h0.atlas
   - human.questions
 ---
@@ -287,6 +290,17 @@ incomplete contracts/hold-up, scale/scope/complementarity, automation/AI roles a
 value creation/capture/welfare. No single firm theory or production function is
 promoted to universal ontology.
 
+### HF20 — Perception, Sensing, Active Sampling and Perceptual World Coupling
+
+[`HF20-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](HF20-PERCEPTION-SENSING-ACTIVE-SAMPLING.md)
+is the thin canonical extraction from completed HD1 deep research. It reconstructs the
+world/source → sampling/sensing → sensory evidence → perceptual organization/content →
+action loop; separates perception from consciousness, attention, report and belief;
+keeps sensory modality multi-coordinate; separates binding/integration/recalibration;
+and preserves plural feedforward, Bayesian, predictive, recurrent, ecological,
+sensorimotor, active-inference and multisensory-causal-inference views rather than
+promoting one universal perceptual theory.
+
 ## HF0–HF18 cycle closeout
 
 [`HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](HF0-HF18-CYCLE-CLOSEOUT-20260817.md)
@@ -298,25 +312,21 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF19-CONTINUATION.md`](HF19-CONTINUATION.md) remains the exact foundation-level
-continuation after HF19. HF19 is complete and READY, no `FoundationReopenCondition`
-was found for HF0–HF18, and **no successor HF foundation is currently admitted or
-named**. A later HF round may be created only after repeated cross-context
-consumer/evidence failures expose a new neighboring distinction that HF0–HF19 cannot
-represent without arbitrary hidden choices.
+[`HF20-CONTINUATION.md`](HF20-CONTINUATION.md) owns the current foundation-level state.
+HD1 demonstrated that perception satisfies the post-HF19 neighboring-foundation
+admission gate, so HF20 is complete/READY as a thin canonical extension. HF0–HF19 were
+not reopened. **HF21 remains UNKNOWN / not admitted.**
 
-## Human Deep Foundations direction search
+## Human Deep Foundations
 
-The separate deep-research layer begins at
-[`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md).
-HD0 audits skeleton coverage versus mechanistic depth, distinguishes domain candidates
-from cross-cutting pressure axes, and builds a repeated-residual ledger without
-reopening HF0–HF19. Its evidence ledger is
-[`../deep-foundations/HD0-SOURCES.md`](../deep-foundations/HD0-SOURCES.md), and the exact
-continuation is
-[`../deep-foundations/HD0-CONTINUATION.md`](../deep-foundations/HD0-CONTINUATION.md).
+The separate deep-research layer begins with
+[`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md)
+and now includes the completed
+[`../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md`](../deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md).
+HD1 owns the full perception mechanism/model/falsifier reconstruction; HF20 is its
+compressed reusable foundation surface.
 
-HD0 admits **HD1 — Perception, Sensing, Active Sampling and Perceptual World Coupling**
-as the first non-foundation deep route. `HD1 != HF20`: the route must first test whether
-existing HF2/HF3/HF5/HF8/HF11 views can absorb the deeper reconstruction before any
-canonical foundation admission is considered.
+[`../deep-foundations/HD1-CONTINUATION.md`](../deep-foundations/HD1-CONTINUATION.md)
+admits **HD2 — Affect, Emotion, Mood, Appraisal and Affective World Coupling** as the
+next non-foundation deep route. `HD2 != HF21`; a future canonical promotion again
+requires its own repeated-residual evidence.
