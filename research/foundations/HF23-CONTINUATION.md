@@ -12,8 +12,8 @@ owners:
 audience:
   - researcher
   - agent
-updated: 2026-08-17
-summary: Exact foundation continuation after HF23 following completed HD7. HF23 remains complete/READY and current; HD7 reconstructs genetic variation, heredity, regulation, heritability, genotype–environment interplay, ancestry/population structure and individual differences as a cross-cutting biological causal/inheritance layer without admitting HF24. Human Deep Foundations continues separately with HD8 evolution/phylogeny/population change/Human-specificity as the next non-foundation route after a confirming global residual scan.
+updated: 2026-08-18
+summary: Exact foundation continuation after HF23 following completed HD8. HF23 remains complete/READY and current; HD8 reconstructs evolution, population/lineage change, selection/drift/admixture, fitness/adaptation, phylogenetic/comparative inference, introgression, Human-specificity and gene–culture/niche coupling as a cross-cutting population-historical causal/explanatory layer without admitting HF24. Human Deep Foundations continues separately with HD9 organismic systems/health/disease integration as the next non-foundation route after a confirming global residual scan.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -99,7 +99,7 @@ Grounding = Experience
 
 ---
 
-# 4. HD6 and HD7 completed without admitting HF24
+# 4. HD6–HD8 completed without admitting HF24
 
 HD6 first ran the residual check required by HD5. Narrative/imagination remained a valid
 later candidate but was displaced by the much larger under-modeled sex/sexuality/reproduction
@@ -119,7 +119,15 @@ NextFoundationAdmissionCondition(HF24) = false
 HF24 = UNKNOWN
 ```
 
-HD7 then reconstructed genetic variation, heredity, regulation, heritability, population structure and individual-difference inference as a cross-cutting biological causal/inheritance layer. It likewise found no clean peer HF24 object and reopened no existing HF.
+HD7 then reconstructed genetic variation, heredity, regulation, heritability, population structure and individual-difference inference as a cross-cutting biological causal/inheritance layer. HD8 subsequently reconstructed population/lineage evolution, selection/drift/admixture, fitness/adaptation, phylogenetic/comparative inference, archaic introgression, Human-specificity and gene–culture/niche coupling as a population-historical causal/explanatory layer. Neither exposed a clean peer HF24 object or reopened an existing HF.
+
+```text
+Evolution != Progress
+AlleleFrequencyChange != Selection
+Fitness != Welfare / MoralWorth
+Adaptation != Optimality
+HumanSpecific_D != HumanEssence
+```
 
 HF23 remains the current foundation continuation.
 
@@ -130,19 +138,19 @@ HF23 remains the current foundation continuation.
 Read:
 
 ```text
-../deep-foundations/HD7-GENETIC-VARIATION-HEREDITY-GENE-ENVIRONMENT-INDIVIDUAL-DIFFERENCES.md
-../deep-foundations/HD7-SOURCES.md
-../deep-foundations/HD7-CONTINUATION.md
+../deep-foundations/HD8-EVOLUTION-PHYLOGENY-POPULATION-CHANGE-HUMAN-SPECIFICITY.md
+../deep-foundations/HD8-SOURCES.md
+../deep-foundations/HD8-CONTINUATION.md
 ```
 
 The next non-foundation route is:
 
 ```text
-HD8 — Evolution, Phylogeny, Population Change, Natural Selection and Human Specificity
+HD9 — Organismic Systems, Health, Disease, Immune–Metabolic–Endocrine Integration and Pathophysiology
 ```
 
 ```text
-HD8 != HF24
+HD9 != HF24
 ```
 
 ---

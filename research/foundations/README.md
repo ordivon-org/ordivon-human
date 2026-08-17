@@ -358,26 +358,28 @@ the first-cycle closeout.
 ## Current foundation continuation
 
 [`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) remains the current foundation-level state.
-HD7 completed the genetics/heredity/individual-differences depth test without admitting HF24.
-The surviving layer is cross-cutting biological substrate/process rather than one peer Human
-object: `Gene != Trait`, `Genotype != Phenotype`, `Heritability != IndividualProperty`,
-`GeneticAncestry != Race`, and `PGS != Destiny`. HF0–HF23 were not reopened. **HF24 remains
-UNKNOWN / not admitted.**
+HD8 completed the evolution/phylogeny/population-change/Human-specificity depth test without
+admitting HF24. The surviving layer is population/lineage historical and cross-cutting rather
+than one peer Human object: `Evolution != Progress`, `AlleleFrequencyChange != Selection`,
+`Fitness != Welfare`, `Adaptation != Optimality`, `Convergence != Homology`, and
+`HumanSpecific_D != HumanEssence`. HF0–HF23 were not reopened. **HF24 remains UNKNOWN / not
+admitted.**
 
 ## Human Deep Foundations
 
 The separate deep-research layer begins with
 [`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
 continues through perception, affect, persistent relations, cultural inheritance, symbolic
-systems and sex/reproduction, and now includes the completed genetics/heredity route
-[`../deep-foundations/HD7-GENETIC-VARIATION-HEREDITY-GENE-ENVIRONMENT-INDIVIDUAL-DIFFERENCES.md`](../deep-foundations/HD7-GENETIC-VARIATION-HEREDITY-GENE-ENVIRONMENT-INDIVIDUAL-DIFFERENCES.md).
-HD7 owns the genomic variation/regulation/heritability/association/G×E/ancestry/prediction
-mechanism and falsifier grammar while existing HFs continue to own person identity,
-development, knowledge, decision and normative authority. HD4, HD6 and HD7 now provide three
-different examples of `DeepImportance != FoundationAdmission`.
+systems, sex/reproduction and genetics/heredity, and now includes the completed
+evolution/comparative route
+[`../deep-foundations/HD8-EVOLUTION-PHYLOGENY-POPULATION-CHANGE-HUMAN-SPECIFICITY.md`](../deep-foundations/HD8-EVOLUTION-PHYLOGENY-POPULATION-CHANGE-HUMAN-SPECIFICITY.md).
+HD8 owns the population-change/selection/drift/admixture/fitness/adaptation/phylogenetic/
+Human-specificity mechanism and falsifier grammar while existing HFs continue to own person
+identity, development, knowledge, current function and normative authority. HD4, HD6, HD7 and
+HD8 now provide four different examples of `DeepImportance != FoundationAdmission`.
 
-[`../deep-foundations/HD7-CONTINUATION.md`](../deep-foundations/HD7-CONTINUATION.md)
-records the confirming global residual scan and admits **HD8 — Evolution, Phylogeny,
-Population Change, Natural Selection and Human Specificity** as the next non-foundation deep
-route. `HD8 != HF24`; narrative/imagination, organism systems and collective identity remain
-later residual candidates.
+[`../deep-foundations/HD8-CONTINUATION.md`](../deep-foundations/HD8-CONTINUATION.md)
+records the post-HD8 global residual scan and admits **HD9 — Organismic Systems, Health,
+Disease, Immune–Metabolic–Endocrine Integration and Pathophysiology** as the next
+non-foundation deep route. `HD9 != HF24`; narrative/imagination, collective identity,
+sleep/dreaming and psychopathology remain later residual candidates.
