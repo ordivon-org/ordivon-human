@@ -233,21 +233,25 @@ The 2026-08-17 HD9 continuation text above is historical. Human Deep Foundations
 
 After HD14, a fresh whole-Human fifth-generation unexplored-space search re-competed prior candidates with newly elevated spaces rather than inheriting a roadmap. The canonical decision is [`research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md`](research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md), supported by its [primary-evidence ledger](research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md).
 
-Only after passing the deep-route gate, **HD15 — Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation** was admitted as a non-foundation research route. HD15-A completed the term-separation and measurement firewall in [`research/deep-foundations/HD15-A-CURRENT-USE-TERM-SEPARATION-HIDDEN-ASSUMPTION-INVENTORY.md`](research/deep-foundations/HD15-A-CURRENT-USE-TERM-SEPARATION-HIDDEN-ASSUMPTION-INVENTORY.md). HD15-B has now completed the destructive rival-architecture tournament in [`research/deep-foundations/HD15-B-RIVAL-BODILY-SELF-ARCHITECTURES-MEASUREMENT-DECOMPOSITION-CROSS-REGIME-FALSIFICATION.md`](research/deep-foundations/HD15-B-RIVAL-BODILY-SELF-ARCHITECTURES-MEASUREMENT-DECOMPOSITION-CROSS-REGIME-FALSIFICATION.md), supported by [`research/deep-foundations/HD15-B-SOURCES.md`](research/deep-foundations/HD15-B-SOURCES.md). No unitary bodily-self mechanism survived the common battery. The best whole-route synthesis is `LayeredPluralBodilySelfArchitecture = composition, not Foundation`; the remaining ownership-relevant residuals are `BodyOwnershipCausalInferenceProjection`, `PartWholeOwnershipIntegrationProjection`, and `AgencyCueIntegrationProjection`. [`research/deep-foundations/HD15-CONTINUATION.md`](research/deep-foundations/HD15-CONTINUATION.md) is the current continuation boundary. HD15-C — Cross-Regime Invariance / Selective Dissociation / Bodily-Self Ownership Extraction — is admitted next but has not yet been executed.
+Only after passing the deep-route gate, **HD15 — Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation** was admitted as a non-foundation research route. HD15-A completed term separation and the measurement firewall; HD15-B completed the destructive rival-architecture tournament; and HD15-C has now completed cross-regime invariance, selective-dissociation and ownership extraction in [`research/deep-foundations/HD15-C-CROSS-REGIME-INVARIANCE-SELECTIVE-DISSOCIATION-BODILY-SELF-OWNERSHIP-EXTRACTION.md`](research/deep-foundations/HD15-C-CROSS-REGIME-INVARIANCE-SELECTIVE-DISSOCIATION-BODILY-SELF-OWNERSHIP-EXTRACTION.md), supported by [`research/deep-foundations/HD15-C-SOURCES.md`](research/deep-foundations/HD15-C-SOURCES.md). All three HD15-B residuals remain scientifically useful but fail peer-Foundation deletion harm after neighboring owners are restored: `BodyOwnershipCausalInferenceProjection` is HF20-centered with HF8/HF2/HF3/HF1 participation; `PartWholeOwnershipIntegrationProjection` is HF20/HF8-centered with HF2 ownership experience; and `AgencyCueIntegrationProjection` is HF11-centered with World/HF10/HF20/HF8/HF3/HF2/HD12 participation. Therefore `BodyOwnershipCausalInference→HF24`, `PartWholeOwnershipIntegration→HF24`, `AgencyCueIntegration→HF24`, and the umbrella `BodilySelf→HF24` are **CLOSED / NOT ADMITTED** on current evidence. `BodilySelfHF24ReopenCondition = false`. [`research/deep-foundations/HD15-CONTINUATION.md`](research/deep-foundations/HD15-CONTINUATION.md) is the stage-closeout continuation boundary. HD15 is STAGE COMPLETE; HD15-D is NOT ADMITTED. Global HF24 remains UNKNOWN/not admitted, and the next Human deep route must be selected by a fresh whole-Human re-ranking rather than inherited from an old candidate order.
 
 Current frontier:
 
 ```text
 HF0–HF23 = preserved / frozen
 HF24 = UNKNOWN / not admitted
+FoundationReopenCondition(HF0–HF23) = false
 HOC0–HOC10 = frozen
 HOC11 = UNKNOWN / not admitted
 HD11–HD14 = STAGE COMPLETE
-HD15 = active admitted non-foundation deep route
 HD15-A = COMPLETE
 HD15-B = COMPLETE
-HD15-C = ADMITTED NEXT / not yet executed
-NextHumanDeepRoute after HD15 = UNKNOWN
+HD15-C = COMPLETE
+HD15 = STAGE COMPLETE
+HD15-D = NOT ADMITTED
+BodilySelf→HF24 = CLOSED / NOT ADMITTED
+BodilySelfHF24ReopenCondition = false
+NextHumanDeepRoute = UNKNOWN / fresh whole-Human re-ranking required
 WholeHumanOperationalClosure = NOT ESTABLISHED
 WholeHumanExhaustion = NOT CLAIMED
 ```
