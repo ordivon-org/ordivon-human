@@ -89,3 +89,44 @@ clinical/policy framework != Human ontology
 product/HCI finding != universal Human law
 Western adult measurement != cross-cultural/developmental transport guarantee
 ```
+
+
+## Round-2 destructive-tournament additions
+
+### Subjective well-being structure and global transport
+
+- OECD. **OECD Guidelines on Measuring Subjective Well-being (2025 Update).** https://www.oecd.org/en/publications/oecd-guidelines-on-measuring-subjective-well-being-2025-update_9203632a-en.html
+  - Used to pressure-test one-scalar welfare models. The framework separates life evaluation, affect and eudaimonia and treats subjective data as complementary to objective outcomes.
+- OECD. **Measuring subjective well-being.** https://www.oecd.org/en/publications/oecd-guidelines-on-measuring-subjective-well-being-2025-update_9203632a-en/full-report/measuring-subjective-well-being_b4b53f27.html
+  - Used for non-additivity, affect/reference-period and subjective/objective divergence constraints.
+- OECD. **Core and extended survey modules.** https://www.oecd.org/en/publications/oecd-guidelines-on-measuring-subjective-well-being-2025-update_9203632a-en/full-report/core-and-extended-survey-modules_37f842ef.html
+  - Used to distinguish life evaluation, affect, pain and eudaimonic targets rather than infer one hidden welfare quantity.
+- OECD. Smith, Frieling, Percival & Mahoney (2025). **Globally inclusive measures of subjective well-being: Updated evidence to inform national data collections.** https://www.oecd.org/en/publications/globally-inclusive-measures-of-subjective-well-being_bd72752a-en.html
+  - Used for cross-cultural transport pressure, including low-arousal positive affect, social and relational well-being residuals and under-represented populations.
+
+### Patient-reported and lived outcomes
+
+- NIH Common Fund. **Patient-Reported Outcomes Measurement Information System (PROMIS).** https://commonfund.nih.gov/promis
+  - Used as evidence that clinically meaningful patient-reported symptoms and lived/function outcomes can add decision value beyond laboratory/clinical measures and should remain domain-specific rather than one score.
+- Cella et al. / PROMIS overview. **Patient-Reported Outcomes Measurement Information System (PROMIS): efficient, standardized tools to measure self-reported health and quality of life.** PubMed: https://pubmed.ncbi.nlm.nih.gov/25015409/
+  - Used to pressure-test evidence grammar for self-reported symptoms, perceptions and experiences.
+
+### Social isolation versus loneliness
+
+- **Cross-Lagged Panel Analyses of Reciprocal Effects of Social Isolation, Perceived Loneliness, and Solitary Activity.** https://pmc.ncbi.nlm.nih.gov/articles/PMC7740170/
+  - Used to separate objective social isolation from subjective loneliness.
+- **Are loneliness and social isolation equal threats to health and well-being? An outcome-wide longitudinal approach.** https://pmc.ncbi.nlm.nih.gov/articles/PMC10400921/
+  - Used as further evidence that loneliness and social isolation are distinct practical targets.
+- **Stability and change in social isolation profiles over time among older adults.** https://pmc.ncbi.nlm.nih.gov/articles/PMC10737287/
+  - Singapore older-adult evidence used for disconnected-but-less-lonely versus disconnected-and-lonely states.
+
+### Experienced agency versus actual automation/control
+
+- Ueda, Nakashima & Kumada (2021). **Influence of levels of automation on the sense of agency during continuous action.** Scientific Reports. https://www.nature.com/articles/s41598-021-82036-3
+  - Used to pressure-test the relation among automation level, performance and experienced agency.
+- Nakashima & Kumada (2022). **Task-irrelevant object response to action enhances the sense of agency for controlling the object in automation.** Scientific Reports. https://www.nature.com/articles/s41598-022-20125-7
+  - Strong falsifier for `ExperiencedAgency = ActualControl`: action-contingent but task-irrelevant feedback can alter reported sense of agency during automatic control.
+- Fink, Newman & Haran (2024). **Let me decide: Increasing user autonomy increases recommendation acceptance.** Computers in Human Behavior 156, 108244. https://doi.org/10.1016/j.chb.2024.108244
+  - Used as a practical decision-effect case for choice/control autonomy in algorithmic recommendation.
+- **Navigating autonomy and control in human-AI delegation: User responses to technology- versus user-invoked task allocation.** Decision Support Systems 180 (2024), 114193. https://www.sciencedirect.com/science/article/pii/S0167923624000265
+  - Used as a Human-AI delegation pressure case separating task allocation mechanics, perceived control and user response.
