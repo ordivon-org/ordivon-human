@@ -1,0 +1,1045 @@
+{
+  "authorityRef": "authority:ordivon:research-owner:human",
+  "closeouts": [
+    {
+      "closure": [
+        {
+          "scope": "HF0_HF23",
+          "status": "FROZEN"
+        },
+        {
+          "scope": "HF24",
+          "status": "UNKNOWN_NOT_ADMITTED"
+        },
+        {
+          "scope": "FOUNDATION_REOPEN_HF0_HF23",
+          "status": "FALSE"
+        },
+        {
+          "scope": "WHOLE_HUMAN_FOUNDATION_EXHAUSTION",
+          "status": "NOT_ESTABLISHED"
+        }
+      ],
+      "materialLineage": [
+        "HF identities remain stable while family maps are navigation-only compression.",
+        "HF14-HF18 identities are preserved but sole Human semantic ownership was corrected through the binding owner overlay."
+      ],
+      "negativeRoute": "No HF24 by numeric succession and no Human absorption of generic normative authority.",
+      "profile": "NATIVE",
+      "reopenPolicy": "Reopen only from repeated foundation-level failure or authority leak; terminology/taxonomy pressure alone is insufficient.",
+      "researchRef": "research:human:core-current-20260819",
+      "residualState": "HF24_UNKNOWN_NOT_ADMITTED; WHOLE_HUMAN_FOUNDATION_EXHAUSTION_NOT_ESTABLISHED; HF14_HF18_CLAIM_ROUTING_REQUIRES_OWNER_OVERLAY",
+      "resultRefs": [
+        "result:human:owner-boundary-current",
+        "result:human:hf0-hf23-frozen-current",
+        "result:human:hf24-not-admitted",
+        "result:human:hf0-hf23-reopen-condition-false",
+        "result:human:hf-family-boundary-subjectivity",
+        "result:human:hf-family-perception-access",
+        "result:human:hf-family-valuation-regulation-adaptation",
+        "result:human:hf-family-memory-representation-cognition",
+        "result:human:hf-family-decision-situated-action",
+        "result:human:hf-family-relation-coordination",
+        "result:human:hf-family-social-strategic-economic-organization",
+        "result:human:hf-family-normative-scope-collective-choice-overlay",
+        "result:human:hf14-hf18-normative-owner-overlay-current"
+      ]
+    },
+    {
+      "closure": [
+        {
+          "scope": "HD0_HD10",
+          "status": "COMPLETED_HISTORY"
+        },
+        {
+          "scope": "HD11_HD16",
+          "status": "STAGE_COMPLETE_HISTORY"
+        },
+        {
+          "scope": "NEXT_HUMAN_DEEP_ROUTE",
+          "status": "UNKNOWN"
+        },
+        {
+          "scope": "WHOLE_HUMAN_EXHAUSTION",
+          "status": "NOT_CLAIMED"
+        },
+        {
+          "scope": "HD11_HD16_HF24_PROMOTION",
+          "status": "CLOSED_NOT_ADMITTED"
+        }
+      ],
+      "materialLineage": [
+        "Foundation-producing HD1/2/3/5 retained detailed deep corpora after thin HF extraction.",
+        "HD4/6/7/8/9/10 and HD11-16 preserve useful scientific structure despite no Foundation promotion."
+      ],
+      "negativeRoute": "Deep != Primitive; stage complete != whole Human exhausted.",
+      "profile": "NATIVE",
+      "reopenPolicy": "Future deep work requires fresh whole-Human re-ranking or a concrete repeated deletion-harm/falsifier; prior residual ranking is not roadmap authority.",
+      "researchRef": "research:human:deep-domain-current-20260819",
+      "residualState": "NEXT_DEEP_ROUTE_UNKNOWN; WHOLE_HUMAN_EXHAUSTION_NOT_CLAIMED",
+      "resultRefs": [
+        "result:human:hd0-hd10-completed-history",
+        "result:human:hd11-hd16-stage-complete-history",
+        "result:human:hd6-hd9-bio-evolution-health-no-promotion",
+        "result:human:hd4-hd5-culture-language-dispositions",
+        "result:human:hd11-hd16-retained-projections",
+        "result:human:next-deep-route-unknown",
+        "result:human:whole-human-exhaustion-not-claimed",
+        "result:human:hd11-hd16-hf24-candidate-routes-closed"
+      ]
+    },
+    {
+      "closure": [
+        {
+          "scope": "HOC0_HOC10",
+          "status": "FROZEN"
+        },
+        {
+          "scope": "HOC11",
+          "status": "UNKNOWN_NOT_ADMITTED"
+        },
+        {
+          "scope": "WHOLE_HUMAN_OPERATIONAL_CLOSURE",
+          "status": "NOT_ESTABLISHED"
+        },
+        {
+          "scope": "UNNUMBERED_PROTOCOLS",
+          "status": "THREE_RETAINED"
+        }
+      ],
+      "materialLineage": [
+        "GenericOperationalCoreSufficiency(HOC0-HOC9) was falsified, yielding HOC10 after destructive reduction.",
+        "Three attractive family candidates reduced to unnumbered evidence/projection/routing protocols rather than HOCs."
+      ],
+      "negativeRoute": "No HOC11 by symmetry or label frequency.",
+      "profile": "NATIVE",
+      "reopenPolicy": "Reopen only from concrete operational counterexample or new regime that current composition/protocols cannot represent at acceptable governance cost.",
+      "researchRef": "research:human:operational-current-20260819",
+      "residualState": "NEXT_HOC_UNKNOWN; WHOLE_OPERATIONAL_CLOSURE_NOT_ESTABLISHED",
+      "resultRefs": [
+        "result:human:hoc0-hoc10-frozen-current",
+        "result:human:hoc11-not-admitted",
+        "result:human:whole-operational-closure-not-established",
+        "result:human:three-unnumbered-operational-protocols-current",
+        "result:human:hoc10-closure-falsification-admission-history",
+        "result:human:generic-operational-core-sufficiency-falsified"
+      ]
+    },
+    {
+      "closure": [
+        {
+          "scope": "HUMAN_AGENT_CAPABILITY_BRIDGE",
+          "status": "ACTIVE_CONTRACTED"
+        },
+        {
+          "scope": "HUMAN_ECON_001",
+          "status": "PRACTICAL_CYCLE_COMPLETE_CONDITIONAL"
+        },
+        {
+          "scope": "UNIVERSAL_PERSON_VECTOR",
+          "status": "REJECTED"
+        }
+      ],
+      "materialLineage": [
+        "Human-agent research contracted away from routine direct Human retesting toward evidence transport and system-level falsification.",
+        "Economic-autonomy work rejected its own remaining linear-life-path implication in favor of three engines plus cross-cutting rails."
+      ],
+      "negativeRoute": "No platform/HOC/Foundation admission merely because an applied bridge is useful.",
+      "profile": "NATIVE",
+      "reopenPolicy": "Applied work does not promote HF/HOC/HD standing; new work must be problem-driven and falsifiable.",
+      "researchRef": "research:human:applied-bridges-current-20260819",
+      "residualState": "AGENTIC_CAPABILITY_CONTINUES_ONLY_WHERE_DECISION_CHANGING_UNCERTAINTY_SURVIVES; ECONOMY_REOPENS_ON_REAL_COUNTERCASE_OR_MISSING_MECHANISM",
+      "resultRefs": [
+        "result:human:agentic-capability-bridge-active-contracted",
+        "result:human:economic-autonomy-cycle-complete-conditional",
+        "result:human:one-person-vector-universal-profile-rejected"
+      ]
+    }
+  ],
+  "currentRecovery": {
+    "locator": "research/core/HUMAN-RESEARCH-CORE.md",
+    "targetRole": "OWNER_RESEARCH_CORPUS"
+  },
+  "kind": "ordivon.research-owner-publication",
+  "ownerResearchRef": "research-owner:human",
+  "profile": "NATIVE",
+  "schemaVersion": 1,
+  "source": {
+    "authorityBranch": "refs/heads/repair/human-research-core-materialization-20260818",
+    "corpusRoot": "research/core",
+    "kind": "git",
+    "repository": "git@github.com:zycxfyh/ordivon-human.git",
+    "sourceRevision": "866798917d43f0b809e6aa494ceda12e48a0fe48"
+  },
+  "statements": [
+    {
+      "predicate": "OWNER_BINDING",
+      "scope": "OWNER",
+      "subjectRef": "research-owner:human",
+      "value": "human"
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "OWNER",
+      "subjectRef": "research-owner:human",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:owner-boundary-current",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:owner-boundary-current",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:owner-boundary-current",
+      "value": "Human owns Human-side empirical, cognitive, experiential, behavioral and operational claims within admitted scope. It does not own generic normative validity, external physical reality, generic game/economic/financial/institutional mechanisms, or Harness/Host execution authority."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:owner-boundary-current",
+      "value": [
+        "OWNER_BOUNDARY"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-frozen-current",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-frozen-current",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-frozen-current",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-frozen-current",
+      "value": "HF0–HF23 are the preserved/frozen current Human Foundation library. Stable identity does not imply sole semantic ownership for mixed claims."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-frozen-current",
+      "value": [
+        "FOUNDATION_STANDING"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf24-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf24-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf24-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf24-not-admitted",
+      "value": "HF24 remains UNKNOWN / not admitted. No numeric successor is implied by residual maps or deep-route completion."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf24-not-admitted",
+      "value": [
+        "NEGATIVE_FOUNDATION_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-reopen-condition-false",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-reopen-condition-false",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-reopen-condition-false",
+      "value": "FoundationReopenCondition(HF0–HF23)=false at the source fence; reopen requires repeated foundation-level failure such as category error, incompatible strong evidence, missing distinction, contradiction, unusable consumer mapping or normative-authority leak."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf0-hf23-reopen-condition-false",
+      "value": [
+        "REOPEN_POLICY"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-boundary-subjectivity",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-boundary-subjectivity",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-boundary-subjectivity",
+      "value": "Boundary & Subjectivity is a navigation-only family over stable identities HF0/HF1/HF2; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-boundary-subjectivity",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "BOUNDARY_SUBJECTIVITY"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-perception-access",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-perception-access",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-perception-access",
+      "value": "Perception & Access is a navigation-only family over stable identities HF3/HF20; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-perception-access",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "PERCEPTION_ACCESS"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-valuation-regulation-adaptation",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-valuation-regulation-adaptation",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-valuation-regulation-adaptation",
+      "value": "Valuation, Regulation & Adaptation is a navigation-only family over stable identities HF4/HF5/HF6/HF21; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-valuation-regulation-adaptation",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "VALUATION_REGULATION_ADAPTATION"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-memory-representation-cognition",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-memory-representation-cognition",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-memory-representation-cognition",
+      "value": "Memory, Representation & Cognition is a navigation-only family over stable identities HF7/HF8/HF9/HF23; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-memory-representation-cognition",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "MEMORY_REPRESENTATION_COGNITION"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-decision-situated-action",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-decision-situated-action",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-decision-situated-action",
+      "value": "Decision & Situated Action is a navigation-only family over stable identities HF10/HF11; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-decision-situated-action",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "DECISION_ACTION"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-relation-coordination",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-relation-coordination",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-relation-coordination",
+      "value": "Relation & Coordination is a navigation-only family over stable identities HF12/HF22; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-relation-coordination",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "RELATION_COORDINATION"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-social-strategic-economic-organization",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-social-strategic-economic-organization",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-social-strategic-economic-organization",
+      "value": "Social Order, Strategic & Economic Organization is a navigation-only family over stable identities HF13/HF18/HF19; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-social-strategic-economic-organization",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "SOCIAL_ECONOMIC_ORGANIZATION"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-normative-scope-collective-choice-overlay",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-normative-scope-collective-choice-overlay",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-normative-scope-collective-choice-overlay",
+      "value": "Normative Scope & Collective Choice is a navigation-only family over stable identities HF14/HF15/HF16/HF17; it is not a new Foundation and does not renumber or merge HF identities."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf-family-normative-scope-collective-choice-overlay",
+      "value": [
+        "FOUNDATION_FAMILY",
+        "NORMATIVE_BOUNDARY_OVERLAY"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd0-hd10-completed-history",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd0-hd10-completed-history",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd0-hd10-completed-history",
+      "value": "HD0–HD10 are completed Human deep-research history. Some routes produced later HF thin extractions; others closed with no Foundation promotion. Deep != Primitive."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd0-hd10-completed-history",
+      "value": [
+        "DEEP_RESEARCH_HISTORY"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-stage-complete-history",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:STAGE_COMPLETE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-stage-complete-history",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-stage-complete-history",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-stage-complete-history",
+      "value": "HD11–HD16 are stage-complete Human deep-research history. Their retained projections remain scientific outputs while candidate HF24 promotions were closed/not admitted."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-stage-complete-history",
+      "value": [
+        "DEEP_RESEARCH_HISTORY",
+        "STAGE_COMPLETE"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd6-hd9-bio-evolution-health-no-promotion",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd6-hd9-bio-evolution-health-no-promotion",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd6-hd9-bio-evolution-health-no-promotion",
+      "value": "HD6 reproduction/life history, HD7 genetics/heredity, HD8 evolution/phylogeny and HD9 organismic health/disease are retained bio/psych/social or biological implementation/history domains; no peer Foundation promotion was admitted."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd6-hd9-bio-evolution-health-no-promotion",
+      "value": [
+        "BIOLOGICAL_DEEP_DOMAIN",
+        "NO_FOUNDATION_PROMOTION"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd4-hd5-culture-language-dispositions",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd4-hd5-culture-language-dispositions",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd4-hd5-culture-language-dispositions",
+      "value": "HD4 social learning/cultural transmission remained a cross-foundation cultural-historical process with no Foundation promotion; HD5 language/symbolic systems produced the later thin HF23 extraction."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd4-hd5-culture-language-dispositions",
+      "value": [
+        "CULTURE_LANGUAGE_DEEP_DOMAIN"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-retained-projections",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-retained-projections",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-retained-projections",
+      "value": "HD11–HD16 retain typed projections for imagination/reality monitoring, temporal cognition, quantitative cognition, spatial navigation, bodily self and music/auditory structural cognition. Retained projection != Foundation."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-retained-projections",
+      "value": [
+        "RETAINED_DEEP_PROJECTIONS"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:next-deep-route-unknown",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:next-deep-route-unknown",
+      "value": "UNDERDETERMINED"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:next-deep-route-unknown",
+      "value": "NextHumanDeepRoute=UNKNOWN; any continuation requires a fresh whole-Human re-ranking rather than following prior residual order."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:next-deep-route-unknown",
+      "value": [
+        "OPEN_FRONTIER"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-human-exhaustion-not-claimed",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-human-exhaustion-not-claimed",
+      "value": "UNDERDETERMINED"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-human-exhaustion-not-claimed",
+      "value": "WholeHumanExhaustion is not claimed. Local frozen/stage-complete surfaces do not establish whole-domain exhaustion."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-human-exhaustion-not-claimed",
+      "value": [
+        "OPEN_CLOSURE"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc0-hoc10-frozen-current",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FROZEN",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc0-hoc10-frozen-current",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc0-hoc10-frozen-current",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc0-hoc10-frozen-current",
+      "value": "HOC0–HOC10 are frozen current Human operational concepts. They remain distinct from HF and from unnumbered protocols."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc0-hoc10-frozen-current",
+      "value": [
+        "OPERATIONAL_CONCEPT_STANDING"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc11-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc11-not-admitted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc11-not-admitted",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc11-not-admitted",
+      "value": "HOC11 / NextHOC remains UNKNOWN / not admitted. Search stops on information gain, not numerical exhaustion."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc11-not-admitted",
+      "value": [
+        "NEGATIVE_OPERATIONAL_RESULT"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-operational-closure-not-established",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-operational-closure-not-established",
+      "value": "UNDERDETERMINED"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-operational-closure-not-established",
+      "value": "WholeHumanOperationalClosure is NOT ESTABLISHED; HOC0–HOC10 stage closure is bounded and does not imply whole-Human operational exhaustion."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:whole-operational-closure-not-established",
+      "value": [
+        "OPEN_OPERATIONAL_CLOSURE"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:three-unnumbered-operational-protocols-current",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:three-unnumbered-operational-protocols-current",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:three-unnumbered-operational-protocols-current",
+      "value": "ExperientialProjectionProtocol, SelfModelProjectionProtocol and SupportedDecisionParticipationProtocol are retained first-class unnumbered protocols. Methodological reuse != substantive-family ownership; Protocol discovery != HOC admission."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:three-unnumbered-operational-protocols-current",
+      "value": [
+        "OPERATIONAL_PROTOCOL_REGISTRY"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc10-closure-falsification-admission-history",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc10-closure-falsification-admission-history",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc10-closure-falsification-admission-history",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc10-closure-falsification-admission-history",
+      "value": "A closure falsification of GenericOperationalCoreSufficiency(HOC0–HOC9) exposed an HF21 affect/regulation operational gap; destructive reduction then admitted HOC10. This is preserved as a positive falsification/revision episode."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hoc10-closure-falsification-admission-history",
+      "value": [
+        "FALSIFICATION_HISTORY",
+        "OPERATIONAL_ADMISSION_HISTORY"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf14-hf18-normative-owner-overlay-current",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf14-hf18-normative-owner-overlay-current",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf14-hf18-normative-owner-overlay-current",
+      "value": "HF14–HF18 retain Human identities but current claim routing splits Human-side cognition/recognition/preferences/plurality/strategic behavior from Ordivon Normative validity/standing/obligation/priority/conflict, with Game/Economics/Harness/Host boundaries where appropriate. Human compatibility surface != generic normative authority."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hf14-hf18-normative-owner-overlay-current",
+      "value": [
+        "CROSS_OWNER_BOUNDARY",
+        "NORMATIVE_OVERLAY"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:agentic-capability-bridge-active-contracted",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:agentic-capability-bridge-active-contracted",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:agentic-capability-bridge-active-contracted",
+      "value": "Human–Agent capability research is an active applied bridge. Post-Round-1 contraction prioritizes external evidence→transport/moderator analysis→Ordivon-specific system falsification→natural dogfood; direct Human experiments are residual tools."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:agentic-capability-bridge-active-contracted",
+      "value": [
+        "APPLIED_BRIDGE",
+        "HUMAN_AGENT_RESEARCH"
+      ]
+    },
+    {
+      "predicate": "STANDING:CURRENT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:economic-autonomy-cycle-complete-conditional",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:COMPLETED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:economic-autonomy-cycle-complete-conditional",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:economic-autonomy-cycle-complete-conditional",
+      "value": "SUPPORTED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:economic-autonomy-cycle-complete-conditional",
+      "value": "HUMAN-ECON-001 practical reconstruction and six-case structural pressure review are complete as a conditional Human applied framework. E0–E9 are selectable module identities, not a universal life ladder; no automatic E10 is planned."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:economic-autonomy-cycle-complete-conditional",
+      "value": [
+        "APPLIED_COMPLETED_CYCLE",
+        "ECONOMIC_AUTONOMY"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:one-person-vector-universal-profile-rejected",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:REJECTED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:one-person-vector-universal-profile-rejected",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:one-person-vector-universal-profile-rejected",
+      "value": "FALSIFIED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:one-person-vector-universal-profile-rejected",
+      "value": "Flat Human subsystem ontology and OnePersonVector/OneUserProfile/universal scalar reductions are preserved negative history, not current ontology."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:one-person-vector-universal-profile-rejected",
+      "value": [
+        "NEGATIVE_RESULT",
+        "MODEL_REDUCTION_REJECTED"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:generic-operational-core-sufficiency-falsified",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:FALSIFIED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:generic-operational-core-sufficiency-falsified",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:generic-operational-core-sufficiency-falsified",
+      "value": "FALSIFIED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:generic-operational-core-sufficiency-falsified",
+      "value": "GenericOperationalCoreSufficiency(HOC0–HOC9) was falsified by the HF21 operational gap that yielded HOC10."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:generic-operational-core-sufficiency-falsified",
+      "value": [
+        "NEGATIVE_RESULT",
+        "CLOSURE_FALSIFICATION"
+      ]
+    },
+    {
+      "predicate": "STANDING:HISTORICAL_PRESERVED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-hf24-candidate-routes-closed",
+      "value": true
+    },
+    {
+      "predicate": "STANDING:NOT_ADMITTED",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-hf24-candidate-routes-closed",
+      "value": true
+    },
+    {
+      "predicate": "EPISTEMIC_VERDICT",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-hf24-candidate-routes-closed",
+      "value": "ESTABLISHED_IN_SCOPE"
+    },
+    {
+      "predicate": "EVIDENCE_SCOPE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-hf24-candidate-routes-closed",
+      "value": "HD11–HD16 candidate-specific HF24 routes are closed/not admitted at the source fence; D rounds for HD15/HD16 were not admitted."
+    },
+    {
+      "predicate": "STRUCTURAL_ROLE",
+      "scope": "RESULT",
+      "subjectRef": "result:human:hd11-hd16-hf24-candidate-routes-closed",
+      "value": [
+        "NEGATIVE_ROUTE",
+        "NO_FOUNDATION_PROMOTION"
+      ]
+    }
+  ]
+}

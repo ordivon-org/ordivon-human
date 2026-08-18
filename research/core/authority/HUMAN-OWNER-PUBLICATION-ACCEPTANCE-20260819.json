@@ -1,0 +1,20 @@
+{
+  "authorityBranch": "refs/heads/repair/human-research-core-materialization-20260818",
+  "authorityVersionRef": "sha256:035eaa334ffdfe3ae44236f966176a36ffd772ee8c2e4c4454733ab9699ef392",
+  "controls": [
+    "Remote main f0f4d74 contains latest Human research through HD16; repair 8667989 is its direct one-commit child.",
+    "Repair commit materializes/reconciles canonical thin core and metadata; it does not start a new Human route.",
+    "Local main 9c31b84 is stale and is not used as current authority.",
+    "HF0-HF23 frozen; HF24 not admitted; reopen=false.",
+    "HD0-HD10 completed history; HD11-HD16 stage complete; next route unknown; whole exhaustion not claimed.",
+    "HOC0-HOC10 frozen; HOC11 not admitted; whole operational closure not established.",
+    "Human-Normative claim routing overlay preserved without owner conflation.",
+    "Applied bridges cannot promote Foundation/HD/HOC standing."
+  ],
+  "date": "2026-08-19",
+  "kind": "ordivon.human-owner-publication-acceptance",
+  "publication": "research/core/authority/publications/035eaa334ffdfe3ae44236f966176a36ffd772ee8c2e4c4454733ab9699ef392.json",
+  "schemaVersion": 1,
+  "sourceFence": "866798917d43f0b809e6aa494ceda12e48a0fe48",
+  "truthRole": "OWNER_PUBLICATION_MATERIALIZATION_EVIDENCE"
+}
