@@ -130,3 +130,48 @@ NextFoundationAdmissionCondition(HF24)
 ```
 
 HF24 may be admitted only if HD11 demonstrates a stable peer object/process/relation that cannot be represented by existing HFs or a cross-HF composition without recurrent hidden choices.
+
+
+## Progress after HD11-A
+
+HD11-A is complete.
+
+```text
+HD11-A
+= Current-Use / Term Separation / Hidden-Assumption Inventory
+= completed
+
+HD11-B
+= Rival-Model Comparison / Destructive Falsification
+= next admitted round within HD11
+```
+
+A-round strongest positive grammar:
+
+```text
+ActualityRelation
+HumanRealityCommitment
+Belief/Endorsement
+GenerationSource
+SourceAttribution
+PhenomenalRealness
+RealityMonitoring
+```
+
+Strongest provisional survivor:
+
+```text
+ScenarioConstructionProcess family
+= PROVISIONAL RESEARCH OBJECT
+!= HF24 primitive
+```
+
+The A round rejects imagination identities with visual imagery, counterfactual reasoning, prospection, mind wandering, pretence, fiction, dreaming, hallucination, creativity and narrative. It does not choose a final imagination theory.
+
+Foundation state remains:
+
+```text
+HF24 = UNKNOWN / not admitted
+NextFoundationAdmissionCondition(HF24) = false
+FoundationReopenCondition(HF0–HF23) = false
+```
