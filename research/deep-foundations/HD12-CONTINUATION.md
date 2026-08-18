@@ -338,3 +338,102 @@ HD12-C
 ```
 
 C must decide whether the surviving commonality belongs to a peer timing architecture, HF8 abstract temporal representation, HF20/HF3 calibration/inference, a shared precision/resource factor, or no independent owner.
+
+
+## Progress after HD12-C / HD12 stage closeout
+
+HD12-C is complete.
+
+```text
+HD12-C
+= Cross-Regime Invariance,
+  Selective Dissociation
+  & Temporal Ownership Extraction
+= completed
+```
+
+Decisive cross-regime evidence includes:
+
+```text
+cerebellar degeneration:
+  absolute/single-interval timing impaired
+  beat/rhythmic timing preserved
+
+Parkinsonian basal-ganglia dysfunction:
+  rhythmic prediction impaired
+  single-interval prediction preserved
+```
+
+forming a true interval-vs-rhythm double dissociation.
+
+Additional dissociations:
+
+```text
+ActionDurationReproduction != IntervalDurationReproduction
+BeatPerception != AuditoryMotorBeatMapping != Synchronization
+ExplicitBeatJudgment != ImplicitBeatSupportForAction
+AgeEffect_TOJ != AgeEffect_SJ
+CentralTendencyIncrease != ClockNoiseIncrease
+```
+
+The three B-round common-core candidates are allocated:
+
+```text
+AbstractTemporalRelationRepresentation
+→ HF8
+
+TemporalContext/ReliabilityCalibration
+→ HF20 + HF3
+
+Retrospective timing / memory-prior distortion
+→ HF7
+
+Action timing / beat-action mapping
+→ HF11
+```
+
+Retain unnumbered scientific projections:
+
+```text
+AbsoluteIntervalTimingProjection
+RhythmicTemporalPredictionProjection
+BeatActionMappingProjection
+TemporalOrderProjection
+```
+
+and retain:
+
+```text
+TemporalRelationEstimationProjection
+= cross-HF functional projection
+```
+
+but:
+
+```text
+TemporalCognition→HF24
+= CLOSED / NOT ADMITTED
+```
+
+with:
+
+```text
+TemporalHF24ReopenCondition
+= false
+```
+
+until a future selective cross-domain process survives HF8/HF20/HF3/HF7/HF11 ownership extraction.
+
+Therefore:
+
+```text
+HD12-A→C = completed research history
+HD12 = STAGE COMPLETE
+HD12-D = NOT ADMITTED
+
+HF24 = UNKNOWN / not admitted globally
+FoundationReopenCondition(HF0–HF23) = false
+
+NextHumanDeepRoute
+= UNKNOWN / fresh whole-Human re-ranking required
+```
