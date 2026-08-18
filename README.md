@@ -235,6 +235,10 @@ After HD14, a fresh whole-Human fifth-generation unexplored-space search re-comp
 
 Only after passing the deep-route gate, **HD15 — Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation** was admitted as a non-foundation research route. HD15-A completed term separation and the measurement firewall; HD15-B completed the destructive rival-architecture tournament; and HD15-C has now completed cross-regime invariance, selective-dissociation and ownership extraction in [`research/deep-foundations/HD15-C-CROSS-REGIME-INVARIANCE-SELECTIVE-DISSOCIATION-BODILY-SELF-OWNERSHIP-EXTRACTION.md`](research/deep-foundations/HD15-C-CROSS-REGIME-INVARIANCE-SELECTIVE-DISSOCIATION-BODILY-SELF-OWNERSHIP-EXTRACTION.md), supported by [`research/deep-foundations/HD15-C-SOURCES.md`](research/deep-foundations/HD15-C-SOURCES.md). All three HD15-B residuals remain scientifically useful but fail peer-Foundation deletion harm after neighboring owners are restored: `BodyOwnershipCausalInferenceProjection` is HF20-centered with HF8/HF2/HF3/HF1 participation; `PartWholeOwnershipIntegrationProjection` is HF20/HF8-centered with HF2 ownership experience; and `AgencyCueIntegrationProjection` is HF11-centered with World/HF10/HF20/HF8/HF3/HF2/HD12 participation. Therefore `BodyOwnershipCausalInference→HF24`, `PartWholeOwnershipIntegration→HF24`, `AgencyCueIntegration→HF24`, and the umbrella `BodilySelf→HF24` are **CLOSED / NOT ADMITTED** on current evidence. `BodilySelfHF24ReopenCondition = false`. [`research/deep-foundations/HD15-CONTINUATION.md`](research/deep-foundations/HD15-CONTINUATION.md) is the stage-closeout continuation boundary. HD15 is STAGE COMPLETE; HD15-D is NOT ADMITTED. Global HF24 remains UNKNOWN/not admitted, and the next Human deep route must be selected by a fresh whole-Human re-ranking rather than inherited from an old candidate order.
 
+After HD15 closed, a fresh whole-Human sixth-generation search was run rather than inheriting the previous rank order. The canonical search record is [`research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md`](research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md), with [`research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md`](research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md). Music / Auditory Structural Cognition won the marginal-information comparison only after re-competing with Human-Agent co-adaptation, sleep/circadian, multimodal person recognition, psychopathology, hidden-information cognition and collective cognition.
+
+**HD16 — Music / Auditory Structural Cognition / Melody / Rhythm / Musical Reward** then completed A→C in one research round. HD16-A separated music artifacts, acoustic signals, pitch, melody, harmony, rhythm, beat, meter, memory, imagery, action, emotion and reward. HD16-B rejected unitary music, pitch-only, beat-only, language-shared, generic predictive, auditory-motor and reward-only whole-route owners; the retained whole-route synthesis is `LayeredPluralMusicCognitionArchitecture = composition, not Foundation`. HD16-C restored HF20/HF8/HD12/HF11/HF4/HF21/HF6/HF7 plus World/Media and found no peer deletion harm. `MusicalStructuralOrganization→HF24`, `BeatMeterHierarchy→HF24`, `MusicRewardCoupling→HF24`, and `Music/AuditoryStructuralCognition→HF24` are therefore CLOSED / NOT ADMITTED. `MusicHF24ReopenCondition = false`. The canonical closeout is [`research/deep-foundations/HD16-CONTINUATION.md`](research/deep-foundations/HD16-CONTINUATION.md).
+
 Current frontier:
 
 ```text
@@ -244,13 +248,16 @@ FoundationReopenCondition(HF0–HF23) = false
 HOC0–HOC10 = frozen
 HOC11 = UNKNOWN / not admitted
 HD11–HD14 = STAGE COMPLETE
-HD15-A = COMPLETE
-HD15-B = COMPLETE
-HD15-C = COMPLETE
 HD15 = STAGE COMPLETE
 HD15-D = NOT ADMITTED
 BodilySelf→HF24 = CLOSED / NOT ADMITTED
-BodilySelfHF24ReopenCondition = false
+HD16-A = COMPLETE
+HD16-B = COMPLETE
+HD16-C = COMPLETE
+HD16 = STAGE COMPLETE
+HD16-D = NOT ADMITTED
+Music/AuditoryStructuralCognition→HF24 = CLOSED / NOT ADMITTED
+MusicHF24ReopenCondition = false
 NextHumanDeepRoute = UNKNOWN / fresh whole-Human re-ranking required
 WholeHumanOperationalClosure = NOT ESTABLISHED
 WholeHumanExhaustion = NOT CLAIMED
