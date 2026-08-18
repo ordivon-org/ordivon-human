@@ -185,3 +185,61 @@ JointSynchronizationPerformance
 ```
 
 HD12 exists because ordinary Human temporal cognition remains under-reconstructed, not because Agents make a new category necessary.
+
+
+## Progress after HD12-A
+
+HD12-A is complete.
+
+```text
+HD12-A
+= Current-Use / Term Separation / Hidden-Assumption Inventory
+= completed
+```
+
+A rejects `time perception` as one target and freezes major distinctions:
+
+```text
+PhysicalDuration != PerceivedDuration
+Duration != TemporalOrder
+TemporalOrderJudgment != SimultaneityJudgment
+TemporalResolution != DurationAccuracy
+TimeEstimation != TimeReproduction != TimeProduction
+SingleIntervalTiming != SequenceTiming
+Rhythm != Beat != Meter
+BeatPerception != MotorSynchronization
+AbsoluteIntervalTiming != BeatBasedRelativeTiming
+ProspectiveTiming != RetrospectiveTiming
+ProspectiveTiming != ProspectiveMemory
+SubjectivePassageOfTime != PerceivedDuration
+CircadianPhase != TimePerception
+TemporalHorizon != TimingAbility
+IntentionalBinding != TransparentAgencyMeter
+```
+
+Strongest provisional research object:
+
+```text
+TemporalRelationEstimationEpisode
+= provisional evidence/process object
+!= HF24
+```
+
+Every claim should type target, paradigm, scale, modality, prospective/retrospective instruction, attention, memory, motor/output, response mapping, context/prior, accuracy, precision, bias and confidence.
+
+A Foundation gate remains unresolved:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+Admit next:
+
+```text
+HD12-B
+= Rival Timing Models,
+  Measurement Decomposition
+  & Cross-Task Falsification
+```
+
+B must compare pacemaker/accumulator, multiple-system, state-dependent/distributed, Bayesian/contextual, memory/decision, modality-hierarchy, action-prediction and heterogeneous/no-peer-owner rivals against the same task battery.
