@@ -377,3 +377,87 @@ HD13-C
 ```
 
 C must decide whether the residual is a peer approximate-numerosity process, HF20/HF11 sensory/action evidence with HF8 shared content, HF8 quantitative-relation representation, HF8/HF23/HF6 code mapping, or no independent numerical owner.
+
+
+## Progress after HD13-C / HD13 stage closeout
+
+HD13-C is complete.
+
+```text
+HD13-C
+= Cross-Regime Invariance,
+  Selective Dissociation
+  & Quantitative Ownership Extraction
+= completed
+```
+
+C resolves B's three positive residuals:
+
+```text
+QuantitativeRelationRepresentation
+→ HF8 typed relational/conceptual content
+
+QuantitativeCodeMappingProjection
+→ HF8 + HF23 + HF6
+  (+ HF20/HF3/HD4 by task)
+
+ApproximateNumerosityEstimationProjection
+→ retained narrow deep scientific projection
+→ primary HF20 perceptual ownership
+→ HF11 action contribution where action-generated
+→ HF8 shared quantitative content
+→ HF3 control/readout as needed
+```
+
+Key evidence:
+
+```text
+local numerosity specificity is real:
+  severe DD can show weaker numerosity encoding
+  without stronger nonnumerical visual bias
+
+cross-modal invariance is limited:
+  visual/auditory precision and bias differ
+  2025 neural alignment across senses depends on shared sequential format
+
+small-set mechanism is narrow:
+  tactile/body regimes alter subitizing signatures
+  2026 tactile quantity decoding is restricted to object-individuation range
+
+action↔perception adaptation is real
+  but is representable through HF11↔HF20 coupling/recalibration
+
+estimation output can fail with number semantics preserved
+  so task score is not representation identity
+
+approximate quantity and exact verbal/symbolic number dissociate clinically
+```
+
+Therefore:
+
+```text
+NumericalCognition→HF24
+= CLOSED / NOT ADMITTED
+
+ApproximateNumerosity→HF24
+= CLOSED / NOT ADMITTED
+
+QuantitativeHF24ReopenCondition
+= false
+```
+
+Reopen only if a future lesion/manipulation demonstrates one modality- and presentation-format-invariant approximate-numerosity process across materially different visual/auditory/tactile/action regimes while HF20 sensory organization/calibration, HF11 action control, HF8 quantitative representation and HF3 control/readout remain substantially preserved, or equivalent peer deletion harm appears.
+
+HD13 is now stage complete:
+
+```text
+HD13-A→C = completed research history
+HD13 = STAGE COMPLETE
+HD13-D = NOT ADMITTED
+
+HF24 = UNKNOWN / not admitted globally
+FoundationReopenCondition(HF0–HF23) = false
+
+NextHumanDeepRoute
+= UNKNOWN / fresh whole-Human re-ranking required
+```
