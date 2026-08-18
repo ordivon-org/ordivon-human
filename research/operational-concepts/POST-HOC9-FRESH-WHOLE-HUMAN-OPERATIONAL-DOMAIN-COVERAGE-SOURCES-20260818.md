@@ -231,3 +231,38 @@ Western adult measurement != cross-cultural/developmental transport guarantee
   - Used as evidence that collective ritual can change group identification/cohesion while remaining a ritual/social-domain process rather than one Human operational primitive.
 - Clegg et al. (2022). **Development of Religious Cognition.** Annual Review of Developmental Psychology. https://www.annualreviews.org/content/journals/10.1146/annurev-devpsych-120920-041303
   - Used to treat religious cognition/identity as culturally transmitted symbolic/social organization and a domain pressure case rather than an automatic new HOC.
+
+
+## Round-5 Identity destructive-attack additions
+
+### Identity-targeted intervention nulls and mechanism decomposition
+
+- Perras et al. (2016). **Impact of a randomized possible selves experiment on new retirees’ physical activity and identity.** European Review of Aging and Physical Activity. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC5002317/
+  - Primary randomized pressure case. Repeated and one-time possible-self interventions produced no significant between-condition effects on physical activity or physical-activity identity over follow-up, directly falsifying the assumption that explicit possible-self manipulation reliably changes identity or behavior.
+- van Vliet et al. (2026). **The effect of identity-related interventions on physical activity- and smoking-related identities and behavior: a mixed-methods systematic review.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC13037006/
+  - Used specifically for destructive mechanism audit: intervention effects are mixed, identity change is often absent, and available mediator/moderator analyses point toward ordinary action planning, planning self-efficacy, task self-efficacy and consideration of future consequences.
+- Rhodes et al. (2025). **Intervention effects on physical activity identity: a systematic review and meta-analysis.** PubMed: https://pubmed.ncbi.nlm.nih.gov/40008714/
+  - Used cautiously as synthesis evidence that identity can be modified on average while behavior effects are heterogeneous; the identity effect is smaller than observed behavioral change and does not establish a unique identity mechanism.
+
+### Future-self continuity retained as purpose-specific projection
+
+- Ersner-Hershfield et al. (2009). **Don’t stop thinking about tomorrow: Individual differences in future self-continuity account for saving.** Judgment and Decision Making. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC2747683/
+  - Primary evidence that future-self continuity predicts laboratory discounting and real-world saving, retained as a real projection rather than reduced to temporal discounting itself.
+- Hershfield et al. (2011). **Increasing saving behavior through age-progressed renderings of the future self.** Journal of Marketing Research. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC3949005/
+  - Primary experiments showing age-progressed future-self exposure can increase saving under studied conditions, with one study providing mediation evidence through future-self continuity.
+- Wang et al. (2024). **The effect of future self-continuity on intertemporal decision making: a mediated moderating model.** Frontiers in Psychology. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11339553/
+  - Primary recent manipulation of future-self continuity; used to retain decision relevance while keeping mediation through future outcome consideration and moderation by self-concept clarity explicit.
+
+### Self-concept/identity conflict and contextual self
+
+- Ayduk et al. / rejection-sensitivity work (2009). **Rejection Sensitivity Moderates the Impact of Rejection on Self-Concept Clarity.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4184908/
+  - Primary experiment + diary evidence that social rejection can perturb self-concept clarity in a subgroup; used to show self-model properties are context-sensitive and route naturally through relationship + epistemic/motivational owners.
+- Chen, Boucher & Tapias (2017). **An Examination of the Four-Part Theory of the Chinese Self: The Differentiation and Relative Importance of the Different Types of Social-Oriented Self.** Frontiers in Psychology. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC5492312/
+  - Experimental Chinese-context pressure case showing conflict among relationship-, familistic/group- and other-oriented self constructions; used against one universal identity-centrality axis.
+
+### Human–Agent identity inference / personalization
+
+- Kantharuban et al. (2025). **Stereotype or Personalization? User Identity Biases Chatbot Recommendations.** Findings of ACL 2025. ACL Anthology: https://aclanthology.org/2025.findings-acl.1254/
+  - Primary multi-model experiment showing revealed identity characteristics can significantly influence chatbot recommendations, including stereotypical patterns, while recommendation explanations need not transparently expose identity influence. Used as a direct firewall against persistent inferred-identity routing.
+- Tong et al. (2025). **Trapped by AI Recommendation: How Identity Concerns Reduce Variety-Seeking Behavior.** Managerial and Decision Economics. https://onlinelibrary.wiley.com/doi/10.1002/mde.4524
+  - Three-study evidence that AI recommendation can interact with strong identification and concerns about misclassification to reduce variety-seeking, used as an Agent-era identity-reflexivity pressure case.
