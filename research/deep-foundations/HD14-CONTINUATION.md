@@ -270,3 +270,102 @@ ToolSupportedArrival
 ```
 
 HD14 exists because Human spatial navigation is scientifically under-reconstructed, not because navigation tools create a new category.
+
+
+## Progress after HD14-A
+
+HD14-A is complete.
+
+```text
+HD14-A
+= Current-Use / Term Separation / Hidden-Assumption Inventory
+= completed
+```
+
+A freezes major distinctions:
+
+```text
+ObjectiveSpace != HumanSpatialRepresentation
+Place != LocationByDefinition
+Orientation != Position
+Bearing != Heading
+VisibleObject != LandmarkByDefinition
+LandmarkRecognition != Navigation
+LandmarkKnowledge != LandmarkLocationKnowledge
+Route != PathByDefinition
+RouteKnowledge != SurveyKnowledge
+Landmark→Route→Survey != mandatory stage sequence
+LandmarkOrdering != LandmarkRecognition
+Locomotion != Navigation
+Wayfinding != RouteFollowingByDefinition
+Homing != WayfindingTotality
+SpatialMemory != Navigation
+PlaceRecognition != Orientation
+Egocentric != Allocentric
+Egocentric != BodyCenteredByDefinition
+Allocentric != MetricSurveyMapByDefinition
+ReferenceFrameContent != ReferenceFrameTransformation
+ReferenceFrame != NeuralArea
+PathIntegration != IdiotheticOnlyByDefinition
+PathIntegrationTask != ContinuousOnlineUpdatingProof
+PathIntegration != CognitiveMap
+PathIntegration != LandmarkNavigation
+CueIntegration != CueCompetition
+SpatialUpdating != PathIntegrationByDefinition
+Reorientation != ContinuousSpatialUpdating
+Reorientation != GeometricModuleByDefinition
+Recalibration != ReorientationByDefinition
+ActiveNavigation != OneManipulation
+VirtualNavigation != RealNavigationByDefinition
+CognitiveMap != AllSpatialRepresentation
+SurveyKnowledge != CognitiveMapByDefinition
+MapDrawingAccuracy != InternalCognitiveMapAccuracyByDefinition
+HippocampalActivity != CognitiveMapByDefinition
+ShortcutSuccess != AccurateMetricCognitiveMapProof
+SenseOfDirectionSelfReport != NavigationPerformance
+NavigationConfidence != NavigationAccuracy
+DTD != OneMechanismByDefinition
+NavigationTaskScore != NavigationRepresentationByDefinition
+```
+
+`CognitiveMap` is retained only as a theory-laden umbrella unless expanded into a typed spatial relational representation with declared topology, metric content, reference frame, scale, update process, supported inference and uncertainty.
+
+Mandatory evidence metadata is now `SpatialNavigationEvidenceEpisode`, including environment scale, familiar/novel status, real/virtual/symbolic setting, active/passive acquisition, locomotion mode, visual/optic-flow/vestibular/proprioceptive/efference cues, landmarks and cue conflict, exact reference-frame anchor, route/landmark/location/survey target, path-integration/reorientation/recalibration demand, memory delay, tool support, planning/WM/motor demands, accuracy/precision/signed bias/confidence/strategy/transfer.
+
+Positive objects after A:
+
+```text
+SpatialRelationRepresentation
+= provisional HF8-leaning research object
+!= HF24
+
+ReferenceFrameTransformationProjection
+= retained deep scientific projection
+!= HF24
+
+PathIntegrationStateUpdatingProjection
+= retained deep scientific projection
+= ownership unresolved among HF20/HF11/HF8
+!= HF24
+
+LandmarkSpatialRecalibrationProjection
+= retained deep scientific projection
+!= HF24
+```
+
+Foundation gate remains unresolved:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+Admit next:
+
+```text
+HD14-B
+= Rival Spatial-Navigation Architectures,
+  Measurement Decomposition
+  & Cross-Task Falsification
+```
+
+B must compare unitary cognitive-map, hippocampal-entorhinal map, path-integration/self-motion-primary, landmark-route/graph, allocentric-egocentric dual/reference-frame, reference-frame transformation, reliability-weighted cue-integration, embodied/enactive and layered-plural/no-peer-owner architectures against one common battery.
