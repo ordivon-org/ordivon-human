@@ -496,3 +496,102 @@ HD14-C
 ```
 
 C must search selective double dissociations for PI and frame transformation after fully restoring HF20/HF11/HF8/HF3 rather than collecting more generic hippocampal or navigation correlations.
+
+
+## Progress after HD14-C / HD14 stage closeout
+
+HD14-C is complete.
+
+```text
+HD14-C
+= Cross-Regime Invariance,
+  Selective Dissociation
+  & Spatial Ownership Extraction
+= completed
+```
+
+C confirms both B residuals are genuine processes but does not admit a peer spatial owner.
+
+Path integration:
+
+```text
+VestibularVelocity/SelfMotionPerception
+!= PathIntegratedSpatialState
+```
+
+Posterior-parietal rTMS can disrupt vestibular displacement/path integration while sparing velocity perception; acute TPJ lesions can impair travelled-distance/spatial-orientation judgments while self-motion perception remains normal; right temporal lobectomy can impair integrated homing/route-turn processing while simple single-turn/single-distance reproduction and control tasks remain relatively preserved. However short/simple PI can survive hippocampal/MTL lesions and PI mechanisms vary by translation/rotation, active/passive regime and sensory-source structure.
+
+Final PI allocation:
+
+```text
+PathIntegrationStateUpdatingProjection
+= retained cross-HF self-motion-derived spatial-state-estimation projection
+→ HF20 perceptual integration/spatial orientation
++ HF11 active body/world state estimation where movement-generated
++ HF8 resulting position/heading relation content
++ HF3 temporary maintenance/control where required
+!= HF24
+```
+
+Reference-frame transformation:
+
+```text
+ReferenceFrameContent
+!= ReferenceFrameTransformation
+```
+
+Imagery-neglect patients can preserve cognitive-map creation/use but fail ego↔allo transformation; a selective DTD case can preserve route learning, landmark recognition and map construction but fail allocentric-map→egocentric navigation; PPC lesions can preserve allocentric judgments while impairing egocentric route navigation; TGA can show the opposite allocentric-selective deficit with egocentric performance spared after general memory recovery; heading-disorientation patients can preserve object-location information yet fail integration with changes in body direction.
+
+Final transformation allocation:
+
+```text
+ReferenceFrameTransformationProjection
+= retained cross-owner representational-interface projection
+→ HF8 source/target spatial content
++ HF20 current perceptual/reference-frame anchors
++ HF11 action-coordinate realization where action-guiding
++ HF3 task control/readout where needed
+!= HF24
+```
+
+Other final allocations:
+
+```text
+SpatialRelationRepresentation → HF8
+EnvironmentalGraphRepresentation → HF8 + HF7 + HF9
+LandmarkSpatialRecalibrationProjection → HF20-centered
+GridLikeRelationalCoordinateCodeProjection → reusable neural/computational mechanism family
+```
+
+Deletion result:
+
+```text
+PeerSpatialFoundationDeletionHarm
+= NOT ESTABLISHED
+```
+
+Therefore:
+
+```text
+SpatialNavigation→HF24
+= CLOSED / NOT ADMITTED
+
+SpatialHF24ReopenCondition
+= false
+```
+
+Reopen only if future lesion/perturbation evidence identifies one reusable spatial-state transformation whose semantic/process choices remain necessary after HF20 sensory/perceptual organization, HF11 state estimation/action coordinates, HF8 source/target spatial content and HF3 maintenance/control are fully restored, or equivalent peer deletion harm appears.
+
+HD14 is stage complete:
+
+```text
+HD14-A→C = completed research history
+HD14 = STAGE COMPLETE
+HD14-D = NOT ADMITTED
+
+HF24 = UNKNOWN / not admitted globally
+FoundationReopenCondition(HF0–HF23) = false
+
+NextHumanDeepRoute
+= UNKNOWN / fresh whole-Human re-ranking required
+```
