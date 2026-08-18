@@ -369,3 +369,130 @@ HD14-B
 ```
 
 B must compare unitary cognitive-map, hippocampal-entorhinal map, path-integration/self-motion-primary, landmark-route/graph, allocentric-egocentric dual/reference-frame, reference-frame transformation, reliability-weighted cue-integration, embodied/enactive and layered-plural/no-peer-owner architectures against one common battery.
+
+
+## Progress after HD14-B
+
+HD14-B is complete.
+
+```text
+HD14-B
+= Rival Spatial-Navigation Architectures,
+  Measurement Decomposition
+  & Cross-Task Falsification
+= completed
+```
+
+Rival tournament result:
+
+```text
+B1 Unitary Cognitive Map
+→ real flexible relational representation
+→ fails map-formation vs map-use dissociation, landmark/route/survey plurality,
+  graph-vs-metric structure, nested environments and landmark-dependent shortcuts
+
+B2 Hippocampal–Entorhinal Map
+→ strong spatial coding / flexible-relational implementation evidence
+→ 2026 cortisol gives causal/selective PI pressure
+→ hippocampal/MTL lesions can spare short PI and map reading
+→ remote spatial knowledge can persist after bilateral hippocampal damage
+→ grid-like code generalizes to imagined, olfactory, bodily-self-location,
+  social-tracking and 2026 non-spatial conceptual inference
+→ not navigation semantic owner
+
+B3 Path-Integration / Self-Motion Primary
+→ strong online self-state process family
+→ multimodal optic-flow/proprioceptive/vestibular structure
+→ cannot explain landmark/route/graph/survey totality
+
+B4 Landmark–Route / Graph
+→ strong landmark and topological/graph architecture
+→ fails landmark-free homing / heading / landmark-agnosia totality
+
+B5 Allocentric–Egocentric Dual
+→ strong representational distinction and lesion evidence
+→ too coarse without transformation/updating/cue integration
+
+B6 Reference-Frame Transformation
+→ strong selective process residual
+→ map formation can be preserved while allocentric→egocentric use fails
+→ cannot create source content/current state alone
+
+B7 Reliability-Weighted Cue Integration
+→ strong cue combination/recalibration mechanism
+→ not universally Bayes optimal
+→ cannot explain representation/memory deficits
+
+B8 Embodied/Enactive Navigation
+→ strong grounding/acquisition contribution
+→ active components are target-specific
+→ not required for all imagined/map/symbolic/relational tasks
+
+B9 Layered Plural
+→ strongest whole-domain synthesis
+```
+
+Best synthesis:
+
+```text
+LayeredPluralSpatialNavigationArchitecture
+= perceptual landmark/scene evidence
++ online self-position/heading state updating
++ spatial relational representation
++ route/landmark/graph/survey memory
++ reference-frame representation and transformation
++ reliability-sensitive cue integration/recalibration
++ planning/inference
++ locomotor/action execution
++ attention/WM/metacognition/readout
++ symbolic/tool support
+```
+
+This is composition, not a Foundation.
+
+Ownership after B:
+
+```text
+SpatialRelationRepresentation
+→ HF8
+!= HF24
+
+EnvironmentalGraphRepresentation
+→ HF8 + HF7 + HF9
+!= HF24
+
+LandmarkSpatialRecalibrationProjection
+→ HF20-centered (+ HF8/HF3 as needed)
+!= HF24
+
+GridLikeRelationalCoordinateCodeProjection
+= reusable neural/computational coordinate mechanism
+!= spatial semantic owner
+```
+
+Two ownership-relevant residuals remain:
+
+```text
+PathIntegrationStateUpdatingProjection
+= HF20/HF11/HF8 boundary unresolved
+
+ReferenceFrameTransformationProjection
+= HF8/HF20/HF11 boundary unresolved
+```
+
+HF24 remains:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+Admit next:
+
+```text
+HD14-C
+= Cross-Regime Invariance,
+  Selective Dissociation
+  & Spatial Ownership Extraction
+```
+
+C must search selective double dissociations for PI and frame transformation after fully restoring HF20/HF11/HF8/HF3 rather than collecting more generic hippocampal or navigation correlations.
