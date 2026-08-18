@@ -15,7 +15,7 @@ audience:
   - researcher
   - builder
   - agent
-updated: 2026-08-17
+updated: 2026-08-18
 summary: Canonical entry to Human's problem-driven research, completed economic-autonomy framework, practical decision modules, evidence limits, methods, and reading paths.
 evidence_status: verified
 readiness: READY
@@ -225,3 +225,27 @@ The completed [`research/deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-
 HD9's foundation verdict is another deliberate no-promotion result. Organismic health/pathophysiology is a foundationally important cross-system implementation and trajectory domain, but `Health` is a multidimensional projection/evaluation, disease/pathophysiology spans existing Human systems, body systems are projection families and integration is a relation/process rather than one clean peer object. [`research/foundations/HF23-CONTINUATION.md`](research/foundations/HF23-CONTINUATION.md) therefore remains the current foundation continuation and **HF24 remains UNKNOWN / not admitted**. HF0–HF23 were not reopened.
 
 Human Deep Foundations continues separately, but **no HD10 route is preselected after HD9**. [`research/deep-foundations/HD9-CONTINUATION.md`](research/deep-foundations/HD9-CONTINUATION.md) and the non-ranked [`research/deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md`](research/deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md) preserve `HD10 = UNKNOWN`, `NextDeepRoute = UNKNOWN` and `HF24 = UNKNOWN`. The next conversation must rerun Human-wide domain coverage across foundational omissions, depth omissions, applications, cross-cutting bridges, neighboring-project ownership, pre-Agent theory and Agent-era perturbations before choosing any next deep route.
+
+
+## Human Deep Foundations current frontier — 2026-08-18
+
+The 2026-08-17 HD9 continuation text above is historical. Human Deep Foundations has since completed HD10 Individual-Difference Architecture, HD11 Imagination / Nonactual Scenario Construction / Reality Monitoring, HD12 Temporal Cognition, HD13 Numerical / Quantitative Cognition and HD14 Spatial Navigation / Place / Reference Frames / Cognitive Maps. None admitted HF24; HF0–HF23 remain preserved/frozen and `FoundationReopenCondition(HF0–HF23) = false`.
+
+After HD14, a fresh whole-Human fifth-generation unexplored-space search re-competed prior candidates with newly elevated spaces rather than inheriting a roadmap. The canonical decision is [`research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md`](research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md), supported by its [primary-evidence ledger](research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md).
+
+Only after passing the deep-route gate, **HD15 — Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation** was admitted as a non-foundation research route. The route is explicitly an umbrella research label, not a claim for one bodily-self mechanism. Existing HF1/HF2/HF3/HF8/HF11/HF20 ownership must be restored before any residual can pressure a new Foundation. [`research/deep-foundations/HD15-CONTINUATION.md`](research/deep-foundations/HD15-CONTINUATION.md) is the current continuation boundary; HD15-A term separation is next but has not yet been executed.
+
+Current frontier:
+
+```text
+HF0–HF23 = preserved / frozen
+HF24 = UNKNOWN / not admitted
+HOC0–HOC10 = frozen
+HOC11 = UNKNOWN / not admitted
+HD11–HD14 = STAGE COMPLETE
+HD15 = ADMITTED non-foundation deep route
+HD15-A = next within-route round / not yet executed
+NextHumanDeepRoute after HD15 = UNKNOWN
+WholeHumanOperationalClosure = NOT ESTABLISHED
+WholeHumanExhaustion = NOT CLAIMED
+```
