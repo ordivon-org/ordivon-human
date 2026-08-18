@@ -424,3 +424,226 @@ Used as an Agent-era conceptual pressure case:
 JointControllerAdaptation may occur on both Human and device sides;
 one observed trajectory does not identify which side changed.
 ```
+
+
+## HF23 / Language / Symbolic Practical — Round 4 additions
+
+### Imai et al. 2025 — VLM common-ground metrics
+
+`Measuring How (Not Just Whether) VLMs Build Common Ground.`
+RANLP 2025.
+ACL Anthology: https://aclanthology.org/2025.ranlp-1.53/
+
+Interactive referential-game evaluation across 150 self-play sessions compared multiple VLMs with Human dyads using grounding efficiency, content alignment, lexical adaptation and Human-likeness metrics.
+
+Used for:
+
+```text
+TaskSuccess != SuccessfulGrounding
+ImageUtteranceAlignment != TaskSuccess
+Fluency != HumanLikeCommonGroundProcess
+```
+
+Supports HOC6 common-ground ownership rather than a new language HOC.
+
+---
+
+### Zeng et al. 2026 — LVLMs and Humans ground differently
+
+`LVLMs and Humans Ground Differently in Referential Communication.`
+ACL 2026 Long Papers.
+ACL Anthology: https://aclanthology.org/2026.acl-long.410/
+
+Factorial director–matcher experiments included Human–Human, Human–AI, AI–Human and AI–AI pairs in repeated referential tasks.
+
+Used for:
+
+```text
+ReferenceTaskSuccess != HumanLikeGrounding
+CommonGroundDynamics are participant/configuration dependent.
+```
+
+---
+
+### Wang et al. 2025 — overhearing does not guarantee common-ground adaptation
+
+`LVLMs are Bad at Overhearing Human Referential Communication.`
+EMNLP 2025.
+ACL Anthology: https://aclanthology.org/2025.emnlp-main.849/
+
+Seven LVLMs overheard repeated Human referential conversations; models did not consistently improve from accumulating those observations.
+
+Used for:
+
+```text
+DialogueHistoryAccess != InteractiveGrounding
+ObservedConvention != AcquiredPartnerSpecificReferencePolicy
+```
+
+---
+
+### Shayegh et al. 2025 — adequacy/fluency translation tradeoff
+
+`Feeding Two Birds or Favoring One? Adequacy–Fluency Tradeoffs in Evaluation and Meta-Evaluation of Machine Translation.`
+WMT 2025.
+ACL Anthology: https://aclanthology.org/2025.wmt-1.16/
+
+Used for:
+
+```text
+TranslationQuality != OneObjectiveFreeScalar
+Adequacy != Fluency
+MetricRanking depends on evaluation emphasis.
+```
+
+---
+
+### Choudhary et al. 2025 — discourse-aware translation context
+
+`Exploring Context Strategies in LLMs for Discourse-Aware Machine Translation.`
+Findings of EMNLP 2025.
+ACL Anthology: https://aclanthology.org/2025.findings-emnlp.1324/
+
+Context strategies changed translation and discourse-specific performance including formality, pronoun selection and lexical cohesion.
+
+Used for:
+
+```text
+SentenceLocalAdequacy != DiscourseTranslationTotality
+ContextFreeTranslation != ContextAppropriateTranslation
+```
+
+---
+
+### Niklaus et al. 2025 — Swiss legal translation benchmark
+
+`SwiLTra-Bench: The Swiss Legal Translation Benchmark.`
+ACL 2025 Long Papers.
+ACL Anthology: https://aclanthology.org/2025.acl-long.725/
+
+Over 180K aligned multilingual legal translation pairs span laws, headnotes and press releases, with Human expert validation.
+
+Used for:
+
+```text
+TranslationPerformance is document/domain dependent.
+LegalTranslation requires domain-specific verification/force constraints.
+```
+
+---
+
+### Ki & Carpuat 2025 — rewriting can improve translation while preserving meaning
+
+`Automatic Input Rewriting Improves Translation with Large Language Models.`
+NAACL 2025 Long Papers.
+ACL Anthology: https://aclanthology.org/2025.naacl-long.542/
+
+Input simplification improved translation in the studied settings; Human evaluation checked source/rewrite/translation meaning preservation.
+
+Used as a transformation pressure case:
+
+```text
+RewriteForTranslatability
+!= RewriteForHumanComprehensionByDefinition
+TransformationObjective must be declared.
+```
+
+---
+
+### Gaines & Vertanen 2025 — LLM prediction for AAC
+
+`Adapting Large Language Models for Character-based Augmentative and Alternative Communication.`
+Findings of EMNLP 2025.
+ACL Anthology: https://aclanthology.org/2025.findings-emnlp.826/
+
+Character prediction adapted subword LLMs for AAC input and improved prediction accuracy under the reported evaluation.
+
+Used for:
+
+```text
+PredictionEfficiencyGain != HumanLanguageCapabilityGain
+AACModelPerformance != HumanAuthorship
+```
+
+---
+
+### Fried-Oken et al. 2025 — partner-suggested AAC vocabulary with Human selection
+
+`Smart Predict: adding partner-suggested vocabulary to increase efficiency in a dual tablet AAC typing application.`
+Augmentative and Alternative Communication.
+PMID: 39164980.
+https://pubmed.ncbi.nlm.nih.gov/39164980/
+
+The dual-device design allows a partner to supplement vocabulary while the AAC user retains control to choose words.
+
+Used for:
+
+```text
+PartnerSuggestion != HumanChoice
+SupportCanImproveEfficiency without transferring message ownership.
+```
+
+---
+
+### Choudhury, Kumar & Martin 2025 — Human–LLM representation alignment in AAC
+
+`Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication.`
+Findings of IJCNLP-AACL 2025.
+ACL Anthology: https://aclanthology.org/2025.findings-ijcnlp.100/
+
+Human judgments differed depending on how affective concepts were represented to the model.
+
+Used for:
+
+```text
+MachineRepresentation != HumanExpectedMeaning
+GeneratedSentence != HumanEndorsedExpression
+```
+
+---
+
+### Holyfield et al. 2025 — context-aware just-in-time AAC response options
+
+`Preliminary Investigation of Context-Aware Augmentative and Alternative Communication with Automated Just-in-Time Cloze Phrase Response Options for Social Participation from Children on the Autism Spectrum.`
+PMID: 39467532.
+https://pubmed.ncbi.nlm.nih.gov/39467532/
+
+Used as a pressure case for adaptive symbolic support while preserving:
+
+```text
+AdaptiveInterfaceSupport != HumanInternalLanguageChange
+```
+
+---
+
+### Kent-Walsh et al. 2025 — AAC language intervention RCT
+
+`Generative Language Intervention for Young Children With Down Syndrome Using Augmentative and Alternative Communication: A Randomized Controlled Trial.`
+PMID: 40587257.
+https://pubmed.ncbi.nlm.nih.gov/40587257/
+
+Used to preserve the distinction between:
+
+```text
+AAC as current communication support
+and
+AAC-supported language learning/change
+```
+
+with HOC3 owning learning/transfer claims.
+
+---
+
+### SALT-31 2026 — discourse/pragmatic multilingual translation pressure
+
+`SALT-31: A Machine Translation Benchmark Dataset for 31 Ugandan Languages.`
+AfricaNLP 2026.
+ACL Anthology: https://aclanthology.org/2026.africanlp-main.21/
+
+Scenario-driven mini-dialogues preserve discourse context, pragmatics and culturally grounded communication patterns across 31 Ugandan languages.
+
+Used for:
+
+```text
+TranslationEvaluation must preserve discourse/pragmatic/cultural coordinates where relevant.
+```
