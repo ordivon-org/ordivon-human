@@ -175,3 +175,71 @@ HF24 = UNKNOWN / not admitted
 NextFoundationAdmissionCondition(HF24) = false
 FoundationReopenCondition(HF0–HF23) = false
 ```
+
+
+## Progress after HD11-B
+
+HD11-B is complete.
+
+```text
+HD11-B
+= Rival-Model Comparison / Destructive Falsification
+= completed
+
+HD11-C
+= Cross-Regime Invariance,
+  Selective Dissociation & Ownership Extraction
+= next admitted round within HD11
+```
+
+B-round result:
+
+```text
+ImaginationUmbrella
+= heterogeneous composition space
+
+M1 HF8 Generative Representation
+= strongest substrate survivor, incomplete process account
+
+M2 Generalized HF9 Simulation
+= retained for counterfactual subset; rejected as total account
+
+M3 Constructive Memory Recombination
+= major material/source contributor; rejected as total account
+
+M4 Predictive/Generative Decoupling
+= retained gating/internal-attention mechanism; rejected as identity
+
+M5 Heterogeneous Family / No Owner
+= retained for broad umbrella heterogeneity;
+  too strong if it denies recurring scenario construction
+
+M6 Scenario-Construction Architecture
+= strongest bounded functional survivor;
+  not yet peer-Foundation architecture
+
+M7 Stance/Activity
+= retained as orthogonal stance/use relation;
+  rejected as full generation account
+```
+
+Best current synthesis:
+
+```text
+HF8 representational substrate
++ bounded ScenarioConstructionProcess
++ HF7 memory/material
++ HF3 control/resources
++ HF9 operators where applicable
++ HF2 phenomenology
++ orthogonal actuality/reality/source/monitoring grammar
+```
+
+Foundation state remains:
+
+```text
+HF24 = UNKNOWN / not admitted
+FoundationReopenCondition(HF0–HF23) = false
+```
+
+C must decide whether the bounded `ScenarioConstructionProcess` has enough selective dissociation and cross-modal/cross-regime invariance to justify a peer Foundation, or whether it should remain a cross-HF functional projection.
