@@ -243,3 +243,98 @@ HD12-B
 ```
 
 B must compare pacemaker/accumulator, multiple-system, state-dependent/distributed, Bayesian/contextual, memory/decision, modality-hierarchy, action-prediction and heterogeneous/no-peer-owner rivals against the same task battery.
+
+
+## Progress after HD12-B
+
+HD12-B is complete.
+
+```text
+HD12-B
+= Rival Timing Models,
+  Measurement Decomposition
+  & Cross-Task Falsification
+= completed
+```
+
+No single timing rival wins.
+
+```text
+B1 scalar/pacemaker
+→ retain bounded interval-timing model
+→ reject whole-domain ontology
+
+B2 multiple specialized systems
+→ strong on dissociation
+→ incomplete on shared structure
+
+B3 state-dependent/distributed
+→ strong subsecond local mechanism
+→ insufficient whole-domain breadth
+
+B4 Bayesian/contextual
+→ strongest uncertainty/context-calibration account
+→ computationally general, not timing semantic owner
+
+B5 memory+decision
+→ mandatory measurement/readout layer
+→ not first-order timing totality
+
+B6 modality hierarchy
+→ strong local architecture
+→ cross-modal/interval transfer prevents strict isolation
+
+B7 action-prediction/motor
+→ causal beat contribution
+→ not total temporal cognition
+
+B8 heterogeneous/no owner
+→ strongest semantic economy
+→ pure independence falsified by commonality evidence
+```
+
+Best synthesis:
+
+```text
+LayeredPluralTemporalArchitecture
+= local temporal evidence
++ abstract temporal relation where transfer supports it
++ context/reliability calibration
++ task-specific memory/control/decision/action readout
+```
+
+This is composition, not a Foundation.
+
+Refine A's provisional object to:
+
+```text
+TemporalRelationEstimationProjection
+= retained cross-HF functional projection
+!= HF24
+```
+
+Positive commonality still unresolved:
+
+```text
+general timing covariance
+interval-invariant training transfer
+cross-modal transfer
+partly context-invariant temporal precision
+```
+
+Therefore the timing-HF24 route is not yet closed, but Foundation admission remains unsupported:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+Admit next:
+
+```text
+HD12-C
+= Cross-Regime Invariance,
+  Selective Dissociation
+  & Temporal Ownership Extraction
+```
+
+C must decide whether the surviving commonality belongs to a peer timing architecture, HF8 abstract temporal representation, HF20/HF3 calibration/inference, a shared precision/resource factor, or no independent owner.
