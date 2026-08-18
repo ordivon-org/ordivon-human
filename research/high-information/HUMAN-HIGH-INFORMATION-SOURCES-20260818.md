@@ -220,3 +220,207 @@ PMID: 28702834.
 https://pubmed.ncbi.nlm.nih.gov/28702834/
 
 Tool use recalibrated tactile distance perception on the tool-using hand but not cheek, supporting dimension/body-part specificity rather than global recalibration.
+
+
+## HF11 / Action / Tool-Integrated Control — Round 3 additions
+
+### Villavicencio, Tsay & de la Malla 2025 — training configuration changes what/how motor adaptation learns
+
+`Target configuration determines how and what we learn during sensorimotor adaptation.`
+npj Science of Learning 10, 89 (2025).
+https://www.nature.com/articles/s41539-025-00379-2
+
+Used for:
+
+```text
+TrainingConfiguration can change explicit/implicit contribution and learned mapping.
+SuccessfulAdaptationInOneTrainingGeometry != GenericCorrectControlRepresentation.
+```
+
+Supports HF11 + HOC3 context/transfer decomposition rather than a global calibration profile.
+
+---
+
+### Trout et al. 2025 — shared human-machine bionic-hand control
+
+`Shared human-machine control of an intelligent bionic hand improves grasping and decreases cognitive burden for transradial amputees.`
+Nature Communications 16, 10418 (2025).
+https://www.nature.com/articles/s41467-025-65965-9
+
+Machine control autonomously conformed individual prosthetic digits to contact while Human sEMG input retained proportional grasp regulation. Shared control improved grasping/dexterity measures and reduced cognitive burden under the study conditions.
+
+Used for:
+
+```text
+JointPerformanceGain != HumanIndependentControlGain
+MachineControlContribution != HumanSkill
+Task/GraspControl can be continuously shared.
+```
+
+---
+
+### Kang et al. 2025 — online exoskeleton controller adaptation
+
+`Online Adaptation Framework Enables Personalization of Exoskeleton Assistance During Locomotion in Patients Affected by Stroke.`
+IEEE Transactions on Robotics 41:4941–4959 (2025).
+PMID: 40958952.
+https://pubmed.ncbi.nlm.nih.gov/40958952/
+
+The online framework adapted a user-state estimator and reported improved gait-phase estimation/assistance timing after short adaptation.
+
+Used for:
+
+```text
+ControllerAdaptation != HumanLearning
+DeviceModelImprovement can improve joint performance without equivalent Human-internal change.
+```
+
+---
+
+### Campbell et al. 2024/2025 — user-in-loop myoelectric control
+
+`Screen Guided Training Does Not Capture Goal-Oriented Behaviours: Learning Myoelectric Control Mappings From Scratch Using Context Informed Incremental Learning.`
+IEEE Transactions on Neural Systems and Rehabilitation Engineering.
+PMID: 40030708.
+https://pubmed.ncbi.nlm.nih.gov/40030708/
+
+A zero-shot adaptive user-in-the-loop approach achieved higher online throughput despite lower offline classification accuracy than the screen-guided baseline in the reported experiment.
+
+Used for:
+
+```text
+OfflineDecoderAccuracy != OnlineHumanToolControlQuality
+ModelMetric != JointFunctionalPerformance
+```
+
+---
+
+### EDAN assistive robot 2025 — Human command plus shared/whole-body machine control
+
+`An assistive robot that enables people with amyotrophia to perform sequences of everyday activities.`
+Scientific Reports (2025).
+https://www.nature.com/articles/s41598-025-89405-2
+
+Participants with severe motor impairments used sEMG interfaces plus shared-control templates and whole-body coordination to complete sequences of everyday tasks. Shared control guided/constrained task-relevant motion while users remained command sources; automatic whole-body coordination handled additional degrees of freedom.
+
+Used for:
+
+```text
+HumanCommand != HumanLowLevelControl
+TaskAuthority != MotorControlContribution
+SharedControl != CompleteAutonomyTransfer
+```
+
+---
+
+### Reichert et al. 2025 — adaptive assistive-device correction concept
+
+`iAssistADL: Intelligent Assistive Device for Patients with Neurodegenerative Movement Disorder: Concepts and First Implementations.`
+IEEE ICORR 2025.
+PMID: 40644128.
+https://pubmed.ncbi.nlm.nih.gov/40644128/
+
+The proposed system separates intended Human motion from pathological components and applies corrective forces through an assistive device.
+
+Used as a conceptual pressure case for:
+
+```text
+HumanActionIntent != RealizedUnassistedMovement
+AssistiveCorrection != HumanMotorCapability
+```
+
+---
+
+### 2026 robust + online adaptive feedback control
+
+`When Anticipation Is Not Enough: A Mixture of Robust and Adaptive Feedback Control Strategies Improves Reaching in Dynamic Environments.`
+PMID: 42150876.
+https://pubmed.ncbi.nlm.nih.gov/42150876/
+
+Participants relied on different mixtures of anticipatory, robust and online adaptive control under consistent versus unpredictable force-field environments.
+
+Used for:
+
+```text
+MoreFeedforward != BetterControlByDefinition
+OnlineCorrectionValue is environment-dependent.
+```
+
+---
+
+### Scientific Reports 2026 — online correction and adaptation
+
+`Reinforcement drives within- not between-trial motor adaptation.`
+Scientific Reports (2026).
+https://www.nature.com/articles/s41598-026-45293-8
+
+Within-trial online correction was associated with lower movement errors and higher adaptation rates than the matched condition without within-trial corrections in the reported paradigm.
+
+Used to establish online correction as performance-relevant while retaining HF11 ownership.
+
+---
+
+### Wang et al. 2025 — sensory-specific online reaching correction
+
+`Functional specialization of the human posterior parietal cortex in visually and proprioceptively driven reaching corrections.`
+PMID: 41286340.
+https://pubmed.ncbi.nlm.nih.gov/41286340/
+
+Causal TMS evidence distinguished visual- versus proprioceptive-driven online reaching corrections in different posterior parietal regions.
+
+Used to preserve:
+
+```text
+OnlineCorrection != one undifferentiated feedback channel.
+```
+
+---
+
+### Franchak et al. review — person-plus-object affordances
+
+`A systematic review of perception of affordances for the person-plus-object system.`
+PMID: 37407795.
+https://pubmed.ncbi.nlm.nih.gov/37407795/
+
+Review of 71 experimental articles on attunement and (re)calibration for person-plus-object affordances.
+
+Used for:
+
+```text
+Affordance is Human/object/environment relational.
+Attunement and calibration improve with task-relevant experience.
+No one intrinsic Human affordance score.
+```
+
+---
+
+### Bertuccelli et al. 2025 — exoskeleton embodiment as one integration dimension
+
+`Quantitative assessment of human-exoskeleton integration through a neurophysiological marker of embodiment.`
+Scientific Reports (2025).
+PMID: 41444771.
+https://pubmed.ncbi.nlm.nih.gov/41444771/
+
+Used to pressure dimension-specific Human-device integration:
+
+```text
+Embodiment/BodyRepresentationIntegration != ControlIntegration != CapabilityIntegration.
+```
+
+---
+
+### Hou et al. 2025 — prosthetic control as cooperative adaptation
+
+`Prosthetic Control by Learning: A Multi-Agent Cooperative Game Framework.`
+IEEE ICORR 2025.
+PMID: 40644202.
+https://pubmed.ncbi.nlm.nih.gov/40644202/
+
+Simulator-based framework models Human and powered prosthesis as reciprocally adapting controllers.
+
+Used as an Agent-era conceptual pressure case:
+
+```text
+JointControllerAdaptation may occur on both Human and device sides;
+one observed trajectory does not identify which side changed.
+```
