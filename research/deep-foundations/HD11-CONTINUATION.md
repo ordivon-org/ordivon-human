@@ -243,3 +243,106 @@ FoundationReopenCondition(HF0–HF23) = false
 ```
 
 C must decide whether the bounded `ScenarioConstructionProcess` has enough selective dissociation and cross-modal/cross-regime invariance to justify a peer Foundation, or whether it should remain a cross-HF functional projection.
+
+
+## Progress after HD11-C
+
+HD11-C is complete.
+
+```text
+HD11-C
+= Cross-Regime Invariance,
+  Selective Dissociation & Ownership Extraction
+= completed
+```
+
+C falsifies the broad M6 ownership hypothesis:
+
+```text
+ScenarioConstructionProcess
+as cross-domain peer Human Foundation owner
+= REJECT / DECOMPOSE
+```
+
+The key reason is operator splitting:
+
+```text
+spatial/episodic scene update
+→ HF7/HF8 + retained SceneConstructionProjection
+
+motor imagery/update
+→ HF11 action-control / forward-model / inhibition machinery
+
+social/self simulation
+→ HF1/HF12 agent/self/partner-model machinery
+
+verbal/abstract hypothetical transformation
+→ HF8/HF9
+
+reality/source monitoring disturbance
+→ orthogonal HF2/HF3/HF7 + unresolved HD11 reality/source axis
+```
+
+Retain:
+
+```text
+SceneConstructionProjection
+= scientific deep projection
+!= HF24
+```
+
+and the reusable methodological firewall:
+
+```text
+CommonComputationalShape
+!= CommonSemanticOwner
+```
+
+Scenario-construction Foundation route:
+
+```text
+ScenarioConstruction→HF24
+= CLOSED / NOT ADMITTED
+
+ScenarioConstructionHF24ReopenCondition
+= false
+```
+
+HF24 remains globally:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+because rejection of this candidate does not prove no future HF24 can exist.
+
+The highest-information HD11 residual is now the orthogonal reality/source grammar that survived A/B/C:
+
+```text
+ActualityRelation
+HumanRealityCommitment
+Belief/Endorsement
+GenerationSource
+SourceAttribution
+PhenomenalRealness
+RealityMonitoring
+```
+
+Therefore admit:
+
+```text
+HD11-D
+= Reality Commitment,
+  Source Attribution,
+  Nonactual Stance & Reality Monitoring
+= next round within HD11
+```
+
+D must attack whether this grammar is only a composition of World truth + HF8 belief + HF7 source memory + HF3 metacognition + HF2 perceptual reality, or whether a stable Human-side relation family survives.
+
+Foundation state remains:
+
+```text
+FoundationReopenCondition(HF0–HF23) = false
+HF24 = UNKNOWN / not admitted
+```
