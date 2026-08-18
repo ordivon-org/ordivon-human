@@ -261,3 +261,119 @@ HD13-B
 ```
 
 B must compare ANS-primary, OTS/parallel-individuation, Triple-Code/multi-code, exact-integer conceptual bootstrapping, language/symbolic-access, generalized-magnitude/embodied-sensorimotor, domain-general control and layered-plural/no-peer-owner accounts against the same cross-cultural/developmental/lesion/task battery.
+
+
+## Progress after HD13-B
+
+HD13-B is complete.
+
+```text
+HD13-B
+= Rival Numerical-Cognition Models,
+  Measurement Decomposition
+  & Cross-Task Falsification
+= completed
+```
+
+Rival tournament result:
+
+```text
+B1 ANS-primary
+→ strong large approximate numerosity / approximate arithmetic
+→ developmental direction and training transfer are not one-way/stable
+→ exact integer and compositional arithmetic limits
+→ reject as whole-domain owner
+
+B2 OTS / parallel individuation
+→ strong small-set/subitizing mechanism
+→ contributes to early cardinal learning
+→ cannot explain large approximate, exact-general or symbolic arithmetic totality
+
+B3 Triple-Code / multi-code
+→ strong representational architecture with current intracranial support
+→ three codes too coarse and largely map to HF20/HF23/HF7/HF8/HF9
+→ not peer owner
+
+B4 exact-integer bootstrapping
+→ strong cardinal/successor/equinumerosity developmental account
+→ HF8/HF23/HF6/HD4 ownership pressure
+
+B5 language / symbolic-access
+→ real symbolic/clinical phenotype
+→ dyscalculia profiles heterogeneous; symbolic↔nonsymbolic development bidirectional
+→ not universal
+
+B6 generalized magnitude / embodied-sensorimotor
+→ strong action/perception numerosity and sensory-grounding evidence
+→ time/numerosity and numerosity/area dissociations reject one magnitude mechanism
+
+B7 domain-general control
+→ mandatory measurement/support layer
+→ local numerical specificity survives
+
+B8 layered plural
+→ strongest overall synthesis
+→ pure independence rejected by cross-modal/action/common-format evidence
+```
+
+Best synthesis:
+
+```text
+LayeredPluralQuantitativeArchitecture
+= object individuation
++ approximate numerosity
++ exact quantitative relation representation
++ symbolic systems
++ code mapping/transcoding
++ fact memory
++ calculation/reasoning
++ control/metacognition
++ sensorimotor quantity
++ developmental/cultural learning
+```
+
+This is composition, not a Foundation.
+
+Retain:
+
+```text
+QuantitativeRelationRepresentation
+= provisional positive object
+= strong HF8 ownership pressure
+!= HF24
+
+QuantitativeCodeMappingProjection
+= cross-HF learning/representation projection
+!= HF24
+
+ApproximateNumerosityEstimationProjection
+= deep scientific projection
+= ownership unresolved
+```
+
+Positive commonality around approximate numerosity prevents premature closure:
+
+```text
+action↔perception adaptation
+cross-modal adaptation in congenital blindness
+numerical competence without visual experience
+early developing ratio-sensitive approximate estimation
+cross-format/common parietal organization
+```
+
+Therefore:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+Admit next:
+
+```text
+HD13-C
+= Cross-Regime Invariance,
+  Selective Dissociation
+  & Quantitative Ownership Extraction
+```
+
+C must decide whether the residual is a peer approximate-numerosity process, HF20/HF11 sensory/action evidence with HF8 shared content, HF8 quantitative-relation representation, HF8/HF23/HF6 code mapping, or no independent numerical owner.
