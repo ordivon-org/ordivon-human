@@ -164,3 +164,70 @@ Western adult measurement != cross-cultural/developmental transport guarantee
 - Ueda, Nakashima & Kumada (2021). **Influence of levels of automation on the sense of agency during continuous action.** Scientific Reports. https://www.nature.com/articles/s41598-021-82036-3
 - Nakashima & Kumada (2022). **Task-irrelevant object response to action enhances the sense of agency for controlling the object in automation.** Scientific Reports. https://www.nature.com/articles/s41598-022-20125-7
   - Reused in Round 3 as decisive evidence that actual automation/control and felt agency require separate projections rather than one control variable.
+
+
+## Round-4 adversarial whole-space additions
+
+### Identity / self-continuity / identity intervention
+
+- Sedikides, Hong & Wildschut (2023). **Self-Continuity.** Annual Review of Psychology 74:333–361. https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032420-032236
+  - Used to separate past-present, present-future and global self-continuity and to establish that self-continuity has distinct motivational/regulatory consequences while discontinuity can also be beneficial.
+- Lu & Löckenhoff et al. (2025). **Modeling temporal self-continuity and its association with temporal discounting.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12594440/
+  - Used as a strong reduction test against `future self-continuity = temporal discounting`; the studies model both constructs over temporal distance and find they are related only selectively rather than constituting the same process.
+- Lu & Löckenhoff (2024). **Age differences in the temporal patterns of self-continuity and temporal discounting.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11692385/
+  - Used as a lifespan pressure case showing age-related patterns in self-continuity and temporal discounting can coexist without one explaining the other.
+- van Vliet et al. (2024). **A systematic review on the effect of identity-related interventions on physical activity and smoking.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11516042/
+  - Used as evidence that identity-targeted operations such as possible-self work, identity challenges and avatar interventions have been tested for real health-behavior outcomes, with mixed but practically meaningful results.
+- van Vliet et al. (2026). **The effect of identity-related interventions on physical activity- and smoking-related identities and behavior: a mixed-methods systematic review.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC13037006/
+  - Recent update used to map identity intervention types and current evidence gaps rather than assume identity interventions are uniformly effective.
+- **Interventions targeting identity in adults with psychosis, severe mental illness, brain injury, or intellectual disability: a transdiagnostic scoping review.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12916650/
+  - Used as a cross-regime identity disruption/reconstruction pressure case. The review identifies interventions aimed at integrated self-narratives, empowered social identity, adjustment to illness and self-reflection, while emphasizing heterogeneity and limited evidence.
+
+### Meaning / purpose
+
+- King & Hicks (2021). **The Science of Meaning in Life.** Annual Review of Psychology. https://www.annualreviews.org/content/journals/10.1146/annurev-psych-072420-122921
+  - Used to split meaning in life into coherence/comprehension, purpose and existential mattering/significance, preventing a one-variable `meaning` HOC.
+- Sutin et al. (2024). **Purpose in life and stress: An individual-participant meta-analysis of 16 samples.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11068359/
+  - Used as evidence that purpose has robust practical correlates without establishing that purpose is independent from goals/values/self-model structure.
+- Ríos & Hervas (2024/2025). **Evaluation of a meaning in life intervention applied to work: A randomized clinical trial.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11652123/
+  - Used to test intervention relevance while noting that effects depended on intervention composition and were not universal.
+- Seidel-Koulaxis & Daniels (2024). **Exploring meaning in life as a potential target for early intervention – randomized trauma analogue study.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11613342/
+  - Used as a falsifier against assuming broad durable outcome gains from a generic meaning intervention; short-term effects did not translate into broad longer-term symptom effects in this protocol.
+
+### Narrative identity
+
+- Deriu et al. (2024). **Narrative identity in addictive disorders: a conceptual review.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11215194/
+  - Used to map narrative identity as one organization/projection of self and autobiography rather than a universal Human operational family.
+- **Personal Narratives in Trauma-Related Disorders: Contributions from a Metacognitive Approach and Treatment Considerations.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11851491/
+  - Used to test narrative interventions as purpose-specific clinical/identity methods rather than proof that Narrative itself owns a generic HOC.
+
+### Grief / mortality
+
+- Prigerson & Maciejewski (2024). **Prolonged grief disorder: detection, diagnosis, and approaches to intervention.** World Psychiatry. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11403192/
+  - Used to preserve the clinical distinction between prolonged grief disorder and typical grief and to keep diagnosis/treatment under health ownership.
+- Eisma (2023). **Prolonged grief disorder in ICD-11 and DSM-5-TR: Challenges and controversies.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC10291380/
+  - Used as a medicalization/stigma/measurement warning against turning grief itself into a generic pathological state.
+- Hilberdink et al. (2023). **Bereavement issues and prolonged grief disorder: A global perspective.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC10579660/
+  - Used for cross-cultural variation and the need for culturally validated grief assessment/intervention.
+- Yuan et al. (2024). **Prevalence of prolonged grief disorder and its symptoms among bereaved individuals in China: systematic review and meta-analysis.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC10916091/
+  - Used as a China-specific pressure case showing heterogeneous prevalence and very-low-certainty pooled evidence.
+
+### Reputation / stigma / social position
+
+- Connelly & McAbee (2024). **Reputations at Work: Origins and Outcomes of Shared Person Perceptions.** Annual Review of Organizational Psychology and Organizational Behavior 11:251–278. https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-110721-022320
+  - Used to classify reputation as shared person perception with organizational consequences, not the Human's self-identity by default.
+- Majeed et al. (2024). **Anti-stigma interventions in low-income and middle-income countries: a systematic review.** eClinicalMedicine. PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11066569/
+  - Used for the structural/multilevel nature of stigma and cross-cultural intervention constraints; stigma is not reducible to an internal Human property.
+- **What Do We Know About Interventions to Reduce Intersectional Stigma and Discrimination in the Context of HIV? A Systematic Review.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC13095170/
+  - Used to reinforce that stigma may require structural/power/institutional intervention and cannot be owned solely by Human self-models.
+
+### Family / relationship / ritual / collective identity
+
+- Humphreys et al. (2024). **Caregiving Relationships are a Cornerstone of Developmental Psychopathology.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11341779/
+  - Used as a developmental pressure case for strong caregiver effects while retaining persistent relationship/context ownership rather than creating a generic family HOC.
+- Makanju & Livingstone (2024). **How appraisals of an in-group’s collective history shape collective identity and action: Evidence in relation to African identity.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11379368/
+  - Used to distinguish person-side group identification from group/history/institution-level collective structure.
+- **Ritual’s collective effervescence, awe, and social identity: psychosocial effects of the Pasto carnival.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12643837/
+  - Used as evidence that collective ritual can change group identification/cohesion while remaining a ritual/social-domain process rather than one Human operational primitive.
+- Clegg et al. (2022). **Development of Religious Cognition.** Annual Review of Developmental Psychology. https://www.annualreviews.org/content/journals/10.1146/annurev-devpsych-120920-041303
+  - Used to treat religious cognition/identity as culturally transmitted symbolic/social organization and a domain pressure case rather than an automatic new HOC.
