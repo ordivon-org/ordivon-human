@@ -2,7 +2,7 @@
 schema_version: 1
 id: human.deep-foundations.hd11.continuation
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: continuation
 visibility: public
 owners:
@@ -11,14 +11,17 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Exact continuation after the post-HD10 Human-wide HF24 admission search. HF0–HF23 remain preserved and HF24 is UNKNOWN/not admitted. The fresh search ranks imagination/nonactual scenario construction as the strongest current Foundation-admission candidate because HF8 owns nonactual representation while HF9 owns model-constrained counterfactual simulation and explicitly leaves free imagination outside that definition. The evidence is sufficient to admit HD11 — Imagination, Nonactual Scenario Construction, Pretence and Reality Monitoring — as the next non-foundation deep route, but not sufficient to create HF24. HD11 must determine whether the residual is a distinct peer reusable architecture, a deep mechanism inside HF8/HF9, a cross-foundation process, or a heterogeneous family. No successor beyond HD11 is selected.
+summary: Stage-complete continuation record for HD11 Imagination / Nonactual Scenario Construction / Reality Monitoring. HD11-A→D are completed research history, HD11-E is not admitted, SceneConstructionProjection and NonactualStanceProjection remain retained deep outputs, and ScenarioConstruction→HF24 plus RealitySource→HF24 are closed/not admitted on current evidence. HF24 remains globally UNKNOWN/not admitted; NextHumanDeepRoute is not selected by this artifact.
 evidence_status: verified-synthesis
-readiness: READY
+readiness: COMPLETE
 related:
   - human.deep-foundations.post-hd10.hf24-admission-search
   - human.deep-foundations.post-hd10.hf24-admission-search.sources
 ---
 # Human Deep Foundations Continuation — HD11 Admitted
+
+
+> **Currentness note:** this file preserves the admission-to-closeout progression as research history. Its current status is `STAGE COMPLETE`; use [`../core/DEEP-DOMAIN-MAP.md`](../core/DEEP-DOMAIN-MAP.md) for current navigation.
 
 ## Canonical state
 

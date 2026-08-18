@@ -2,7 +2,7 @@
 schema_version: 1
 id: human.deep-foundations.hd12.continuation
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: continuation
 visibility: public
 owners:
@@ -12,14 +12,17 @@ audience:
   - agent
   - engineer
 updated: 2026-08-18
-summary: Canonical continuation for HD12 Temporal Cognition, Duration, Order, Rhythm and Subjective Time, admitted by the fresh post-HD11 whole-Human second-generation high-information re-ranking. HD12 is a non-foundation deep route. HF24 remains UNKNOWN/not admitted. The first round is HD12-A Current-Use / Term Separation / Hidden-Assumption Inventory. No one-clock, multiple-clock, Bayesian timing, modality hierarchy, motor-timing or subjective-time theory is canonical at entry.
+summary: Stage-complete continuation record for HD12 Temporal Cognition. HD12-A→C are completed research history and HD12-D is not admitted. Retained timing/order/action projections remain deep scientific outputs while TemporalCognition→HF24 is closed/not admitted on current evidence. HF24 remains globally UNKNOWN/not admitted; NextHumanDeepRoute is not selected by this artifact.
 evidence_status: verified-synthesis
-readiness: READY
+readiness: COMPLETE
 related:
   - human.deep-foundations.post-hd11.second-generation-rerank
   - human.deep-foundations.post-hd11.second-generation-rerank.sources
 ---
 # HD12 Continuation
+
+
+> **Currentness note:** this file preserves the admission-to-closeout progression as research history. Its current status is `STAGE COMPLETE`; use [`../core/DEEP-DOMAIN-MAP.md`](../core/DEEP-DOMAIN-MAP.md) for current navigation.
 
 ## Canonical frontier
 

@@ -14,8 +14,8 @@ audience:
   - researcher
   - builder
   - agent
-updated: 2026-08-17
-summary: Entry to Human Foundations, a bounded foundation-reconstruction programme that treats existing Human taxonomies as hypotheses and derives reusable distinctions through competing projections, external evidence, counterexamples, deletion tests and cross-scale analysis.
+updated: 2026-08-18
+summary: Foundation-only entry for preserved/frozen HF0–HF23, with family navigation and current claim-level ownership overlays maintained by the thin Human research core while detailed HF reports and source ledgers remain authoritative evidence.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -357,34 +357,10 @@ the first-cycle closeout.
 
 ## Current foundation continuation
 
-[`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) remains the current foundation-level state.
-HD9 completed the organismic-systems/health/disease/pathophysiology depth test without
-admitting HF24. The surviving layer is cross-system biological implementation and trajectory
-rather than one peer Human object: `Health != NoDiagnosis`,
-`Disease != Symptom != Biomarker != Diagnosis`,
-`ReferenceRange != OptimalRange != IndividualBaseline`, `Inflammation != OneScalar`, and
-`BodySystemProjection != IndependentSubsystem`. HF0–HF23 were not reopened. **HF24 remains
-UNKNOWN / not admitted.**
+[`HF23-CONTINUATION.md`](HF23-CONTINUATION.md) remains the **foundation-only** continuation boundary. `HF0–HF23 = preserved/frozen`; `HF24 = UNKNOWN / not admitted`; `FoundationReopenCondition(HF0–HF23) = false`. It does not select the current deep route.
+
+For current family compression and HF14–HF18 owner overlays, use [`../core/FOUNDATION-FAMILIES.md`](../core/FOUNDATION-FAMILIES.md) and [`../core/BRIDGES-AND-OWNERSHIP.md`](../core/BRIDGES-AND-OWNERSHIP.md). Individual HF identities, reports, sources and historical continuations remain canonical evidence at their existing paths.
 
 ## Human Deep Foundations
 
-The separate deep-research layer begins with
-[`../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md`](../deep-foundations/HD0-HUMAN-DEEP-FOUNDATIONS-DIRECTION-SEARCH.md),
-continues through perception, affect, persistent relations, cultural inheritance, symbolic
-systems, sex/reproduction, genetics/heredity and evolution/comparative Human, and now includes
-the completed organismic health/disease route
-[`../deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md`](../deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md).
-HD9 owns the health/disease/biomarker/diagnosis/inflammation/immunometabolism/endocrine/
-vascular/cardiorenal/microbiome/trajectory mechanism and falsifier grammar while existing HFs
-continue to own regulation, adaptation, perception/experience, capability and normativity.
-HD4, HD6, HD7, HD8 and HD9 now provide five different examples of
-`DeepImportance != FoundationAdmission`.
-
-[`../deep-foundations/HD9-CONTINUATION.md`](../deep-foundations/HD9-CONTINUATION.md)
-records that HD9 itself deliberately closed with the successor unknown. The non-ranked
-[`../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md`](../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md)
-preserves that pre-selection map without priority. The subsequent fresh Human-wide search
-[`../deep-foundations/POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md`](../deep-foundations/POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md)
-admits `HD10 — Individual-Difference Architecture` as the next **non-foundation** deep route.
-[`../deep-foundations/HD10-CONTINUATION.md`](../deep-foundations/HD10-CONTINUATION.md)
-is the current deep handoff. `HF24 = UNKNOWN / not admitted` and no HF0–HF23 foundation has been reopened.
+Deep research is a separate layer. Current HD0–HD16 status, retained projections and stage-complete routes are indexed in [`../core/DEEP-DOMAIN-MAP.md`](../core/DEEP-DOMAIN-MAP.md). Old continuation/rerank records remain provenance and **not roadmap authority**; see [`../core/HISTORY-INDEX.md`](../core/HISTORY-INDEX.md).

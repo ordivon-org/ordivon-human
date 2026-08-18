@@ -44,6 +44,12 @@ answer to the first completed applied question. It serves readers who need an
 understandable result, practitioners who need a bounded decision process, and
 researchers or Agents who need provenance, falsifiers, and reproducibility.
 
+## Canonical research navigation
+
+The current Human research architecture, currentness, owner overlays and reopen rules are indexed in [`research/core/HUMAN-RESEARCH-CORE.md`](research/core/HUMAN-RESEARCH-CORE.md). Use that thin core before following chronological research updates. Detailed evidence remains in the existing Foundation, Deep Foundation, Operational Concept, applied and methods trees.
+
+Key current guards: `HF0–HF23 = preserved/frozen`; `HF24 = UNKNOWN/not admitted`; `HOC0–HOC10 = frozen`; `HOC11 = UNKNOWN/not admitted`; `HD11–HD16 = STAGE COMPLETE`; `NextHumanDeepRoute = UNKNOWN`; Whole-Human exhaustion is not claimed. HF14–HF18 use the current claim-level ownership overlay in [`research/core/BRIDGES-AND-OWNERSHIP.md`](research/core/BRIDGES-AND-OWNERSHIP.md).
+
 ## What is being studied now
 
 Human now has one completed applied cycle and one active applied cycle.
@@ -214,51 +220,6 @@ The earlier `prospectively frozen Human × Ordivon dogfood` wording is supersede
 
 See [`research/agentic-capability/CONTRACTION-20260814.md`](research/agentic-capability/CONTRACTION-20260814.md).
 
-## Human Foundations update — 2026-08-17
+## Historical research updates
 
-HF0–HF18 first-cycle foundations remain complete/frozen. HF19 has now completed the production/economic-organization extension without reopening them. HF19 separates work/employment/labor/effort/task, production/output/productivity, technology/tool/skill, typed capital/assets/services/money/claims, specialization/team production, plural firm/governance theories, ownership/possession/access/control, incomplete contracts/hold-up, scale/scope/complementarity, automation/AI economic roles and value creation/capture/welfare.
-
-The current foundation entry is [`research/foundations/README.md`](research/foundations/README.md). The current completed extension remains [`research/foundations/HF23-SYMBOLIC-SYSTEMS-LANGUAGE-MEANING.md`](research/foundations/HF23-SYMBOLIC-SYSTEMS-LANGUAGE-MEANING.md), extracted from HD5; **HD6–HD9 did not create HF24**. HF22 persistent relations, HF21 affect/emotion, HF20 perception and HF19 production/economic organization remain preserved completed extensions. The compact frozen HF0–HF18 cycle handoff remains [`research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md`](research/foundations/HF0-HF18-CYCLE-CLOSEOUT-20260817.md).
-
-The completed [`research/deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md`](research/deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md) reconstructs multi-scale organismic state, health/disease/illness/pathology, biomarkers/diagnosis/risk, inflammation/immunometabolism, endocrine/metabolic/vascular/cardiorenal coupling, microbiome-host ecology, reserve/recovery, chronic remodeling and multimorbidity trajectories. Its core corrections include `Health != NoDiagnosis`, `Disease != Symptom != Biomarker != Diagnosis`, `ReferenceRange != OptimalRange != IndividualBaseline`, `Inflammation != OneScalar`, `BodySystemProjection != IndependentSubsystem` and `TreatmentResponse != MechanismProof`.
-
-HD9's foundation verdict is another deliberate no-promotion result. Organismic health/pathophysiology is a foundationally important cross-system implementation and trajectory domain, but `Health` is a multidimensional projection/evaluation, disease/pathophysiology spans existing Human systems, body systems are projection families and integration is a relation/process rather than one clean peer object. [`research/foundations/HF23-CONTINUATION.md`](research/foundations/HF23-CONTINUATION.md) therefore remains the current foundation continuation and **HF24 remains UNKNOWN / not admitted**. HF0–HF23 were not reopened.
-
-Human Deep Foundations continues separately, but **no HD10 route is preselected after HD9**. [`research/deep-foundations/HD9-CONTINUATION.md`](research/deep-foundations/HD9-CONTINUATION.md) and the non-ranked [`research/deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md`](research/deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md) preserve `HD10 = UNKNOWN`, `NextDeepRoute = UNKNOWN` and `HF24 = UNKNOWN`. The next conversation must rerun Human-wide domain coverage across foundational omissions, depth omissions, applications, cross-cutting bridges, neighboring-project ownership, pre-Agent theory and Agent-era perturbations before choosing any next deep route.
-
-
-## Human Deep Foundations current frontier — 2026-08-18
-
-The 2026-08-17 HD9 continuation text above is historical. Human Deep Foundations has since completed HD10 Individual-Difference Architecture, HD11 Imagination / Nonactual Scenario Construction / Reality Monitoring, HD12 Temporal Cognition, HD13 Numerical / Quantitative Cognition and HD14 Spatial Navigation / Place / Reference Frames / Cognitive Maps. None admitted HF24; HF0–HF23 remain preserved/frozen and `FoundationReopenCondition(HF0–HF23) = false`.
-
-After HD14, a fresh whole-Human fifth-generation unexplored-space search re-competed prior candidates with newly elevated spaces rather than inheriting a roadmap. The canonical decision is [`research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md`](research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md), supported by its [primary-evidence ledger](research/deep-foundations/POST-HD14-WHOLE-HUMAN-FIFTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md).
-
-Only after passing the deep-route gate, **HD15 — Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation** was admitted as a non-foundation research route. HD15-A completed term separation and the measurement firewall; HD15-B completed the destructive rival-architecture tournament; and HD15-C has now completed cross-regime invariance, selective-dissociation and ownership extraction in [`research/deep-foundations/HD15-C-CROSS-REGIME-INVARIANCE-SELECTIVE-DISSOCIATION-BODILY-SELF-OWNERSHIP-EXTRACTION.md`](research/deep-foundations/HD15-C-CROSS-REGIME-INVARIANCE-SELECTIVE-DISSOCIATION-BODILY-SELF-OWNERSHIP-EXTRACTION.md), supported by [`research/deep-foundations/HD15-C-SOURCES.md`](research/deep-foundations/HD15-C-SOURCES.md). All three HD15-B residuals remain scientifically useful but fail peer-Foundation deletion harm after neighboring owners are restored: `BodyOwnershipCausalInferenceProjection` is HF20-centered with HF8/HF2/HF3/HF1 participation; `PartWholeOwnershipIntegrationProjection` is HF20/HF8-centered with HF2 ownership experience; and `AgencyCueIntegrationProjection` is HF11-centered with World/HF10/HF20/HF8/HF3/HF2/HD12 participation. Therefore `BodyOwnershipCausalInference→HF24`, `PartWholeOwnershipIntegration→HF24`, `AgencyCueIntegration→HF24`, and the umbrella `BodilySelf→HF24` are **CLOSED / NOT ADMITTED** on current evidence. `BodilySelfHF24ReopenCondition = false`. [`research/deep-foundations/HD15-CONTINUATION.md`](research/deep-foundations/HD15-CONTINUATION.md) is the stage-closeout continuation boundary. HD15 is STAGE COMPLETE; HD15-D is NOT ADMITTED. Global HF24 remains UNKNOWN/not admitted, and the next Human deep route must be selected by a fresh whole-Human re-ranking rather than inherited from an old candidate order.
-
-After HD15 closed, a fresh whole-Human sixth-generation search was run rather than inheriting the previous rank order. The canonical search record is [`research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md`](research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-20260818.md), with [`research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md`](research/deep-foundations/POST-HD15-WHOLE-HUMAN-SIXTH-GENERATION-HIGH-INFORMATION-RERANK-SOURCES.md). Music / Auditory Structural Cognition won the marginal-information comparison only after re-competing with Human-Agent co-adaptation, sleep/circadian, multimodal person recognition, psychopathology, hidden-information cognition and collective cognition.
-
-**HD16 — Music / Auditory Structural Cognition / Melody / Rhythm / Musical Reward** then completed A→C in one research round. HD16-A separated music artifacts, acoustic signals, pitch, melody, harmony, rhythm, beat, meter, memory, imagery, action, emotion and reward. HD16-B rejected unitary music, pitch-only, beat-only, language-shared, generic predictive, auditory-motor and reward-only whole-route owners; the retained whole-route synthesis is `LayeredPluralMusicCognitionArchitecture = composition, not Foundation`. HD16-C restored HF20/HF8/HD12/HF11/HF4/HF21/HF6/HF7 plus World/Media and found no peer deletion harm. `MusicalStructuralOrganization→HF24`, `BeatMeterHierarchy→HF24`, `MusicRewardCoupling→HF24`, and `Music/AuditoryStructuralCognition→HF24` are therefore CLOSED / NOT ADMITTED. `MusicHF24ReopenCondition = false`. The canonical closeout is [`research/deep-foundations/HD16-CONTINUATION.md`](research/deep-foundations/HD16-CONTINUATION.md).
-
-Current frontier:
-
-```text
-HF0–HF23 = preserved / frozen
-HF24 = UNKNOWN / not admitted
-FoundationReopenCondition(HF0–HF23) = false
-HOC0–HOC10 = frozen
-HOC11 = UNKNOWN / not admitted
-HD11–HD14 = STAGE COMPLETE
-HD15 = STAGE COMPLETE
-HD15-D = NOT ADMITTED
-BodilySelf→HF24 = CLOSED / NOT ADMITTED
-HD16-A = COMPLETE
-HD16-B = COMPLETE
-HD16-C = COMPLETE
-HD16 = STAGE COMPLETE
-HD16-D = NOT ADMITTED
-Music/AuditoryStructuralCognition→HF24 = CLOSED / NOT ADMITTED
-MusicHF24ReopenCondition = false
-NextHumanDeepRoute = UNKNOWN / fresh whole-Human re-ranking required
-WholeHumanOperationalClosure = NOT ESTABLISHED
-WholeHumanExhaustion = NOT CLAIMED
-```
+The former chronological HF/HD update block is retained in Git history but is no longer the navigation authority. Current Foundation families, the HD0–HD16 map, HOC surfaces, protocol registry, owner overlays and closure state are maintained under [`research/core/`](research/core/). Preserved negative and superseded research remains discoverable through [`research/core/HISTORY-INDEX.md`](research/core/HISTORY-INDEX.md).

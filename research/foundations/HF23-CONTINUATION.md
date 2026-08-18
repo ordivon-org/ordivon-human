@@ -13,7 +13,7 @@ audience:
   - researcher
   - agent
 updated: 2026-08-18
-summary: Exact foundation continuation after HF23 following completed HD9 and the subsequent post-HD9 Human-wide direction search. HF23 remains complete/READY and current; HF24 remains UNKNOWN/not admitted. HD10 Individual-Difference Architecture is now admitted only as the next non-foundation deep route, without reopening HF0–HF23 or implying HF24 admission.
+summary: Foundation-only continuation after HF23. HF0–HF23 remain preserved/frozen, HF24 remains UNKNOWN/not admitted, and no FoundationReopenCondition is active. This artifact no longer selects or narrates the current Human deep route; use the thin research core and deep-domain map for HD currentness.
 evidence_status: verified
 readiness: READY
 applies_to:
@@ -135,34 +135,17 @@ HF23 remains the current foundation continuation.
 
 ---
 
-# 5. Deep continuation
+# 5. Deep research is separately navigated
 
-Read:
+HF23 does not select or own the Human deep-research frontier. Current HD0–HD16 status is indexed in [`../core/DEEP-DOMAIN-MAP.md`](../core/DEEP-DOMAIN-MAP.md); preserved reranks and continuations remain under [`../deep-foundations/`](../deep-foundations/) as research history.
 
-```text
-../deep-foundations/HD9-ORGANISMIC-SYSTEMS-HEALTH-DISEASE-PATHOPHYSIOLOGY.md
-../deep-foundations/HD9-SOURCES.md
-../deep-foundations/HD9-CONTINUATION.md
-```
-
-HF23 itself does not select the deep-research route. The historical HD9 closeout first preserved the route as UNKNOWN; a subsequent independent Human-wide search then selected the current deep continuation. Read:
+Current foundation state remains:
 
 ```text
-../deep-foundations/HD9-CONTINUATION.md
-../deep-foundations/HD9-UNEXPLORED-SPACE-INVENTORY.md
-../deep-foundations/POST-HD9-HUMAN-WIDE-DIRECTION-SEARCH.md
-../deep-foundations/HD10-CONTINUATION.md
-```
-
-Current state:
-
-```text
-HD10 = Individual-Difference Architecture / admitted deep route
+HF0–HF23 = preserved / frozen
 HF24 = UNKNOWN / not admitted
 FoundationReopenCondition(HF0–HF23) = false
 ```
-
----
 
 # 6. Foundation guard
 

@@ -2,7 +2,7 @@
 schema_version: 1
 id: human.deep-foundations.hd14.continuation
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: continuation
 visibility: public
 owners:
@@ -12,14 +12,17 @@ audience:
   - agent
   - engineer
 updated: 2026-08-18
-summary: Canonical continuation for HD14 Spatial Navigation, Place, Reference Frames and Cognitive Maps, admitted by the fresh post-HD13 whole-Human fourth-generation high-information re-ranking. HD14 is a non-foundation deep route. HF24 remains UNKNOWN/not admitted. HD14-A Current-Use / Term Separation / Hidden-Assumption Inventory is next. Entry is theory-neutral: no cognitive-map, hippocampal-map, grid/place-cell, path-integration, landmark, reference-frame, Bayesian cue-integration, embodied/enactive or route/survey theory is canonical. The route must distinguish objective spatial relations from Human representations; place/location/orientation/heading; landmark/route/survey knowledge; egocentric/allocentric reference frames; path integration from landmark navigation; spatial memory from navigation; place recognition from wayfinding; locomotion from navigation; self-report from actual performance; and tool-supported from independent Human navigation.
+summary: Stage-complete continuation record for HD14 Spatial Navigation. HD14-A→C are completed research history and HD14-D is not admitted. Retained path-integration, reference-frame, landmark-recalibration and grid-like mechanism projections remain deep scientific outputs while SpatialNavigation→HF24 is closed/not admitted on current evidence. HF24 remains globally UNKNOWN/not admitted; NextHumanDeepRoute is not selected by this artifact.
 evidence_status: verified-synthesis
-readiness: READY
+readiness: COMPLETE
 related:
   - human.deep-foundations.post-hd13.fourth-generation-rerank
   - human.deep-foundations.post-hd13.fourth-generation-rerank.sources
 ---
 # HD14 Continuation
+
+
+> **Currentness note:** this file preserves the admission-to-closeout progression as research history. Its current status is `STAGE COMPLETE`; use [`../core/DEEP-DOMAIN-MAP.md`](../core/DEEP-DOMAIN-MAP.md) for current navigation.
 
 ## Canonical frontier
 

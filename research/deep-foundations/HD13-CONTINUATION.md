@@ -2,7 +2,7 @@
 schema_version: 1
 id: human.deep-foundations.hd13.continuation
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: continuation
 visibility: public
 owners:
@@ -12,14 +12,17 @@ audience:
   - agent
   - engineer
 updated: 2026-08-18
-summary: Canonical continuation for HD13 Numerical and Quantitative Cognition, Number, Quantity and Arithmetic, admitted by the fresh post-HD12 whole-Human third-generation high-information re-ranking. HD13 is a non-foundation deep route. HF24 remains UNKNOWN/not admitted. HD13-A Current-Use / Term Separation / Hidden-Assumption Inventory is next. Entry is theory-neutral: no Approximate Number System, Object Tracking System, Triple-Code, NumberSense, embodied magnitude, language-first or single-symbolic-access theory is canonical.
+summary: Stage-complete continuation record for HD13 Numerical / Quantitative Cognition. HD13-A→C are completed research history and HD13-D is not admitted. Retained quantitative code-mapping and approximate-numerosity projections remain deep scientific outputs while NumericalCognition→HF24 and ApproximateNumerosity→HF24 are closed/not admitted on current evidence. HF24 remains globally UNKNOWN/not admitted; NextHumanDeepRoute is not selected by this artifact.
 evidence_status: verified-synthesis
-readiness: READY
+readiness: COMPLETE
 related:
   - human.deep-foundations.post-hd12.third-generation-rerank
   - human.deep-foundations.post-hd12.third-generation-rerank.sources
 ---
 # HD13 Continuation
+
+
+> **Currentness note:** this file preserves the admission-to-closeout progression as research history. Its current status is `STAGE COMPLETE`; use [`../core/DEEP-DOMAIN-MAP.md`](../core/DEEP-DOMAIN-MAP.md) for current navigation.
 
 ## Canonical frontier
 
