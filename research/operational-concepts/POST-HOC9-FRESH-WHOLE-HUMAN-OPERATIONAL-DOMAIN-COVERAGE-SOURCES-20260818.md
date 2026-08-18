@@ -410,3 +410,33 @@ Western adult measurement != cross-cultural/developmental transport guarantee
   - HCI/scoping-review pressure against over-optimizing emotion. Review of 53 technology-mediated emotion-intervention studies argues that care-centred support can differ from emotion control and highlights power, identity, nudging and artificial-care concerns. Used mainly for A10/privacy/governance and `NegativeEmotion != intervention target` firewalls.
 - Boemo et al. (2022). **Relations between emotion regulation strategies and affect in daily life: a systematic review and meta-analysis of ecological momentary assessment studies.** PubMed: https://pubmed.ncbi.nlm.nih.gov/35716875/
   - Daily-life evidence base for distinct strategy–affect temporal relations and the limits of retrospective trait-only models.
+
+
+## Round-8 affective-regulation destructive tournament / HOC10 admission additions
+
+- Wenzel, Radtke, Kubiak & Rowland (2026). **A critical test of emotion regulation strategy effectiveness in daily life: Individual differences and situational contexts.** PubMed: https://pubmed.ncbi.nlm.nih.gov/42241085/
+  - Decisive StrategySituationFit evidence: 12 ambulatory datasets, N=1,511, 161,513 occasions; substantial between-person variability for all strategies and approximately 75–80% of observed effectiveness variance explained by affective-state intensity.
+- **Variability is not flexibility: Emotion regulation switching predicts increased momentary distress when context is stable** (2026). PubMed: https://pubmed.ncbi.nlm.nih.gov/41910550/
+  - Decisive falsifier against strategy-switching/variability as flexibility. Context-stable switching predicted worse outcomes in two intensive longitudinal studies; HOC10 therefore uses context-conditioned flexibility evidence rather than a global switching/count profile.
+- Wang et al. (2025). **Effects of cognitive flexibility on dynamics of emotion regulation and negative affect in daily life.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39505488/
+  - Daily-life evidence for strategy-situation fit/meta-regulation as distinct from strategy count.
+- English et al. (2017). **Emotion regulation strategy selection in daily life: The role of social context and goals.** PubMed: https://pubmed.ncbi.nlm.nih.gov/28652647/
+  - Strategy selection varies with social context and hedonic/instrumental goals.
+- Tamir, Mitchell & Gross (2008). **Hedonic and Instrumental Motives in Anger Regulation.** APS: https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02088.x/
+  - Instrumental-goal falsifier against `emotion regulation = maximize pleasant affect`; anger could be intentionally increased for a confrontational task.
+- Troy, Shallcross & Mauss (2013). **A person-by-situation approach to emotion regulation: cognitive reappraisal can either help or hurt, depending on the context.** PubMed: https://pubmed.ncbi.nlm.nih.gov/24145331/
+  - Strong controllability/context pressure against intrinsic strategy rankings.
+- Niven & López-Pérez (2025). **Interpersonal emotion regulation: Reflecting on progress and charting the path forward.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39928486/
+  - Establishes interpersonal regulation as a distinct process across multiple disciplines and lifespan contexts; supports CoRegulationCase beyond HOC6 topology.
+- Chen et al. (2025). **Emotion regulation and mental health across cultures: a systematic review and meta-analysis.** Nature Human Behaviour: https://www.nature.com/articles/s41562-025-02168-8
+  - 249 articles, N=150,474, 37 countries/regions; cultural moderators rule out one universal reappraisal/suppression hierarchy.
+- Haag, Bagrodia & Bonanno (2024). **Emotion Regulation Flexibility in Adolescents: A Systematic Review from Conceptualization to Methodology.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39003663/
+  - Developmental/measurement pressure; ER flexibility definitions are heterogeneous, motivating a bounded evidence view rather than global profile.
+- Clamor, Lincoln & Schulze (2026). **Emotion regulation in mental disorders: A systematic review and multilevel meta-analysis of transdiagnostic and disorder-specific impairments.** PubMed: https://pubmed.ncbi.nlm.nih.gov/42024315/
+  - 619 studies and >78k clinical/control participants; establishes strong transdiagnostic clinical relevance without making HOC10 diagnostic.
+- Saccaro et al. (2024). **Interventions targeting emotion regulation: A systematic umbrella review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/38677089/
+  - Direct intervention evidence across populations; supports recurring action value while retaining mechanism/evidence heterogeneity.
+- Laban, Wang & Gunes (2026). **A Robot-Led Intervention for Emotion Regulation: From Expression to Reappraisal.** Cambridge repository: https://www.repository.cam.ac.uk/handle/1810/395649
+  - Human-Agent pressure case: LLM-powered robot can serve as structured reappraisal support; supports situated/joint regulation attribution.
+- Liu et al. (2025). **From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts.** DOI 10.1145/3757605; institutional record: https://portal.findresearcher.sdu.dk/en/publications/from-regulation-to-support-centering-humans-in-technology-mediate/
+  - Critical HCI pressure for A10: support/care can differ from emotion control; power, nudging, agency and emotional-complexity risks require an episode-first, authority-bounded architecture.
