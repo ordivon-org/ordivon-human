@@ -3,7 +3,7 @@ schema_version: 1
 id: human.operational-concepts.hoc0.inventory
 title: HOC0 — Human Operational Concept Candidate Inventory
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:

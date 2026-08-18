@@ -3,7 +3,7 @@ schema_version: 1
 id: human.operational-concepts.hoc0.layer
 title: HOC0 — Human Operational Concept Layer
 profile: research
-lifecycle: active
+lifecycle: completed
 source_role: canonical
 visibility: public
 owners:
