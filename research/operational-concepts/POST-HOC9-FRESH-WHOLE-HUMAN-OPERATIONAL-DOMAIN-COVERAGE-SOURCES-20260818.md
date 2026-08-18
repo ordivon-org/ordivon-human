@@ -366,3 +366,47 @@ Western adult measurement != cross-cultural/developmental transport guarantee
   - Used as a palliative-care pressure case for relational autonomy, indirect communication and family-centred decision participation.
 - Pijpers et al. (2025). **Effectiveness of the capability approach in rehabilitation for persons with neuromuscular diseases: A controlled before-after study.** PLOS One: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332388
   - Null comparative result used against assuming that a broad capability-theory label automatically yields added operational value beyond existing rehabilitation practice.
+
+
+## Round-7 closure-falsification additions
+
+### Occupational participation / meaningful activity closure pressure
+
+- NICE (2025). **Evidence review for support for social participation: Rehabilitation for chronic neurological disorders including acquired brain injury.** NCBI Bookshelf: https://www.ncbi.nlm.nih.gov/books/NBK622386/
+  - Used in the final unnamed-object scan. NICE treats meaningful activity/occupation, recreation/leisure, community living, family/relationships and sexual participation as important rehabilitation outcomes, while interventions remain heterogeneous and cause/constraint specific. Supports participation as a high-value outcome/context lens but does not establish one generic participation mechanism.
+- Wall et al. (2024). **Occupation-based interventions to improve occupational performance and participation in the hospital setting: a systematic review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/37524307/
+  - Used to test whether `Occupation/Participation` has a characteristic generic intervention grammar. Evidence supports occupation-based intervention value in inpatient rehabilitation, but intervention types and mechanisms remain heterogeneous and setting dependent.
+- Saito et al. (2025). **Occupational Therapy Intervention for Improvement of Activity and Participation in Home Rehabilitation for Community-Dwelling Older Adults: A Scoping Review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/41056091/
+  - Used as an ageing/home-rehabilitation pressure case. The review reports diverse interventions, 126 outcome tools and heterogeneous goal-setting methods, supporting decomposition into capability/function/environment/goals rather than one participation scalar.
+
+### Moral injury / dignity closure pressure
+
+- Litz & Walker (2025). **Moral Injury: An Overview of Conceptual, Definitional, Assessment, and Treatment Issues.** Annual Review of Clinical Psychology / PubMed: https://pubmed.ncbi.nlm.nih.gov/39879547/
+  - Used to retest the earlier `moral injury = cross-owner composition` reduction. The review characterizes moral injury through functionally impairing moral emotions, beliefs/behaviors and adverse beliefs about self/collective humanity/meaning, and proposes a social-functional rehabilitation approach. It strengthens moral injury as a distinct domain construct but not a generic Human operational owner.
+- Lambe et al. (2025). **Moral injury prevention and intervention.** European Journal of Psychotraumatology / PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12541919/
+  - Used because standard PTSD treatments may not adequately address moral-injury guilt/shame and because prevention can require organizational reform, leadership, reflection and peer support. This reinforces clinical + normative + organizational decomposition.
+- **Moral injury in healthcare workers: causes & interventions.** British Medical Bulletin (2026). https://academic.oup.com/bmb/article/157/1/ldag011/8524092
+  - Recent healthcare pressure case emphasizing workplace culture, leadership, restrictive practices, discrimination and systemic understaffing as causal/prevention targets; supports keeping institutional ownership explicit.
+
+### Emotion / affective regulation — newly exposed operational blind spot
+
+- Wenzel, Radtke, Kubiak & Rowland (2026). **A critical test of emotion regulation strategy effectiveness in daily life: Individual differences and situational contexts.** PubMed: https://pubmed.ncbi.nlm.nih.gov/42241085/
+  - Primary high-value falsifier against fixed `adaptive strategy` rankings. Coordinated analysis of 12 ambulatory datasets (N=1,511; 161,513 occasions) found substantial between-person variability for every strategy and estimated that roughly 75–80% of effectiveness variance was explained by intensity of the affective state being regulated. Strongly motivates person-strategy-situation fit and temporal dynamics as operational objects.
+- Clamor, Lincoln & Schulze (2026). **Emotion regulation in mental disorders: A systematic review and multilevel meta-analysis of transdiagnostic and disorder-specific impairments.** PubMed: https://pubmed.ncbi.nlm.nih.gov/42024315/
+  - Large meta-analysis covering 619 studies, 41,590 clinical participants and 36,787 controls. Used to establish transdiagnostic intervention relevance while retaining disorder-specific profiles; supports a generic operational question without reducing the family to one disorder.
+- Saccaro et al. (2024). **Interventions targeting emotion regulation: A systematic umbrella review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/38677089/
+  - Umbrella review of 21 systematic reviews/meta-analyses used to establish that emotion dysregulation/regulation is directly targeted across diverse adult populations and treatment approaches, while evidence and mechanisms remain heterogeneous.
+- Niven & López-Pérez (2025). **Interpersonal emotion regulation: Reflecting on progress and charting the path forward.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39928486/
+  - Used to establish that emotion regulation is not intra-individual only: people attempt to manage their own or others' feelings/expressions through social interaction. Strengthens a distinct co-regulation/interpersonal regulation pressure not reducible to relationship topology alone.
+- Haag, Bagrodia & Bonanno (2024). **Emotion Regulation Flexibility in Adolescents: A Systematic Review from Conceptualization to Methodology.** PubMed/PMC: https://pubmed.ncbi.nlm.nih.gov/39003663/
+  - Developmental pressure case. Flexible regulation emphasizes strategy deployment in relation to situational demands, but conceptualizations and measures in adolescents remain heterogeneous. Used both to motivate flexibility and to preserve developmental/evidence ceilings.
+- Chen et al. (2025). **Emotion regulation and mental health across cultures: a systematic review and meta-analysis.** Nature Human Behaviour: https://www.nature.com/articles/s41562-025-02168-8
+  - Cross-cultural transport pressure. Associations between reappraisal/suppression and mental-health outcomes vary with cultural dimensions and sample context, directly arguing against one universal strategy hierarchy.
+- Yin, Jiang & Sun (2025). **Revisiting the research on teachers' emotion regulation: A systematic review and future directions.** International Journal of Educational Research: https://www.sciencedirect.com/science/article/pii/S0883035525000898
+  - Nonclinical/work/education pressure case demonstrating that emotion-regulation research is materially relevant to professional functioning and interactions, not solely psychiatric treatment.
+- Dicker, Jones, Kunik & Denny (2025). **Emotion regulation strategies to improve outcomes in family caregivers of people with Alzheimer's disease and related dementias: A systematic review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/40819234/
+  - Caregiving pressure case used to show emotion-regulation strategy training is embedded in real family-care support and interacts with caregiver outcomes.
+- Liu et al. (2025). **From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts.** arXiv: https://arxiv.org/abs/2504.12614
+  - HCI/scoping-review pressure against over-optimizing emotion. Review of 53 technology-mediated emotion-intervention studies argues that care-centred support can differ from emotion control and highlights power, identity, nudging and artificial-care concerns. Used mainly for A10/privacy/governance and `NegativeEmotion != intervention target` firewalls.
+- Boemo et al. (2022). **Relations between emotion regulation strategies and affect in daily life: a systematic review and meta-analysis of ecological momentary assessment studies.** PubMed: https://pubmed.ncbi.nlm.nih.gov/35716875/
+  - Daily-life evidence base for distinct strategy–affect temporal relations and the limits of retrospective trait-only models.
