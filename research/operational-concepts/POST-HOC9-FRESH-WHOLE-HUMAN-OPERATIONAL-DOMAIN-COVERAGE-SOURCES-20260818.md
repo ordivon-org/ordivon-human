@@ -130,3 +130,37 @@ Western adult measurement != cross-cultural/developmental transport guarantee
   - Used as a practical decision-effect case for choice/control autonomy in algorithmic recommendation.
 - **Navigating autonomy and control in human-AI delegation: User responses to technology- versus user-invoked task allocation.** Decision Support Systems 180 (2024), 114193. https://www.sciencedirect.com/science/article/pii/S0167923624000265
   - Used as a Human-AI delegation pressure case separating task allocation mechanics, perceived control and user response.
+
+
+## Round-3 destructive-tournament additions
+
+### Experience-sampling reactivity and measurement design
+
+- van Os et al. / mixed-method ESM measurement-reactivity study. **A mixed-method investigation into measurement reactivity to the experience sampling method: The role of sampling protocol and individual characteristics.** PubMed: https://pubmed.ncbi.nlm.nih.gov/36174163/
+  - Used to establish that repeated experience sampling can alter completion behavior, within-person variability, emotional awareness and reported affect; measurement is not always inert.
+- 2026 EMA design study. **Methodological considerations for ecological momentary assessment measures of task-unrelated and freely moving thoughts.** PubMed: https://pubmed.ncbi.nlm.nih.gov/41997084/
+  - Used as recent evidence that study duration/probe design can change psychometric properties of momentary thought and affect reports.
+
+### Child self-report versus proxy report
+
+- Gaffin et al. (2024/2025). **Health-related quality of life in children with bronchopulmonary dysplasia: examining agreement between child self-report and parent proxy.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39567397/
+  - Used to pressure-test proxy equivalence: child-parent agreement was poor to moderate across many subjective HRQL domains and proxy reports showed systematic bias.
+- Birnie et al. (2020). **Factors Related to Agreement Between Child and Caregiver Report of Child Functioning With Chronic Pain: PROMIS Pediatric and Parent Proxy Report.** PubMed: https://pubmed.ncbi.nlm.nih.gov/31876791/
+  - Used to show that child-caregiver agreement varies by domain and case characteristics, with particularly large discrepancy for anxiety, pain interference and peer relations.
+- Tomlinson et al. (2020). **Discordance between pediatric self-report and parent proxy-report symptom scores and creation of a dyad symptom screening tool (co-SSPedi).** PubMed: https://pubmed.ncbi.nlm.nih.gov/32567173/
+  - Used as direct evidence that cross-informant disagreement is common and can itself become useful evidence rather than noise.
+- Lam et al. (2025). **Agreement Between Child Self-Report With Parent Proxy Report on the Quality of Life of Children With Medical Complexity: A Cross-Sectional Study.** PubMed: https://pubmed.ncbi.nlm.nih.gov/40273955/
+  - Used as a Chinese-context pressure case showing domain-specific agreement/disagreement between child and proxy reports.
+
+### Mixed / ambivalent affect and cultural transport
+
+- Zheng et al. (2021). **Cultural Differences in Mixed Emotions: The Role of Dialectical Thinking.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC7830092/
+  - Used to falsify one bipolar experience-valence scalar and to pressure-test culture-sensitive interpretation of mixed emotional experience.
+- Sims et al. / affect-valuation studies. **Wanting to Maximize the Positive and Minimize the Negative: Implications for Mixed Affective Experience in American and Chinese Contexts.** PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4729566/
+  - Used for experience-sampling evidence that positive and negative affect can co-occur differently across cultural contexts and that ideal affect can shape reported mixed experience.
+
+### Automation and experienced agency
+
+- Ueda, Nakashima & Kumada (2021). **Influence of levels of automation on the sense of agency during continuous action.** Scientific Reports. https://www.nature.com/articles/s41598-021-82036-3
+- Nakashima & Kumada (2022). **Task-irrelevant object response to action enhances the sense of agency for controlling the object in automation.** Scientific Reports. https://www.nature.com/articles/s41598-022-20125-7
+  - Reused in Round 3 as decisive evidence that actual automation/control and felt agency require separate projections rather than one control variable.
