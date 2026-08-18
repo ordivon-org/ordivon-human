@@ -346,3 +346,124 @@ Foundation state remains:
 FoundationReopenCondition(HF0–HF23) = false
 HF24 = UNKNOWN / not admitted
 ```
+
+
+## Progress after HD11-D / HD11 stage closeout
+
+HD11-D is complete.
+
+```text
+HD11-D
+= Reality Commitment,
+  Source Attribution,
+  Nonactual Stance & Reality Monitoring
+= completed
+```
+
+D does not admit a peer Reality subsystem.
+
+Best owner model:
+
+```text
+World
+→ actuality/truth
+
+HF8
+→ representation + belief/endorsement/credence
+
+HF7
+→ retrospective source memory
+
+HF3
+→ metacognitive monitoring/confidence/classification reliability
+
+HF2
+→ experience / phenomenal realness / connectedness / source character
+
+HF9
+→ hypothetical/counterfactual reasoning operators
+
+HF23/Media
+→ fictional/symbolic stipulation and artifact status
+```
+
+Retain cross-owner:
+
+```text
+ContentRealitySourceCompositionGrammar
+```
+
+with independent coordinates for:
+
+```text
+ActualityRelation
+HumanEpistemicStance
+BeliefStatus
+GenerationProvenance
+CurrentSourceAttribution
+RetrospectiveSourceMemory
+PhenomenalRealness
+RealityMonitoringJudgment
+MetacognitiveConfidence
+```
+
+Retain narrower:
+
+```text
+NonactualStanceProjection
+```
+
+for supposition, counterfactual, known-fictional, pretend, imagined-without-actuality-claim and dream-recognized relations.
+
+But:
+
+```text
+RealitySource→HF24
+= CLOSED / NOT ADMITTED
+RealitySourceHF24ReopenCondition
+= false
+```
+
+Together with C:
+
+```text
+ScenarioConstruction→HF24
+= CLOSED / NOT ADMITTED
+ScenarioConstructionHF24ReopenCondition
+= false
+```
+
+Therefore:
+
+```text
+HD11
+= STAGE COMPLETE
+```
+
+with no HF24 admitted.
+
+Canonical frontier:
+
+```text
+HF0–HF23 = preserved
+HF24 = UNKNOWN / not admitted
+FoundationReopenCondition(HF0–HF23) = false
+
+HD11-A→D = completed research history
+HD11-E = NOT ADMITTED
+NextHumanDeepRoute = UNKNOWN / fresh whole-Human re-ranking required
+
+SceneConstructionProjection
+= retained scientific deep projection
+
+NonactualStanceProjection
+= retained relation/use projection
+
+ContentRealitySourceCompositionGrammar
+= retained unnumbered cross-owner grammar
+
+ImaginationUmbrella
+= heterogeneous composition space
+```
+
+Whole-Human closure remains unclaimed.
