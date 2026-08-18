@@ -266,3 +266,103 @@ Western adult measurement != cross-cultural/developmental transport guarantee
   - Primary multi-model experiment showing revealed identity characteristics can significantly influence chatbot recommendations, including stereotypical patterns, while recommendation explanations need not transparently expose identity influence. Used as a direct firewall against persistent inferred-identity routing.
 - Tong et al. (2025). **Trapped by AI Recommendation: How Identity Concerns Reduce Variety-Seeking Behavior.** Managerial and Decision Economics. https://onlinelibrary.wiley.com/doi/10.1002/mde.4524
   - Three-study evidence that AI recommendation can interact with strong identification and concerns about misclassification to reduce variety-seeking, used as an Agent-era identity-reflexivity pressure case.
+
+
+## Round-6 unknown-continent / adversarial-closure additions
+
+### Reproductive agency
+
+- United Nations Population Fund (UNFPA), **State of World Population 2025 — The Real Fertility Crisis: The Pursuit of Reproductive Agency in a Changing World.** https://www.unfpa.org/swp2025
+  - Used as a global pressure case separating desired reproductive goals from realized reproductive outcomes and showing that economic, social, partner, health and policy constraints can prevent people from exercising reproductive choice.
+- UNFPA, **The real fertility crisis — highlights brochure** (2025). https://www.unfpa.org/resources/real-fertility-crisis-pursuit-reproductive-agency-changing-world-highlights-brochure
+  - Used to make `whether / when / with whom to have a child` an explicit consequential decision domain while keeping demographic targets separate from Human reproductive authority.
+
+### Violence, coercion and survivor decision participation
+
+- WHO Regional Office for Europe (2025). **Care, courage, change: health-sector leadership in tackling violence against women and girls.** https://www.who.int/europe/publications/i/item/WHO-EURO-2025-12846-52620-81536
+  - Used as a survivor-centred pressure case. WHO notes that mandatory reporting against adult survivors' wishes can undermine autonomy/confidentiality and deter access to care.
+- WHO (2025). **RESPECT women: preventing violence against women, 2nd ed.** https://www.who.int/publications/i/item/9789240117020
+  - Used to show that violence prevention/response spans relationship skills, empowerment, services, poverty, environments, child abuse and norms rather than one Human internal `safety` state.
+- WHO (2025). **Corporal punishment of children: the public health impact.** https://www.who.int/publications/i/item/B09424
+  - Used as a child-protection pressure case requiring law/environment/caregiver intervention while preserving the Human-side capability/participation distinction.
+
+### Supported and shared decision-making
+
+- Gudelytė, Ruškus & McCrea (2024). **"Help me to decide": A study of human rights-based supported decision making with persons with intellectual disabilities.** PubMed: https://pubmed.ncbi.nlm.nih.gov/38512186/
+  - Participatory field evidence that environmental conditions and social supports can enable adults with intellectual disabilities to make and implement their own decisions; used for `SupportNeed != NoDecisionAgency`.
+- Francis, Hazelton & Wilson (2024). **Supported Decision-Making Interventions in Mental Healthcare: A Systematic Review of Evidence on the Outcomes for People With Mental Ill Health.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39711033/
+  - 140-study synthesis used to establish recurring practical value of participation in treatment planning while showing the intervention family is multi-component rather than one new Human mechanism.
+- Burke et al. (2024). **Exploring the Involvement of Autistic Youth in Decision Making About Services.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39069298/
+  - Used as a transition-age pressure case separating adult listening from actual youth participation in service decisions.
+- Turchi et al. (2024). **Considerations for Alternative Decision-Making When Transitioning to Adulthood for Youth With Intellectual and Developmental Disabilities: Policy Statement.** PubMed: https://pubmed.ncbi.nlm.nih.gov/38804066/
+  - Used to map supported decision-making, proxy decision-making, power of attorney and guardianship as distinct authority/support arrangements rather than one capacity scalar.
+- Robitaille, Gauthier-Boudreault & Rochon (2025). **How can we support people with profound intellectual and multiple disabilities in enhancing their self-determination? A scoping review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/41077902/
+  - Used as a severe-disability pressure case: self-determination can be supported through adapted opportunities, technology and social environments rather than equated with unsupported independence.
+
+### Communication disability / AAC
+
+- Zisk et al. (2024). **School-Based Professionals' Knowledge of Autistic Speech and Augmentative and Alternative Communication Decision Making.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39681118/
+  - Used to pressure-test speech-first assumptions and to retain `CommunicationSupportNeed != NoDecisionVoice`.
+- Boster et al. (2024/2026). **Aided augmentative and alternative communication intervention for adults with developmental disabilities: a scoping review.** PubMed: https://pubmed.ncbi.nlm.nih.gov/42205928/
+  - Used to map AAC as a support/interface/communication regime rather than a standalone Human ontology.
+
+### Ageing, functional ability and dependence
+
+- World Health Organization (2025). **WHO South-East Asia Regional Strategy on Healthy Ageing 2024–2030.** https://www.who.int/publications/i/item/9789290220244
+  - Used as a regional, rights-aware ageing pressure case spanning governance, community, financing, services, workforce and humanitarian protection.
+- WHO (2025). **Measuring the progress and impact of the UN Decade of Healthy Ageing (2021–2030).** https://www.who.int/publications/i/item/9789240104181
+  - Used to keep ageing outcomes multi-level rather than converting age/frailty into one Human score.
+- WHO, **Healthy ageing and functional ability.** https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
+  - Used for the relational functional-ability model: intrinsic capacity + environmental characteristics + their interaction; directly supports HOC1/HOC7 decomposition.
+
+### Forced displacement / participation
+
+- UNHCR, **Global Appeal 2025 — Accountability to Affected People.** https://reporting.unhcr.org/global-appeal-2025/areas-strategic-focus/accountability-affected-people
+  - Used to establish meaningful and continuous participation, communication and feedback as operational requirements for decisions affecting displaced people.
+- UNHCR, **Global Report 2025** (published June 2026). https://www.unhcr.org/publications/global-report-2025
+  - Recent evidence that community engagement, accountability mechanisms, participation and inclusion remain central in displacement response while legal status, services and resource systems remain institutional owners.
+- UNHCR (2025). **Sustainable Programming Paper.** https://data.unhcr.org/en/documents/details/114423
+  - Used to separate self-reliance from unsupported independence and to treat aid dependence/resources as an environment/institution relation.
+
+### Poverty / scarcity
+
+- Zhu et al. (2025). **Effects of Perceived Scarcity on Mental Health, Time and Risk Preferences, and Decision-Making During and After COVID-19 Lockdown: Quasi-Natural Experimental Study.** PubMed: https://pubmed.ncbi.nlm.nih.gov/40923480/
+  - Used to map scarcity effects across stress/fear, cognitive function, time/risk preferences and consumption decisions rather than posit one generic scarcity mechanism.
+- **From financial scarcity to risk and time preferences: the role of executive functions.** PubMed: https://pubmed.ncbi.nlm.nih.gov/42488073/
+  - Recent evidence for function-selective pathways, used against a universal `scarcity reduces cognition` model.
+- World Bank, **State of Social Protection Report 2025: The 2-Billion-Person Challenge.** https://www.worldbank.org/en/topic/socialprotection/publication/state-of-social-protection-2025-2-billion-person-challenge
+  - Used to keep poverty/social protection primarily in resource/institution/environment ownership rather than as an intrinsic Human deficit.
+
+### Place / migration
+
+- Wnuk, Toruńczyk-Ruiz & Bonanno (2025). **Place cure or place curse? Place attachment and well-being after forced displacement.** PubMed: https://pubmed.ncbi.nlm.nih.gov/41216636/
+  - Ukrainian-refugee evidence showing attachment to old and new places can have different relations to PTSD, life satisfaction and post-traumatic growth; used to classify place attachment as a World–Human relation rather than one generic Human family.
+
+### Collective action
+
+- Lucarini et al. (2025). **From who we are to what we are willing to do for social change: The action-bound role of efficacy perceptions.** PubMed: https://pubmed.ncbi.nlm.nih.gov/40521982/
+  - Used to decompose collective action into identity, group/action efficacy and action intentions rather than a standalone participation mechanism.
+- Leal et al. (2025). **Attitude moralization in the context of collective action: How participation in collective action may foster moralization over time.** PubMed: https://pubmed.ncbi.nlm.nih.gov/39679988/
+  - Longitudinal pressure case showing participation can alter moral conviction through politicized identification and group-based anger; supports cross-HOC feedback rather than one static civic trait.
+- **Collective action against corruption in Western and non-Western countries: cross-cultural implications of the Axiological-Identitary Collective Action Model.** PubMed: https://pubmed.ncbi.nlm.nih.gov/38572202/
+  - Six-country pressure case showing some collective-action paths transport and others remain socioecology-dependent.
+
+### Human–Agent companionship / persuasion
+
+- Li et al. (2025). **Hello Again! LLM-powered Personalized Agent for Long-term Dialogue.** ACL Anthology: https://aclanthology.org/2025.naacl-long.272/
+  - Used as engineering/research evidence that long-term dialogue systems explicitly maintain event memories and dynamic personas, creating persistent relationship/self-model pressure without implying a new Human family.
+- Kirk et al. (2025 preprint). **Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships.** arXiv: https://arxiv.org/abs/2512.01991
+  - Longitudinal randomized pressure case reporting increasing attachment/wanting-like markers under relationship-seeking AI exposure without discernible psychosocial-health benefit over the study period; used to separate attachment/use from welfare.
+- Hwang et al. (2025 preprint). **How AI Companionship Develops: Evidence from a Longitudinal Study.** arXiv: https://arxiv.org/abs/2510.10079
+  - Used to pressure-test changes in Human mental models, parasocial interaction and engagement over repeated AI-companion use.
+- Carrillo et al. (2026 preprint). **Talk2AI: A Longitudinal Dataset of Human–AI Persuasive Conversations.** arXiv: https://arxiv.org/abs/2604.04354
+  - Used to establish that repeated persuasive Human–AI interaction can now be studied longitudinally across opinion change, conviction, behavioral intention and perceived humanness.
+
+### Relational / non-Western autonomy pressure
+
+- Zhai (2025). **Improving Chinese patients' autonomy in medical decision-making through policy frameworks.** PubMed: https://pubmed.ncbi.nlm.nih.gov/40606076/
+  - Chinese medical-familism pressure case used to distinguish family participation/support from patient authority transfer and to reject atomistic-independence assumptions.
+- Zuo, Yeap & Lu (2025). **Navigating the delicate balance of autonomy and harmony: a case study on the cultural adaptation of palliative care interventions in China.** BMC Palliative Care: https://link.springer.com/article/10.1186/s12904-025-01801-7
+  - Used as a palliative-care pressure case for relational autonomy, indirect communication and family-centred decision participation.
+- Pijpers et al. (2025). **Effectiveness of the capability approach in rehabilitation for persons with neuromuscular diseases: A controlled before-after study.** PLOS One: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332388
+  - Null comparative result used against assuming that a broad capability-theory label automatically yields added operational value beyond existing rehabilitation practice.
