@@ -12,14 +12,14 @@ audience:
   - agent
   - engineer
 updated: 2026-08-18
-summary: Exact continuation after the fresh post-HD14 whole-Human fifth-generation re-ranking. Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation passed the non-foundation deep-route gate only after fresh competition against Human-Agent adaptation, music, sleep/circadian, psychopathology, person recognition, deception, collective identity, mortality/grief/meaning/religion/ritual, humor/play/creativity and narrower sensory candidates. It is therefore assigned HD15 as an umbrella research route, not as a unitary bodily-self mechanism or Foundation. Existing HF1/HF2/HF3/HF8/HF11/HF20 ownership is substantial and must be restored before any residual can pressure HF24. HF24 remains UNKNOWN/not admitted; FoundationReopenCondition(HF0–HF23)=false. HOC0–HOC10 remain frozen; HOC11 remains UNKNOWN/not admitted. HD15-A is admitted as the next within-route Current-Use / Term Separation / Hidden-Assumption Inventory, but no HD15-A research is performed in this file. WholeHumanOperationalClosure and WholeHumanExhaustion remain unclaimed.
+summary: Exact continuation after HD15-A. HD15-A has completed current-use, term separation, measurement decomposition and hidden-assumption inventory for Bodily Self / Body Ownership / Sense of Agency / Self-Location / Body Representation. It separates physical, represented and experienced body; body-representation families; body-part and full-body ownership; disownership; self-location; perspective; sensory evidence; action/control; feeling/judgment/attribution of agency; intentional binding; clinical labels; and artificial embodiment regimes. The strongest methodological result is that proprioceptive drift, intentional binding, threat/SCR, explicit questionnaire, kinematics and neural localization are measurement/evidence surfaces rather than definitions of ownership or agency. Strong provisional objects are BodyStateEstimationProjection, BodyOwnershipEpisode, AgencyEvidenceEpisode and PartWholeBodyIntegrationProblem. No peer Foundation deletion harm is established: HF0–HF23 remain frozen, HF24 remains UNKNOWN/not admitted, and no Foundation reopen condition is active. HOC0–HOC10 remain frozen; HOC11 remains UNKNOWN/not admitted. HD15-B is admitted next for rival bodily-self architectures, common-battery measurement decomposition and cross-regime destructive falsification. No HD15-B research is performed in this continuation.
 evidence_status: canonical-continuation
 readiness: READY
 related:
-  - human.deep-foundations.post-hd14.fifth-generation-rerank
-  - human.deep-foundations.post-hd14.fifth-generation-rerank.sources
+  - human.deep-foundations.hd15a
+  - human.deep-foundations.hd15a.sources
 ---
-# Human Deep Foundations Continuation — HD15 Admitted
+# Human Deep Foundations Continuation — after HD15-A
 
 ## 0. Canonical frontier
 
@@ -30,266 +30,296 @@ FoundationReopenCondition(HF0–HF23) = false
 
 HOC0–HOC10 = frozen
 HOC11 = UNKNOWN / not admitted
-WholeHumanOperationalClosure = NOT ESTABLISHED
-WholeHumanExhaustion = NOT CLAIMED
 
-HD11 = STAGE COMPLETE
-HD12 = STAGE COMPLETE
-HD13 = STAGE COMPLETE
-HD14 = STAGE COMPLETE
-HD14-D = NOT ADMITTED
-```
-
-Fresh whole-Human search has now completed and only then assigned:
-
-```text
 HD15
 = Bodily Self / Body Ownership /
   Sense of Agency / Self-Location /
   Body Representation
-= ADMITTED non-foundation deep route
+= active admitted non-foundation route
+
+HD15-A
+= COMPLETE
+
+HD15-B
+= ADMITTED NEXT
+= not yet executed
 ```
 
 ---
 
-# 1. Why HD15 is admitted
-
-HD15 passed a dedicated deep-route gate because it combines:
+# 1. Durable HD15-A separations
 
 ```text
-major whole-domain reconstruction debt
-ordinary Human recurrence
-dense selective dissociation
-healthy + lesion + psychiatric + causal perturbation evidence
-active/passive and multisensory regime breadth
-VR/avatar/prosthetic/BMI Human-machine perturbation
-strong HF1/HF2/HF3/HF8/HF11/HF20 ownership ambiguity
-high information gain even if no Foundation survives
-```
-
-The route was not selected because bodily-self vocabulary is new. It is not new.
-
-The repository already contains important local structure in HF1, HF11, HF20 and other owners. HD15 is needed because those fragments have never been forced through one whole-domain rival/measurement/ownership reconstruction.
-
----
-
-# 2. HD15 is not a primitive-owner claim
-
-Preserve immediately:
-
-```text
-BodilySelfRouteLabel != OneBodilySelfProcess
-
 PhysicalBody != RepresentedBody != ExperiencedBody
-BodyOwnership != BiologicalBodyIdentity
-BodyOwnership != SenseOfAgency
-SenseOfAgency != ActualMotorControl
-ActualControl != CausalResponsibility
-MotorControl != ControlDetection != SelfAttribution
-ImplicitAgencySignal != ExplicitAgencyJudgment
-SelfLocation != BodyOwnership
+BiologicalParthood != BodyOwnership
+BodyRepresentation != OneRepresentation
 BodySchema != BodyImage
-Proprioception != BodyOwnership
-VestibularSignal != SelfLocation
-FirstPersonPerspective != Ownership
-ToolEmbodiment != BiologicalIncorporation
+BodySchemaImageContrast != ExactlyTwoRepresentations
+BodyStateEstimate != BodyOwnership
+Proprioception != TrueBodyState != BodyOwnership
+ProprioceptiveDrift != BodyOwnership
+VisuotactileSynchrony != BodyOwnership
+VestibularSignal != SelfLocation != BodyOwnership
+Interoception != BodyOwnership
+BodyPartOwnership != FullBodyOwnership
+Disownership != LowOwnershipByDefinition
+ProxyOwnershipGain != BiologicalBodyDisownership
+SelfLocation != BodyOwnership
+FirstPersonPerspective != BodyOwnership
+SelfIdentification != BodyOwnership
+Embodiment != OnePrimitive
+BodyOwnership != SenseOfAgency
+ActualCausalControl != SenseOfAgency
+MotorControl != ControlDetection != SelfAttribution
+FeelingOfAgency != JudgmentOfAgencyByDefinition
+MotorPrediction != SenseOfAgency
+IntentionalBinding != SenseOfAgencyByDefinition
+ThreatSCR != BodyOwnership
+QuestionnaireScore != Mechanism
+ClinicalLabel != Owner
+Somatoparaphrenia != Anosognosia != Neglect
+ToolUse != ToolEmbodiment != ProstheticEmbodiment
 AvatarOwnership != PersonalIdentity
 BMIControl != NaturalMotorExecution
-IntentionalBinding != SenseOfAgencyByDefinition
 ```
 
 ---
 
-# 3. Mandatory neighboring owners
+# 2. Strongest measurement correction
 
-Before any hypothetical HF24 extraction, restore at least:
+Future HD15 research must type separately:
+
+```text
+TARGET CONSTRUCT
+vs
+MANIPULATION
+vs
+READOUT
+```
+
+For example:
+
+```text
+visuotactile synchrony
+= manipulation
+
+proprioceptive drift
+= localization readout
+
+ownership questionnaire
+= explicit ownership readout
+
+skin conductance to threat
+= autonomic/affective readout
+
+intentional binding
+= temporal action-effect readout
+
+kinematic conflict signature
+= sensorimotor readout
+```
+
+None defines ownership/agency by itself.
+
+---
+
+# 3. Retained evidence schema
+
+Use:
+
+```text
+BodilySelfEvidenceEpisode
+```
+
+with explicit participant regime, target, target scale, actual body/action state, sensory and motor sources, cue relation, perspective, structural relation, tool/avatar/BMI mapping, declared construct, readout, timing, confounds and outcome coordinates.
+
+This evidence schema is mandatory for HD15-B.
+
+---
+
+# 4. Provisional positive objects
+
+## BodyStateEstimationProjection
+
+```text
+multimodal bodily evidence
++ priors/history/action information
+→ current represented body state + uncertainty
+```
+
+Current owner pressure:
+
+```text
+HF20 + HF11 + HF8 + HF3
+```
+
+not HF24.
+
+## BodyOwnershipEpisode
+
+Typed experienced/judged mineness relation toward a declared bodily target under declared conditions.
+
+Owner remains unresolved across:
+
+```text
+HF2 / HF20 / HF8 / HF1
+```
+
+## AgencyEvidenceEpisode
+
+Separates intention, actual control, prediction, outcome, contingency evidence, control detection, feeling/judgment/attribution and confidence.
+
+## PartWholeBodyIntegrationProblem
+
+Real remaining architecture question:
+
+```text
+local body-part ownership
+↔ full-body ownership
+```
+
+without assuming one bottom-up or top-down owner.
+
+---
+
+# 5. Mandatory neighboring owners remain
 
 ```text
 World
-→ physical body facts and actual causal authorship
+→ physical body and objective causation
 
 HF1
-→ organism/body/person identity and persistence
-→ biological parthood
+→ biological body/person identity and parthood
 
 HF2
-→ phenomenal bodily experience / mineness
+→ phenomenal bodily/agency experience
 
 HF20
-→ visual/tactile/proprioceptive/vestibular/interoceptive evidence
-→ multisensory integration / calibration / body-state estimation
+→ bodily sensory evidence / multisensory estimation
 
 HF11
-→ action intention / preparation / motor control / prediction
-→ tool-mediated action and sensorimotor state
+→ motor/action/control/prediction
 
 HF8
-→ body/self/action representational content
+→ represented body/self/action content
 
 HF3
-→ monitoring / confidence / report / task control
+→ attention/access/monitoring/confidence/judgment
 
 HF7
-→ learned body/autobiographical history where required
+→ history where needed
 
-HD11
-→ source/reality-monitoring boundary where relevant
+HF10
+→ intention/planning distinctions where needed
 
-Interface / Runtime / Harness / Computing
-→ avatar/BMI/prosthetic/tool transformation mechanics
+HF5/HF21
+→ interoceptive/autonomic/affective response
+
+HF14
+→ normative responsibility
+
+HD12
+→ temporal-estimation side of intentional binding
+
+HD14
+→ spatial/reference-frame side of self-location
+
+Interface / Computing
+→ avatar/prosthetic/BMI/tool mapping and execution mechanics
 ```
-
-A real selective process may survive as a typed projection/interface without becoming a peer Foundation.
 
 ---
 
-# 4. Current Foundation result
+# 6. Why HD15-B is admitted
 
-The fresh ranking did not establish:
+HD15-A leaves multiple rival architectures capable of making different predictions on the same battery:
 
 ```text
-one stable reusable BodilySelf object
-inability to compose from existing owners
+unitary/minimal-self integrator
+multisensory/Bayesian causal inference
+hierarchical part-whole integration
+structural body-model prior
+comparator/motor-prediction agency
+retrospective cue-inference agency
+predictive/generative bodily-self
+sensorimotor/enactive
+layered plural / no-peer-owner
+```
+
+The common battery includes direct double-dissociation opportunities, lesion and causal perturbation, development, active/passive, vestibular/proprioceptive, perspective, VR/robot/prosthesis/BMI and measurement-failure rows.
+
+Therefore:
+
+```text
+HD15-B
+— Rival Bodily-Self Architectures /
+  Measurement Decomposition /
+  Cross-Regime Destructive Falsification
+= ADMITTED NEXT
+```
+
+---
+
+# 7. Foundation result remains deliberately open
+
+HD15-A did not establish:
+
+```text
+one stable peer bodily-self object
 neighboring-owner resistance
+inability to reconstruct from existing HFs
 peer deletion harm
 ```
 
-Current evidence instead increases confidence in internal plurality.
-
 Therefore:
 
 ```text
-HF24
-= UNKNOWN / not admitted
-
-BodilySelf→HF24
-= NOT ADMITTED at route entry
-
-FoundationReopenCondition(HF0–HF23)
-= false
+HF24 = UNKNOWN / not admitted
+BodilySelf→HF24 = OPEN / not admitted
+FoundationReopenCondition(HF0–HF23) = false
 ```
 
-This is not yet a candidate-specific final closure; HD15 must run before that question can be closed strongly.
+No frozen HF is reopened.
 
 ---
 
-# 5. Current operational result
-
-No stable new practical decision/action owner has yet survived deletion against HOC0–HOC10.
-
-Therefore:
+# 8. Operational result remains open
 
 ```text
-HOC11
-= UNKNOWN / not admitted
+HOC11 = UNKNOWN / not admitted
 ```
 
-Do not convert useful embodiment/agency-calibration questions into HOC11 by default.
+Useful embodiment/agency calibration questions do not yet establish a stable generic operational owner.
 
 ---
 
-# 6. HD15-A next
+# 9. Continuation instruction
 
-The next within-route round is admitted:
-
-```text
-HD15-A
-— Current-Use / Term Separation /
-  Hidden-Assumption Inventory
-```
-
-It must be executed before choosing any whole-route theory.
-
-Inventory at minimum:
+Next action:
 
 ```text
-physical body
-biological parthood
-body representation
-body model
-body schema
-body image
-body ownership
-body-part ownership
-full-body ownership
-disownership
-embodiment
-self-location
-self-orientation
-first-person perspective
-bodily self-consciousness
-proprioception
-interoception
-vestibular body signal
-sense of agency
-feeling of agency
-judgment of agency
-action intention
-motor prediction / efference
-actual motor control
-control detection
-self-attribution / authorship
-implicit agency measure
-explicit agency report
-intentional binding
-proprioceptive drift
-somatoparaphrenia
-anosognosia
-neglect
-alien-hand phenomena
-tool embodiment
-prosthetic embodiment
-avatar embodiment
-BMI-mediated action
+execute HD15-B
 ```
 
----
+but do **not** preselect the winning rival.
 
-# 7. Mandatory evidence pressure for HD15
-
-Prioritize:
+Every rival must explain the same evidence battery, especially:
 
 ```text
-ownership vs agency dissociations
-body-part vs full-body ownership
-ownership vs self-location
-implicit vs explicit agency
-motor control vs control detection vs attribution
-body schema vs explicit ownership
-lesion disownership / somatoparaphrenia
-causal stimulation
-vestibular/proprioceptive perturbation
-active vs passive movement
-first-person vs third-person perspective
-prosthetic/tool/avatar embodiment
-BMI closed-loop control
-psychiatric and functional-neurological dissociations
-developmental and lifespan changes
-cross-modal transfer
+ownership without agency
+agency with reduced ownership
+part without whole ownership
+self-location without ownership
+proprioceptive drift without ownership
+body-schema/image dissociation
+motor-awareness vs ownership lesion profiles
+perspective-dependent somatoparaphrenia
+intentional-binding non-specificity
+threat physiology non-specificity
+child/adult cue-weighting change
+active/passive non-universality
+noncorporeal active proxies
+BMI without ordinary limb execution
 ```
 
-Preserve:
-
-```text
-NeuralLocalization != SemanticOwnership
-TaskScore != Mechanism
-ClinicalLabel != Owner
-SharedComputationalShape != SharedSemanticOwner
-```
-
----
-
-# 8. Continuation boundary
-
-Do not enter a hypothetical HD15-B until HD15-A has reconstructed terminology and measurement surfaces.
-
-Do not admit HF24 or HOC11 from route importance, lesion selectivity, causal perturbability, Agent-era relevance or neural localization alone.
-
-After HD15 eventually closes:
-
-```text
-NextHumanDeepRoute
-= UNKNOWN
-```
-
-and must again be selected through fresh whole-Human competition rather than inherited ranking.
+Only after that destructive round may HD15-C or any ownership-extraction round be considered.
