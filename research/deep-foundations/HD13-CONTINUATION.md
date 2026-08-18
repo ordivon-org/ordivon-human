@@ -189,3 +189,75 @@ JointMathPerformance
 ```
 
 HD13 exists because Human numerical cognition is scientifically under-reconstructed, not because tools/Agents create a new category.
+
+
+## Progress after HD13-A
+
+HD13-A is complete.
+
+```text
+HD13-A
+= Current-Use / Term Separation / Hidden-Assumption Inventory
+= completed
+```
+
+A rejects `number sense` as one unqualified target and freezes major distinctions:
+
+```text
+Quantity != NumberByDefinition
+Magnitude != NumerosityByDefinition
+Numerosity != ContinuousMagnitude
+NumberWord != NumberConcept
+Numeral != Number
+Cardinality != Ordinality
+CountingProcedure != CardinalPrincipleKnowledge
+CountListKnowledge != GeneralSuccessorKnowledge
+ExactEqualityRelation != NumberNaming
+Enumeration != Counting
+Subitizing != Counting
+Subitizing != ANSByDefinition
+ObjectIndividuation != ExactNumberConcept
+ANS != NumericalCognitionTotality
+Exactness != Symbolicness
+Nonsymbolic != ApproximateByDefinition
+SymbolicNonsymbolicIntegration != OneStableTraitByDefinition
+NumericalDistanceEffect != ANSReadoutByDefinition
+NumberLineEstimate != TransparentMentalNumberLineReadout
+Ratio != Numerosity
+FractionNotation != FractionConcept
+ArithmeticFactRetrieval != QuantitativeCalculation
+ProcedureKnowledge != FactRetrieval
+ExactCalculation != ApproximateCalculation
+Calculation != MathematicsTotality
+MathAchievement != NumericalCognitionTotality
+Dyscalculia != OneCoreDeficitByDefinition
+```
+
+Every HD13 claim should use `QuantitativeCognitionEvidenceEpisode` metadata including target dimension, discrete/continuous structure, exactness, cardinal/ordinal/ratio relation, representation format, symbolic system, modality, item individuation, nonnumerical visual-feature controls, counting allowance, language, memory, control, action, cultural/educational/tool support, response mapping, accuracy, precision, bias, strategy and transfer.
+
+Strongest provisional research object:
+
+```text
+QuantitativeRelationRepresentation
+= provisional common representational object
+!= HF24
+```
+
+It is already under strong HF8 ownership pressure.
+
+Foundation gate remains unresolved:
+
+```text
+HF24 = UNKNOWN / not admitted
+```
+
+Admit next:
+
+```text
+HD13-B
+= Rival Numerical-Cognition Models,
+  Measurement Decomposition
+  & Cross-Task Falsification
+```
+
+B must compare ANS-primary, OTS/parallel-individuation, Triple-Code/multi-code, exact-integer conceptual bootstrapping, language/symbolic-access, generalized-magnitude/embodied-sensorimotor, domain-general control and layered-plural/no-peer-owner accounts against the same cross-cultural/developmental/lesion/task battery.
