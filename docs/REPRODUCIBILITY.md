@@ -40,6 +40,23 @@ synthetic assumptions. It is not a clinical or behavioural model.
 python3 -m compileall -q research/economy methods/m0
 ```
 
+## HUMAN-AI-001 contraction compatibility
+
+The dated contraction receipt is immutable historical evidence. Current navigation
+and experiment files are checked through a separate, explicitly mutable current
+compatibility projection:
+
+```bash
+python3 research/agentic-capability/experiments/validate_contraction.py
+git diff --exit-code -- \
+  research/agentic-capability/experiments/evidence/contraction-20260814.json \
+  research/agentic-capability/experiments/evidence/contraction-current.json
+```
+
+A clean diff means the current sources still contain the contracted research
+markers and that the current projection is synchronized. It does not turn the
+historical receipt into current evidence or establish intervention effectiveness.
+
 ## Managed-document validation
 
 When the shared Ordivon Computing content tools are available:

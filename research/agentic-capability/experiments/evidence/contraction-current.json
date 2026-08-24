@@ -1,0 +1,44 @@
+{
+  "disposition": {
+    "R1": "external_evidence_and_ordivon_allocation_first; direct_fixture_dormant",
+    "R2": "support_condition_accounting; no_standing_scorecard",
+    "R3": "interface_historical_adversarial_first; direct_fixture_dormant",
+    "R4": "natural_recovery_first",
+    "R5": "active_ordivon_specific_timescale_experiment",
+    "R6": "conditional_forecast_tool; standing_wave_dormant"
+  },
+  "files": {
+    "README.md": "sha256:f37af18d1a6e023779bc9753befbf3c4f0d87e606bfb31df99752610db800a62",
+    "docs/RESEARCH-PROGRAM.md": "sha256:2baddf8770f3d4e008dc8ad8d17c4f95d918bbae3e490f8095144e224fda4f13",
+    "methods/m0/POPULATION-TO-INDIVIDUAL.md": "sha256:c9ba307092adc8bf42cfa13e9932695ec511b446a7505aa6829c03cb807855d4",
+    "research/QUESTIONS.md": "sha256:e73b8b83370f721161b73c70fd916142444a4141cd20cf5d94e0260f77836472",
+    "research/agentic-capability/CONTRACTION-20260814.md": "sha256:a578b6bdbca609e2d53039d53e6c8869af76276d949091a4ad9d8b5703067757",
+    "research/agentic-capability/EVIDENCE-BASE.md": "sha256:0c7f87cc03af2f26d46c2b6f9a82fb9435fb770dc81b4b09d9b6a55bf49c0651",
+    "research/agentic-capability/EVIDENCE-TRANSPORT.md": "sha256:64d86e069e2aac1734f1d4db329c9e099e66d0b52309bbecd67372b0aa0a2ec0",
+    "research/agentic-capability/EXPERIMENTS.md": "sha256:e0d361a9351e597ffc88ec6d43e48f94df97dfed975c14fc6d0de0b1ad7fdd1e",
+    "research/agentic-capability/HYPOTHESES.md": "sha256:aab63a2833a72f5758026583dea105266c904881970f3e90ff5cc66fe76ae2ef",
+    "research/agentic-capability/README.md": "sha256:f6460a0e313eeba035f19138ac8c74c1722c8fef4744d61cd7e78e8ad7a0cd54",
+    "research/agentic-capability/experiments/R1-R6-ROUND-1.md": "sha256:88d7ab52589af1ac572ca6b8103bc533c8aa2322f63ce898787ec3fb741c8299",
+    "research/agentic-capability/experiments/r1-v1/HUMAN-PACKETS.md": "sha256:a688cb18ce9a0735e77d1ba7cd95306e9f084b81b3069ef31cccc9190e35f836",
+    "research/agentic-capability/experiments/r2-v1/CAPABILITY-SURFACES.md": "sha256:9d47d499cd05ac23fd30e5214930cee48947f90da480cd0b929475a2f6f36fd4",
+    "research/agentic-capability/experiments/r3-v1/HUMAN-AUDIT-PACKETS.md": "sha256:9932886c9a7983d5ca7bb050495e6f65e27826fee4acda900c49f84f400322c2",
+    "research/agentic-capability/experiments/r4-v1/FAILURE-RECOVERY-MATRIX.md": "sha256:94240402dc08f9441cd015b45bf481f6b0a40fb6cc4bd8c7a97d65eb04150a0c",
+    "research/agentic-capability/experiments/r6-v1/HUMAN-PREDICTIONS-WAVE-1.md": "sha256:d91834df5e114f46fc08b923607053ce55aae0cf754b6d81c801ab69e4604a79",
+    "research/agentic-capability/experiments/validate_contraction.py": "sha256:52aaf40bae899fb3a9c256570336ae00eee0e84938fd6ef4bdd7f28e3564315c"
+  },
+  "historicalReceipt": {
+    "date": "2026-08-14",
+    "digest": "sha256:836bd5035e31c1a3ed38cb6940a4e5fb489223b7ff5a01bfa5df982c41da572b",
+    "file": "research/agentic-capability/experiments/evidence/contraction-20260814.json",
+    "role": "IMMUTABLE_HISTORICAL_EVIDENCE"
+  },
+  "kind": "human-ai-evidence-first-contraction-current-compatibility",
+  "nonClaims": [
+    "Current compatibility does not rewrite the 2026-08-14 receipt.",
+    "Marker compatibility does not prove intervention effectiveness or retained Human skill.",
+    "This projection does not admit a Learning Harness or universal allocation policy."
+  ],
+  "principle": "external evidence -> transport analysis -> Ordivon structural/system evidence -> natural dogfood -> residual experiment",
+  "projectionRole": "CURRENT_COMPATIBILITY",
+  "schemaVersion": 1
+}

@@ -8,6 +8,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[3]
 AC = ROOT / "research" / "agentic-capability"
 EXP = AC / "experiments"
+HISTORICAL_RECEIPT = EXP / "evidence" / "contraction-20260814.json"
+HISTORICAL_RECEIPT_DIGEST = (
+    "sha256:836bd5035e31c1a3ed38cb6940a4e5fb489223b7ff5a01bfa5df982c41da572b"
+)
+CURRENT_PROJECTION = EXP / "evidence" / "contraction-current.json"
 
 
 def sha256(path: Path) -> str:
@@ -38,6 +43,7 @@ def main() -> None:
         EXP / "r4-v1" / "FAILURE-RECOVERY-MATRIX.md",
         EXP / "r6-v1" / "HUMAN-PREDICTIONS-WAVE-1.md",
         ROOT / "methods" / "m0" / "POPULATION-TO-INDIVIDUAL.md",
+        EXP / "validate_contraction.py",
     ]
     for path in required:
         if not path.is_file():
@@ -73,17 +79,41 @@ def main() -> None:
         "R6": "conditional_forecast_tool; standing_wave_dormant",
     }
 
-    receipt = {
+    if not HISTORICAL_RECEIPT.is_file():
+        raise AssertionError(
+            f"missing immutable historical receipt: {HISTORICAL_RECEIPT.relative_to(ROOT)}"
+        )
+    historical_digest = sha256(HISTORICAL_RECEIPT)
+    if historical_digest != HISTORICAL_RECEIPT_DIGEST:
+        raise AssertionError(
+            "immutable historical contraction receipt changed: "
+            f"expected={HISTORICAL_RECEIPT_DIGEST} actual={historical_digest}"
+        )
+
+    projection = {
         "schemaVersion": 1,
-        "kind": "human-ai-evidence-first-contraction",
-        "date": "2026-08-14",
+        "kind": "human-ai-evidence-first-contraction-current-compatibility",
+        "projectionRole": "CURRENT_COMPATIBILITY",
         "principle": "external evidence -> transport analysis -> Ordivon structural/system evidence -> natural dogfood -> residual experiment",
         "disposition": disposition,
+        "historicalReceipt": {
+            "file": str(HISTORICAL_RECEIPT.relative_to(ROOT)),
+            "digest": historical_digest,
+            "date": "2026-08-14",
+            "role": "IMMUTABLE_HISTORICAL_EVIDENCE",
+        },
         "files": {str(path.relative_to(ROOT)): sha256(path) for path in required},
+        "nonClaims": [
+            "Current compatibility does not rewrite the 2026-08-14 receipt.",
+            "Marker compatibility does not prove intervention effectiveness or retained Human skill.",
+            "This projection does not admit a Learning Harness or universal allocation policy.",
+        ],
     }
-    out = EXP / "evidence" / "contraction-20260814.json"
-    out.write_text(json.dumps(receipt, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-    print(out)
+    CURRENT_PROJECTION.write_text(
+        json.dumps(projection, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    print(CURRENT_PROJECTION)
     print(json.dumps(disposition, sort_keys=True))
 
 
