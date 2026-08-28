@@ -1,0 +1,82 @@
+#!/usr/bin/env bash
+set -euo pipefail
+repo=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
+python_bin=${PYTHON_BIN:-$(command -v python3 || true)}
+[[ -n "$python_bin" && -x "$python_bin" ]] || { echo 'Human reproducibility requires python3' >&2; exit 1; }
+
+case "${1:-run}" in
+  run) ;;
+  --help|-h)
+    cat <<'TXT'
+usage: scripts/check-reproducibility [run]
+
+Replay the current public executable Human artifacts and require their committed
+evidence bytes to remain unchanged. This intentionally excludes the frozen
+HUMAN-AI-001 Round-1 apparatus validator (`validate_round.py`).
+TXT
+    exit 0
+    ;;
+  *) echo "unknown mode: ${1:-}" >&2; exit 2 ;;
+esac
+
+"$python_bin" - <<'PY'
+import sys
+if sys.version_info < (3, 12):
+    raise SystemExit(f"Human reproducibility requires Python >=3.12, got {sys.version.split()[0]}")
+print(f"reproducibility doctor: python={sys.version.split()[0]}")
+PY
+
+outputs=(
+  "research/economy/evidence/china-2025-baseline.json"
+  "methods/m0/evidence/population-to-individual.json"
+  "research/agentic-capability/experiments/evidence/contraction-current.json"
+  "research/agentic-capability/experiments/evidence/ae1-c1-round1.json"
+)
+historical="research/agentic-capability/experiments/evidence/contraction-20260814.json"
+for path in "${outputs[@]}" "$historical"; do
+  [[ -f "$repo/$path" ]] || { echo "missing committed evidence: $path" >&2; exit 3; }
+done
+
+tmp=$(mktemp -d -t ordivon-human-repro-XXXXXX)
+trap 'rm -rf "$tmp"' EXIT
+for path in "${outputs[@]}" "$historical"; do
+  mkdir -p "$tmp/$(dirname "$path")"
+  cp "$repo/$path" "$tmp/$path"
+done
+
+restore_outputs() {
+  for path in "${outputs[@]}" "$historical"; do
+    cp "$tmp/$path" "$repo/$path"
+  done
+}
+trap 'restore_outputs; rm -rf "$tmp"' EXIT
+
+cd "$repo"
+"$python_bin" research/economy/china_2025_baseline.py >/dev/null
+"$python_bin" methods/m0/simulate_population_to_individual.py >/dev/null
+"$python_bin" research/agentic-capability/experiments/validate_contraction.py >/dev/null
+"$python_bin" research/agentic-capability/experiments/ae1-c1/analyze.py >/dev/null
+
+failed=0
+for path in "${outputs[@]}"; do
+  if cmp -s "$tmp/$path" "$repo/$path"; then
+    printf 'stable  %s\n' "$path"
+  else
+    printf 'DRIFT   %s\n' "$path" >&2
+    diff -u "$tmp/$path" "$repo/$path" >&2 || true
+    failed=1
+  fi
+done
+
+if cmp -s "$tmp/$historical" "$repo/$historical"; then
+  printf 'frozen  %s\n' "$historical"
+else
+  printf 'MUTATED immutable historical receipt: %s\n' "$historical" >&2
+  failed=1
+fi
+
+restore_outputs
+trap 'rm -rf "$tmp"' EXIT
+
+[[ "$failed" -eq 0 ]] || exit 4
+printf '%s\n' 'reproducibility: current artifacts stable (4 current outputs; frozen Round-1 validator excluded)'

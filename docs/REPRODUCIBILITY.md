@@ -34,11 +34,23 @@ The simulation demonstrates confounding, heterogeneous individual effects, and
 what randomized repeated within-person observations can identify under declared
 synthetic assumptions. It is not a clinical or behavioural model.
 
-## Python integrity
+## Current combined gate
+
+The default current gate is:
 
 ```bash
-python3 -m compileall -q research/economy methods/m0
+scripts/check-reproducibility
+# or, including a source-copy cold start:
+scripts/owner-environment cold-start
 ```
+
+It replays the aggregate China calibration, the population-to-individual synthetic demonstration, the current HUMAN-AI-001 contraction projection, and the post-contraction AE1/C1 natural-evidence analysis. Each generated current receipt must remain byte-identical to the committed evidence.
+
+The older `research/agentic-capability/experiments/validate_round.py` remains a reproducible **frozen Round-1 apparatus** but is deliberately excluded from the default current gate. Executability alone does not make a dormant experimental sequence a current Human obligation.
+
+## Python integrity
+
+The current executable artifacts are exercised directly by the combined gate; no separate package/runtime compilation layer is required.
 
 ## HUMAN-AI-001 contraction compatibility
 
@@ -56,6 +68,18 @@ git diff --exit-code -- \
 A clean diff means the current sources still contain the contracted research
 markers and that the current projection is synchronized. It does not turn the
 historical receipt into current evidence or establish intervention effectiveness.
+
+## HUMAN-AI-001 AE1/C1 natural-evidence compatibility
+
+The post-contraction structured natural-evidence analysis is current research instrumentation:
+
+```bash
+python3 research/agentic-capability/experiments/ae1-c1/analyze.py
+git diff --exit-code -- \
+  research/agentic-capability/experiments/evidence/ae1-c1-round1.json
+```
+
+The current receipt checks the frozen cases, two holdouts, deletion-sensitive allocation controls, and the `Claim | Evidence | Challenge | Boundary` role compression. It remains research evidence rather than a mandatory interface schema or new service/API requirement.
 
 ## Managed-document validation
 
