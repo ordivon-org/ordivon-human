@@ -89,10 +89,11 @@ safer, and more revisable decisions without the problem-first admission rules.
 > or delegate, and how should the joint system preserve judgment, verification,
 > transfer, recovery, and autonomy?
 
-**Status:** active. The first external evidence synthesis is complete; competing
-hypotheses and prospective Human × Ordivon experiments are frozen in
-[`agentic-capability/`](agentic-capability/). No Learning Harness or universal
-allocation policy has been admitted.
+**Status:** active and evidence-first contracted. The first external evidence
+synthesis is complete. R1/R3 direct fixtures are dormant, R2 retains capability
+distinctions without a scorecard, R4 uses natural recovery first, R5 timescale
+coordination remains active, and R6 is strongly contracted. No Learning Harness
+or universal allocation policy has been admitted.
 
 **Current retained distinctions:**
 
@@ -116,9 +117,10 @@ update, and recovery; Human–Agent timescale coordination.
 [`agentic-capability/HYPOTHESES.md`](agentic-capability/HYPOTHESES.md) and
 [`agentic-capability/EXPERIMENTS.md`](agentic-capability/EXPERIMENTS.md).
 
-**Next empirical burden:** prospectively frozen Human × Ordivon dogfood that
-separates immediate assisted performance from retained Human transfer,
-verification, intervention, and recovery.
+**Next empirical burden:** resolve Ordivon-specific transport residuals through
+evidence-interface/knowledge-promotion analysis, adversarial or structural replay,
+natural recovery evidence, and the active R5 timescale comparison. Direct Human
+experiments are admitted only for a remaining decision-changing transport gap.
 
 ## Completed applied cycle
 

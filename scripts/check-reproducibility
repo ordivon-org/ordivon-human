@@ -1,6 +1,19 @@
 #!/usr/bin/env bash
 set -euo pipefail
 repo=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
+
+# Current navigation must expose the owner-published evidence-first contraction directly,
+# rather than requiring a reader to discover a later supersession note.
+for current_entry in \
+  "$repo/README.md" \
+  "$repo/research/QUESTIONS.md" \
+  "$repo/research/agentic-capability/README.md"; do
+  grep -qi 'evidence-first' "$current_entry" || { echo "missing evidence-first current standing: $current_entry" >&2; exit 5; }
+done
+if grep -q 'The next burden is \*\*prospectively frozen Human × Ordivon dogfood\*\*' "$repo/research/agentic-capability/README.md"; then
+  echo 'superseded direct-dogfood default returned to canonical Agentic README' >&2
+  exit 5
+fi
 python_bin=${PYTHON_BIN:-$(command -v python3 || true)}
 [[ -n "$python_bin" && -x "$python_bin" ]] || { echo 'Human reproducibility requires python3' >&2; exit 1; }
 

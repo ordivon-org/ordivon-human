@@ -30,10 +30,12 @@ related:
 ---
 # HUMAN-AI-001 — Human Capability Under Agentic Intelligence
 
-> **Status:** active research cycle. The problem is admitted and the first
-> evidence synthesis is complete. Several structural findings are retained;
-> allocation thresholds, synchronization rules, promotion gates, and any
-> implementation remain provisional until prospective Human × Agent dogfood.
+> **Status:** active, evidence-first contracted research cycle. The problem is
+> admitted and the first evidence synthesis is complete. General Human mechanisms
+> default to mature external evidence plus transport analysis; Ordivon-specific
+> residuals use structural/system falsification and natural dogfood first. Direct
+> Human experiments remain residual, while allocation thresholds, synchronization
+> rules, promotion gates, and implementation remain provisional.
 
 ## Problem
 
@@ -250,10 +252,12 @@ The first evidence base spans cognitive offloading, metacognition, AI tutoring,
 human–automation teaming, knowledge-work field experiments, calibration, and
 learning transfer. See [`EVIDENCE-BASE.md`](EVIDENCE-BASE.md).
 
-The next burden is **prospectively frozen Human × Ordivon dogfood**, not another
-conceptual chapter. The experiments must compare competing allocation,
-distillation, review, delegation, and synchronization policies using actual
-work while separating immediate joint output from retained Human capability.
+The current burden is **Ordivon-specific evidence transport**, not default direct
+Human re-testing. Use external Human evidence to constrain general mechanisms,
+then test evidence projection/knowledge promotion by structural or adversarial
+replay, observe natural recovery incidents, and continue the R5 timescale
+comparison. A direct Human experiment reopens only when those routes leave a
+decision-changing residual under the admission conditions below.
 
 ## Reopening and closure
 

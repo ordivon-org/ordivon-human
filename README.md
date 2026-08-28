@@ -181,11 +181,13 @@ practical economic-autonomy work.
 `HUMAN-ECON-001` remains complete at the level of first-principles structure and
 initial case pressure testing. There is no automatic E10.
 
-`HUMAN-AI-001` is active after passing the Human question-admission gate. Its
-first evidence synthesis and falsification contracts are now published under
-[`research/agentic-capability/`](research/agentic-capability/). The next burden is
-prospectively frozen Human × Ordivon dogfood; there is no automatic assumption
-that the result should be a new platform or Learning Harness.
+`HUMAN-AI-001` is active after passing the Human question-admission gate and the
+post-Round-1 evidence-first contraction. Its current default is mature external
+Human evidence → transport/moderator analysis → Ordivon-specific structural or
+system falsification → natural dogfood. Active pressure concentrates on evidence
+projection/knowledge promotion, natural recovery, and R5 timescale coordination;
+direct Human experiments are residual tools only when those paths leave a
+decision-changing gap. No Learning Harness or new platform is implied.
 
 Any Human cycle reopens or changes only when evidence alters a mechanism,
 feasibility judgment, action ranking, or problem boundary. Research does not
