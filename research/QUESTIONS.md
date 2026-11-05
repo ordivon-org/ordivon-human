@@ -282,6 +282,36 @@ Potential future problems include preserving health and functioning across work
 and ageing, understanding relational and institutional constraints outside the
 current applied cycles, and studying shock and recovery trajectories.
 
+### Candidate intake — embodied experience, intimacy, and autonomy (2026-11-05)
+
+These are **unadmitted candidate questions**, not new HF/HD/HOC modules, studies,
+independent experiments, or a human-person ontology. The real consumer is a
+future applied question whose conclusion or affected decision differs depending
+on the distinction. Current evidence belongs to the existing source owners.
+
+| Candidate question (adult-centered) | Existing semantic/evidence owner | Discriminating question before admission |
+| --- | --- | --- |
+| How do voluntary nudity, privacy, perceived observation, cultural norms, and refusal rights change experienced bodily meaning? | [HF2 lived experience](foundations/HF2-CONSCIOUSNESS-EXPERIENCE.md), [HF13 social norms](foundations/HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md), [HF20 perception](foundations/HF20-PERCEPTION-SENSING-ACTIVE-SAMPLING.md), [HD15 bodily self](deep-foundations/HD15-B-RIVAL-BODILY-SELF-ARCHITECTURES-MEASUREMENT-DECOMPOSITION-CROSS-REGIME-FALSIFICATION.md) | Does voluntariness explain a measured outcome beyond audience, culture and prior experience; what empirical finding would reverse that interpretation? |
+| When perception channels disagree or are absent, what changes in body ownership, sensory integration, action and subjective experience? | [HF20 perception](foundations/HF20-PERCEPTION-SENSING-ACTIVE-SAMPLING.md), [HF11 action](foundations/HF11-ACTION-EXECUTION-SENSORIMOTOR-CONTROL.md), [HD1 sensory study](deep-foundations/HD1-PERCEPTION-SENSING-ACTIVE-SAMPLING.md), [HD15 bodily-self evidence](deep-foundations/HD15-B-RIVAL-BODILY-SELF-ARCHITECTURES-MEASUREMENT-DECOMPOSITION-CROSS-REGIME-FALSIFICATION.md) | Can existing lesion, psychophysics or noninvasive evidence distinguish attention/practice from sensory integration; are congenital, acquired and temporary changes kept distinct? |
+| How do romantic attachment, first sexual experience, social pressure, misinformation, coercion and genuine consent relate to adult self-reports and reciprocal trust? | [HF22 relationships](foundations/HF22-PERSISTENT-RELATIONSHIPS-ATTACHMENT-CARE.md), [HD3 social cognition](deep-foundations/HD3-SOCIAL-COGNITION-OTHER-MIND-ATTACHMENT-RELATIONS.md), [HD6 sexuality/life history](deep-foundations/HD6-SEX-SEXUALITY-REPRODUCTION-LIFE-HISTORY.md), [HF13 institutions](foundations/HF13-PERSISTENT-SOCIAL-ORDER-NORMS-INSTITUTIONS.md), and [Human ethics](../docs/PRIVACY-AND-ETHICS.md) | Which claims survive retrospective selection/recall confounding, and can agency, validity of consent and external compliance be measured without collapsing them or inferring internal agreement from observable acts? |
+
+**Candidate method:** source-bounded review and rival-explanation comparison
+before collecting any data; where warranted, secondary de-identified adult
+studies or ethically reviewed, voluntary, non-explicit fictional vignettes.
+Do not manipulate participants through real coercion, sexual threats, deception,
+nonconsensual exposure or prolonged deprivation. A physiological reaction,
+silence or compliance does not establish consent. Do not introduce an agent,
+dataset, skill, universal schema or separate lifecycle for these candidates.
+
+**Admission / stop:** only promote a *bounded applied question* after naming
+the affected population, actual outcome/decision, comparator, source and
+measurement boundary, rival explanation, required review and falsifier.
+Otherwise leave candidate status and reuse HF/HD evidence. In particular,
+do not reopen HF0–HF23, admit HF24 or HOC11, or infer that a newly worded
+topic needs a new LEGO. See
+[closure and reopening rules](core/CLOSURE-AND-REOPEN.md) and
+[Human research core](core/HUMAN-RESEARCH-CORE.md).
+
 Learning allocation, adaptation, and retained Human capability under AI are no
 longer inactive candidates; they are consumed by active `HUMAN-AI-001`.
 
